@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T12:35:02.400Z",
+  "generatedAt": "2026-10-07T20:16:59.212Z",
   "sources": [
     {
       "file": "Sport.m3u",
@@ -16,14 +16,14 @@
     {
       "file": "LiveEvent.m3u",
       "ok": true,
-      "parsed": 177,
-      "kept": 14
+      "parsed": 167,
+      "kept": 16
     },
     {
       "file": "Star.m3u",
       "ok": true,
       "parsed": 23,
-      "kept": 13
+      "kept": 1
     },
     {
       "file": "sony.m3u",
@@ -52,26 +52,26 @@
     {
       "file": "fancode.m3u",
       "ok": true,
-      "parsed": 5,
+      "parsed": 4,
       "kept": 2
     },
     {
       "file": "fancode2.m3u",
       "ok": true,
-      "parsed": 5,
+      "parsed": 4,
       "kept": 0
     },
     {
       "file": "fancode3.m3u",
       "ok": true,
-      "parsed": 5,
+      "parsed": 3,
       "kept": 0
     },
     {
       "file": "digital.m3u",
       "ok": true,
       "parsed": 48,
-      "kept": 3
+      "kept": 15
     },
     {
       "file": "Tnt.m3u",
@@ -82,20 +82,20 @@
     {
       "file": "primesport.m3u",
       "ok": true,
-      "parsed": 1,
+      "parsed": 2,
       "kept": 0
     },
     {
       "file": "Live.m3u",
       "ok": true,
-      "parsed": 18,
-      "kept": 0
+      "parsed": 24,
+      "kept": 4
     },
     {
       "file": "Combined.m3u",
       "ok": true,
-      "parsed": 6,
-      "kept": 5
+      "parsed": 5,
+      "kept": 4
     },
     {
       "file": "hotstar.m3u",
@@ -124,8 +124,8 @@
     {
       "file": "pocket.m3u",
       "ok": true,
-      "parsed": 1272,
-      "kept": 54
+      "parsed": 1266,
+      "kept": 50
     },
     {
       "file": "bb.m3u",
@@ -148,14 +148,14 @@
     {
       "file": "playlist.m3u",
       "ok": true,
-      "parsed": 2292,
+      "parsed": 2291,
       "kept": 29
     },
     {
       "file": "mixiptv.m3u",
       "ok": true,
-      "parsed": 1558,
-      "kept": 42
+      "parsed": 1454,
+      "kept": 46
     },
     {
       "file": "mixiptv2.m3u",
@@ -257,19 +257,19 @@
   "sections": {
     "bigboss": 1,
     "tamil": 299,
-    "sports": 89
+    "sports": 88
   },
   "dropped": {
-    "expired": 534,
+    "expired": 641,
     "radio": 253,
     "blocked": 2,
     "badUrl": 1,
     "vod": 1613,
-    "insecure": 62,
+    "insecure": 61,
     "rawTs": 0,
-    "duplicateUrl": 5,
-    "duplicateChannel": 1352,
-    "capped": 167
+    "duplicateUrl": 11,
+    "duplicateChannel": 1265,
+    "capped": 168
   },
-  "tamilAvailable": 467
+  "tamilAvailable": 468
 }
