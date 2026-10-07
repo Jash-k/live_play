@@ -340,12 +340,28 @@ async function fetchText(url) {
 }
 
 async function loadSource(source) {
-  if (args.local) {
+  const absolute = /^https?:\/\//i.test(source.file);
+  if (args.local && !absolute) {
     const file = path.join(args.local, source.file);
     if (!fs.existsSync(file)) throw new Error('missing locally');
     return fs.readFileSync(file, 'utf8');
   }
-  return fetchText(config.base + source.file);
+  const localFirst = path.join(process.cwd(), path.basename(source.file));
+  // Repo-local file wins over the network: the repo root is authoritative, so a
+  // workflow run always builds from the checked-out file and never from a
+  // moving upstream. Only when no local copy exists is the URL fetched.
+  if (fs.existsSync(localFirst)) return fs.readFileSync(localFirst, 'utf8');
+  const url = absolute ? source.file : config.base + source.file;
+  try {
+    return await fetchText(url);
+  } catch (error) {
+    // An absolute source that is not published yet (or the network is down):
+    // fall back to a local copy with the same name in the repo root, so the
+    // same command works before and after a push.
+    const local = path.join(process.cwd(), path.basename(source.file));
+    if (absolute && fs.existsSync(local)) return fs.readFileSync(local, 'utf8');
+    throw error;
+  }
 }
 
 /* ----------------------------------------------------------------- build */
@@ -354,7 +370,7 @@ const stats = {
   generatedAt: new Date().toISOString(),
   sources: [],
   sections: { bigboss: 0, tamil: 0, sports: 0 },
-  dropped: { expired: 0, radio: 0, blocked: 0, badUrl: 0, vod: 0, insecure: 0, rawTs: 0, duplicateUrl: 0, duplicateChannel: 0, capped: 0 },
+  dropped: { expired: 0, radio: 0, blocked: 0, onlyNames: 0, badUrl: 0, vod: 0, insecure: 0, rawTs: 0, duplicateUrl: 0, duplicateChannel: 0, capped: 0, deadHost: 0 },
 };
 
 const byKey = new Map();       // dedupe key -> candidate (Tamil / Sports)
@@ -380,10 +396,21 @@ for (const source of config.sources) {
     if (!/^https?:\/\//i.test(c.url)) { stats.dropped.badUrl += 1; continue; }
     if (matchesAny(`${c.group} ${c.name}`, config.blockedGroups)) { stats.dropped.radio += 1; continue; }
     if (matchesAny(c.name, config.blockedNames)) { stats.dropped.blocked += 1; continue; }
+    // Allowlist mode: keep ONLY rows whose name matches one of `onlyNames`
+    // (case-insensitive regex, tested against the raw name AND against the
+    // de-duplication name, so `^star sports 1 hd$` and `^star sports 1$`
+    // both work). Empty/absent list = no filtering, the old behaviour.
+    if (config.onlyNames?.length
+      && !matchesAny(c.name.toLowerCase(), config.onlyNames)
+      && !matchesAny(applyAliases(normalizeName(c.name)), config.onlyNames)) {
+      stats.dropped.onlyNames += 1;
+      continue;
+    }
     if (isVodRip(c)) { stats.dropped.vod += 1; continue; }
     const rejection = urlRejection(c.url);
     if (rejection) { stats.dropped[rejection] += 1; continue; }
     if (isExpired(c)) { stats.dropped.expired += 1; continue; }
+    if (config.dropHosts?.length && matchesAny(c.url, config.dropHosts)) { stats.dropped.deadHost += 1; continue; }
 
     const format = detectFormat(c.url);
 
@@ -406,7 +433,13 @@ for (const source of config.sources) {
       continue;
     }
 
-    const key = `${section}:${applyAliases(normalizeName(c.name)) || c.tvgId || c.url}`;
+    // De-duplication key for siblings of the same feed. With
+    // `keepQualityVariants` the quality rank is part of the key, so an HD feed
+    // and its SD/Digital sibling BOTH survive (the app can then map them as
+    // alternative sources of one channel). Without it, only the better row
+    // survives — the classic single-row-per-channel behaviour.
+    const keyBase = `${section}:${applyAliases(normalizeName(c.name)) || c.tvgId || c.url}`;
+    const key = config.keepQualityVariants ? `${keyBase}:q${candidate.quality}` : keyBase;
     const existing = byKey.get(key);
     if (!existing || score > existing.score) {
       if (existing) stats.dropped.duplicateChannel += 1;
@@ -477,7 +510,10 @@ function sportsRank(c) {
   if (!/tamil|hindi|telugu|kannada|malayalam/i.test(n)) rank -= 25; // then language-neutral HD feeds
   return rank;
 }
-const sports = [...byKey.values()].filter((c) => c.section === 'sports').sort((a, b) => sportsRank(a) - sportsRank(b) || a.name.localeCompare(b.name));
+const sports = [...byKey.values()].filter((c) => c.section === 'sports')
+  // Within the same rank, the HD row comes before its SD/Digital sibling so a
+  // hand-mapped list reads top-down (quality first, then name).
+  .sort((a, b) => sportsRank(a) - sportsRank(b) || b.quality - a.quality || a.name.localeCompare(b.name));
 for (const c of sports) take(c, sportsDisplayName(c));
 
 const cap = Number(config.maxPerSection || 0);
@@ -543,7 +579,7 @@ function renderEntry(c) {
 
 const head = [
   '#EXTM3U',
-  '#PLAYLIST:Jash Live — Tamil + Sports + Bigg Boss 24/7',
+  `#PLAYLIST:${config.title || 'Jash Live — Tamil + Sports + Bigg Boss 24/7'}`,
   `#GENERATED:${stats.generatedAt}`,
   `#TOTAL:${finals.length} (bigg boss ${stats.sections.bigboss}, tamil ${stats.sections.tamil}, sports ${stats.sections.sports})`,
   `#SOURCES:${stats.sources.filter((s) => s.ok).length}/${stats.sources.length} playlists`,// 
@@ -563,7 +599,10 @@ const output = `${head.join('\n')}\n${body.join('\n')}`;
 
 const problems = [];
 if (finals.length < Number(config.minChannels || 1)) problems.push(`only ${finals.length} channels (min ${config.minChannels})`);
-if (!stats.sections.bigboss) problems.push('no Bigg Boss Tamil feed found');
+if (!stats.sections.bigboss && config.sections?.bigboss !== false) problems.push('no Bigg Boss Tamil feed found');
+for (const [name, on] of Object.entries(config.sections || {})) {
+  if (on && !stats.sections[name]) problems.push(`section "${name}" is enabled but produced 0 channels`);
+}
 if (/[^\x09\x20-\xFF]/.test(output.replace(/[^\x00-\x7F]/g, (m) => m))) {
   // non-latin1 characters outside comments are fine for logos; only header lines matter
 }
@@ -604,6 +643,7 @@ if (changed) {
 
 log('');
 log(`Sources OK        : ${stats.sources.filter((s) => s.ok).length}/${stats.sources.length}`);
+log(`Dropped (not in onlyNames): ${stats.dropped.onlyNames}`);
 log(`Dropped (vod rips): ${stats.dropped.vod}`);
 log(`Dropped (expired) : ${stats.dropped.expired}`);
 log(`Dropped (radio)   : ${stats.dropped.radio}`);
