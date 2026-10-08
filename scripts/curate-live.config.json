@@ -1,0 +1,75 @@
+{
+  "families": [
+    "Bigg Boss",
+    "Star Sports",
+    "Sony Sports",
+    "FanCode",
+    "Willow",
+    "Cricbuzz"
+  ],
+  "sources": [
+    {
+      "repo": "maybetv/Jo",
+      "file": "Zoh2.m3u"
+    },
+    {
+      "repo": "maybetv/Jo",
+      "file": "Zoh.m3u"
+    },
+    {
+      "repo": "maybetv/Jo",
+      "file": "playlist.m3u"
+    },
+    {
+      "repo": "maybetv/Jo",
+      "file": "Zohplx.m3u"
+    },
+    {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Sports.m3u"
+    },
+    {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Sport.m3u"
+    },
+    {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Star2.m3u"
+    },
+    {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "bb.m3u"
+    },
+    {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Star.m3u"
+    },
+    {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "sony.m3u"
+    },
+    {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "digital.m3u"
+    },
+    {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "fancode3.m3u",
+      "family": "FanCode"
+    },
+    {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "sony2.m3u"
+    },
+    {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "fancode.m3u",
+      "family": "FanCode"
+    },
+    {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "fancode2.m3u",
+      "family": "FanCode"
+    }
+  ]
+}

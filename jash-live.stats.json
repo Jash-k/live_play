@@ -1,31 +1,121 @@
 {
-  "generatedAt": "2026-10-08T09:50:54.776Z",
+  "generatedAt": "2026-10-08T19:27:03.536Z",
   "sources": [
     {
-      "file": "star-sports.m3u",
+      "repo": "maybetv/Jo",
+      "file": "Zoh2.m3u",
       "ok": true,
-      "parsed": 67,
-      "kept": 6
+      "parsed": 62
+    },
+    {
+      "repo": "maybetv/Jo",
+      "file": "Zoh.m3u",
+      "ok": true,
+      "parsed": 114
+    },
+    {
+      "repo": "maybetv/Jo",
+      "file": "playlist.m3u",
+      "ok": true,
+      "parsed": 517
+    },
+    {
+      "repo": "maybetv/Jo",
+      "file": "Zohplx.m3u",
+      "ok": true,
+      "parsed": 67
+    },
+    {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Sports.m3u",
+      "ok": true,
+      "parsed": 92
+    },
+    {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Sport.m3u",
+      "ok": true,
+      "parsed": 287
+    },
+    {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Star2.m3u",
+      "ok": true,
+      "parsed": 25
+    },
+    {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "bb.m3u",
+      "ok": true,
+      "parsed": 6
+    },
+    {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Star.m3u",
+      "ok": true,
+      "parsed": 23
+    },
+    {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "sony.m3u",
+      "ok": true,
+      "parsed": 22
+    },
+    {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "digital.m3u",
+      "ok": true,
+      "parsed": 48
+    },
+    {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "fancode3.m3u",
+      "ok": true,
+      "parsed": 1
+    },
+    {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "sony2.m3u",
+      "ok": true,
+      "parsed": 22
+    },
+    {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "fancode.m3u",
+      "ok": true,
+      "parsed": 1
+    },
+    {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "fancode2.m3u",
+      "ok": true,
+      "parsed": 3
     }
   ],
-  "sections": {
-    "bigboss": 0,
-    "tamil": 0,
-    "sports": 6
+  "main": {
+    "Bigg Boss / Tamil": 1,
+    "Star Sports / English": 5,
+    "Star Sports / Tamil": 9,
+    "Sony Sports / English": 11,
+    "Sony Sports / Tamil": 1,
+    "FanCode / English": 5
+  },
+  "review": {
+    "Star Sports": 24,
+    "Sony Sports": 18,
+    "FanCode": 2,
+    "Willow": 4,
+    "Cricbuzz": 1
   },
   "dropped": {
-    "expired": 0,
-    "radio": 0,
-    "blocked": 0,
-    "onlyNames": 13,
-    "badUrl": 0,
-    "vod": 0,
-    "insecure": 0,
-    "rawTs": 0,
-    "duplicateUrl": 0,
-    "duplicateChannel": 0,
-    "capped": 0,
-    "deadHost": 0
+    "regional": 54,
+    "expired": 13,
+    "duplicate": 38,
+    "unsupported": 11
   },
-  "tamilAvailable": 0
+  "playbackVerified": false,
+  "missingFamilies": [
+    "Willow",
+    "Cricbuzz"
+  ]
 }

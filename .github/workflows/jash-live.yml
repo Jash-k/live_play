@@ -1,112 +1,39 @@
-name: Build Star Sports playlist (English HD + Tamil)
-
-# Publishes jash-live.m3u with EXACTLY six feeds:
-#   Star Sports 1 HD · Star Sports 2 HD · Star Sports 1 Digital · Star Sports 2 Digital
-#   Star Sports 1 Tamil Digital · Star Sports 2 Tamil Digital
-#
-# The channel list is pinned in scripts/live-playlist.config.json (`onlyNames`), so
-# nothing else can ever enter the file — no Hindi/Telugu/Kannada/Malayalam rows.
-#
-# The source (star-sports.m3u) sits in this repo, so a run is deterministic: the
-# file only changes when YOU change the source or the config. The cron therefore
-# exists to HEALTH-CHECK the six streams, not to chase upstream playlists.
-#
-# This workflow MUST live at <repo-root>/.github/workflows/. A copy one folder
-# down is ignored by GitHub and silently never runs.
-
+name: Refresh Tamil Bigg Boss and sports
 on:
   schedule:
-    - cron: '0 */6 * * *'   # 4x/day health re-check
+    - cron: '17 */2 * * *'
   workflow_dispatch:
-    inputs:
-      force:
-        description: 'Rebuild even if the playlist content is unchanged'
-        type: boolean
-        default: false
   push:
     branches: [main]
     paths:
-      - 'scripts/build-live-playlist.mjs'
-      - 'scripts/live-playlist.config.json'
-      - 'star-sports.m3u'
+      - 'scripts/curate-live.mjs'
+      - 'scripts/curate-live.config.json'
+      - 'scripts/test-curate-live.mjs'
       - '.github/workflows/jash-live.yml'
-
 permissions:
   contents: write
-
 concurrency:
-  group: star-sports-playlist
+  group: jash-live-refresh
   cancel-in-progress: false
-
 jobs:
-  build:
+  refresh:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Set up Node
-        uses: actions/setup-node@v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: '20'
-
-      - name: Build playlist
+      - name: Test filtering and metadata preservation
+        run: node scripts/test-curate-live.mjs
+      - name: Refresh and curate upstream metadata
+        run: node scripts/curate-live.mjs
+      - name: Publish changes
         run: |
-          if [ "${{ inputs.force }}" = "true" ]; then
-            node scripts/build-live-playlist.mjs --force
-          else
-            node scripts/build-live-playlist.mjs
-          fi
-
-      # Fails the run (and mails the repo owner) if a channel stops answering.
-      # A ClearKey feed carries no expiring token, so "old file" is never the
-      # problem here — a red X means a stream URL is actually refusing.
-      - name: Verify the six streams
-        run: node tools/live-doctor.mjs jash-live.m3u --sample 6
-
-      - name: Job summary
-        if: always()
-        run: |
-          node -e '
-            const fs = require("fs");
-            let md = "## Star Sports playlist\n\n";
-            try {
-              const s = JSON.parse(fs.readFileSync("jash-live.stats.json", "utf8"));
-              md += "| section | channels |\n|---|---|\n";
-              md += `| Sports | ${s.sections.sports} |\n\n`;
-              md += `Sources fetched: **${s.sources.filter(x => x.ok).length}/${s.sources.length}** · `;
-              md += `kept **${s.sections.sports}** (dropped ${s.dropped.onlyNames} rows not in onlyNames)\n\n`;
-            } catch (e) {
-              md += `stats file unreadable: ${e.message}\n`;
-            }
-            fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, md);
-          '
-
-      - name: Commit when changed
-        run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add jash-live.m3u jash-live.stats.json
-
-          if git diff --cached --quiet; then
-            echo "No playlist change — nothing to commit."
-            exit 0
-          fi
-
-          git commit -m "star-sports: rebuild jash-live.m3u ($(TZ=Asia/Kolkata date +'%Y-%m-%d %H:%M IST'))"
-
-          for attempt in 1 2 3; do
-            if git push origin "HEAD:${GITHUB_REF_NAME}"; then
-              echo "Pushed on attempt ${attempt}."
-              exit 0
-            fi
-            git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
-          done
-
-          echo "Could not push after 3 attempts." >&2
-          exit 1
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add jash-live.m3u jash-review.m3u jash-live.stats.json jash-review.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'Refresh Tamil Bigg Boss and Tamil/English sports'
+          git pull --rebase origin main
+          git push origin HEAD:main

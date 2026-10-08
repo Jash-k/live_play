@@ -1,0 +1,443 @@
+[
+  {
+    "name": "Star Sports 1 Digital",
+    "family": "Star Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Star2.m3u"
+    }
+  },
+  {
+    "name": "Star Sports 1 Digital",
+    "family": "Star Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "digital.m3u"
+    }
+  },
+  {
+    "name": "Star Sports 1 HD",
+    "family": "Star Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "maybetv/Jo",
+      "file": "Zoh2.m3u"
+    }
+  },
+  {
+    "name": "STAR SPORTS 1 HD",
+    "family": "Star Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Star2.m3u"
+    }
+  },
+  {
+    "name": "Star Sports 1 HD test",
+    "family": "Star Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "maybetv/Jo",
+      "file": "playlist.m3u"
+    }
+  },
+  {
+    "name": "STAR SPORTS 1 SELECT HD",
+    "family": "Star Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Star2.m3u"
+    }
+  },
+  {
+    "name": "Star Sports 2 Digital",
+    "family": "Star Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Star2.m3u"
+    }
+  },
+  {
+    "name": "Star Sports 2 Digital",
+    "family": "Star Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "digital.m3u"
+    }
+  },
+  {
+    "name": "Star Sports 2 HD",
+    "family": "Star Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "maybetv/Jo",
+      "file": "Zoh2.m3u"
+    }
+  },
+  {
+    "name": "STAR SPORTS 2 HD",
+    "family": "Star Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Star2.m3u"
+    }
+  },
+  {
+    "name": "STAR SPORTS 2 SELECT HD",
+    "family": "Star Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Star2.m3u"
+    }
+  },
+  {
+    "name": "Star Sports 3",
+    "family": "Star Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "maybetv/Jo",
+      "file": "Zoh2.m3u"
+    }
+  },
+  {
+    "name": "Star Sports 3 Digital",
+    "family": "Star Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Star2.m3u"
+    }
+  },
+  {
+    "name": "Star Sports 3 Digital",
+    "family": "Star Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "digital.m3u"
+    }
+  },
+  {
+    "name": "Star Sports Khel Digital",
+    "family": "Star Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Star2.m3u"
+    }
+  },
+  {
+    "name": "Star Sports Khel Digital",
+    "family": "Star Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "digital.m3u"
+    }
+  },
+  {
+    "name": "STAR SPORTS SELECT 1 4K*",
+    "family": "Star Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Sports.m3u"
+    }
+  },
+  {
+    "name": "Star Sports Select 1 Digital",
+    "family": "Star Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Star2.m3u"
+    }
+  },
+  {
+    "name": "Star Sports Select 1 Digital",
+    "family": "Star Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "digital.m3u"
+    }
+  },
+  {
+    "name": "Star Sports Select 1 HD",
+    "family": "Star Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "maybetv/Jo",
+      "file": "Zoh2.m3u"
+    }
+  },
+  {
+    "name": "STAR SPORTS SELECT 2 4K*",
+    "family": "Star Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Sports.m3u"
+    }
+  },
+  {
+    "name": "Star Sports Select 2 Digital",
+    "family": "Star Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Star2.m3u"
+    }
+  },
+  {
+    "name": "Star Sports Select 2 Digital",
+    "family": "Star Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "digital.m3u"
+    }
+  },
+  {
+    "name": "Star Sports Select 2 HD",
+    "family": "Star Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "maybetv/Jo",
+      "file": "Zoh2.m3u"
+    }
+  },
+  {
+    "name": "Sony Sports Ten 1",
+    "family": "Sony Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "maybetv/Jo",
+      "file": "playlist.m3u"
+    }
+  },
+  {
+    "name": "Sony Sports Ten 1 HD",
+    "family": "Sony Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "maybetv/Jo",
+      "file": "playlist.m3u"
+    }
+  },
+  {
+    "name": "Sony Sports Ten 2",
+    "family": "Sony Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "maybetv/Jo",
+      "file": "playlist.m3u"
+    }
+  },
+  {
+    "name": "Sony Sports Ten 2 HD",
+    "family": "Sony Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "maybetv/Jo",
+      "file": "playlist.m3u"
+    }
+  },
+  {
+    "name": "Sony Sports Ten 5",
+    "family": "Sony Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "maybetv/Jo",
+      "file": "playlist.m3u"
+    }
+  },
+  {
+    "name": "Sony Sports Ten 5 HD",
+    "family": "Sony Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "maybetv/Jo",
+      "file": "playlist.m3u"
+    }
+  },
+  {
+    "name": "Sony TEN 1 HD",
+    "family": "Sony Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Sports.m3u"
+    }
+  },
+  {
+    "name": "Sony TEN 1 SD",
+    "family": "Sony Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Sports.m3u"
+    }
+  },
+  {
+    "name": "Sony TEN 2 HD",
+    "family": "Sony Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Sports.m3u"
+    }
+  },
+  {
+    "name": "Sony TEN 2 SD",
+    "family": "Sony Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Sports.m3u"
+    }
+  },
+  {
+    "name": "Sony TEN 3 HD",
+    "family": "Sony Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Sports.m3u"
+    }
+  },
+  {
+    "name": "Sony TEN 3 SD",
+    "family": "Sony Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Sports.m3u"
+    }
+  },
+  {
+    "name": "Sony TEN 4 HD",
+    "family": "Sony Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Sports.m3u"
+    }
+  },
+  {
+    "name": "Sony TEN 4 SD",
+    "family": "Sony Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Sports.m3u"
+    }
+  },
+  {
+    "name": "Sony TEN 5 HD",
+    "family": "Sony Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Sports.m3u"
+    }
+  },
+  {
+    "name": "Sony TEN 5 SD",
+    "family": "Sony Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Sports.m3u"
+    }
+  },
+  {
+    "name": "SONY TEN Cricket",
+    "family": "Sony Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "maybetv/Jo",
+      "file": "Zoh.m3u"
+    }
+  },
+  {
+    "name": "SONY TEN Cricket",
+    "family": "Sony Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Sports.m3u"
+    }
+  },
+  {
+    "name": "FANCODE 1",
+    "family": "FanCode",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Sports.m3u"
+    }
+  },
+  {
+    "name": "FANCODE 2",
+    "family": "FanCode",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Sports.m3u"
+    }
+  },
+  {
+    "name": "Willow Sports",
+    "family": "Willow",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "maybetv/Jo",
+      "file": "Zoh.m3u"
+    }
+  },
+  {
+    "name": "Willow Sports",
+    "family": "Willow",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "maybetv/Jo",
+      "file": "playlist.m3u"
+    }
+  },
+  {
+    "name": "WILLOW SPORTS",
+    "family": "Willow",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Sports.m3u"
+    }
+  },
+  {
+    "name": "WILLOW SPORTS",
+    "family": "Willow",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Sport.m3u"
+    }
+  },
+  {
+    "name": "Cricbuzz",
+    "family": "Cricbuzz",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "maybetv/Jo",
+      "file": "playlist.m3u"
+    }
+  }
+]
