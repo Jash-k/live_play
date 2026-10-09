@@ -468,24 +468,6 @@
     }
   },
   {
-    "name": "Court 4",
-    "family": "FanCode",
-    "reason": "no explicit Tamil/English label",
-    "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "fancode3.m3u"
-    }
-  },
-  {
-    "name": "Court 7",
-    "family": "FanCode",
-    "reason": "no explicit Tamil/English label",
-    "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "fancode3.m3u"
-    }
-  },
-  {
     "name": "FANCODE 1",
     "family": "FanCode",
     "reason": "no explicit Tamil/English label",
