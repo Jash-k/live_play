@@ -1,14 +1,5 @@
 [
   {
-    "name": "Star Sports 1",
-    "family": "Star Sports",
-    "reason": "no explicit Tamil/English label",
-    "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "Star.m3u"
-    }
-  },
-  {
     "name": "Star Sports 1 Digital",
     "family": "Star Sports",
     "reason": "no explicit Tamil/English label",
@@ -18,12 +9,12 @@
     }
   },
   {
-    "name": "Star Sports 1 HD",
+    "name": "Star Sports 1 Digital",
     "family": "Star Sports",
     "reason": "no explicit Tamil/English label",
     "source": {
-      "repo": "maybetv/Jo",
-      "file": "Zoh2.m3u"
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "digital.m3u"
     }
   },
   {
@@ -31,8 +22,8 @@
     "family": "Star Sports",
     "reason": "no explicit Tamil/English label",
     "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "Star.m3u"
+      "repo": "maybetv/Jo",
+      "file": "Zoh2.m3u"
     }
   },
   {
@@ -63,15 +54,6 @@
     }
   },
   {
-    "name": "Star Sports 2",
-    "family": "Star Sports",
-    "reason": "no explicit Tamil/English label",
-    "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "Star.m3u"
-    }
-  },
-  {
     "name": "Star Sports 2 Digital",
     "family": "Star Sports",
     "reason": "no explicit Tamil/English label",
@@ -81,12 +63,12 @@
     }
   },
   {
-    "name": "Star Sports 2 HD",
+    "name": "Star Sports 2 Digital",
     "family": "Star Sports",
     "reason": "no explicit Tamil/English label",
     "source": {
-      "repo": "maybetv/Jo",
-      "file": "Zoh2.m3u"
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "digital.m3u"
     }
   },
   {
@@ -94,8 +76,8 @@
     "family": "Star Sports",
     "reason": "no explicit Tamil/English label",
     "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "Star.m3u"
+      "repo": "maybetv/Jo",
+      "file": "Zoh2.m3u"
     }
   },
   {
@@ -126,16 +108,25 @@
     }
   },
   {
-    "name": "Star Sports 3",
+    "name": "Star Sports 3 Digital",
     "family": "Star Sports",
     "reason": "no explicit Tamil/English label",
     "source": {
       "repo": "sportlive18/Sportlink-wtf",
-      "file": "Star.m3u"
+      "file": "Star2.m3u"
     }
   },
   {
     "name": "Star Sports 3 Digital",
+    "family": "Star Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "digital.m3u"
+    }
+  },
+  {
+    "name": "Star Sports Khel Digital",
     "family": "Star Sports",
     "reason": "no explicit Tamil/English label",
     "source": {
@@ -149,16 +140,7 @@
     "reason": "no explicit Tamil/English label",
     "source": {
       "repo": "sportlive18/Sportlink-wtf",
-      "file": "Star2.m3u"
-    }
-  },
-  {
-    "name": "Star Sports Select 1",
-    "family": "Star Sports",
-    "reason": "no explicit Tamil/English label",
-    "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "Star.m3u"
+      "file": "digital.m3u"
     }
   },
   {
@@ -180,30 +162,21 @@
     }
   },
   {
+    "name": "Star Sports Select 1 Digital",
+    "family": "Star Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "digital.m3u"
+    }
+  },
+  {
     "name": "Star Sports Select 1 HD",
     "family": "Star Sports",
     "reason": "no explicit Tamil/English label",
     "source": {
       "repo": "maybetv/Jo",
       "file": "Zoh2.m3u"
-    }
-  },
-  {
-    "name": "Star Sports Select 1 HD",
-    "family": "Star Sports",
-    "reason": "no explicit Tamil/English label",
-    "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "Star.m3u"
-    }
-  },
-  {
-    "name": "Star Sports Select 2",
-    "family": "Star Sports",
-    "reason": "no explicit Tamil/English label",
-    "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "Star.m3u"
     }
   },
   {
@@ -225,12 +198,12 @@
     }
   },
   {
-    "name": "Star Sports Select 2 HD",
+    "name": "Star Sports Select 2 Digital",
     "family": "Star Sports",
     "reason": "no explicit Tamil/English label",
     "source": {
-      "repo": "maybetv/Jo",
-      "file": "Zoh2.m3u"
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "digital.m3u"
     }
   },
   {
@@ -238,8 +211,8 @@
     "family": "Star Sports",
     "reason": "no explicit Tamil/English label",
     "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "Star.m3u"
+      "repo": "maybetv/Jo",
+      "file": "Zoh2.m3u"
     }
   },
   {

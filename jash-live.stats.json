@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T05:57:58.817Z",
+  "generatedAt": "2026-10-10T12:38:00.475Z",
   "sources": [
     {
       "repo": "maybetv/Jo",
@@ -71,7 +71,7 @@
       "repo": "sportlive18/Sportlink-wtf",
       "file": "fancode3.m3u",
       "ok": true,
-      "parsed": 3
+      "parsed": 12
     },
     {
       "repo": "sportlive18/Sportlink-wtf",
@@ -83,25 +83,25 @@
       "repo": "sportlive18/Sportlink-wtf",
       "file": "fancode.m3u",
       "ok": true,
-      "parsed": 2
+      "parsed": 12
     },
     {
       "repo": "sportlive18/Sportlink-wtf",
       "file": "fancode2.m3u",
       "ok": true,
-      "parsed": 3
+      "parsed": 12
     }
   ],
   "main": {
     "Bigg Boss / Tamil": 1,
     "Star Sports / English": 5,
-    "Star Sports / Tamil": 11,
+    "Star Sports / Tamil": 9,
     "Sony Sports / English": 11,
     "Sony Sports / Tamil": 1,
-    "FanCode / English": 8
+    "FanCode / English": 36
   },
   "review": {
-    "Star Sports": 27,
+    "Star Sports": 24,
     "Sony Sports": 19,
     "FanCode": 2,
     "Willow": 4,
@@ -109,7 +109,7 @@
   },
   "dropped": {
     "regional": 53,
-    "expired": 8,
+    "expired": 13,
     "duplicate": 38,
     "unsupported": 11
   },
