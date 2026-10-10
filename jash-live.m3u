@@ -2,6 +2,13 @@
 #PLAYLIST:JaSH - Tamil Bigg Boss and Tamil/English Sports
 #NOTE:Community source metadata only; playback and rights not independently verified.
 
+#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss Tamil 24/7" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/2305/1788708712305-h.jpg" group-title="Bigg Boss Tamil 24/7" tvg-language="Tamil",Bigg Boss Tamil 24/7
+#EXTVLCOPT:http-user-agent=@virat10
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-cookie=hdntl=exp=1791683205~acl=%2f*~id=8a0f084a08c7b8da69eaecf4ebdf7027~data=hdntl~hmac=dc8db40dbcee02223ba7cd875c04c40cf31f9991b6d262131edc6a94af00f063
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"@virat10","Cookie":"hdntl=exp=1791683205~acl=%2f*~id=8a0f084a08c7b8da69eaecf4ebdf7027~data=hdntl~hmac=dc8db40dbcee02223ba7cd875c04c40cf31f9991b6d262131edc6a94af00f063"}
+https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tam-2026/0e8f0050df134b708ab297477fbf0e86/index_6.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 ENGLISH 4K*" tvg-logo="" group-title="Sports - Star Sports - English" tvg-language="English",STAR SPORTS 1 ENGLISH 4K*
 https://streamhub.dhruvpatil681.workers.dev/1088.m3u8
 
@@ -31,9 +38,22 @@ https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=1389
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0d750ebd52b5756aa7fb833f61ceece:4ae62a20c030c918aad24193c1dda229
-#EXTHTTP:{"cookie":"__hdnea__=st=1791569599~exp=1791591199~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=100563dd55a10d8a317e8a70814994fbfc75147d55e40161a259105f4a26f586"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1791591225~exp=1791612825~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=5b7b6144b4e00ceff9aa7bcb7250eda85819f3fe90bb2c202404cd5104da6774"}
 #EXTVLCOPT:http-user-agent=Virat
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Tamil Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6839/1782284756839-h.jpg" group-title="Sports - Star Sports - Tamil" tvg-language="Tamil",Star Sports 1 Tamil Digital
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat Kohli&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+#KODIPROP:inputstream.adaptive.license_key=01cc63d414394296bb3e6cfaffee0000:c1fba587fc8b4218ade5ace1e62e5aaf
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Virat Kohli
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-cookie=hdntl=exp=1791683205~acl=%2f*~id=8a0f084a08c7b8da69eaecf4ebdf7027~data=hdntl~hmac=dc8db40dbcee02223ba7cd875c04c40cf31f9991b6d262131edc6a94af00f063
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat Kohli","Cookie":"hdntl=exp=1791683205~acl=%2f*~id=8a0f084a08c7b8da69eaecf4ebdf7027~data=hdntl~hmac=dc8db40dbcee02223ba7cd875c04c40cf31f9991b6d262131edc6a94af00f063"}
+https://livetv.hotstar.com/mp2/gec-india-1540068334/3468fd902b12418598cabe63585e7efe/index.mpd
 
 #EXTINF:-1 tvg-id="Star Sports 1 Tamil HD" tvg-name="Star Sports 1 Tamil HD" tvg-logo="https://img.media.jio.com/tvpimages/19/19/302122_1749662923298_l_medium.jpg" group-title="Sports - Star Sports - Tamil" tvg-language="Tamil",Star Sports 1 Tamil HD
 https://streamhub.dhruvpatil681.workers.dev/4353.m3u8
@@ -49,7 +69,7 @@ https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=3277
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337
-#EXTHTTP:{"cookie":"__hdnea__=st=1791569286~exp=1791590886~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=be38014479390302b3b524eda337c2fafea4e7f593d703446313c40fddf268aa"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1791590917~exp=1791612517~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=1533c192131757cfbaa69a9faee2730cd41527bbcabcc5b6d3b8f9d18f904cee"}
 #EXTVLCOPT:http-user-agent=Virat
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.mpd
 
@@ -61,9 +81,30 @@ https://streamhub.dhruvpatil681.workers.dev/6167.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3979aae1ca51561c9e8074cd618b3864:ae12e0e147d3e76cfa62bfb99bc07109
-#EXTHTTP:{"cookie":"__hdnea__=st=1791569286~exp=1791590886~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=10f170e7e9464259239821e4a34f28ca544d80942558b05b3ad05986e793602e"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1791590913~exp=1791612513~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=7cc1f6eb3e5cdb765c7ec6ebf3a72146330de43f3f8f5275f83da2b2e5cc68ea"}
 #EXTVLCOPT:http-user-agent=Virat
 https://jiotvpllive.cdn.jio.com//bpk-tv/Sports18_3_MOB/WDVCatchup/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 Tamil" tvg-logo="https://i.ibb.co/cXNb5Y9t/SS2-TAMIL.jpg" group-title="Sports - Star Sports - Tamil" tvg-language="Tamil",STAR SPORTS 2 Tamil
+#EXTVLCOPT:http-user-agent=Virat Kohli
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-cookie=hdntl=exp=1791683205~acl=%2f*~id=8a0f084a08c7b8da69eaecf4ebdf7027~data=hdntl~hmac=dc8db40dbcee02223ba7cd875c04c40cf31f9991b6d262131edc6a94af00f063
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat Kohli","Cookie":"hdntl=exp=1791683205~acl=%2f*~id=8a0f084a08c7b8da69eaecf4ebdf7027~data=hdntl~hmac=dc8db40dbcee02223ba7cd875c04c40cf31f9991b6d262131edc6a94af00f063"}
+https://jcevents.hotstar.com/bpk-tv/ee610073191492bdc18f85cafadf2751/JioHotstar/ee610073191492bdc18f85cafadf2751.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 Tamil Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6676/1783000836676-h.jpg" group-title="Sports - Star Sports - Tamil" tvg-language="Tamil",Star Sports 2 Tamil Digital
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat Kohli&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+#KODIPROP:inputstream.adaptive.license_key=8cecd7ec1ee04eecb49ddbdc8c420000:499ea72b59f14337a0acb057cd9dffc0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Virat Kohli
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-cookie=hdntl=exp=1791683205~acl=%2f*~id=8a0f084a08c7b8da69eaecf4ebdf7027~data=hdntl~hmac=dc8db40dbcee02223ba7cd875c04c40cf31f9991b6d262131edc6a94af00f063
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat Kohli","Cookie":"hdntl=exp=1791683205~acl=%2f*~id=8a0f084a08c7b8da69eaecf4ebdf7027~data=hdntl~hmac=dc8db40dbcee02223ba7cd875c04c40cf31f9991b6d262131edc6a94af00f063"}
+https://livetv.hotstar.com/mp2/gec-india-1540068337/9e957d4aa8054fdfa75a02de6c38e8d0/index.mpd
 
 #EXTINF:-1 tvg-id="3273" tvg-name="Star Sports 2 Tamil HD" tvg-logo="https://img.media.jio.com/tvpimages/50/43/302120_1749664850896_l_medium.jpg" group-title="Sports - Star Sports - Tamil" tvg-language="Tamil",Star Sports 2 Tamil HD
 #EXTVLCOPT:http-user-agent=Denver1769
@@ -76,7 +117,7 @@ https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=3273
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc44fe6251825774b90d58dcfa7d94e0:63e3ae853f483a86752b5b9e6d61eb20
-#EXTHTTP:{"cookie":"__hdnea__=st=1791569612~exp=1791591212~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=f1cd2e812cac75b2c3c5c2d51ed362fb2d3847bb8c808f4d9d424d0138b8509a"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1791591230~exp=1791612830~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=3840ec2409fb44e9eef0525a15f0136b8206ce85a49fb5f89cc59f8e9aa77296"}
 #EXTVLCOPT:http-user-agent=Virat
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd
 
@@ -131,50 +172,26 @@ https://sliv.tgaadi.workers.dev/sonysixhd.m3u8
 #EXTINF:-1 tvg-id="Sony Sports Ten 4 Tamil" tvg-name="Sony Sports Ten 4 Tamil" tvg-logo="https://i.postimg.cc/J0Lxt4z8/Sony-Sports-TEN-4-Tamil.png" group-title="Sports - Sony Sports - Tamil" tvg-language="Tamil",Sony Sports Ten 4 Tamil
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="FanCode - 2026 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249659_53086_NAM_UAE_fc-web.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249659_english_hls_ac4329ad4035044_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791657243~_GO=Generated~acl=/mumbai/4249659_english_hls_ac4329ad4035044_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6603b9cd-cb58-4a~Signature=AXZsC1DbJnNobDySMik-EU1EuHyUPxH5p3789C1TeQmoOyqgZDFsSc6ScIL8qBX8rOHO6iu2HCrz4UYsp4Uvsa2dmMkN
+#EXTINF:-1 tvg-id="" tvg-name="FanCode - 2026/27 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - 2026/27 [English]
+https://in-mc-flive.fancode.com/mumbai/4249663_english_hls_8e2773aae983814_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791674404~_GO=Generated~acl=/mumbai/4249663_english_hls_8e2773aae983814_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5284382d-5fc8-4f~Signature=AXZsC1C_FNj-JpiPJXpLlDDcrdWRe2VLv7NqVnwtBWo3_F4YFQaEtR1juyX-acLN9lOk6WYWerjr7K7dInW_oaqZa3YD
 
-#EXTINF:-1 tvg-id="" tvg-name="FanCode - 2026 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249227_53069_BGC_WIC_FC-Web_1790764441429.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249227_english_hls_290b2baf07538_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791657244~_GO=Generated~acl=/mumbai/4249227_english_hls_290b2baf07538_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2ac54bd1-bffc-4f~Signature=AXZsC1BfAYY6pI2bm_xgVNXutogxOFAkdbv1RJXqN9mcmiIX5sD2YPmuQNrk8QhjuE60qEaGaCW-onSkz-zoZQH-cbwJ
+#EXTINF:-1 tvg-id="139976" tvg-name="FanCode - ENG | Indonesia Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MotoGP_FC-Web.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | Indonesia Gp
+https://dai-fancode.pages.dev/mumbai/139976_english_hls_3dea8cb36622721_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="" tvg-name="FanCode - 2026 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250097_53103_EMB_EMR_FC-WEB.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250097_english_hls_cd0b3fcdca76867_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791657246~_GO=Generated~acl=/mumbai/4250097_english_hls_cd0b3fcdca76867_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2a3fa180-a406-42~Signature=AXZsC1AonhCr15yi4yjnx1fBJKV6MUdTf03rycofQXxlu9JHztKhQWO8wtr9wt950d2W8hLjlbCggjPdyPphSiwNimcI
+#EXTINF:-1 tvg-id="4249664" tvg-name="FanCode - ENG | Queensland Vs Western Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249664_53087_WAU_QUN_FC-WEB_1791295173204.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | Queensland Vs Western Australia
+https://dai-fancode.pages.dev/mumbai/4249664_english_hls_0bb18b2c5923211_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4249138" tvg-name="FanCode - Al-Nassr FC vs Diriyah [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249138_53025_ANF_DIR_FC-Web.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - Al-Nassr FC vs Diriyah [English]
-https://in-mc-flive.fancode.com/mumbai/4249138_english_hls_06e7cc868916934_1ta-di_h264/720p.m3u8?hdntl=Expires=1791657248~_GO=Generated~acl=/mumbai/4249138_english_hls_06e7cc868916934_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1e194e5e-62ca-4b~Signature=AXZsC1DjmyJa0bBk6XafOB4UhAD4e--5GKFDrd0YOJGUXQnNgmhY4-CjFczLdr_SkgMHslI_u3kjF3XjSR-_bwfQcyID
+#EXTINF:-1 tvg-id="4249663" tvg-name="FanCode - ENG | Tasmania Vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | Tasmania Vs New South Wales
+https://dai-fancode.pages.dev/mumbai/4249663_english_hls_8e2773aae983814_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4249227" tvg-name="FanCode - Bangladesh Champions vs West Indies Champions [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249227_53069_BGC_WIC_FC-Web_1790764441429.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - Bangladesh Champions vs West Indies Champions [English]
-https://in-mc-flive.fancode.com/mumbai/4249227_english_hls_290b2baf07538_1ta-di_h264/720p.m3u8?hdntl=Expires=1791657244~_GO=Generated~acl=/mumbai/4249227_english_hls_290b2baf07538_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2ac54bd1-bffc-4f~Signature=AXZsC1BfAYY6pI2bm_xgVNXutogxOFAkdbv1RJXqN9mcmiIX5sD2YPmuQNrk8QhjuE60qEaGaCW-onSkz-zoZQH-cbwJ
+#EXTINF:-1 tvg-id="139976" tvg-name="FanCode - Indonesia GP [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MotoGP_FC-Web.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - Indonesia GP [English]
+https://in-mc-flive.fancode.com/mumbai/139976_english_hls_3dea8cb36622721_1ta-di_h264/720p.m3u8?hdntl=Expires=1791678036~_GO=Generated~acl=/mumbai/139976_english_hls_3dea8cb36622721_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a0b6a445-b771-4e~Signature=AXZsC1AbrZxCqPtGM192vSrUVxLgihJdnMriwdqZvHBsBNa9aW8JY0USkxQUPGQRH2R-jyT1cu4jTeL4p0Sc-vA97YMF
 
-#EXTINF:-1 tvg-id="" tvg-name="FanCode - EFL Championship 2026-27 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249588_52993_WHU_QPR_fc-web.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - EFL Championship 2026-27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249588_english_hls_ab48fa75c557855_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791657941~_GO=Generated~acl=/mumbai/4249588_english_hls_ab48fa75c557855_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_984a3a84-c59f-42~Signature=AXZsC1DEvgy4HPKZTj-WKLp-JLyojWu9VtcDcSRxwPJZKcQLT-NueZzt6Nizb5Qaz4kVRDC1jguwgnHP2Rmny-rAQnwB
+#EXTINF:-1 tvg-id="" tvg-name="FanCode - PERTAMINA GRAND PRIX OF INDONESIA 2026 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MotoGP_FC-Web.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - PERTAMINA GRAND PRIX OF INDONESIA 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/139976_english_hls_3dea8cb36622721_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1791678036~_GO=Generated~acl=/mumbai/139976_english_hls_3dea8cb36622721_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a0b6a445-b771-4e~Signature=AXZsC1AbrZxCqPtGM192vSrUVxLgihJdnMriwdqZvHBsBNa9aW8JY0USkxQUPGQRH2R-jyT1cu4jTeL4p0Sc-vA97YMF
 
-#EXTINF:-1 tvg-id="4250097" tvg-name="FanCode - Emirates Blues vs Emirates Red [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250097_53103_EMB_EMR_FC-WEB.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - Emirates Blues vs Emirates Red [English]
-https://in-mc-flive.fancode.com/mumbai/4250097_english_hls_cd0b3fcdca76867_1ta-di_h264/720p.m3u8?hdntl=Expires=1791657246~_GO=Generated~acl=/mumbai/4250097_english_hls_cd0b3fcdca76867_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2a3fa180-a406-42~Signature=AXZsC1AonhCr15yi4yjnx1fBJKV6MUdTf03rycofQXxlu9JHztKhQWO8wtr9wt950d2W8hLjlbCggjPdyPphSiwNimcI
+#EXTINF:-1 tvg-id="4249664" tvg-name="FanCode - Queensland vs Western Australia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249664_53087_WAU_QUN_FC-WEB_1791295173204.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - Queensland vs Western Australia [English]
+https://in-mc-flive.fancode.com/mumbai/4249664_english_hls_0bb18b2c5923211_1ta-di_h264/720p.m3u8?hdntl=Expires=1791684695~_GO=Generated~acl=/mumbai/4249664_english_hls_0bb18b2c5923211_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_17b03d07-b2cc-48~Signature=AXZsC1C1TwFk6XdnHlH0ReBiSgItI3JfsU9IAXi9mJMt0JpyHk-AnVqzo1TFsyfz8bY_mcgY2kSRJyiyH8vFF0qKgKcD
 
-#EXTINF:-1 tvg-id="4249138" tvg-name="FanCode - ENG | Al Nassr Fc Vs Diriyah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249138_53025_ANF_DIR_FC-Web.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | Al Nassr Fc Vs Diriyah
-https://dai-fancode.pages.dev/mumbai/4249138_english_hls_06e7cc868916934_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4249227" tvg-name="FanCode - ENG | Bangladesh Champions Vs West Indies Champions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249227_53069_BGC_WIC_FC-Web_1790764441429.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | Bangladesh Champions Vs West Indies Champions
-https://dai-fancode.pages.dev/mumbai/4249227_english_hls_290b2baf07538_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4250097" tvg-name="FanCode - ENG | Emirates Blues Vs Emirates Red" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250097_53103_EMB_EMR_FC-WEB.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | Emirates Blues Vs Emirates Red
-https://dai-fancode.pages.dev/mumbai/4250097_english_hls_cd0b3fcdca76867_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4247646" tvg-name="FanCode - ENG | Malaga Vs Rcd Espanyol" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247646_53004_MAG_ESL_FC-Web.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | Malaga Vs Rcd Espanyol
-https://dai-fancode.pages.dev/mumbai/4247646_english_hls_5208a62c4c30617_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4249659" tvg-name="FanCode - ENG | United Arab Emirates Vs Namibia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249659_53086_NAM_UAE_fc-App.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | United Arab Emirates Vs Namibia
-https://dai-fancode.pages.dev/mumbai/4249659_english_hls_ac4329ad4035044_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4249588" tvg-name="FanCode - ENG | West Ham United Vs Queens Park Rangers F.c." tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249588_52993_WHU_QPR_fc-web.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | West Ham United Vs Queens Park Rangers F.c.
-https://dai-fancode.pages.dev/mumbai/4249588_english_hls_ab48fa75c557855_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="" tvg-name="FanCode - Roshn Saudi League 2026-2027 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249138_53025_ANF_DIR_FC-Web.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - Roshn Saudi League 2026-2027 [English]
-https://in-mc-flive.fancode.com/mumbai/4249138_english_hls_06e7cc868916934_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791657248~_GO=Generated~acl=/mumbai/4249138_english_hls_06e7cc868916934_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1e194e5e-62ca-4b~Signature=AXZsC1DjmyJa0bBk6XafOB4UhAD4e--5GKFDrd0YOJGUXQnNgmhY4-CjFczLdr_SkgMHslI_u3kjF3XjSR-_bwfQcyID
-
-#EXTINF:-1 tvg-id="4249659" tvg-name="FanCode - United Arab Emirates vs Namibia [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249659_53086_NAM_UAE_fc-web.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - United Arab Emirates vs Namibia [English]
-https://in-mc-flive.fancode.com/mumbai/4249659_english_hls_ac4329ad4035044_1ta-di_h264/720p.m3u8?hdntl=Expires=1791657243~_GO=Generated~acl=/mumbai/4249659_english_hls_ac4329ad4035044_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6603b9cd-cb58-4a~Signature=AXZsC1DbJnNobDySMik-EU1EuHyUPxH5p3789C1TeQmoOyqgZDFsSc6ScIL8qBX8rOHO6iu2HCrz4UYsp4Uvsa2dmMkN
-
-#EXTINF:-1 tvg-id="4249588" tvg-name="FanCode - West Ham United vs Queens Park Rangers F.C. [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249588_52993_WHU_QPR_fc-web.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - West Ham United vs Queens Park Rangers F.C. [English]
-https://in-mc-flive.fancode.com/mumbai/4249588_english_hls_ab48fa75c557855_1ta-di_h264/720p.m3u8?hdntl=Expires=1791657941~_GO=Generated~acl=/mumbai/4249588_english_hls_ab48fa75c557855_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_984a3a84-c59f-42~Signature=AXZsC1DEvgy4HPKZTj-WKLp-JLyojWu9VtcDcSRxwPJZKcQLT-NueZzt6Nizb5Qaz4kVRDC1jguwgnHP2Rmny-rAQnwB
+#EXTINF:-1 tvg-id="4249663" tvg-name="FanCode - Tasmania vs New South Wales [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - Tasmania vs New South Wales [English]
+https://in-mc-flive.fancode.com/mumbai/4249663_english_hls_8e2773aae983814_1ta-di_h264/720p.m3u8?hdntl=Expires=1791674404~_GO=Generated~acl=/mumbai/4249663_english_hls_8e2773aae983814_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_5284382d-5fc8-4f~Signature=AXZsC1C_FNj-JpiPJXpLlDDcrdWRe2VLv7NqVnwtBWo3_F4YFQaEtR1juyX-acLN9lOk6WYWerjr7K7dInW_oaqZa3YD
