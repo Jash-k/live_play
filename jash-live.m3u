@@ -38,7 +38,7 @@ https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=1389
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0d750ebd52b5756aa7fb833f61ceece:4ae62a20c030c918aad24193c1dda229
-#EXTHTTP:{"cookie":"__hdnea__=st=1791642997~exp=1791664597~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=bd38acd0f1da6c4ac060023705d862f7acaa62e0dbabcace4f7f23917bb399e5"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1791664629~exp=1791686229~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=cbfb287ebf03a3522a8b7563735deb79f5fed8aeb00bcbe198fd319ecee4d19a"}
 #EXTVLCOPT:http-user-agent=Virat
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mpd
 
@@ -51,8 +51,8 @@ https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mp
 #EXTVLCOPT:http-user-agent=Virat Kohli
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1791683205~acl=%2f*~id=8a0f084a08c7b8da69eaecf4ebdf7027~data=hdntl~hmac=dc8db40dbcee02223ba7cd875c04c40cf31f9991b6d262131edc6a94af00f063
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat Kohli","Cookie":"hdntl=exp=1791683205~acl=%2f*~id=8a0f084a08c7b8da69eaecf4ebdf7027~data=hdntl~hmac=dc8db40dbcee02223ba7cd875c04c40cf31f9991b6d262131edc6a94af00f063"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1791755217~acl=%2f*~id=b07da0716d746fbed90b93cd36005057~data=hdntl~hmac=cdabcb08256a10a738b3e139cd4b392a6dd9b04d623638c965fed089f9b2cca8
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat Kohli","Cookie":"hdntl=exp=1791755217~acl=%2f*~id=b07da0716d746fbed90b93cd36005057~data=hdntl~hmac=cdabcb08256a10a738b3e139cd4b392a6dd9b04d623638c965fed089f9b2cca8"}
 https://livetv.hotstar.com/mp2/gec-india-1540068334/3468fd902b12418598cabe63585e7efe/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Tamil Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6839/1782284756839-h.jpg" group-title="Sports - Star Sports - Tamil" tvg-language="Tamil",Star Sports 1 Tamil Digital
@@ -63,9 +63,9 @@ https://livetv.hotstar.com/mp2/gec-india-1540068334/3468fd902b12418598cabe63585e
 #EXTVLCOPT:http-user-agent=Virat Kohli
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1791683205~acl=%2f*~id=8a0f084a08c7b8da69eaecf4ebdf7027~data=hdntl~hmac=dc8db40dbcee02223ba7cd875c04c40cf31f9991b6d262131edc6a94af00f063
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1791683205~acl=%2f*~id=8a0f084a08c7b8da69eaecf4ebdf7027~data=hdntl~hmac=dc8db40dbcee02223ba7cd875c04c40cf31f9991b6d262131edc6a94af00f063"}
-https://livetv.hotstar.com/mp2/gec-india-1540068334/3468fd902b12418598cabe63585e7efe/index.mpd?|cookie=hdntl=exp=1791683205~acl=%2f*~id=8a0f084a08c7b8da69eaecf4ebdf7027~data=hdntl~hmac=dc8db40dbcee02223ba7cd875c04c40cf31f9991b6d262131edc6a94af00f063&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Virat Kohli
+#EXTVLCOPT:http-cookie=hdntl=exp=1791755217~acl=%2f*~id=b07da0716d746fbed90b93cd36005057~data=hdntl~hmac=cdabcb08256a10a738b3e139cd4b392a6dd9b04d623638c965fed089f9b2cca8
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1791755217~acl=%2f*~id=b07da0716d746fbed90b93cd36005057~data=hdntl~hmac=cdabcb08256a10a738b3e139cd4b392a6dd9b04d623638c965fed089f9b2cca8"}
+https://livetv.hotstar.com/mp2/gec-india-1540068334/3468fd902b12418598cabe63585e7efe/index.mpd?|cookie=hdntl=exp=1791755217~acl=%2f*~id=b07da0716d746fbed90b93cd36005057~data=hdntl~hmac=cdabcb08256a10a738b3e139cd4b392a6dd9b04d623638c965fed089f9b2cca8&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Virat Kohli
 
 #EXTINF:-1 tvg-id="Star Sports 1 Tamil HD" tvg-name="Star Sports 1 Tamil HD" tvg-logo="https://img.media.jio.com/tvpimages/19/19/302122_1749662923298_l_medium.jpg" group-title="Sports - Star Sports - Tamil" tvg-language="Tamil",Star Sports 1 Tamil HD
 https://streamhub.dhruvpatil681.workers.dev/4353.m3u8
@@ -76,15 +76,33 @@ https://streamhub.dhruvpatil681.workers.dev/4353.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=3278&token=RiYlIZ
 https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=3277
 
+#EXTINF:-1 tvg-id="3277" tvg-name="Star Sports 1 Tamil HD" tvg-logo="https://img.media.jio.com/tvpimages/19/19/302122_1749662923298_l_medium.jpg" group-title="Sports - Star Sports - Tamil" tvg-language="Tamil",Star Sports 1 Tamil HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337
+#EXTHTTP:{"cookie":"__hdnea__=st=1791655774~exp=1791677374~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=99dcc5af1f3325382a11d8f2cc997f34b29bf1281e1971621e28b9939330bd94"}
+#EXTVLCOPT:http-user-agent=Virat
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.mpd
+
 #EXTINF:-1 tvg-id="Star Sports 2 Tamil" tvg-name="Star Sports 2 Tamil" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Sports - Star Sports - Tamil" tvg-language="Tamil",Star Sports 2 Tamil
 https://streamhub.dhruvpatil681.workers.dev/6167.m3u8
+
+#EXTINF:-1 tvg-id="2853" tvg-name="Star Sports 2 Tamil" tvg-logo="https://img.media.jio.com/tvpimages/74/92/301561_1749664725619_l_medium.jpg" group-title="Sports - Star Sports - Tamil" tvg-language="Tamil",Star Sports 2 Tamil
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3979aae1ca51561c9e8074cd618b3864:ae12e0e147d3e76cfa62bfb99bc07109
+#EXTHTTP:{"cookie":"__hdnea__=st=1791655774~exp=1791677374~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=b83cc8334e87b32412b0317a12a59bcfcfd6234ae999faaad6759398a84955e4"}
+#EXTVLCOPT:http-user-agent=Virat
+https://jiotvpllive.cdn.jio.com//bpk-tv/Sports18_3_MOB/WDVCatchup/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 Tamil" tvg-logo="https://i.ibb.co/cXNb5Y9t/SS2-TAMIL.jpg" group-title="Sports - Star Sports - Tamil" tvg-language="Tamil",STAR SPORTS 2 Tamil
 #EXTVLCOPT:http-user-agent=Virat Kohli
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1791683205~acl=%2f*~id=8a0f084a08c7b8da69eaecf4ebdf7027~data=hdntl~hmac=dc8db40dbcee02223ba7cd875c04c40cf31f9991b6d262131edc6a94af00f063
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat Kohli","Cookie":"hdntl=exp=1791683205~acl=%2f*~id=8a0f084a08c7b8da69eaecf4ebdf7027~data=hdntl~hmac=dc8db40dbcee02223ba7cd875c04c40cf31f9991b6d262131edc6a94af00f063"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1791755217~acl=%2f*~id=b07da0716d746fbed90b93cd36005057~data=hdntl~hmac=cdabcb08256a10a738b3e139cd4b392a6dd9b04d623638c965fed089f9b2cca8
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat Kohli","Cookie":"hdntl=exp=1791755217~acl=%2f*~id=b07da0716d746fbed90b93cd36005057~data=hdntl~hmac=cdabcb08256a10a738b3e139cd4b392a6dd9b04d623638c965fed089f9b2cca8"}
 https://jcevents.hotstar.com/bpk-tv/ee610073191492bdc18f85cafadf2751/JioHotstar/ee610073191492bdc18f85cafadf2751.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 Tamil Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6676/1783000836676-h.jpg" group-title="Sports - Star Sports - Tamil" tvg-language="Tamil",Star Sports 2 Tamil Digital
@@ -96,8 +114,8 @@ https://jcevents.hotstar.com/bpk-tv/ee610073191492bdc18f85cafadf2751/JioHotstar/
 #EXTVLCOPT:http-user-agent=Virat Kohli
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1791683205~acl=%2f*~id=8a0f084a08c7b8da69eaecf4ebdf7027~data=hdntl~hmac=dc8db40dbcee02223ba7cd875c04c40cf31f9991b6d262131edc6a94af00f063
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat Kohli","Cookie":"hdntl=exp=1791683205~acl=%2f*~id=8a0f084a08c7b8da69eaecf4ebdf7027~data=hdntl~hmac=dc8db40dbcee02223ba7cd875c04c40cf31f9991b6d262131edc6a94af00f063"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1791755217~acl=%2f*~id=b07da0716d746fbed90b93cd36005057~data=hdntl~hmac=cdabcb08256a10a738b3e139cd4b392a6dd9b04d623638c965fed089f9b2cca8
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat Kohli","Cookie":"hdntl=exp=1791755217~acl=%2f*~id=b07da0716d746fbed90b93cd36005057~data=hdntl~hmac=cdabcb08256a10a738b3e139cd4b392a6dd9b04d623638c965fed089f9b2cca8"}
 https://livetv.hotstar.com/mp2/gec-india-1540068337/9e957d4aa8054fdfa75a02de6c38e8d0/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 Tamil Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6676/1783000836676-h.jpg" group-title="Sports - Star Sports - Tamil" tvg-language="Tamil",Star Sports 2 Tamil Digital
@@ -108,9 +126,9 @@ https://livetv.hotstar.com/mp2/gec-india-1540068337/9e957d4aa8054fdfa75a02de6c38
 #EXTVLCOPT:http-user-agent=Virat Kohli
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1791683205~acl=%2f*~id=8a0f084a08c7b8da69eaecf4ebdf7027~data=hdntl~hmac=dc8db40dbcee02223ba7cd875c04c40cf31f9991b6d262131edc6a94af00f063
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1791683205~acl=%2f*~id=8a0f084a08c7b8da69eaecf4ebdf7027~data=hdntl~hmac=dc8db40dbcee02223ba7cd875c04c40cf31f9991b6d262131edc6a94af00f063"}
-https://livetv.hotstar.com/mp2/gec-india-1540068337/9e957d4aa8054fdfa75a02de6c38e8d0/index.mpd?|cookie=hdntl=exp=1791683205~acl=%2f*~id=8a0f084a08c7b8da69eaecf4ebdf7027~data=hdntl~hmac=dc8db40dbcee02223ba7cd875c04c40cf31f9991b6d262131edc6a94af00f063&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Virat Kohli
+#EXTVLCOPT:http-cookie=hdntl=exp=1791755217~acl=%2f*~id=b07da0716d746fbed90b93cd36005057~data=hdntl~hmac=cdabcb08256a10a738b3e139cd4b392a6dd9b04d623638c965fed089f9b2cca8
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1791755217~acl=%2f*~id=b07da0716d746fbed90b93cd36005057~data=hdntl~hmac=cdabcb08256a10a738b3e139cd4b392a6dd9b04d623638c965fed089f9b2cca8"}
+https://livetv.hotstar.com/mp2/gec-india-1540068337/9e957d4aa8054fdfa75a02de6c38e8d0/index.mpd?|cookie=hdntl=exp=1791755217~acl=%2f*~id=b07da0716d746fbed90b93cd36005057~data=hdntl~hmac=cdabcb08256a10a738b3e139cd4b392a6dd9b04d623638c965fed089f9b2cca8&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Virat Kohli
 
 #EXTINF:-1 tvg-id="3273" tvg-name="Star Sports 2 Tamil HD" tvg-logo="https://img.media.jio.com/tvpimages/50/43/302120_1749664850896_l_medium.jpg" group-title="Sports - Star Sports - Tamil" tvg-language="Tamil",Star Sports 2 Tamil HD
 #EXTVLCOPT:http-user-agent=Denver1769
@@ -123,7 +141,7 @@ https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=3273
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc44fe6251825774b90d58dcfa7d94e0:63e3ae853f483a86752b5b9e6d61eb20
-#EXTHTTP:{"cookie":"__hdnea__=st=1791643003~exp=1791664603~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=4b940dc3bce527adc7ea972f8cb34659c75bab0b899f3a9e679e9cbc6397b6ce"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1791664633~exp=1791686233~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=5370550c5fab73b55ae5ea4cce0cde55e479ea99c1a4a07a3e65186aa0842d79"}
 #EXTVLCOPT:http-user-agent=Virat
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd
 
@@ -180,72 +198,3 @@ https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereb
 
 #EXTINF:-1 tvg-id="Sony Sports Ten 4 Tamil" tvg-name="Sony Sports Ten 4 Tamil" tvg-logo="https://i.postimg.cc/J0Lxt4z8/Sony-Sports-TEN-4-Tamil.png" group-title="Sports - Sony Sports - Tamil" tvg-language="Tamil",Sony Sports Ten 4 Tamil
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten4.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="FanCode - 2026 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791702269~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_70f1d09e-434a-40~Signature=AXZsC1CVtHVMujHr3n8MZ2XU3UylAYiLT-TzTJkQm4G2OT3rB3HbYUSy76qouPlJrmHf2gq3mHp4apnwYqR5b8oxDOUL
-
-#EXTINF:-1 tvg-id="" tvg-name="FanCode - 2026 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250061_53103_ABD_EMB_FC-WEB.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250099_english_hls_2e652614b128379_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791725475~_GO=Generated~acl=/mumbai/4250099_english_hls_2e652614b128379_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6e80e541-7bc0-41~Signature=AXZsC1CEkrbcYL3E3oKNSEThk5kc4HwuPJMm1FiGmkdquAdFjTr6LT3maeWWqreXHqE30eOddwpEkmakd6HM7QBq9bMI
-
-#EXTINF:-1 tvg-id="4250136" tvg-name="FanCode - ADAC GT Masters - Race 1 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ADAC GT Masters - Race 1 [English]
-https://in-mc-flive.fancode.com/mumbai/4250136_english_hls_7798a46a0911812_1ta-di_h264/720p.m3u8?hdntl=Expires=1791723007~_GO=Generated~acl=/mumbai/4250136_english_hls_7798a46a0911812_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e1e5a140-a2c9-42~Signature=AXZsC1CU5-66V9HJ6BQFXvKGT7VQnIWqOsqDuSrx42p72DN2XAkW-GlMJcDnW2_0gASkjquhnvBt8H_8B9B7WmTXnPIC
-
-#EXTINF:-1 tvg-id="" tvg-name="FanCode - ATP Masters - Rolex Shanghai Masters [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ATP Masters - Rolex Shanghai Masters [English]
-https://in-mc-flive.fancode.com/mumbai/4248821_english_hls_0b332350ae68550_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791719957~_GO=Generated~acl=/mumbai/4248821_english_hls_0b332350ae68550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_555c4d9f-2413-47~Signature=AXZsC1B_5rl4O9YabpuicdHMNNMxPQK-xMNWDUpns5XIZokqM7k362MiQF_hVbmVVR5VKEhfQa52DWXySvti1sZNIYUL
-
-#EXTINF:-1 tvg-id="" tvg-name="FanCode - ATP Masters - Rolex Shanghai Masters [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ATP Masters - Rolex Shanghai Masters [English]
-https://in-mc-flive.fancode.com/mumbai/4250196_english_hls_79cd94c15c59965_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791725476~_GO=Generated~acl=/mumbai/4250196_english_hls_79cd94c15c59965_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f8b39089-f242-4a~Signature=AXZsC1CM0y9Y74tZRcCC0-eRguPgdhCk7qXwW3Lj-E1zCtqh1uFRndAFR1X6eTM9iBegxqVbsJ6drnKBBqZFg--dKK4H
-
-#EXTINF:-1 tvg-id="4249781" tvg-name="FanCode - Australia vs South Africa [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - Australia vs South Africa [English]
-https://in-mc-flive.fancode.com/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/720p.m3u8?hdntl=Expires=1791702269~_GO=Generated~acl=/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_70f1d09e-434a-40~Signature=AXZsC1CVtHVMujHr3n8MZ2XU3UylAYiLT-TzTJkQm4G2OT3rB3HbYUSy76qouPlJrmHf2gq3mHp4apnwYqR5b8oxDOUL
-
-#EXTINF:-1 tvg-id="4249590" tvg-name="FanCode - Bolton Wanderers vs Stoke City F.C. [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249590_52993_BOL_STK_fc-web.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - Bolton Wanderers vs Stoke City F.C. [English]
-https://in-mc-flive.fancode.com/mumbai/4249590_english_hls_916d42ca4892746_1ta-di_h264/720p.m3u8?hdntl=Expires=1791726705~_GO=Generated~acl=/mumbai/4249590_english_hls_916d42ca4892746_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e3f21df0-b30f-48~Signature=AXZsC1BgPdkpCGWkJe2ITdFXDK-iUnwUS6fw9shRasoY_3AR6v25EDrmp3c5he0TXOmrcga1qs8ENeAP5d-lahCmDGMG
-
-#EXTINF:-1 tvg-id="" tvg-name="FanCode - BWF Super 500 - Arctic Open 2026 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - BWF Super 500 - Arctic Open 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250126_english_hls_4ad32cab3920278_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791703484~_GO=Generated~acl=/mumbai/4250126_english_hls_4ad32cab3920278_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_10506779-8f62-46~Signature=AXZsC1A6iqxxY-pBoGhI8d5O3_dJ0JShJzDbq28cGOWHIV4rfpXJAwEmZse4ksnqHp2LxPsPxo88OUuMkk3d7X-aqY8H
-
-#EXTINF:-1 tvg-id="" tvg-name="FanCode - DTM 2026 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - DTM 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250136_english_hls_7798a46a0911812_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1791723007~_GO=Generated~acl=/mumbai/4250136_english_hls_7798a46a0911812_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e1e5a140-a2c9-42~Signature=AXZsC1CU5-66V9HJ6BQFXvKGT7VQnIWqOsqDuSrx42p72DN2XAkW-GlMJcDnW2_0gASkjquhnvBt8H_8B9B7WmTXnPIC
-
-#EXTINF:-1 tvg-id="" tvg-name="FanCode - EFL Championship 2026-27 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249590_52993_BOL_STK_fc-web.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - EFL Championship 2026-27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249590_english_hls_916d42ca4892746_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791726705~_GO=Generated~acl=/mumbai/4249590_english_hls_916d42ca4892746_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e3f21df0-b30f-48~Signature=AXZsC1BgPdkpCGWkJe2ITdFXDK-iUnwUS6fw9shRasoY_3AR6v25EDrmp3c5he0TXOmrcga1qs8ENeAP5d-lahCmDGMG
-
-#EXTINF:-1 tvg-id="4250099" tvg-name="FanCode - Emirates Blues vs Abu Dhabi [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250061_53103_ABD_EMB_FC-WEB.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - Emirates Blues vs Abu Dhabi [English]
-https://in-mc-flive.fancode.com/mumbai/4250099_english_hls_2e652614b128379_1ta-di_h264/720p.m3u8?hdntl=Expires=1791725475~_GO=Generated~acl=/mumbai/4250099_english_hls_2e652614b128379_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_6e80e541-7bc0-41~Signature=AXZsC1CEkrbcYL3E3oKNSEThk5kc4HwuPJMm1FiGmkdquAdFjTr6LT3maeWWqreXHqE30eOddwpEkmakd6HM7QBq9bMI
-
-#EXTINF:-1 tvg-id="4250136" tvg-name="FanCode - ENG | Adac Gt Masters Race 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ADAC-GT-Masters-Baden-Wurttemberg_fc-web.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | Adac Gt Masters Race 1
-https://dai-fancode.pages.dev/mumbai/4250136_english_hls_7798a46a0911812_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4249781" tvg-name="FanCode - ENG | Australia Vs South Africa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | Australia Vs South Africa
-https://dai-fancode.pages.dev/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4249590" tvg-name="FanCode - ENG | Bolton Wanderers Vs Stoke City F.c." tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249590_52993_BOL_STK_fc-web.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | Bolton Wanderers Vs Stoke City F.c.
-https://dai-fancode.pages.dev/mumbai/4249590_english_hls_916d42ca4892746_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4247639" tvg-name="FanCode - ENG | Deportivo Alaves Vs Atletico De Madrid" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247639_53004_ALA_ATM_FC-Web.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | Deportivo Alaves Vs Atletico De Madrid
-https://dai-fancode.pages.dev/mumbai/4247639_english_hls_9cf107168a94586_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4250099" tvg-name="FanCode - ENG | Emirates Blues Vs Abu Dhabi" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250061_53103_ABD_EMB_FC-WEB.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | Emirates Blues Vs Abu Dhabi
-https://dai-fancode.pages.dev/mumbai/4250099_english_hls_2e652614b128379_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="139500" tvg-name="FanCode - ENG | Qualifying" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_SINGAPORE_fc-web.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | Qualifying
-https://dai-fancode.pages.dev/mumbai/139500_english_hls_92c67e541b7012_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4250126" tvg-name="FanCode - ENG | Semi Final" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | Semi Final
-https://dai-fancode.pages.dev/mumbai/4250126_english_hls_4ad32cab3920278_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4250196" tvg-name="FanCode - ENG | Stadium Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | Stadium Court
-https://dai-fancode.pages.dev/mumbai/4250196_english_hls_79cd94c15c59965_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4248821" tvg-name="FanCode - ENG | World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | World Feed
-https://dai-fancode.pages.dev/mumbai/4248821_english_hls_0b332350ae68550_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4250126" tvg-name="FanCode - Semi-Final [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - Semi-Final [English]
-https://in-mc-flive.fancode.com/mumbai/4250126_english_hls_4ad32cab3920278_1ta-di_h264/720p.m3u8?hdntl=Expires=1791703484~_GO=Generated~acl=/mumbai/4250126_english_hls_4ad32cab3920278_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_10506779-8f62-46~Signature=AXZsC1A6iqxxY-pBoGhI8d5O3_dJ0JShJzDbq28cGOWHIV4rfpXJAwEmZse4ksnqHp2LxPsPxo88OUuMkk3d7X-aqY8H
-
-#EXTINF:-1 tvg-id="4250196" tvg-name="FanCode - Stadium Court [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - Stadium Court [English]
-https://in-mc-flive.fancode.com/mumbai/4250196_english_hls_79cd94c15c59965_1ta-di_h264/720p.m3u8?hdntl=Expires=1791725476~_GO=Generated~acl=/mumbai/4250196_english_hls_79cd94c15c59965_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f8b39089-f242-4a~Signature=AXZsC1CM0y9Y74tZRcCC0-eRguPgdhCk7qXwW3Lj-E1zCtqh1uFRndAFR1X6eTM9iBegxqVbsJ6drnKBBqZFg--dKK4H
-
-#EXTINF:-1 tvg-id="4248821" tvg-name="FanCode - World Feed [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - World Feed [English]
-https://in-mc-flive.fancode.com/mumbai/4248821_english_hls_0b332350ae68550_1ta-di_h264/720p.m3u8?hdntl=Expires=1791719957~_GO=Generated~acl=/mumbai/4248821_english_hls_0b332350ae68550_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_555c4d9f-2413-47~Signature=AXZsC1B_5rl4O9YabpuicdHMNNMxPQK-xMNWDUpns5XIZokqM7k362MiQF_hVbmVVR5VKEhfQa52DWXySvti1sZNIYUL
