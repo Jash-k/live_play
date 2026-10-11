@@ -287,12 +287,6 @@ https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_720/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 https://bd.drmlive.net/toffee/cdn/live/ten_cricket/playlist.m3u8
 
-#EXTINF:-1 tvg-id="4250201" tvg-name="FanCode - Court 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Review - language uncertain",FanCode - Court 4
-https://in-mc-flive.fancode.com/mumbai/4250201_english_hls_8cf7af7c8030602_1ta-di_h264/720p.m3u8?hdntl=Expires=1791776878~_GO=Generated~acl=/mumbai/4250201_english_hls_8cf7af7c8030602_1ta-di_h264/*~SessionID=122002764__d739d4f1-d71d-4f~Signature=AXZsC1CICzzvHwCbO_shxtelfr0OS4W08VwUniLFG2nZH5k4MsbyenvY3RIvWfHKOzl3jr4nHTrlG__utMp5GZZX--oC
-
-#EXTINF:-1 tvg-id="" tvg-name="FanCode - Court 4 vs Shanghai (ATP Masters - Rolex Shanghai Masters)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Review - language uncertain",FanCode - Court 4 vs Shanghai (ATP Masters - Rolex Shanghai Masters)
-https://in-mc-flive.fancode.com/mumbai/4250201_english_hls_8cf7af7c8030602_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791776878~_GO=Generated~acl=/mumbai/4250201_english_hls_8cf7af7c8030602_1ta-di_h264/*~SessionID=122002764__d739d4f1-d71d-4f~Signature=AXZsC1CICzzvHwCbO_shxtelfr0OS4W08VwUniLFG2nZH5k4MsbyenvY3RIvWfHKOzl3jr4nHTrlG__utMp5GZZX--oC
-
 #EXTINF:-1 tvg-id="fancode1" tvg-name="FANCODE 1" tvg-logo="https://i.ibb.co/jvS7zkgW/images.png" group-title="Review - language uncertain",FANCODE 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey

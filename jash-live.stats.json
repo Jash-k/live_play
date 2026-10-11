@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T12:57:09.776Z",
+  "generatedAt": "2026-10-11T18:57:43.712Z",
   "sources": [
     {
       "repo": "maybetv/Jo",
@@ -11,7 +11,7 @@
       "repo": "maybetv/Jo",
       "file": "Zoh.m3u",
       "ok": true,
-      "parsed": 146
+      "parsed": 128
     },
     {
       "repo": "maybetv/Jo",
@@ -71,7 +71,7 @@
       "repo": "sportlive18/Sportlink-wtf",
       "file": "fancode3.m3u",
       "ok": true,
-      "parsed": 14
+      "parsed": 4
     },
     {
       "repo": "sportlive18/Sportlink-wtf",
@@ -83,13 +83,13 @@
       "repo": "sportlive18/Sportlink-wtf",
       "file": "fancode.m3u",
       "ok": true,
-      "parsed": 14
+      "parsed": 5
     },
     {
       "repo": "sportlive18/Sportlink-wtf",
       "file": "fancode2.m3u",
       "ok": true,
-      "parsed": 14
+      "parsed": 5
     }
   ],
   "main": {
@@ -98,17 +98,17 @@
     "Star Sports / Tamil": 9,
     "Sony Sports / English": 12,
     "Sony Sports / Tamil": 1,
-    "FanCode / English": 40
+    "FanCode / English": 13
   },
   "review": {
     "Star Sports": 24,
     "Sony Sports": 19,
-    "FanCode": 4,
+    "FanCode": 2,
     "Willow": 4,
     "Cricbuzz": 1
   },
   "dropped": {
-    "regional": 54,
+    "regional": 55,
     "expired": 13,
     "duplicate": 40,
     "unsupported": 9
