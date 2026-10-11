@@ -189,15 +189,6 @@
     }
   },
   {
-    "name": "Star Sports Select 1",
-    "family": "Star Sports",
-    "reason": "no explicit Tamil/English label",
-    "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "Star.m3u"
-    }
-  },
-  {
     "name": "STAR SPORTS SELECT 1 4K*",
     "family": "Star Sports",
     "reason": "no explicit Tamil/English label",
@@ -285,15 +276,6 @@
     "source": {
       "repo": "maybetv/Jo",
       "file": "Zoh2.m3u"
-    }
-  },
-  {
-    "name": "Star Sports Select 2 HD",
-    "family": "Star Sports",
-    "reason": "no explicit Tamil/English label",
-    "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "Star.m3u"
     }
   },
   {

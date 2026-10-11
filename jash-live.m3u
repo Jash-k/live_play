@@ -5,8 +5,8 @@
 #EXTINF:-1 tvg-id="" tvg-name="Bigg Boss Tamil 24/7" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/2305/1788708712305-h.jpg" group-title="Bigg Boss Tamil 24/7" tvg-language="Tamil",Bigg Boss Tamil 24/7
 #EXTVLCOPT:http-user-agent=@virat10
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
-#EXTVLCOPT:http-cookie=hdntl=exp=1791683205~acl=%2f*~id=8a0f084a08c7b8da69eaecf4ebdf7027~data=hdntl~hmac=dc8db40dbcee02223ba7cd875c04c40cf31f9991b6d262131edc6a94af00f063
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"@virat10","Cookie":"hdntl=exp=1791683205~acl=%2f*~id=8a0f084a08c7b8da69eaecf4ebdf7027~data=hdntl~hmac=dc8db40dbcee02223ba7cd875c04c40cf31f9991b6d262131edc6a94af00f063"}
+#EXTVLCOPT:http-cookie=hdntl=exp=1791755217~acl=%2f*~id=b07da0716d746fbed90b93cd36005057~data=hdntl~hmac=cdabcb08256a10a738b3e139cd4b392a6dd9b04d623638c965fed089f9b2cca8
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"@virat10","Cookie":"hdntl=exp=1791755217~acl=%2f*~id=b07da0716d746fbed90b93cd36005057~data=hdntl~hmac=cdabcb08256a10a738b3e139cd4b392a6dd9b04d623638c965fed089f9b2cca8"}
 https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tam-2026/0e8f0050df134b708ab297477fbf0e86/index_6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 ENGLISH 4K*" tvg-logo="" group-title="Sports - Star Sports - English" tvg-language="English",STAR SPORTS 1 ENGLISH 4K*
@@ -32,15 +32,6 @@ https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=1109
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1391&token=RiYlIZ
 https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=1389
-
-#EXTINF:-1 tvg-id="1124" tvg-name="Star Sports 1 Tamil" tvg-logo="https://img.media.jio.com/tvpimages/69/73/301995_1749664384503_l_medium.jpg" group-title="Sports - Star Sports - Tamil" tvg-language="Tamil",Star Sports 1 Tamil
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0d750ebd52b5756aa7fb833f61ceece:4ae62a20c030c918aad24193c1dda229
-#EXTHTTP:{"cookie":"__hdnea__=st=1791664629~exp=1791686229~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=cbfb287ebf03a3522a8b7563735deb79f5fed8aeb00bcbe198fd319ecee4d19a"}
-#EXTVLCOPT:http-user-agent=Virat
-https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Tamil Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6839/1782284756839-h.jpg" group-title="Sports - Star Sports - Tamil" tvg-language="Tamil",Star Sports 1 Tamil Digital
 #KODIPROP:inputstream=inputstream.adaptive
@@ -81,7 +72,7 @@ https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=3277
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337
-#EXTHTTP:{"cookie":"__hdnea__=st=1791655774~exp=1791677374~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=99dcc5af1f3325382a11d8f2cc997f34b29bf1281e1971621e28b9939330bd94"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1791677447~exp=1791699047~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=3f3beab068886a70b04d93881ed25069d807a2cf8fd53cc99924ff390c9d8f32"}
 #EXTVLCOPT:http-user-agent=Virat
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.mpd
 
@@ -93,7 +84,7 @@ https://streamhub.dhruvpatil681.workers.dev/6167.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3979aae1ca51561c9e8074cd618b3864:ae12e0e147d3e76cfa62bfb99bc07109
-#EXTHTTP:{"cookie":"__hdnea__=st=1791655774~exp=1791677374~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=b83cc8334e87b32412b0317a12a59bcfcfd6234ae999faaad6759398a84955e4"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1791677415~exp=1791699015~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=cfe37d570305a8f2e5f16c6836d48fa136c910a7027d2ecf19585b71373737d9"}
 #EXTVLCOPT:http-user-agent=Virat
 https://jiotvpllive.cdn.jio.com//bpk-tv/Sports18_3_MOB/WDVCatchup/index.mpd
 
@@ -135,15 +126,6 @@ https://livetv.hotstar.com/mp2/gec-india-1540068337/9e957d4aa8054fdfa75a02de6c38
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=3274&token=RiYlIZ
 https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=3273
-
-#EXTINF:-1 tvg-id="3273" tvg-name="Star Sports 2 Tamil HD" tvg-logo="https://img.media.jio.com/tvpimages/50/43/302120_1749664850896_l_medium.jpg" group-title="Sports - Star Sports - Tamil" tvg-language="Tamil",Star Sports 2 Tamil HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc44fe6251825774b90d58dcfa7d94e0:63e3ae853f483a86752b5b9e6d61eb20
-#EXTHTTP:{"cookie":"__hdnea__=st=1791664633~exp=1791686233~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=5370550c5fab73b55ae5ea4cce0cde55e479ea99c1a4a07a3e65186aa0842d79"}
-#EXTVLCOPT:http-user-agent=Virat
-https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="sony-ten-1" tvg-name="Sony Sports Ten 1" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sports - Sony Sports - English" tvg-language="English",Sony Sports Ten 1
 https://sliv.tgaadi.workers.dev/ten1sd.m3u8
@@ -198,3 +180,12 @@ https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereb
 
 #EXTINF:-1 tvg-id="Sony Sports Ten 4 Tamil" tvg-name="Sony Sports Ten 4 Tamil" tvg-logo="https://i.postimg.cc/J0Lxt4z8/Sony-Sports-TEN-4-Tamil.png" group-title="Sports - Sony Sports - Tamil" tvg-language="Tamil",Sony Sports Ten 4 Tamil
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FanCode - 2026/27 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - 2026/27 [English]
+https://in-mc-flive.fancode.com/mumbai/4249663_english_hls_8e2773aae917341_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791761117~_GO=Generated~acl=/mumbai/4249663_english_hls_8e2773aae917341_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a66a72f5-839e-44~Signature=AXZsC1AH-y3a3Wbnd1H9B4SW5Xmj8nZKqovTzfE2e2DGUYcermM4n0e6liA0bmMmP-a8UtWZ3XoBHLeyzAD3UbtE5rAA
+
+#EXTINF:-1 tvg-id="4249663" tvg-name="FanCode - ENG | Tasmania Vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | Tasmania Vs New South Wales
+https://dai-fancode.pages.dev/mumbai/4249663_english_hls_8e2773aae917341_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4249663" tvg-name="FanCode - Tasmania vs New South Wales [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - Tasmania vs New South Wales [English]
+https://in-mc-flive.fancode.com/mumbai/4249663_english_hls_8e2773aae917341_1ta-di_h264/720p.m3u8?hdntl=Expires=1791761117~_GO=Generated~acl=/mumbai/4249663_english_hls_8e2773aae917341_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a66a72f5-839e-44~Signature=AXZsC1AH-y3a3Wbnd1H9B4SW5Xmj8nZKqovTzfE2e2DGUYcermM4n0e6liA0bmMmP-a8UtWZ3XoBHLeyzAD3UbtE5rAA
