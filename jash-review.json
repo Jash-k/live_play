@@ -387,6 +387,15 @@
     }
   },
   {
+    "name": "ENG | Pohang Steelers Vs Johor Darul Ta'zim",
+    "family": "FanCode",
+    "reason": "conflicting Tamil/English metadata",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "fancode2.m3u"
+    }
+  },
+  {
     "name": "FANCODE 1",
     "family": "FanCode",
     "reason": "no explicit Tamil/English label",

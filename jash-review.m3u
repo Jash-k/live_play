@@ -287,6 +287,9 @@ https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_720/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 https://bd.drmlive.net/toffee/cdn/live/ten_cricket/playlist.m3u8
 
+#EXTINF:-1 tvg-id="4248706" tvg-name="FanCode - ENG | Pohang Steelers Vs Johor Darul Ta'zim" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248706_53053_PHG_JDT_fc-web.jpg" group-title="Review - language uncertain",FanCode - ENG | Pohang Steelers Vs Johor Darul Ta'zim
+https://dai-fancode.pages.dev/mumbai/4248706_english_hls_c1f4fcc3a142908_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
 #EXTINF:-1 tvg-id="fancode1" tvg-name="FANCODE 1" tvg-logo="https://i.ibb.co/jvS7zkgW/images.png" group-title="Review - language uncertain",FANCODE 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
