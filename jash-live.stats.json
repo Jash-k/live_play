@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T07:42:20.936Z",
+  "generatedAt": "2026-10-14T13:46:29.735Z",
   "sources": [
     {
       "repo": "maybetv/Jo",
@@ -11,7 +11,7 @@
       "repo": "maybetv/Jo",
       "file": "Zoh.m3u",
       "ok": true,
-      "parsed": 133
+      "parsed": 142
     },
     {
       "repo": "maybetv/Jo",
@@ -52,8 +52,8 @@
     {
       "repo": "sportlive18/Sportlink-wtf",
       "file": "Star.m3u",
-      "ok": false,
-      "error": "No playlist entries"
+      "ok": true,
+      "parsed": 23
     },
     {
       "repo": "sportlive18/Sportlink-wtf",
@@ -83,7 +83,7 @@
       "repo": "sportlive18/Sportlink-wtf",
       "file": "fancode.m3u",
       "ok": true,
-      "parsed": 6
+      "parsed": 7
     },
     {
       "repo": "sportlive18/Sportlink-wtf",
@@ -108,8 +108,8 @@
     "Cricbuzz": 1
   },
   "dropped": {
-    "regional": 44,
-    "expired": 0,
+    "regional": 55,
+    "expired": 13,
     "duplicate": 40,
     "unsupported": 9
   },
