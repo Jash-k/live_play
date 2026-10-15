@@ -31,7 +31,7 @@ https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=1389
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0d750ebd52b5756aa7fb833f61ceece:4ae62a20c030c918aad24193c1dda229
-#EXTHTTP:{"cookie":"__hdnea__=st=1792068770~exp=1792090370~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=6bd6e77f5d25a086ce69901e550b18099413e1dfc6373f4d7c3999fc82ca0990"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1792090379~exp=1792111979~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=3aa19478e0fdf5e6ad222f1746bf6c94fb953c305875f8791ac4543a53653fdb"}
 #EXTVLCOPT:http-user-agent=Virat
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mpd
 
@@ -44,23 +44,32 @@ https://streamhub.dhruvpatil681.workers.dev/4353.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=3278&token=RiYlIZ
 https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=3277
 
-#EXTINF:-1 tvg-id="Star Sports 2 Tamil" tvg-name="Star Sports 2 Tamil" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Sports - Star Sports - Tamil" tvg-language="Tamil",Star Sports 2 Tamil
-https://streamhub.dhruvpatil681.workers.dev/6167.m3u8
-
-#EXTINF:-1 tvg-id="2853" tvg-name="Star Sports 2 Tamil" tvg-logo="https://img.media.jio.com/tvpimages/74/92/301561_1749664725619_l_medium.jpg" group-title="Sports - Star Sports - Tamil" tvg-language="Tamil",Star Sports 2 Tamil
+#EXTINF:-1 tvg-id="3277" tvg-name="Star Sports 1 Tamil HD" tvg-logo="https://img.media.jio.com/tvpimages/19/19/302122_1749662923298_l_medium.jpg" group-title="Sports - Star Sports - Tamil" tvg-language="Tamil",Star Sports 1 Tamil HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3979aae1ca51561c9e8074cd618b3864:ae12e0e147d3e76cfa62bfb99bc07109
-#EXTHTTP:{"cookie":"__hdnea__=st=1792076317~exp=1792097917~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=d6b9c314d5c0bc142015460f65e507c6f7c0d29c65a850675ec8c533c575bc61"}
+#KODIPROP:inputstream.adaptive.license_key=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337
+#EXTHTTP:{"cookie":"__hdnea__=st=1792080860~exp=1792102460~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=e5c55e987e7c38c0d95377196e382454452d64455d00979d89911cdaeb694cb6"}
 #EXTVLCOPT:http-user-agent=Virat
-https://jiotvpllive.cdn.jio.com//bpk-tv/Sports18_3_MOB/WDVCatchup/index.mpd
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.mpd
+
+#EXTINF:-1 tvg-id="Star Sports 2 Tamil" tvg-name="Star Sports 2 Tamil" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Sports - Star Sports - Tamil" tvg-language="Tamil",Star Sports 2 Tamil
+https://streamhub.dhruvpatil681.workers.dev/6167.m3u8
 
 #EXTINF:-1 tvg-id="3273" tvg-name="Star Sports 2 Tamil HD" tvg-logo="https://img.media.jio.com/tvpimages/50/43/302120_1749664850896_l_medium.jpg" group-title="Sports - Star Sports - Tamil" tvg-language="Tamil",Star Sports 2 Tamil HD
 #EXTVLCOPT:http-user-agent=Denver1769
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=3274&token=RiYlIZ
 https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=3273
+
+#EXTINF:-1 tvg-id="3273" tvg-name="Star Sports 2 Tamil HD" tvg-logo="https://img.media.jio.com/tvpimages/50/43/302120_1749664850896_l_medium.jpg" group-title="Sports - Star Sports - Tamil" tvg-language="Tamil",Star Sports 2 Tamil HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc44fe6251825774b90d58dcfa7d94e0:63e3ae853f483a86752b5b9e6d61eb20
+#EXTHTTP:{"cookie":"__hdnea__=st=1792080860~exp=1792102460~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=b49d20fc38e61b2ca3f67bef542f87815ac6a7074452bbccaa9eb92a85857c05"}
+#EXTVLCOPT:http-user-agent=Virat
+https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="sony-ten-1" tvg-name="Sony Sports Ten 1" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sports - Sony Sports - English" tvg-language="English",Sony Sports Ten 1
 https://sliv.tgaadi.workers.dev/ten1sd.m3u8
@@ -116,38 +125,17 @@ https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereb
 #EXTINF:-1 tvg-id="Sony Sports Ten 4 Tamil" tvg-name="Sony Sports Ten 4 Tamil" tvg-logo="https://i.postimg.cc/J0Lxt4z8/Sony-Sports-TEN-4-Tamil.png" group-title="Sports - Sony Sports - Tamil" tvg-language="Tamil",Sony Sports Ten 4 Tamil
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="FanCode - AFC Champions League Two 2026-27 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248980_53057_PNU_ADL_fc-web_1789025065400.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - AFC Champions League Two 2026-27 [English]
-https://in-mc-flive.fancode.com/mumbai/4248980_english_hls_ad871cefec97148_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792152163~_GO=Generated~acl=/mumbai/4248980_english_hls_ad871cefec97148_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_7e7cf8da-045b-47~Signature=AZJsJWbtmKvZiVK5fU6VxxAFc6EhYXrPrjSBn9imKnad4p6SImv6mqA85MyP_bgPlsmUw8bU-mX-NvnO_6vY4PFC6CUK
+#EXTINF:-1 tvg-id="4250180" tvg-name="FanCode - ENG | All Stars Cardinals Vs Atlanta Fire" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250180_53113_ASC_AF_fc-web_1791990455090.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | All Stars Cardinals Vs Atlanta Fire
+https://dai-fancode.pages.dev/mumbai/4250180_english_hls_f829c2decf14886_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="" tvg-name="FanCode - AFC Champions League Two 2026-27 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248984_53057_KFC_KIT_fc-web_1789025066016.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - AFC Champions League Two 2026-27 [English]
-https://in-mc-flive.fancode.com/mumbai/4248984_english_hls_cf7deef09a29291_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792152167~_GO=Generated~acl=/mumbai/4248984_english_hls_cf7deef09a29291_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ce4f9ffc-e1ab-45~Signature=AZJsJWZkjZtOUepGK50Pf9JZmDeua1wP6733BxmluctbwCB1FnXTGB2RVK4mY_Nd8BORxj1ZOedaUnR8dLnxV--V94kF
+#EXTINF:-1 tvg-id="4250190" tvg-name="FanCode - ENG | Atlanta Fire Women Vs Hurricanes Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250190_53114_AF-W_HR-W_fc-web.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | Atlanta Fire Women Vs Hurricanes Women
+https://dai-fancode.pages.dev/mumbai/4250190_english_hls_4159ce990880590_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="" tvg-name="FanCode - BWF Super 750 - Denmark Open 2026 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - BWF Super 750 - Denmark Open 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250143_english_hls_dc83fe001556797_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792133374~_GO=Generated~acl=/mumbai/4250143_english_hls_dc83fe001556797_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a7aaf065-3a27-4a~Signature=AZJsJWbqxTxEabezUKjJHVZSGT8JBqpsXYKtGZ3BbnBmu4Fhaw791Bv43-4QPtPk0tSqFhqtmpW2XkWCuC6V9_gDvaUJ
+#EXTINF:-1 tvg-id="4250179" tvg-name="FanCode - ENG | Atlanta Force Vs Space City Cowboys" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250179_53113_AFO_SCC_fc-web_1791990454359.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | Atlanta Force Vs Space City Cowboys
+https://dai-fancode.pages.dev/mumbai/4250179_english_hls_329a1f3b6151817_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="" tvg-name="FanCode - BWF Super 750 - Denmark Open 2026 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - BWF Super 750 - Denmark Open 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250144_english_hls_e65dfa782e42875_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792133376~_GO=Generated~acl=/mumbai/4250144_english_hls_e65dfa782e42875_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_a453dc59-35df-4a~Signature=AZJsJWbqagbLRSoTwJv2JlaIzJI-xVEaRFbDF-4UtYsNwZ-4ifwMYtUHg6YubRNPn-srQkMf8ROXWlZTYjeXdNReYEQO
+#EXTINF:-1 tvg-id="4250202" tvg-name="FanCode - ENG | Mansfield Town Vs Oxford United" tvg-logo="https://images.fancode.com/aig/match/v1791789693985/4250202_CASACARDS_SPORTY_APP.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | Mansfield Town Vs Oxford United
+https://dai-fancode.pages.dev/mumbai/4250202_english_hls_66b43b640016858_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4250176" tvg-name="FanCode - ENG | Michigan Cricket Stars Vs Prime Raider Gladiators" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250176_53113_MCS_PRG_fc-web_1791990455086.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | Michigan Cricket Stars Vs Prime Raider Gladiators
-https://dai-fancode.pages.dev/mumbai/4250176_english_hls_426f338d9c74332_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4250143" tvg-name="FanCode - ENG | Round 16 Court 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | Round 16 Court 1
-https://dai-fancode.pages.dev/mumbai/4250143_english_hls_dc83fe001556797_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4250144" tvg-name="FanCode - ENG | Round 16 Court 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | Round 16 Court 2
-https://dai-fancode.pages.dev/mumbai/4250144_english_hls_e65dfa782e42875_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4250178" tvg-name="FanCode - ENG | Rr Stars Vs Bay Blazers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250178_53113_RR_BB_fc-web_1791990454380.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | Rr Stars Vs Bay Blazers
-https://dai-fancode.pages.dev/mumbai/4250178_english_hls_793705ae8c37484_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4250189" tvg-name="FanCode - ENG | Southern Strikers Women Vs Seattle Thunders Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250189_53114_SS-W_ST-W_fc-web.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | Southern Strikers Women Vs Seattle Thunders Women
-https://dai-fancode.pages.dev/mumbai/4250189_english_hls_0c2b18c74c3083_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4250177" tvg-name="FanCode - ENG | St. Louis Americans Vs Atlanta Lightning" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250177_53113_SLA_AL_fc-web_1791990455142.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | St. Louis Americans Vs Atlanta Lightning
-https://dai-fancode.pages.dev/mumbai/4250177_english_hls_d60743940910506_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4250143" tvg-name="FanCode - Round 16 - Court 1 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - Round 16 - Court 1 [English]
-https://in-mc-flive.fancode.com/mumbai/4250143_english_hls_dc83fe001556797_1ta-di_h264/720p.m3u8?hdntl=Expires=1792162629~_GO=Generated~acl=/mumbai/4250143_english_hls_dc83fe001556797_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e44105b5-3985-48~Signature=AZJsJWZ3s1k_qr9dwurY-F4UqDTmhOZvPwaM6G8_MhhkPyDcQ1qh5nuMlsAGymiPNifH11OHodG2XXaHQvcHoBkyIuUN
-
-#EXTINF:-1 tvg-id="4250144" tvg-name="FanCode - Round 16 - Court 2 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - Round 16 - Court 2 [English]
-https://in-mc-flive.fancode.com/mumbai/4250144_english_hls_e65dfa782e42875_1ta-di_h264/720p.m3u8?hdntl=Expires=1792162631~_GO=Generated~acl=/mumbai/4250144_english_hls_e65dfa782e42875_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d0bc9d45-09ad-40~Signature=AZJsJWZ8ius1SjWkhhHdvGhw6MWq_oJBmW2dJJOoBAm2oL7zuBf4eQRl15wOlXxrrVXTjd-EoXs6k-9lpQJ3OyaHWwEO
+#EXTINF:-1 tvg-id="4250181" tvg-name="FanCode - ENG | Seattle Thunderbolts Vs Icr Falcons" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250181_53113_ST_ICR_fc-web_1791990454371.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | Seattle Thunderbolts Vs Icr Falcons
+https://dai-fancode.pages.dev/mumbai/4250181_english_hls_3fce77f7e6475_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
