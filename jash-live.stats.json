@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T11:36:15.667Z",
+  "generatedAt": "2026-10-15T17:05:27.840Z",
   "sources": [
     {
       "repo": "maybetv/Jo",
@@ -11,7 +11,7 @@
       "repo": "maybetv/Jo",
       "file": "Zoh.m3u",
       "ok": true,
-      "parsed": 131
+      "parsed": 128
     },
     {
       "repo": "maybetv/Jo",
@@ -71,7 +71,7 @@
       "repo": "sportlive18/Sportlink-wtf",
       "file": "fancode3.m3u",
       "ok": true,
-      "parsed": 3
+      "parsed": 2
     },
     {
       "repo": "sportlive18/Sportlink-wtf",
@@ -83,25 +83,24 @@
       "repo": "sportlive18/Sportlink-wtf",
       "file": "fancode.m3u",
       "ok": true,
-      "parsed": 3
+      "parsed": 4
     },
     {
       "repo": "sportlive18/Sportlink-wtf",
       "file": "fancode2.m3u",
       "ok": true,
-      "parsed": 3
+      "parsed": 6
     }
   ],
   "main": {
-    "Bigg Boss / Tamil": 1,
     "Star Sports / English": 5,
-    "Star Sports / Tamil": 9,
+    "Star Sports / Tamil": 6,
     "Sony Sports / English": 12,
     "Sony Sports / Tamil": 1,
-    "FanCode / English": 9
+    "FanCode / English": 12
   },
   "review": {
-    "Star Sports": 24,
+    "Star Sports": 16,
     "Sony Sports": 19,
     "FanCode": 2,
     "Willow": 4,
@@ -109,12 +108,13 @@
   },
   "dropped": {
     "regional": 54,
-    "expired": 13,
+    "expired": 25,
     "duplicate": 40,
     "unsupported": 10
   },
   "playbackVerified": false,
   "missingFamilies": [
+    "Bigg Boss",
     "Willow",
     "Cricbuzz"
   ]
