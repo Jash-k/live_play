@@ -26,15 +26,6 @@ https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=1109
 #KODIPROP:inputstream.adaptive.license_key=https://game.playindia.fun/Jtv/key.php?id=1391&token=RiYlIZ
 https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=1389
 
-#EXTINF:-1 tvg-id="1124" tvg-name="Star Sports 1 Tamil" tvg-logo="https://img.media.jio.com/tvpimages/69/73/301995_1749664384503_l_medium.jpg" group-title="Sports - Star Sports - Tamil" tvg-language="Tamil",Star Sports 1 Tamil
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0d750ebd52b5756aa7fb833f61ceece:4ae62a20c030c918aad24193c1dda229
-#EXTHTTP:{"cookie":"__hdnea__=st=1792090379~exp=1792111979~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=3aa19478e0fdf5e6ad222f1746bf6c94fb953c305875f8791ac4543a53653fdb"}
-#EXTVLCOPT:http-user-agent=Virat
-https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mpd
-
 #EXTINF:-1 tvg-id="Star Sports 1 Tamil HD" tvg-name="Star Sports 1 Tamil HD" tvg-logo="https://img.media.jio.com/tvpimages/19/19/302122_1749662923298_l_medium.jpg" group-title="Sports - Star Sports - Tamil" tvg-language="Tamil",Star Sports 1 Tamil HD
 https://streamhub.dhruvpatil681.workers.dev/4353.m3u8
 
@@ -49,7 +40,7 @@ https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=3277
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337
-#EXTHTTP:{"cookie":"__hdnea__=st=1792102486~exp=1792124086~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=b727158f2235238babe381aaa6ef644fd793b2cc1c6cf6fe409a6332a9922409"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1792124142~exp=1792145742~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=427f5e6d76ac2d8697660933a845fd1a4f533b60789735462acf07656dcb4a24"}
 #EXTVLCOPT:http-user-agent=Virat
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.mpd
 
@@ -61,7 +52,7 @@ https://streamhub.dhruvpatil681.workers.dev/6167.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3979aae1ca51561c9e8074cd618b3864:ae12e0e147d3e76cfa62bfb99bc07109
-#EXTHTTP:{"cookie":"__hdnea__=st=1792097935~exp=1792119535~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=c4bb2adc0b3555502c00abd21aca395c6dda9254b01571cf50a1cd5faaf276da"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1792119568~exp=1792141168~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=d81ea0e688bc15d6b170ec9d112e50bfe3d9d464448fee54741bd149ab87f053"}
 #EXTVLCOPT:http-user-agent=Virat
 https://jiotvpllive.cdn.jio.com//bpk-tv/Sports18_3_MOB/WDVCatchup/index.mpd
 
@@ -76,7 +67,7 @@ https://game.playindia.fun/Jtv/RiYlIZ/Jtv.mpd?id=3273
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc44fe6251825774b90d58dcfa7d94e0:63e3ae853f483a86752b5b9e6d61eb20
-#EXTHTTP:{"cookie":"__hdnea__=st=1792102485~exp=1792124085~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=9c878a4564a8830c3b350bcbdb012d7e55bff1f3d9f9d42c319250a78edbbaac"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1792124142~exp=1792145742~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=1a4c7a2dfe31a9557f1b7b2bf292e81b210543f1b88069d0db14cbc2fd2ae323"}
 #EXTVLCOPT:http-user-agent=Virat
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd
 
@@ -133,3 +124,12 @@ https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereb
 
 #EXTINF:-1 tvg-id="Sony Sports Ten 4 Tamil" tvg-name="Sony Sports Ten 4 Tamil" tvg-logo="https://i.postimg.cc/J0Lxt4z8/Sony-Sports-TEN-4-Tamil.png" group-title="Sports - Sony Sports - Tamil" tvg-language="Tamil",Sony Sports Ten 4 Tamil
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten4.m3u8
+
+#EXTINF:-1 tvg-id="4250220" tvg-name="FanCode - ENG | Darmstadt Cc Vs Tsv Malmsheim" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250220_53117_DCC_TSV_fc-web.jpg" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | Darmstadt Cc Vs Tsv Malmsheim
+https://dai-fancode.pages.dev/mumbai/4250220_english_hls_11c50983ec26264_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248846" tvg-name="FanCode - ENG | Stadium Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | Stadium Court
+https://dai-fancode.pages.dev/mumbai/4248846_english_hls_96b2d2e72317628_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248845" tvg-name="FanCode - ENG | World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" group-title="Sports - FanCode - English" tvg-language="English",FanCode - ENG | World Feed
+https://dai-fancode.pages.dev/mumbai/4248845_english_hls_929e386bb09848_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
