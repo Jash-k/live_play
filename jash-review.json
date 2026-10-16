@@ -72,6 +72,15 @@
     }
   },
   {
+    "name": "Star Sports 3",
+    "family": "Star Sports",
+    "reason": "no explicit Tamil/English label",
+    "source": {
+      "repo": "sportlive18/Sportlink-wtf",
+      "file": "Star.m3u"
+    }
+  },
+  {
     "name": "Star Sports Select 1",
     "family": "Star Sports",
     "reason": "no explicit Tamil/English label",
