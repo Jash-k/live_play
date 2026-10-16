@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T07:15:21.201Z",
+  "generatedAt": "2026-10-16T13:17:51.537Z",
   "sources": [
     {
       "repo": "maybetv/Jo",
@@ -11,7 +11,7 @@
       "repo": "maybetv/Jo",
       "file": "Zoh.m3u",
       "ok": true,
-      "parsed": 123
+      "parsed": 131
     },
     {
       "repo": "maybetv/Jo",
@@ -40,20 +40,20 @@
     {
       "repo": "sportlive18/Sportlink-wtf",
       "file": "Star2.m3u",
-      "ok": true,
-      "parsed": 25
+      "ok": false,
+      "error": "HTTP 404"
     },
     {
       "repo": "sportlive18/Sportlink-wtf",
       "file": "bb.m3u",
-      "ok": true,
-      "parsed": 6
+      "ok": false,
+      "error": "HTTP 404"
     },
     {
       "repo": "sportlive18/Sportlink-wtf",
       "file": "Star.m3u",
-      "ok": true,
-      "parsed": 23
+      "ok": false,
+      "error": "HTTP 404"
     },
     {
       "repo": "sportlive18/Sportlink-wtf",
@@ -64,14 +64,14 @@
     {
       "repo": "sportlive18/Sportlink-wtf",
       "file": "digital.m3u",
-      "ok": true,
-      "parsed": 48
+      "ok": false,
+      "error": "HTTP 404"
     },
     {
       "repo": "sportlive18/Sportlink-wtf",
       "file": "fancode3.m3u",
       "ok": false,
-      "error": "No playlist entries"
+      "error": "HTTP 404"
     },
     {
       "repo": "sportlive18/Sportlink-wtf",
@@ -83,38 +83,38 @@
       "repo": "sportlive18/Sportlink-wtf",
       "file": "fancode.m3u",
       "ok": false,
-      "error": "No playlist entries"
+      "error": "HTTP 404"
     },
     {
       "repo": "sportlive18/Sportlink-wtf",
       "file": "fancode2.m3u",
-      "ok": true,
-      "parsed": 3
+      "ok": false,
+      "error": "HTTP 404"
     }
   ],
   "main": {
     "Star Sports / English": 5,
-    "Star Sports / Tamil": 7,
+    "Star Sports / Tamil": 4,
     "Sony Sports / English": 12,
-    "Sony Sports / Tamil": 1,
-    "FanCode / English": 3
+    "Sony Sports / Tamil": 1
   },
   "review": {
-    "Star Sports": 10,
+    "Star Sports": 8,
     "Sony Sports": 19,
     "FanCode": 2,
     "Willow": 4,
     "Cricbuzz": 1
   },
   "dropped": {
-    "regional": 54,
-    "expired": 30,
+    "regional": 23,
+    "expired": 0,
     "duplicate": 40,
     "unsupported": 10
   },
   "playbackVerified": false,
   "missingFamilies": [
     "Bigg Boss",
+    "FanCode",
     "Willow",
     "Cricbuzz"
   ]
