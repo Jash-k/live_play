@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T17:15:04.006Z",
+  "generatedAt": "2026-10-22T21:40:54.972Z",
   "sources": [
     {
       "repo": "maybetv/Jo",
@@ -11,13 +11,13 @@
       "repo": "maybetv/Jo",
       "file": "Zoh.m3u",
       "ok": true,
-      "parsed": 144
+      "parsed": 119
     },
     {
       "repo": "maybetv/Jo",
       "file": "playlist.m3u",
       "ok": true,
-      "parsed": 526
+      "parsed": 539
     },
     {
       "repo": "maybetv/Jo",
