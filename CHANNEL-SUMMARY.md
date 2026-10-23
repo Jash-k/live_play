@@ -1,6 +1,6 @@
 # Current curated feed
 
-Generated 2026-10-23T22:13:55.534Z by `scripts/curate-live.mjs` — do not edit by hand.
+Generated 2026-10-23T22:14:33.170Z by `scripts/curate-live.mjs` — do not edit by hand.
 
 338 stream options in `jash-live.m3u`: 271 Tamil channels, 1 Bigg Boss Tamil, 66 sports feeds.
 38 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
