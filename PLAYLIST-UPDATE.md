@@ -1,51 +1,43 @@
-# JaSH combined playlist update
+# Playlist update notes (v2)
 
-Upload the contents of this ZIP into Jash-k/live_play at the repo root.
-Overwrite `.github/workflows/jash-live.yml` and `jash-live.m3u` when prompted.
-The new workflow replaces the old pinned-six-channel workflow. The old
-build-live-playlist.mjs/config and star-sports.m3u can remain, but are no longer
-used by this workflow. Do not run the old builder to overwrite the new output.
+The feed is no longer pinned to six channels. It is now a full catalogue of Tamil channels,
+Tamil/English sports feeds and Bigg Boss Tamil, refreshed every 2 hours.
 
-Actions → Refresh Tamil Bigg Boss and sports → Run workflow. Scheduled refresh
-is every2 hours (GitHub may delay scheduled runs). Enable Actions and permit
-workflow read/write contents if required. Run Node20 locally:
-`node scripts/curate-live.mjs`
+Main feed:
 
-Main app source:
+```
 https://raw.githubusercontent.com/Jash-k/live_play/main/jash-live.m3u
+```
 
-`jash-review.m3u` is deliberately NOT part of the main feed: missing/conflicting
-language evidence remains separate, as requested. `jash-review.json` contains
-safe channel names and source locations for review without stream secrets.
-Do not import the review playlist into the main catalogue until checked.
+## What changed in v2
 
-Initial results are recorded in jash-live.stats.json. Entries are stream options,
-not a count of unique channel brands. Separate quality/source options are kept;
-identical stream URL + properties + language entries are deduplicated.
+| Area | Before | Now |
+|---|---|---|
+| Scope | Bigg Boss Tamil + Star/Sony/FanCode sports only | All Tamil channels (10 categories) + Bigg Boss Tamil + Tamil/English sports |
+| Sources | 2 raw-GitHub playlists | Those two **plus** the community index at `playlists.dbprojects.workers.dev` (18 pinned providers + auto-discovery of new ones) |
+| Source formats | M3U only | M3U **and** JSON channel/event dumps (JioTV arrays, FanCode/SonyLIV events) |
+| Structure | One 56-line script | `scripts/lib/` modules (parse, classify, render, sources) with an offline test suite and a validator |
+| Duplicates | Deduplicated only by identical URL + props | One row per stream URL (keeping the copy with playback metadata) and a per-brand alternate cap |
+| Reporting | `jash-live.stats.json` | Same file, richer: per-source results, discovery decisions, drop reasons, group counts — plus an auto-generated `CHANNEL-SUMMARY.md` |
+| CI | Test → curate → publish | Test → curate → validate → publish, with a guard that refuses to publish a thin feed |
 
-Main: Tamil Bigg Boss24/7, and explicitly Tamil/English-labelled Star, Sony,
-FanCode feeds. Willow and Cricbuzz were found but had no explicit language
-labels in the sampled sources, so are in Review, NOT relabeled English by guess.
-Sony Ten3 Hindi and contradictory Ten4 Hindi-tagged feeds are excluded; an
-explicit Tamil Ten4 option is retained. Star3/Khel without approved language
-are Review. All other regional languages and nonrequested brands are excluded.
-FanCode live event feeds can come and go with the event schedule.
+## After you push
 
-The curator uses BOTH Sportlink-wtf and maybetv/Jo. It preserves upstream stream
-URLs and supplied playback properties; it never obtains/changes keys, converts
-DRM, authenticates, or claims content rights. Community metadata is not proof
-of real audio language. Manifest/segment playback was NOT tested for this
-curation. Browser/DRM/region/source availability limits remain.
+1. Actions → **Refresh Tamil, sports and Bigg Boss playlist** → *Run workflow* for an immediate
+   refresh (the cron only fires every 2 hours).
+2. In your player/Live Service, resync the source URL above. Channel names, `tvg-id`, logos and
+   logos are kept from upstream; groups are now `Bigg Boss Tamil 24/7`, `Tamil - <Category>` and
+   `Sports - <Brand> - <Language>`.
+3. If you previously mapped the old narrow feed, re-map the new groups to your catalogues. The old
+   `star-sports.m3u` / `build-live-playlist.mjs` files (if still present in your working copy) are
+   unused — this workflow does not call them.
+4. Optionally subscribe `jash-review.m3u` too — it holds sports feeds whose language upstream never
+   states. They are deliberately kept out of the main feed.
 
-Only HTTPS entries are included; obvious rawTS/FLV and expired exp/expires
-entries are dropped. A feed may still require a compatible browser, legitimate
-access, licence settings, or the existing app relay. This is not a guarantee
-of free access or all-device playback. The current Bigg Boss feed is sourced
-from the Tamil-labelled24/7 entry; season/live availability is not independently
-verified. Sources unavailable during refresh are reported; if either repository
-has no successful sources or main is empty, existing output is preserved.
-Missing families are reported, not fabricated.
+## Local run
 
-After upload, resync this combined source in Live Service and manually map
-its channels to your chosen catalogs. Remove/disable the old separate custom
-sports source if you no longer want its unfiltered rows; leave Jio untouched.
+```bash
+npm run check   # tests + refresh + validation
+```
+
+Node 20 or newer, no dependencies.

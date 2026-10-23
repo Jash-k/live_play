@@ -1,13 +1,68 @@
 {
-  "families": [
-    "Bigg Boss",
-    "Star Sports",
-    "Sony Sports",
-    "FanCode",
-    "Willow",
-    "Cricbuzz"
-  ],
-  "sources": [
+  "version": 2,
+  "output": {
+    "main": "jash-live.m3u",
+    "review": "jash-review.m3u",
+    "stats": "jash-live.stats.json",
+    "reviewJson": "jash-review.json",
+    "title": "JaSH - Tamil channels, Tamil/English sports and Bigg Boss Tamil",
+    "note": "Community source metadata only; playback and rights not independently verified."
+  },
+  "groups": {
+    "biggBoss": "Bigg Boss Tamil 24/7",
+    "tamilPrefix": "Tamil - ",
+    "sportsPrefix": "Sports - ",
+    "review": "Review - language uncertain"
+  },
+  "filters": {
+    "junkNamePattern": "\\b(?:test|promo|sample|dummy|demo|fallback|offline|welcome)\\b"
+  },
+  "safety": {
+    "minMainEntries": 20,
+    "minOkSources": 2,
+    "maxAlternatesPerChannel": 3,
+    "concurrency": 6,
+    "timeoutMs": 20000
+  },
+  "index": {
+    "url": "https://playlists.dbprojects.workers.dev/api/sources",
+    "pinned": [
+      "jiotv_32",
+      "jiotv_8",
+      "jiotv_20",
+      "jiotv_16",
+      "jiotv_36",
+      "jiotv_18",
+      "jiotv_28",
+      "star_3",
+      "special",
+      "sonytv_4",
+      "mix_channels",
+      "yupptv_one",
+      "yupptv_two",
+      "fancode_avd",
+      "fancode_one",
+      "prime_sports_one",
+      "willow_one",
+      "crichd"
+    ],
+    "autoDiscover": true,
+    "autoDiscoverMinTamil": 3,
+    "autoDiscoverMinSports": 1,
+    "autoDiscoverSkip": {
+      "all_in_one_two": "4 MB global FAST bundle (Plex/Pluto/Samsung/LG) with no Tamil-language rows",
+      "samsung": "global Samsung TV Plus catalogue with no Tamil-language rows"
+    },
+    "familyHints": {
+      "fancode": "FanCode",
+      "sonyliv": "Sony Sports",
+      "sonytv": "Sony Sports",
+      "willow": "Willow",
+      "crichd": "CricHD",
+      "prime_sports": "Prime Sports"
+    }
+  },
+  "legacySources": [
     {
       "repo": "maybetv/Jo",
       "file": "Zoh2.m3u"
@@ -71,5 +126,300 @@
       "file": "fancode2.m3u",
       "family": "FanCode"
     }
-  ]
+  ],
+  "tamil": {
+    "includeRadio": false,
+    "radioPattern": "\\b(?:fm|radio|vaanoli|vanoli|isai\\s*fm)\\b|\\bair\\s+[a-z]+",
+    "defaultCategory": "General",
+    "categoryOrder": [
+      "Entertainment",
+      "News",
+      "Movies",
+      "Music",
+      "Kids",
+      "Comedy",
+      "Devotional",
+      "Lifestyle",
+      "Infotainment",
+      "Education",
+      "General"
+    ],
+    "categoryKeywords": {
+      "entertainment": "Entertainment",
+      "general": "Entertainment",
+      "gec": "Entertainment",
+      "comedy": "Comedy",
+      "movies": "Movies",
+      "movie": "Movies",
+      "cinema": "Movies",
+      "music": "Music",
+      "kids": "Kids",
+      "children": "Kids",
+      "cartoon": "Kids",
+      "news": "News",
+      "devotional": "Devotional",
+      "spiritual": "Devotional",
+      "religious": "Devotional",
+      "lifestyle": "Lifestyle",
+      "infotainment": "Infotainment",
+      "education": "Education",
+      "educational": "Education",
+      "sports": "Sports"
+    },
+    "brands": {
+      "Entertainment": [
+        "Sun TV",
+        "Sun Life",
+        "Star Vijay",
+        "Vijay Super",
+        "Vijay Takkar",
+        "Zee Tamil",
+        "Colors Tamil",
+        "Jaya TV",
+        "Jaya Plus",
+        "Kalaignar TV",
+        "Kalaignar Murasu",
+        "Raj TV",
+        "Vasanth TV",
+        "Captain TV",
+        "Puthuyugam TV",
+        "Vendhar TV",
+        "Win TV",
+        "Vaanavil TV",
+        "Tamilan TV",
+        "Aaryaa TV",
+        "Velicham TV",
+        "Dharsan TV",
+        "Thangam TV",
+        "Bhagyam TV",
+        "Tamil Vision TV",
+        "Sooriyan TV",
+        "Blessing TV",
+        "NH Tamil Gold",
+        "D Tamil",
+        "DD Tamil",
+        "DD Podhigai",
+        "DD5 Podhigai",
+        "Pothigai",
+        "Aadhavan Tamil TV",
+        "Tamilmagan TV",
+        "Anandham",
+        "V Tamil",
+        "MK TV",
+        "Ultimate TV",
+        "Vasantham",
+        "Deepam TV",
+        "Sri Lanka Rupavahini Tamil",
+        "Makkal TV",
+        "Moon TV",
+        "Polimer TV",
+        "Puthu Yugam",
+        "Malar TV",
+        "Imai TV",
+        "Jothi TV",
+        "Madhimugam TV",
+        "Dheeran TV",
+        "IBC Tamil",
+        "Tamil Janam",
+        "Athavan TV",
+        "CTV IDC",
+        "Murasu TV",
+        "Vasantham TV",
+        "Tamil Vision",
+        "Velicham",
+        "Vaanavil",
+        "Sankara TV"
+      ],
+      "News": [
+        "Sun News",
+        "Puthiya Thalaimurai",
+        "Thanthi TV",
+        "Thanthi One",
+        "News7 Tamil",
+        "News18 Tamil Nadu",
+        "Polimer News",
+        "Sathiyam TV",
+        "Raj News",
+        "Kalaignar Seithigal",
+        "Malai Murasu",
+        "Captain News",
+        "News Tamil 24x7",
+        "Asianet News Tamil",
+        "Zee Tamil News",
+        "Tamil News",
+        "6 Tamil",
+        "News J",
+        "MK Six",
+        "Puthiya Thalimurai",
+        "Malaimurasu Seithigal",
+        "Murasu Seithigal",
+        "Sathiyam"
+      ],
+      "Movies": [
+        "KTV",
+        "Zee Thirai",
+        "J Movies",
+        "Raj Digital Plus",
+        "Kalaignar Chithiram",
+        "Star Movies Tamil",
+        "Tata Play Tamil Cinema",
+        "Tata Play Tamil Classics",
+        "Sony Vizha",
+        "Vijay Super"
+      ],
+      "Music": [
+        "Sun Music",
+        "Jaya Max",
+        "Raj Music",
+        "Isai Aruvi",
+        "7S Music",
+        "Kalaignar Isaiyaruvi",
+        "Vijay Music",
+        "Tunes 6",
+        "Sony Music Tamil",
+        "Raj Musix",
+        "Isaiaruvi",
+        "Roja TV",
+        "Peppers TV"
+      ],
+      "Kids": [
+        "Chutti TV",
+        "Chithiram",
+        "Chintu TV",
+        "Sonic Tamil",
+        "Cartoon Network Tamil",
+        "Pogo Tamil",
+        "Nick Tamil",
+        "Discovery Kids Tamil",
+        "Wow Kidz Tamil",
+        "Disney Junior Tamil",
+        "Sony Yay Tamil"
+      ],
+      "Comedy": [
+        "Adithya TV",
+        "Sirippoli",
+        "Kalaignar Sirippoli",
+        "Comedy Thirai",
+        "Siripoli"
+      ],
+      "Devotional": [
+        "Sri Sankara TV",
+        "Madha TV",
+        "Angel TV",
+        "Nambikkai TV",
+        "Aastha Tamil",
+        "Deiveegam TV",
+        "Sai TV Tamil",
+        "Sri Venkatesh TV",
+        "Bhakthi TV Tamil",
+        "Sai TV",
+        "Nambikkai",
+        "Sri Sankara"
+      ],
+      "Lifestyle": [
+        "TravelXP Tamil",
+        "Fox Life Tamil",
+        "TLC Tamil"
+      ],
+      "Infotainment": [
+        "Discovery Tamil",
+        "Discovery HD Tamil",
+        "Animal Planet Tamil",
+        "Animal Planet HD Tamil",
+        "Nat Geo Tamil",
+        "Sony BBC Earth Tamil",
+        "History TV18 Tamil"
+      ]
+    },
+    "denyBrands": [
+      "Gemini",
+      "Gemini TV",
+      "Gemini Music",
+      "Star Utsav",
+      "Star Utsav Movies",
+      "Aastha Gujarati",
+      "Sun Neo",
+      "Colors Gujarati",
+      "Zee Telugu",
+      "Star Maa",
+      "Asianet",
+      "Surya TV",
+      "Udaya TV",
+      "Mazhavil Manorama",
+      "Kairali",
+      "ETV",
+      "Star Pravah",
+      "Zee Marathi",
+      "Colors Marathi",
+      "Sony Marathi",
+      "Star Jalsha",
+      "Zee Bangla",
+      "Colors Bangla",
+      "Sun Bangla",
+      "Sony Aath",
+      "Zee Kannada",
+      "Colors Kannada",
+      "Star Suvarna",
+      "Udaya Comedy",
+      "Siri Kannada",
+      "Star Kiran",
+      "Zee Sarthak"
+    ]
+  },
+  "sports": {
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "families": {
+      "Bigg Boss": [
+        "bigg\\s*boss",
+        "biggboss",
+        "big\\s*boss"
+      ],
+      "Star Sports": [
+        "star\\s*sports"
+      ],
+      "Sony Sports": [
+        "sony\\s*(?:liv\\s*sports|sports|ten)"
+      ],
+      "FanCode": [
+        "fan\\s*code",
+        "fancode"
+      ],
+      "Willow": [
+        "willow"
+      ],
+      "Cricbuzz": [
+        "cri[bc]buzz"
+      ],
+      "CricHD": [
+        "crichd",
+        "cric\\s*hd"
+      ],
+      "Prime Sports": [
+        "prime\\s*(?:video\\s*)?sports"
+      ],
+      "Ten Sports": [
+        "ten\\s*sports"
+      ],
+      "DD Sports": [
+        "dd\\s*sports"
+      ],
+      "Sports18": [
+        "sports\\s*18"
+      ]
+    },
+    "assertedEnglish": [
+      "star sports (?:select )?(?:hd ?)?(?:1|2)\\b",
+      "sony (?:sports )?ten (?:1|2|5)\\b",
+      "sony ten cricket\\b",
+      "^willow\\b",
+      "crichd\\b",
+      "cricbuzz\\b",
+      "sports 18\\b",
+      "ten sports\\b",
+      "fancode\\b"
+    ]
+  }
 }

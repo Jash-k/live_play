@@ -1,0 +1,17 @@
+{
+  "name": "live-play",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Curated IPTV playlist: Tamil channels, Tamil/English sports and Bigg Boss Tamil",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "curate": "node scripts/curate-live.mjs",
+    "validate": "node scripts/validate.mjs --dir .",
+    "test": "node scripts/test-curate-live.mjs",
+    "check": "npm test && npm run curate && npm run validate"
+  },
+  "license": "UNLICENSED"
+}

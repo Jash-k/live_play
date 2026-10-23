@@ -1,308 +1,332 @@
 [
   {
-    "name": "Star Sports 1 HD",
-    "family": "Star Sports",
-    "reason": "no explicit Tamil/English label",
+    "name": "DD Sports",
+    "family": "DD Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "repo": "maybetv/Jo",
-      "file": "Zoh2.m3u"
+      "key": "sportlive18_Sportlink-wtf__Sports.m3u",
+      "label": "sportlive18/Sportlink-wtf/Sports.m3u",
+      "origin": "github"
     }
   },
   {
-    "name": "Star Sports 1 HD test",
-    "family": "Star Sports",
-    "reason": "no explicit Tamil/English label",
+    "name": "DD Sports",
+    "family": "DD Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "repo": "maybetv/Jo",
-      "file": "playlist.m3u"
+      "key": "jiotv_32",
+      "label": "JioTV+ 32 (jiotv_32)",
+      "origin": "index"
     }
   },
   {
-    "name": "Star Sports 2 HD",
-    "family": "Star Sports",
-    "reason": "no explicit Tamil/English label",
+    "name": "DD Sports HD",
+    "family": "DD Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "repo": "maybetv/Jo",
-      "file": "Zoh2.m3u"
+      "key": "sportlive18_Sportlink-wtf__Sports.m3u",
+      "label": "sportlive18/Sportlink-wtf/Sports.m3u",
+      "origin": "github"
     }
   },
   {
-    "name": "Star Sports 3",
-    "family": "Star Sports",
-    "reason": "no explicit Tamil/English label",
+    "name": "Grand Prix of Australia, Qualifying",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "repo": "maybetv/Jo",
-      "file": "Zoh2.m3u"
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   },
   {
-    "name": "STAR SPORTS SELECT 1 4K*",
-    "family": "Star Sports",
-    "reason": "no explicit Tamil/English label",
+    "name": "MLF LIVE - Team Series Heritage Cup Championship Round",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "Sports.m3u"
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   },
   {
-    "name": "Star Sports Select 1 HD",
-    "family": "Star Sports",
-    "reason": "no explicit Tamil/English label",
+    "name": "Newcastle Red Bulls vs Sale Sharks - Rugby",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "repo": "maybetv/Jo",
-      "file": "Zoh2.m3u"
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
     }
   },
   {
-    "name": "STAR SPORTS SELECT 2 4K*",
-    "family": "Star Sports",
-    "reason": "no explicit Tamil/English label",
+    "name": "Predator European Championships: Spain",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "Sports.m3u"
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
     }
   },
   {
-    "name": "Star Sports Select 2 HD",
-    "family": "Star Sports",
-    "reason": "no explicit Tamil/English label",
-    "source": {
-      "repo": "maybetv/Jo",
-      "file": "Zoh2.m3u"
-    }
-  },
-  {
-    "name": "Sony Sports Ten 1",
+    "name": "Sony LIV Sports 1",
     "family": "Sony Sports",
-    "reason": "no explicit Tamil/English label",
+    "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "repo": "maybetv/Jo",
-      "file": "playlist.m3u"
+      "key": "jiotv_32",
+      "label": "JioTV+ 32 (jiotv_32)",
+      "origin": "index"
     }
   },
   {
-    "name": "Sony Sports Ten 1 HD",
+    "name": "Sony LIV Sports 1",
     "family": "Sony Sports",
-    "reason": "no explicit Tamil/English label",
+    "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "repo": "maybetv/Jo",
-      "file": "playlist.m3u"
+      "key": "jiotv_28",
+      "label": "JioTV+ 28 (jiotv_28)",
+      "origin": "index"
     }
   },
   {
-    "name": "Sony Sports Ten 2",
+    "name": "Sony LIV Sports 2",
     "family": "Sony Sports",
-    "reason": "no explicit Tamil/English label",
+    "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "repo": "maybetv/Jo",
-      "file": "playlist.m3u"
+      "key": "jiotv_32",
+      "label": "JioTV+ 32 (jiotv_32)",
+      "origin": "index"
     }
   },
   {
-    "name": "Sony Sports Ten 2 HD",
+    "name": "Sony LIV Sports 2",
     "family": "Sony Sports",
-    "reason": "no explicit Tamil/English label",
+    "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "repo": "maybetv/Jo",
-      "file": "playlist.m3u"
+      "key": "jiotv_28",
+      "label": "JioTV+ 28 (jiotv_28)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Sony LIV Sports 3",
+    "family": "Sony Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "jiotv_32",
+      "label": "JioTV+ 32 (jiotv_32)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Sony LIV Sports 3",
+    "family": "Sony Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "jiotv_28",
+      "label": "JioTV+ 28 (jiotv_28)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Sony LIV Sports 5",
+    "family": "Sony Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "jiotv_32",
+      "label": "JioTV+ 32 (jiotv_32)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Sony LIV Sports 5",
+    "family": "Sony Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "jiotv_28",
+      "label": "JioTV+ 28 (jiotv_28)",
+      "origin": "index"
     }
   },
   {
     "name": "Sony Sports Ten 3 HD",
     "family": "Sony Sports",
-    "reason": "no explicit Tamil/English label",
+    "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "repo": "maybetv/Jo",
-      "file": "playlist.m3u"
+      "key": "maybetv_Jo__playlist.m3u",
+      "label": "maybetv/Jo/playlist.m3u",
+      "origin": "github"
     }
   },
   {
-    "name": "Sony Sports Ten 5",
+    "name": "Sony Ten 3",
     "family": "Sony Sports",
-    "reason": "no explicit Tamil/English label",
+    "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "repo": "maybetv/Jo",
-      "file": "playlist.m3u"
+      "key": "sonytv_4",
+      "label": "SonyTV 4 (sonytv_4)",
+      "origin": "index"
     }
   },
   {
-    "name": "Sony Sports Ten 5 HD",
+    "name": "Sony Ten 3 HD",
     "family": "Sony Sports",
-    "reason": "no explicit Tamil/English label",
+    "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "repo": "maybetv/Jo",
-      "file": "playlist.m3u"
-    }
-  },
-  {
-    "name": "Sony TEN 1 HD",
-    "family": "Sony Sports",
-    "reason": "no explicit Tamil/English label",
-    "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "Sports.m3u"
-    }
-  },
-  {
-    "name": "Sony TEN 1 SD",
-    "family": "Sony Sports",
-    "reason": "no explicit Tamil/English label",
-    "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "Sports.m3u"
-    }
-  },
-  {
-    "name": "Sony TEN 2 HD",
-    "family": "Sony Sports",
-    "reason": "no explicit Tamil/English label",
-    "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "Sports.m3u"
-    }
-  },
-  {
-    "name": "Sony TEN 2 SD",
-    "family": "Sony Sports",
-    "reason": "no explicit Tamil/English label",
-    "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "Sports.m3u"
-    }
-  },
-  {
-    "name": "Sony TEN 3 HD",
-    "family": "Sony Sports",
-    "reason": "no explicit Tamil/English label",
-    "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "Sports.m3u"
+      "key": "sonytv_4",
+      "label": "SonyTV 4 (sonytv_4)",
+      "origin": "index"
     }
   },
   {
     "name": "Sony TEN 3 SD",
     "family": "Sony Sports",
-    "reason": "no explicit Tamil/English label",
+    "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "Sports.m3u"
+      "key": "sportlive18_Sportlink-wtf__Sports.m3u",
+      "label": "sportlive18/Sportlink-wtf/Sports.m3u",
+      "origin": "github"
     }
   },
   {
-    "name": "Sony TEN 4 HD",
+    "name": "Sony Ten 4",
     "family": "Sony Sports",
-    "reason": "no explicit Tamil/English label",
+    "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "Sports.m3u"
+      "key": "sonytv_4",
+      "label": "SonyTV 4 (sonytv_4)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Sony Ten 4 HD",
+    "family": "Sony Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "sonytv_4",
+      "label": "SonyTV 4 (sonytv_4)",
+      "origin": "index"
     }
   },
   {
     "name": "Sony TEN 4 SD",
     "family": "Sony Sports",
-    "reason": "no explicit Tamil/English label",
+    "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "Sports.m3u"
+      "key": "sportlive18_Sportlink-wtf__Sports.m3u",
+      "label": "sportlive18/Sportlink-wtf/Sports.m3u",
+      "origin": "github"
     }
   },
   {
-    "name": "Sony TEN 5 HD",
+    "name": "SONY TEN SIX",
     "family": "Sony Sports",
-    "reason": "no explicit Tamil/English label",
+    "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "Sports.m3u"
+      "key": "special",
+      "label": "Special (special)",
+      "origin": "index"
     }
   },
   {
-    "name": "Sony TEN 5 SD",
+    "name": "SONY TEN SIX HD",
     "family": "Sony Sports",
-    "reason": "no explicit Tamil/English label",
+    "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "Sports.m3u"
+      "key": "special",
+      "label": "Special (special)",
+      "origin": "index"
     }
   },
   {
-    "name": "SONY TEN Cricket",
-    "family": "Sony Sports",
-    "reason": "no explicit Tamil/English label",
+    "name": "Star Sports 3",
+    "family": "Star Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "repo": "maybetv/Jo",
-      "file": "Zoh.m3u"
+      "key": "jiotv_32",
+      "label": "JioTV+ 32 (jiotv_32)",
+      "origin": "index"
     }
   },
   {
-    "name": "SONY TEN Cricket",
-    "family": "Sony Sports",
-    "reason": "no explicit Tamil/English label",
+    "name": "Star Sports 3",
+    "family": "Star Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "Sports.m3u"
+      "key": "jiotv_28",
+      "label": "JioTV+ 28 (jiotv_28)",
+      "origin": "index"
     }
   },
   {
-    "name": "FANCODE 1",
-    "family": "FanCode",
-    "reason": "no explicit Tamil/English label",
+    "name": "Star Sports 3",
+    "family": "Star Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "Sports.m3u"
+      "key": "maybetv_Jo__Zoh2.m3u",
+      "label": "maybetv/Jo/Zoh2.m3u",
+      "origin": "github"
     }
   },
   {
-    "name": "FANCODE 2",
-    "family": "FanCode",
-    "reason": "no explicit Tamil/English label",
+    "name": "Star Sports 3 Digital",
+    "family": "Star Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "Sports.m3u"
+      "key": "star_3",
+      "label": "Star 3 (star_3)",
+      "origin": "index"
     }
   },
   {
-    "name": "Willow Sports",
-    "family": "Willow",
-    "reason": "no explicit Tamil/English label",
+    "name": "Star Sports Khel",
+    "family": "Star Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "repo": "maybetv/Jo",
-      "file": "Zoh.m3u"
+      "key": "jiotv_32",
+      "label": "JioTV+ 32 (jiotv_32)",
+      "origin": "index"
     }
   },
   {
-    "name": "Willow Sports",
-    "family": "Willow",
-    "reason": "no explicit Tamil/English label",
+    "name": "Star Sports Khel Digital",
+    "family": "Star Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "repo": "maybetv/Jo",
-      "file": "playlist.m3u"
+      "key": "star_3",
+      "label": "Star 3 (star_3)",
+      "origin": "index"
     }
   },
   {
-    "name": "WILLOW SPORTS",
-    "family": "Willow",
-    "reason": "no explicit Tamil/English label",
+    "name": "Tennis Today Live-Brussels-ATP, Lyon-ATP & Almaty-ATP Quarterfinals",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "Sports.m3u"
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
     }
   },
   {
-    "name": "WILLOW SPORTS",
-    "family": "Willow",
-    "reason": "no explicit Tamil/English label",
+    "name": "Tennis Today Live-Brussels-ATP, Lyon-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Quarterfinals",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "Sport.m3u"
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
     }
   },
   {
-    "name": "Cricbuzz",
-    "family": "Cricbuzz",
-    "reason": "no explicit Tamil/English label",
+    "name": "Torino vs. Monza",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "repo": "maybetv/Jo",
-      "file": "playlist.m3u"
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
     }
   }
 ]
