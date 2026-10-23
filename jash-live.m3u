@@ -1,9 +1,9 @@
 #EXTM3U
 #PLAYLIST:JaSH - Tamil channels, Tamil/English sports and Bigg Boss Tamil
 #NOTE:Community source metadata only; playback and rights not independently verified.
-#GENERATED:2026-10-23T22:14:33.170Z
-#ENTRIES:338
-#SUMMARY:271 Tamil channels, 1 Bigg Boss Tamil, 66 sports feeds
+#GENERATED:2026-10-23T23:11:28.006Z
+#ENTRIES:343
+#SUMMARY:275 Tamil channels, 1 Bigg Boss Tamil, 67 sports feeds
 
 #EXTINF:-1 tvg-id="" tvg-name="Bigg Boss Tamil 24/7 [HLS · Star 3]" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/2305/1788708712305-h.jpg" group-title="Bigg Boss Tamil 24/7" tvg-language="Tamil" base-name="Bigg Boss Tamil 24/7" stream-type="HLS" stream-source="Star 3",Bigg Boss Tamil 24/7 [HLS · Star 3]
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
@@ -29,6 +29,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/aryatvtamil/HLSPartner/index.m3u8?__hdnea
 https://jiotvmblive.cdn.jio.com/bpk-tv/aryatvtamil/HLSPartner/index.m3u8
 
 #EXTINF:-1 tvg-id="205" tvg-name="Athavan TV HD [HLS · YuppTV 1]" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/athavan-tv-hd.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Athavan TV HD" stream-type="HLS" stream-source="YuppTV 1",Athavan TV HD [HLS · YuppTV 1]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://yuppnimresmum.akamaized.net/120723/smil:athavantv1.smil/playlist.m3u8?hdnts=st%3D1792795100~exp%3D1792816700~acl%3D%21%2A%2F120723%2Fsmil%3Aathavantv1.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.232.50_yuppfast_2_channel_205_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.232.50_yuppfast_2_channel_205_-1~hmac%3De3c137b20e2bcd44f311616e5b006afa0f53c1305c8fcbf74cd4c0125be99cbb
+
+#EXTINF:-1 tvg-id="205" tvg-name="Athavan TV HD [HLS · YuppTV 2]" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/athavan-tv-hd.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Athavan TV HD" stream-type="HLS" stream-source="YuppTV 2",Athavan TV HD [HLS · YuppTV 2]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
@@ -748,6 +754,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/News_J_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/bc657abd-5bf5-4526-9038-d42bbb9ca249/index.m3u8?hdnts=st%3D1792795070~exp%3D1792816670~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fbc657abd-5bf5-4526-9038-d42bbb9ca249%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.232.50_yuppfast_2_channel_317_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.232.50_yuppfast_2_channel_317_-1~hmac%3D583aff071e5bab4c93996ec6aebb061e3a7fb2070a96e2f79f360b12c945e6ff
+
+#EXTINF:-1 tvg-id="317" tvg-name="News Tamil [HLS · YuppTV 2]" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/news-tamil.jpeg" group-title="Tamil - News" tvg-language="Tamil" base-name="News Tamil" stream-type="HLS" stream-source="YuppTV 2",News Tamil [HLS · YuppTV 2]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/bc657abd-5bf5-4526-9038-d42bbb9ca249/index.m3u8?hdnts=st%3D1792783944~exp%3D1792805544~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fbc657abd-5bf5-4526-9038-d42bbb9ca249%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_57.151.128.251_yuppfast_2_channel_317_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_57.151.128.251_yuppfast_2_channel_317_-1~hmac%3Dfd9fb18526cd9fabad90e888938d85bc15a3c5d63cc8df8c0d9155cae338ec2e
 
 #EXTINF:-1 tvg-id="News Tamil 24×7" tvg-name="News Tamil 24×7 [HLS · Jo/playlist]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Tamil_24x7.png?width=400" group-title="Tamil - News" tvg-language="Tamil" base-name="News Tamil 24×7" stream-type="HLS" stream-source="Jo/playlist",News Tamil 24×7 [HLS · Jo/playlist]
@@ -830,6 +842,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Polimer_News_MOB/WDVLive/index.mpd?__hdne
 https://jiotvmblive.cdn.jio.com/bpk-tv/Polimer_News_MOB/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="175" tvg-name="Puthiya Thalaimurai [HLS · YuppTV 1]" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/puthiya-thalaimurai.png" group-title="Tamil - News" tvg-language="Tamil" base-name="Puthiya Thalaimurai" stream-type="HLS" stream-source="YuppTV 1",Puthiya Thalaimurai [HLS · YuppTV 1]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://yuppnimresmum.akamaized.net/240122/puthiya/playlist.m3u8?hdnts=st%3D1792795071~exp%3D1792816671~acl%3D%21%2A%2F240122%2Fputhiya%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.232.50_yuppfast_2_channel_175_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.232.50_yuppfast_2_channel_175_-1~hmac%3D58d840097e1007f0e33920c61a2f24bb360eaae9ee7a0f30f1f10e9cbd1189fb
+
+#EXTINF:-1 tvg-id="175" tvg-name="Puthiya Thalaimurai [HLS · YuppTV 2]" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/puthiya-thalaimurai.png" group-title="Tamil - News" tvg-language="Tamil" base-name="Puthiya Thalaimurai" stream-type="HLS" stream-source="YuppTV 2",Puthiya Thalaimurai [HLS · YuppTV 2]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
@@ -1454,6 +1472,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Sri_Sankara_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://d2gvyg6lvauoko.cloudfront.net/230226/srisankaratamil/playlist.m3u8?hdnts=st%3D1792795133~exp%3D1792816733~acl%3D%21%2A%2F230226%2Fsrisankaratamil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.232.50_yuppfast_2_channel_144_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.232.50_yuppfast_2_channel_144_-1~hmac%3Dc245eb8dc0ac86c5b3a8f305a678fafe8f1f821b58fa4d9748684e6e4b9fcd7c
+
+#EXTINF:-1 tvg-id="144" tvg-name="Sri Sankara Tamil [HLS · YuppTV 2]" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sri-sankara-tamil.png" group-title="Tamil - Devotional" tvg-language="Tamil" base-name="Sri Sankara Tamil" stream-type="HLS" stream-source="YuppTV 2",Sri Sankara Tamil [HLS · YuppTV 2]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://d2gvyg6lvauoko.cloudfront.net/230226/srisankaratamil/playlist.m3u8?hdnts=st%3D1792783998~exp%3D1792805598~acl%3D%21%2A%2F230226%2Fsrisankaratamil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_57.151.128.251_yuppfast_2_channel_144_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_57.151.128.251_yuppfast_2_channel_144_-1~hmac%3D1757893480a67f7dbb74b60672583a71250185d80d9bf7362043fc1fb88b0e55
 
 #EXTINF:-1 tvg-id="814" tvg-name="Travelxp Tamil [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png" group-title="Tamil - Lifestyle" tvg-language="Tamil" base-name="Travelxp Tamil" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Travelxp Tamil [DASH · ClearKey · JioTV proxy]
@@ -2049,6 +2073,10 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
+#EXTINF:-1 tvg-id="4250507_ENG" tvg-name="Opening Race [English] [HLS · Fancode]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1792770153782.jpg" group-title="Sports - FanCode - English" tvg-language="English" base-name="Opening Race [English]" stream-type="HLS" stream-source="Fancode",Opening Race [English] [HLS · Fancode]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+https://in-mc-flive.fancode.com/mumbai/4250507_english_hls_44cd9f0fb737145_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792881558~_GO=Generated~acl=/mumbai/4250507_english_hls_44cd9f0fb737145_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c4c8a960-fd18-46~Signature=ASgJGVA6WQjmx8XBcdvxPlgrvtfn0-pXfynIymnsfpD3sx5MtubjCMlLk1IDK50NtetW9cc2YVmuP9HsOl3r-Sy187kF
+
 #EXTINF:-1 tvg-id="" tvg-name="WILLOW CRICKET HD [HLS · Special]" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports - Willow - English" tvg-language="English" base-name="WILLOW CRICKET HD" stream-type="HLS" stream-source="Special",WILLOW CRICKET HD [HLS · Special]
 https://d1bz14289ojrvl.cloudfront.net/out/v1/828288b4f25c407189eb6104893fad9e/index.m3u8
 
@@ -2056,7 +2084,7 @@ https://d1bz14289ojrvl.cloudfront.net/out/v1/828288b4f25c407189eb6104893fad9e/in
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://amg01269-amg01269c1-yupptv-us-5319.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-yupptvus/playlist.m3u8?hdnts=st%3D1792784013~exp%3D1792805613~acl%3D%21%2A%2Fplaylist%2Famg01269-willowtvfast-willowplus-yupptvus%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_57.151.128.251_yuppfast_2_channel_284_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_57.151.128.251_yuppfast_2_channel_284_-1~hmac%3D0e525949876a08415c343c5501d695599f1c5ff6ad11c3f1208715f1ed62499a
+https://amg01269-amg01269c1-yupptv-us-5319.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-yupptvus/playlist.m3u8?hdnts=st%3D1792795151~exp%3D1792816751~acl%3D%21%2A%2Fplaylist%2Famg01269-willowtvfast-willowplus-yupptvus%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.232.50_yuppfast_2_channel_284_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.232.50_yuppfast_2_channel_284_-1~hmac%3D51d82fd71534360c035e75e8f4e92e776660e198e4507dfffc6091533269432b
 
 #EXTINF:-1 tvg-id="willowsports" tvg-name="WILLOW SPORTS [DASH · Sportlink-wtf/Sports]" tvg-logo="https://i.ibb.co/mV3bdZvn/images-3.png" group-title="Sports - Willow - English" tvg-language="English" base-name="WILLOW SPORTS" stream-type="DASH" stream-source="Sportlink-wtf/Sports",WILLOW SPORTS [DASH · Sportlink-wtf/Sports]
 #KODIPROP:inputstream=inputstream.adaptive

@@ -1,20 +1,20 @@
 # Current curated feed
 
-Generated 2026-10-23T22:14:33.170Z by `scripts/curate-live.mjs` — do not edit by hand.
+Generated 2026-10-23T23:11:28.006Z by `scripts/curate-live.mjs` — do not edit by hand.
 
-338 stream options in `jash-live.m3u`: 271 Tamil channels, 1 Bigg Boss Tamil, 66 sports feeds.
-38 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
+343 stream options in `jash-live.m3u`: 275 Tamil channels, 1 Bigg Boss Tamil, 67 sports feeds.
+41 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
 
 | Group | Streams |
 |---|---:|
 | Bigg Boss Tamil 24/7 | 1 |
-| Tamil - Entertainment | 106 |
-| Tamil - News | 50 |
+| Tamil - Entertainment | 107 |
+| Tamil - News | 52 |
 | Tamil - Movies | 16 |
 | Tamil - Music | 20 |
 | Tamil - Kids | 24 |
 | Tamil - Comedy | 4 |
-| Tamil - Devotional | 19 |
+| Tamil - Devotional | 20 |
 | Tamil - Lifestyle | 3 |
 | Tamil - Infotainment | 12 |
 | Tamil - General | 17 |
@@ -22,7 +22,7 @@ Generated 2026-10-23T22:14:33.170Z by `scripts/curate-live.mjs` — do not edit 
 | Sports - Star Sports - English | 21 |
 | Sports - Sony Sports - Tamil | 6 |
 | Sports - Sony Sports - English | 20 |
-| Sports - FanCode - English | 4 |
+| Sports - FanCode - English | 5 |
 | Sports - Willow - English | 4 |
 | Sports - Cricbuzz - English | 1 |
 | Sports - Ten Sports - English | 1 |
@@ -34,12 +34,13 @@ Generated 2026-10-23T22:14:33.170Z by `scripts/curate-live.mjs` — do not edit 
 
 - Bigg Boss Tamil 24/7 [HLS · Star 3]
 
-### Tamil - Entertainment (106)
+### Tamil - Entertainment (107)
 
 - Aaryaa TV [HLS · JioTV proxy]
 - Aaryaa TV [HLS · JioTV+ 32]
 - Aaryaa TV [HLS · ClearKey · JioTV+ 28]
 - Athavan TV HD [HLS · YuppTV 1]
+- Athavan TV HD [HLS · YuppTV 2]
 - Athavan TV HD [HLS · Jo/playlist]
 - Bhagyam TV [HLS · JioTV proxy]
 - Bhagyam TV [HLS · JioTV+ 32]
@@ -143,7 +144,7 @@ Generated 2026-10-23T22:14:33.170Z by `scripts/curate-live.mjs` — do not edit 
 - Zee Tamil [DASH · ClearKey · JioTV proxy]
 - Zee Tamil HD [DASH · ClearKey · JioTV proxy]
 
-### Tamil - News (50)
+### Tamil - News (52)
 
 - Asianet News Tamil (360p) [HLS · Special]
 - Kalaignar Seithigal [DASH · ClearKey · JioTV proxy]
@@ -160,6 +161,7 @@ Generated 2026-10-23T22:14:33.170Z by `scripts/curate-live.mjs` — do not edit 
 - News J [DASH · ClearKey · JioTV+ 32]
 - News J [DASH · ClearKey · JioTV+ 28]
 - News Tamil [HLS · YuppTV 1]
+- News Tamil [HLS · YuppTV 2]
 - News Tamil 24×7 [HLS · Jo/playlist]
 - News Tamil 24x7 [DASH · ClearKey · JioTV proxy]
 - News Tamil 24x7 [DASH · ClearKey · JioTV+ 32]
@@ -174,6 +176,7 @@ Generated 2026-10-23T22:14:33.170Z by `scripts/curate-live.mjs` — do not edit 
 - Polimer News [DASH · ClearKey · JioTV+ 32]
 - Polimer News [DASH · ClearKey · JioTV+ 28]
 - Puthiya Thalaimurai [HLS · YuppTV 1]
+- Puthiya Thalaimurai [HLS · YuppTV 2]
 - Puthiya Thalaimurai [HLS · Jo/playlist]
 - Puthiya Thalimurai [DASH · JioTV+ 32]
 - Puthiya Thalimurai [DASH · ClearKey · JioTV proxy]
@@ -272,7 +275,7 @@ Generated 2026-10-23T22:14:33.170Z by `scripts/curate-live.mjs` — do not edit 
 - Adithya TV [DASH · ClearKey · JioTV+ 32]
 - Siripoli [HLS · Jo/playlist]
 
-### Tamil - Devotional (19)
+### Tamil - Devotional (20)
 
 - Angel TV HD [DASH · ClearKey · JioTV proxy]
 - Angel TV HD [DASH · ClearKey · JioTV+ 32]
@@ -293,6 +296,7 @@ Generated 2026-10-23T22:14:33.170Z by `scripts/curate-live.mjs` — do not edit 
 - Sri Sankara [DASH · ClearKey · JioTV+ 32]
 - Sri Sankara [DASH · ClearKey · JioTV+ 28]
 - Sri Sankara Tamil [HLS · YuppTV 1]
+- Sri Sankara Tamil [HLS · YuppTV 2]
 
 ### Tamil - Lifestyle (3)
 
@@ -402,12 +406,13 @@ Generated 2026-10-23T22:14:33.170Z by `scripts/curate-live.mjs` — do not edit 
 - SONY TEN Cricket [HLS · Jo/Zoh]
 - SONY TEN Cricket [HLS · Sportlink-wtf/Sports]
 
-### Sports - FanCode - English (4)
+### Sports - FanCode - English (5)
 
 - Day 2 [English] [HLS · Fancode]
 - Day 5 - World Feed [English] [HLS · Fancode]
 - FANCODE 1 [DASH · ClearKey · Sportlink-wtf/Sports]
 - FANCODE 2 [DASH · ClearKey · Sportlink-wtf/Sports]
+- Opening Race [English] [HLS · Fancode]
 
 ### Sports - Willow - English (4)
 
@@ -434,7 +439,7 @@ Generated 2026-10-23T22:14:33.170Z by `scripts/curate-live.mjs` — do not edit 
 |---|---|---:|
 | JioTV proxy (hjh-545.pages.dev) | static | 111 |
 | maybetv/Jo/Zoh2.m3u | github | 4 |
-| maybetv/Jo/Zoh.m3u | github | 8 |
+| maybetv/Jo/Zoh.m3u | github | 11 |
 | maybetv/Jo/playlist.m3u | github | 41 |
 | maybetv/Jo/Zohplx.m3u | github | 5 |
 | sportlive18/Sportlink-wtf/Sports.m3u | github | 10 |
@@ -445,11 +450,12 @@ Generated 2026-10-23T22:14:33.170Z by `scripts/curate-live.mjs` — do not edit 
 | Special (special) | pinned | 13 |
 | SonyTV 4 (sonytv_4) | pinned | 4 |
 | YuppTV 1 (yupptv_one) | pinned | 5 |
-| Fancode (fancode_avd) | pinned | 2 |
+| YuppTV 2 (yupptv_two) | pinned | 4 |
+| Fancode (fancode_avd) | pinned | 3 |
 | Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 6 |
 | Fancode 1 [Backup] (fancode_one_backup) | discovered | 0 |
 | Fancode 3 (fancode_three) | discovered | 0 |
 
-Sources that returned nothing this run: 19 of 60. See `jash-live.stats.json`.
+Sources that returned nothing this run: 20 of 60. See `jash-live.stats.json`.
 
 Playback was **not** verified: entries carry upstream playback properties unchanged, and a stream may still need a compatible player, legitimate access or region availability.
