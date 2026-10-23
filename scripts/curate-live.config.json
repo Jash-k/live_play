@@ -6,7 +6,16 @@
     "stats": "jash-live.stats.json",
     "reviewJson": "jash-review.json",
     "title": "JaSH - Tamil channels, Tamil/English sports and Bigg Boss Tamil",
-    "note": "Community source metadata only; playback and rights not independently verified."
+    "note": "Community source metadata only; playback and rights not independently verified.",
+    "nameTags": {
+      "enabled": true,
+      "protocol": true,
+      "drm": true,
+      "source": true,
+      "separator": " · ",
+      "orderAlternatesByPlayability": true,
+      "attributes": true
+    }
   },
   "groups": {
     "biggBoss": "Bigg Boss Tamil 24/7",
@@ -67,7 +76,8 @@
       "id": "hjh-545",
       "label": "JioTV proxy (hjh-545.pages.dev)",
       "url": "https://hjh-545.pages.dev/",
-      "note": "Direct M3U feed proxying JioTV channels with clearkey props; no expiring tokens in the URLs."
+      "note": "Direct M3U feed proxying JioTV channels with clearkey props; no expiring tokens in the URLs.",
+      "short": "JioTV proxy"
     }
   ],
   "legacySources": [

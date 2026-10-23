@@ -68,6 +68,8 @@ export function buildSourcePlan(config, indexRows) {
     plan.primary.push({
       key: source.id || `static_${order}`,
       label: source.label || source.url,
+      // `short` is what appears in the channel name tag, so keep it compact.
+      short: source.short || source.id || source.label || source.url,
       origin: 'static',
       priority: order,
       url: source.url,
@@ -80,6 +82,7 @@ export function buildSourcePlan(config, indexRows) {
     plan.primary.push({
       key: legacyKey(source),
       label: `${source.repo}/${source.file}`,
+      short: `${source.repo.split('/').pop()}/${source.file.replace(/\.m3u$/i, '')}`,
       origin: 'github',
       priority: staticOffset + order,
       url: `https://raw.githubusercontent.com/${source.repo}/HEAD/${source.file}`,
@@ -100,6 +103,7 @@ export function buildSourcePlan(config, indexRows) {
     plan.primary.push({
       key: row.id,
       label: `${row.name || row.id} (${row.id})`,
+      short: row.name || row.id,
       origin: 'index',
       priority: legacyPriority + order,
       url: row.url,
@@ -118,6 +122,7 @@ export function buildSourcePlan(config, indexRows) {
         plan.discovery.push({
           key: row.id,
           label: `${row.name || row.id} (${row.id})`,
+          short: row.name || row.id,
           origin: 'index',
           priority: 500 + order,
           url: row.url,

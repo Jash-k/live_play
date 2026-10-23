@@ -33,6 +33,7 @@ function check(filePath, { expectEntries }) {
 
   const lines = text.split(/\r?\n/);
   const seen = new Set();
+  const seenNames = new Set();
   const entries = parseM3U(text);
   let extinf = 0;
   let pending = null;
@@ -62,6 +63,18 @@ function check(filePath, { expectEntries }) {
     const stream = entry.url.split('|')[0];
     if (seen.has(stream)) errors.push(`${where}: duplicate stream URL`);
     seen.add(stream);
+
+    // Two alternates of one channel must be distinguishable in the player.
+    const nameKey = `${entry.attrs['group-title']}|${entry.name}`;
+    if (seenNames.has(nameKey)) errors.push(`${where}: duplicate channel name in this group (add a stream tag)`);
+    seenNames.add(nameKey);
+
+    // Stream fingerprints: present, or explicitly unknown for opaque proxy URLs.
+    const type = entry.attrs['stream-type'];
+    if (type && !['HLS', 'DASH', 'TS'].includes(type)) errors.push(`${where}: unexpected stream-type "${type}"`);
+    if (type === 'DASH' && !/\.mpd|manifest\.mpd/i.test(entry.url) && !entry.props.some((prop) => /manifest_type\s*=\s*(mpd|dash)/i.test(prop))) {
+      warnings.push(`${where}: DASH tag without a manifest hint`);
+    }
     for (const match of [entry.url, ...entry.props].join(' ').matchAll(/(?:exp|expires)(?:=|%3D)(\d{10})(?!\d)/gi)) {
       if (Number(match[1]) * 1000 < now) warnings.push(`${where}: expired token published`);
     }
@@ -91,7 +104,8 @@ const sports = mainEntries.length - tamil - biggBoss;
 if (!tamil) errors.push(`${config.output.main}: no Tamil channel groups`);
 if (!biggBoss) warnings.push(`${config.output.main}: no Bigg Boss Tamil feed this refresh`);
 
-const summary = `${mainEntries.length} main entries (${tamil} Tamil, ${biggBoss} Bigg Boss, ${sports} sports)`;
+const withTags = mainEntries.filter((entry) => entry.attrs['stream-type']).length;
+const summary = `${mainEntries.length} main entries (${tamil} Tamil, ${biggBoss} Bigg Boss, ${sports} sports, ${withTags} with a stream tag)`;
 for (const warning of [...new Set(warnings)]) console.warn(`warn: ${warning}`);
 if (errors.length) {
   for (const error of [...new Set(errors)]) console.error(`error: ${error}`);

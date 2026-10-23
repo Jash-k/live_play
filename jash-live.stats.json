@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T21:57:55.981Z",
+  "generatedAt": "2026-10-23T22:09:59.690Z",
   "configVersion": 2,
   "playlistTitle": "JaSH - Tamil channels, Tamil/English sports and Bigg Boss Tamil",
   "filters": {
@@ -484,12 +484,12 @@
       "discovery": false,
       "skipped": false,
       "ok": true,
-      "parsed": 2,
-      "matched": 2,
+      "parsed": 1,
+      "matched": 1,
       "used": 0,
       "error": "",
       "tamil": 0,
-      "sports": 2
+      "sports": 1
     },
     {
       "key": "willow_one",
@@ -552,11 +552,13 @@
       "pinned": false,
       "discovery": true,
       "skipped": false,
-      "ok": false,
-      "parsed": 0,
+      "ok": true,
+      "parsed": 1,
       "matched": 0,
       "used": 0,
-      "error": "no playlist entries"
+      "error": "discovered but no usable Tamil/sports rows",
+      "tamil": 0,
+      "sports": 0
     },
     {
       "key": "all_in_one_two",
@@ -897,6 +899,32 @@
     "biggBoss": 1,
     "sports": 66,
     "assertedLanguage": 36,
+    "streamTypes": {
+      "protocol": {
+        "DASH": 256,
+        "HLS": 82
+      },
+      "drm": {
+        "ClearKey": 253,
+        "none": 85
+      },
+      "source": {
+        "JioTV proxy": 104,
+        "JioTV+ 32": 83,
+        "JioTV+ 28": 58,
+        "Jo/playlist": 40,
+        "Star 3": 12,
+        "Special": 11,
+        "Jo/Zoh": 7,
+        "Sportlink-wtf/Sports": 6,
+        "YuppTV 1": 5,
+        "Jo/Zohplx": 5,
+        "Jo/Zoh2": 4,
+        "Fancode": 2,
+        "Sportlink-wtf/Sport": 1
+      }
+    },
+    "channelsWithAlternates": 96,
     "brands": 152,
     "byGroup": {
       "Bigg Boss Tamil 24/7": 1,
@@ -930,10 +958,10 @@
   "dropped": {
     "not Tamil": 3442,
     "other regional language": 2649,
-    "unusable name": 515,
+    "unusable name": 516,
     "not https": 1311,
     "expired token": 3684,
-    "duplicate stream": 85,
+    "duplicate stream": 84,
     "alternate stream beyond cap": 166
   },
   "missingSportsFamilies": [

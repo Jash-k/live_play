@@ -42,6 +42,45 @@ Rules the curator enforces:
 * Playback properties (`#KODIPROP`, `#EXTVLCOPT`, `#EXTHTTP`) are copied **unchanged** from the
   source. The curator never obtains keys, converts DRM or authenticates on your behalf.
 
+## Telling the alternate streams apart
+
+Every channel usually arrives as 2-3 streams (a DASH+ClearKey copy from a JioTV dump, an HLS copy from
+a proxy, …). Identical names make those rows impossible to tell apart in a player, so each published
+name gets a compact fingerprint suffix:
+
+```
+Star Vijay HD [DASH · ClearKey · JioTV+ 32]
+Star Vijay HD [DASH · ClearKey · JioTV proxy]
+Bigg Boss Tamil 24/7 [HLS · Star 3]
+```
+
+`[protocol · DRM · source]`, each part optional:
+
+| Part | Values | Where it comes from |
+|---|---|---|
+| protocol | `HLS`, `DASH`, `TS` | stream URL extension, else `#KODIPROP:manifest_type`; omitted for opaque proxy URLs |
+| DRM | `ClearKey`, `Widevine`, `PlayReady` | `#KODIPROP:...license_type`; omitted when the stream is unencrypted |
+| source | e.g. `JioTV+ 32`, `JioTV proxy`, `Jo/playlist` | the upstream feed that supplied the row |
+
+Names are also forced unique inside a group — a ` (2)`, ` (3)` suffix is added if two alternates share
+the same protocol, DRM *and* source. Additionally every entry carries machine-readable attributes
+(ignored by classic players, handy for apps):
+
+```m3u
+#EXTINF:-1 tvg-id="368" tvg-name="Star Vijay HD [DASH · ClearKey · JioTV+ 32]" tvg-logo="…"
+  group-title="Tamil - Entertainment" tvg-language="Tamil"
+  base-name="Star Vijay HD" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 32",Star Vijay HD [DASH · ClearKey · JioTV+ 32]
+```
+
+* `base-name` — the original channel name, use it to group alternate streams of one channel.
+* `stream-type` / `stream-drm` / `stream-source` — filter or badge without parsing the display name.
+* `tvg-id` and `tvg-logo` are untouched, so EPG/logos keep working.
+
+Alternates of the same channel are ordered most-playable-first (plain HLS → HLS+ClearKey → DASH),
+which can be turned off with `output.nameTags.orderAlternatesByPlayability: false`. Everything about
+the tags lives under `output.nameTags` (`enabled`, `protocol`, `drm`, `source`, `separator`,
+`attributes`); set `enabled: false` to publish plain names again.
+
 ## Files
 
 | File | Purpose |
@@ -98,6 +137,7 @@ SOURCE_SNAPSHOT_DIR=fixtures OUTPUT_DIR=/tmp/out node scripts/curate-live.mjs
 
 Everything tunable lives in `scripts/curate-live.config.json`:
 
+* `output.nameTags` — the stream fingerprint suffix shown in channel names (see above).
 * `index.staticSources` — direct playlist URLs (`{id, label, url}`) that are always fetched, e.g. the
   `hjh-545` JioTV proxy. Add another URL here and it is picked up on the next run.
 * `index.pinned` / `index.autoDiscover*` — which index sources are always used, and how aggressive

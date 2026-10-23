@@ -29,6 +29,13 @@ not carry pre-expired tokens. It contributes ~90 Tamil channels and ~20 sports f
 brands no other source had. Configured as `index.staticSources[0]` in
 `scripts/curate-live.config.json`; delete that entry to drop it again.
 
+## Stream fingerprints in channel names
+
+Channels with 2-3 alternate streams used to appear as identical names. Each name now ends with
+`[protocol · DRM · source]` — e.g. `Star Vijay HD [DASH · ClearKey · JioTV+ 32]` — and entries carry
+`base-name`, `stream-type`, `stream-drm` and `stream-source` attributes for grouping/badging in the
+app. Set `output.nameTags.enabled: false` in `scripts/curate-live.config.json` for plain names.
+
 ## After you push
 
 1. Actions → **Refresh Tamil, sports and Bigg Boss playlist** → *Run workflow* for an immediate

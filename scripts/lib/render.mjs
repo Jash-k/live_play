@@ -36,14 +36,28 @@ export function safeProperty(line) {
   return line;
 }
 
-export function renderEntry(entry) {
-  const name = sanitizeName(entry.name);
+export function renderEntry(entry, options = {}) {
+  // entry.name stays the upstream channel name (used for dedupe, brand matching
+  // and grouping); entry.displayName carries the stream fingerprint suffix.
+  const name = sanitizeName(entry.displayName || entry.name);
+  const baseName = sanitizeName(entry.name);
+  const stream = entry.stream || {};
   const attributes = {
     'tvg-id': entry.attrs?.['tvg-id'] || '',
     'tvg-name': name,
     'tvg-logo': entry.attrs?.['tvg-logo'] || '',
     'group-title': entry.group,
     ...(entry.language ? { 'tvg-language': entry.language } : {}),
+    // Extra, non-standard attributes: ignored by classic players, useful for apps
+    // that want to group alternates of one channel or filter by delivery type.
+    ...(options.attributes === false
+      ? {}
+      : {
+          ...(baseName !== name ? { 'base-name': baseName } : {}),
+          ...(stream.protocol ? { 'stream-type': stream.protocol } : {}),
+          ...(stream.drm ? { 'stream-drm': stream.drm } : {}),
+          ...(stream.source ? { 'stream-source': stream.source } : {}),
+        }),
   };
   const head = Object.entries(attributes)
     .map(([key, value]) => `${key}="${cleanValue(value)}"`)
@@ -51,7 +65,7 @@ export function renderEntry(entry) {
   return [`#EXTINF:-1 ${head},${name}`, ...entry.props.map(safeProperty), entry.url].join('\n');
 }
 
-export function renderPlaylist(entries, { title, note, generatedAt, extraLines = [] }) {
+export function renderPlaylist(entries, { title, note, generatedAt, extraLines = [], entryOptions = {} }) {
   const header = [
     '#EXTM3U',
     `#PLAYLIST:${title}`,
@@ -60,5 +74,5 @@ export function renderPlaylist(entries, { title, note, generatedAt, extraLines =
     `#ENTRIES:${entries.length}`,
     ...extraLines,
   ];
-  return `${header.join('\n')}\n\n${entries.map(renderEntry).join('\n\n')}\n`;
+  return `${header.join('\n')}\n\n${entries.map((entry) => renderEntry(entry, entryOptions)).join('\n\n')}\n`;
 }

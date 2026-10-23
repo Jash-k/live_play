@@ -120,6 +120,7 @@ https://fixture.example/puthiya.m3u8
 
 const staticFixture = `#EXTM3U
 #EXTINF:-1 tvg-id="1" group-title="Tamil",Raj Digital Plus
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abc123:def456
 https://static.example/stream?id=rajdigitalplus
@@ -181,7 +182,10 @@ try {
   const reviewJson = JSON.parse(read('jash-review.json'));
   const main = parseM3U(mainText);
   const review = parseM3U(reviewText);
-  const names = main.map((entry) => entry.name);
+  // Channel names carry a stream fingerprint suffix ("Star Vijay HD [DASH · ClearKey · ...]"),
+  // so assertions compare the base name and check the tag separately.
+  const base = (value) => String(value).replace(/\s*\[[^\]]*\]\s*(?:\(\d+\))?$/, '').trim();
+  const names = main.map((entry) => base(entry.name));
   const groups = main.map((entry) => entry.attrs['group-title']);
 
   // --- Tamil catalogue -------------------------------------------------
@@ -192,12 +196,28 @@ try {
   assert(names.includes('Jaya TV HD'), 'auto-discovered source contributes Tamil channels');
   assert(names.includes('sonic Tamil'), 'JSON source normalised into an entry');
   assert(names.includes('Raj Digital Plus'), 'direct/static source contributes channels');
-  assert.strictEqual(main.filter((entry) => entry.name === 'Star Sports 1 HD').length, 1, 'same stream URL from two sources becomes one entry');
-  assert(main.find((entry) => entry.name === 'Star Sports 1 HD').url.includes('static.example'), 'higher-priority static source wins the duplicate');
+  assert.strictEqual(main.filter((entry) => base(entry.name) === 'Star Sports 1 HD').length, 1, 'same stream URL from two sources becomes one entry');
+  assert(main.find((entry) => base(entry.name) === 'Star Sports 1 HD').url.includes('static.example'), 'higher-priority static source wins the duplicate');
   assert(stats.staticSources.some((source) => source.id === 'src_static' && source.used >= 2), 'stats report static source usage');
   assert(groups.includes('Tamil - Entertainment'), 'Tamil channels grouped by category');
   assert(!names.some((name) => /Big FM|hghk/.test(name)), 'radio and junk rows dropped');
   assert(!names.some((name) => /Gemini|CNBC|Aaj Tak|ETV Telugu/.test(name)), 'non-Tamil regional channels dropped');
+  assert(!names.some((name) => /Big FM|hghk/.test(name)), 'radio/junk rows never reach the catalogue');
+
+  // --- Stream fingerprint tags ----------------------------------------
+  assert(/\[DASH · ClearKey · src_static\]$/.test(main.find((entry) => base(entry.name) === 'Raj Digital Plus').name), 'tag shows protocol, DRM and source');
+  const biggBoss = main.find((entry) => entry.attrs['group-title'] === 'Bigg Boss Tamil 24/7');
+  assert(/\[HLS · Jio fixture\]$/.test(biggBoss.name), 'plain HLS feed tagged with source but no DRM part');
+  assert(main.some((entry) => entry.name === 'Star Sports 1 HD [src_static]'), 'opaque URL with unknown protocol still names its source');
+  const tagged = main.map((entry) => entry.name);
+  assert.strictEqual(new Set(tagged).size, tagged.length, 'every published channel name is unique');
+  for (const entry of main) {
+    const type = entry.attrs['stream-type'];
+    assert(type === undefined || type === 'HLS' || type === 'DASH', 'stream-type attribute is sane when present');
+    assert(entry.attrs['base-name'], 'base-name attribute kept for grouping');
+    assert(!/\[(?:HLS|DASH|TS)[ ·\]]/.test(entry.attrs['base-name']), 'base-name is free of stream tags');
+  }
+  assert(main.filter((entry) => entry.attrs['stream-type']).length > main.length / 2, 'most entries expose a stream-type attribute');
 
   // --- Bigg Boss -------------------------------------------------------
   assert(names.includes('Bigg Boss Tamil 24/7'), 'Bigg Boss Tamil renamed into its own bucket');
@@ -205,26 +225,26 @@ try {
   assert(!/live-HINDI/.test(mainText), 'non-Tamil Bigg Boss excluded');
 
   // --- Sports ----------------------------------------------------------
-  assert(main.some((entry) => entry.name === 'Star Sports 1 HD' && entry.attrs['group-title'] === 'Sports - Star Sports - English'));
-  assert(main.some((entry) => entry.name.includes('Sony Ten 4') && entry.attrs['tvg-language'] === 'Tamil'));
+  assert(main.some((entry) => base(entry.name) === 'Star Sports 1 HD' && entry.attrs['group-title'] === 'Sports - Star Sports - English'));
+  assert(main.some((entry) => base(entry.name).includes('Sony Ten 4') && entry.attrs['tvg-language'] === 'Tamil'));
   assert(!/Sony Ten 4 Hindi|Star Sports 1 Hindi/.test(mainText), 'Hindi-labelled sports feeds dropped');
   assert(main.some((entry) => entry.attrs['group-title'] === 'Sports - FanCode - English'), 'English JSON event feed kept');
-  assert(main.some((entry) => entry.name === 'Willow Cricket' && entry.attrs['tvg-language'] === 'English'), 'asserted-English brand accepted without a label');
-  assert(review.some((entry) => entry.name === 'Prime Video Sports Event'), 'unlabelled non-asserted sports feed queued for review');
+  assert(main.some((entry) => base(entry.name) === 'Willow Cricket' && entry.attrs['tvg-language'] === 'English'), 'asserted-English brand accepted without a label');
+  assert(review.some((entry) => base(entry.name) === 'Prime Video Sports Event'), 'unlabelled non-asserted sports feed queued for review');
   assert(!review.some((entry) => /Metadata only event/.test(entry.name)), 'metadata-only event without a stream is skipped');
   assert(!/expired\.m3u8|raw\.ts/.test(mainText + reviewText), 'expired and raw-container streams dropped');
 
   // --- Metadata preservation ------------------------------------------
-  const vijay = main.find((entry) => entry.name === 'Star Vijay HD');
+  const vijay = main.find((entry) => base(entry.name) === 'Star Vijay HD');
   assert(vijay.props.some((prop) => prop.startsWith('#KODIPROP:inputstream.adaptive.license_key=00112233')), 'clearkey retained');
   assert(vijay.props.includes('#EXTVLCOPT:http-user-agent=Droovy'), 'emoji stripped from UA header only');
-  const sonic = main.find((entry) => entry.name === 'sonic Tamil');
+  const sonic = main.find((entry) => base(entry.name) === 'sonic Tamil');
   assert(sonic.props.some((prop) => prop.includes('license_key=https://fixture.example/key?id=290')), 'JSON license URL retained');
   assert(sonic.props.some((prop) => prop.startsWith('#EXTVLCOPT:http-cookie=__hdnea__')), 'JSON headers converted to props');
 
   // --- Dedupe ----------------------------------------------------------
-  assert.strictEqual(main.filter((entry) => entry.name === 'Star Vijay HD').length, 1, 'storm of identical stream URLs collapses to one');
-  assert(main.filter((entry) => /^Star Vijay/.test(entry.name)).length <= 2, 'alternate streams capped by maxAlternatesPerChannel');
+  assert.strictEqual(main.filter((entry) => base(entry.name) === 'Star Vijay HD').length, 1, 'storm of identical stream URLs collapses to one');
+  assert(main.filter((entry) => /^Star Vijay/.test(base(entry.name))).length <= 2, 'alternate streams capped by maxAlternatesPerChannel');
   const urls = main.map((entry) => entry.url);
   assert.strictEqual(new Set(urls).size, urls.length, 'no duplicate URLs in the published feed');
 
@@ -239,6 +259,9 @@ try {
   assert(stats.sources.some((source) => source.key === 'src_dead' && !source.ok), 'dead source reported, not fatal');
   assert(reviewJson.some((entry) => entry.name === 'Prime Video Sports Event' && /label/.test(entry.reason)), 'review report explains why');
   assert(stats.main.assertedLanguage >= 1, 'asserted-language rows are counted in stats');
+  assert(stats.main.streamTypes.protocol.HLS >= 1 && stats.main.streamTypes.protocol.DASH >= 1, 'stats count stream protocols');
+  assert(stats.main.streamTypes.drm.ClearKey >= 1 && stats.main.streamTypes.drm.none >= 1, 'stats count DRM types');
+  assert(stats.main.channelsWithAlternates >= 1, 'stats count channels that have alternates');
 
   // --- Validator -------------------------------------------------------
   const validation = spawnSync(process.execPath, [path.join(here, 'validate.mjs'), '--dir', output, '--config', configPath], { encoding: 'utf8' });
@@ -254,7 +277,7 @@ try {
 
   console.log('PASS: Tamil channel detection, radio/junk/regional exclusion, Bigg Boss Tamil only,');
   console.log('      sports language rules, review queue, JSON normalisation, dedupe, metadata retention,');
-  console.log('      stats, validator and safety gate');
+  console.log('      stream tags + unique names, stats, validator and safety gate');
 } finally {
   fs.rmSync(temp, { recursive: true, force: true });
 }

@@ -21,6 +21,7 @@ import { fileURLToPath } from 'node:url';
 import { parseSource } from './lib/parse.mjs';
 import { buildClassifier, channelKey } from './lib/classify.mjs';
 import { renderPlaylist } from './lib/render.mjs';
+import { detectStream, decorateName } from './lib/streaminfo.mjs';
 import { loadIndex, buildSourcePlan, readSource } from './lib/sources.mjs';
 import { mapLimit } from './lib/net.mjs';
 
@@ -186,10 +187,33 @@ Object.keys(config.sports.families || {})
 groupRank.set(config.groups.review, 9999);
 const rankOf = (group) => groupRank.get(group) ?? 500;
 
+// Fingerprint every stream (protocol / DRM / source) so alternates of the same
+// channel are distinguishable in the player's channel list.
+const tagConfig = { tags: config.output.nameTags || {} };
+for (const entry of [...mainEntries, ...reviewEntries]) entry.stream = detectStream(entry);
+
 const byGroupThenName = (a, b) =>
-  rankOf(a.group) - rankOf(b.group) || a.group.localeCompare(b.group) || a.name.localeCompare(b.name);
+  rankOf(a.group) - rankOf(b.group) ||
+  a.group.localeCompare(b.group) ||
+  a.name.localeCompare(b.name) ||
+  (config.output.nameTags?.orderAlternatesByPlayability === false ? 0 : a.stream.score - b.stream.score);
 mainEntries.sort(byGroupThenName);
 reviewEntries.sort(byGroupThenName);
+
+// Decorate names, then guarantee they are unique inside a group: a numeric
+// suffix is only needed when two alternates share protocol + DRM + source.
+function decorateAll(entries) {
+  const used = new Set();
+  for (const entry of entries) {
+    let displayName = decorateName(entry, tagConfig);
+    let attempt = 2;
+    while (used.has(`${entry.group}|${displayName}`)) displayName = `${decorateName(entry, tagConfig)} (${attempt++})`;
+    used.add(`${entry.group}|${displayName}`);
+    entry.displayName = displayName;
+  }
+}
+decorateAll(mainEntries);
+decorateAll(reviewEntries);
 
 /* ------------------------------------------------------------------ *
  * 5. Safety gate – never publish an empty or unrepresentative feed
@@ -213,6 +237,15 @@ if (failures.length) {
 /* ------------------------------------------------------------------ *
  * 6. Write outputs
  * ------------------------------------------------------------------ */
+function countBy(entries, key) {
+  const counts = {};
+  for (const entry of entries) {
+    const value = key(entry);
+    counts[value] = (counts[value] || 0) + 1;
+  }
+  return Object.fromEntries(Object.entries(counts).sort((a, b) => b[1] - a[1]));
+}
+
 const tally = (entries) => {
   const counts = {};
   for (const entry of entries) counts[entry.group] = (counts[entry.group] || 0) + 1;
@@ -259,6 +292,14 @@ const stats = {
     // Rows accepted through the explicit sports.assertedEnglish list rather than
     // an upstream Tamil/English label.
     assertedLanguage: mainEntries.filter((entry) => entry.asserted).length,
+    streamTypes: {
+      protocol: countBy(mainEntries, (entry) => entry.stream.protocol || 'unknown'),
+      drm: countBy(mainEntries, (entry) => entry.stream.drm || 'none'),
+      source: countBy(mainEntries, (entry) => entry.stream.source || 'unknown'),
+    },
+    channelsWithAlternates: Object.values(
+      countBy(mainEntries, (entry) => `${entry.group}|${channelKey(entry.name, entry.group, entry.language)}`),
+    ).filter((count) => count > 1).length,
     brands: new Set(mainEntries.map((entry) => channelKey(entry.name, entry.group, entry.language))).size,
     byGroup: tally(mainEntries),
   },
@@ -269,16 +310,19 @@ const stats = {
 };
 
 const files = config.output;
+const entryOptions = { attributes: config.output.nameTags?.attributes !== false };
 fs.writeFileSync(path.join(outputDir, files.main), renderPlaylist(mainEntries, {
   title: files.title,
   note: files.note,
   generatedAt,
+  entryOptions,
   extraLines: [`#SUMMARY:${tamilCount} Tamil channels, ${biggBossCount} Bigg Boss Tamil, ${mainEntries.length - tamilCount - biggBossCount} sports feeds`],
 }));
 fs.writeFileSync(path.join(outputDir, files.review), renderPlaylist(reviewEntries, {
   title: `${files.title} - review queue`,
   note: 'Not part of the main feed: sports rows without a verifiable Tamil/English label.',
   generatedAt,
+  entryOptions,
 }));
 fs.writeFileSync(path.join(outputDir, files.stats), `${JSON.stringify(stats, null, 2)}\n`);
 fs.writeFileSync(path.join(outputDir, files.reviewJson), `${JSON.stringify(
@@ -314,7 +358,7 @@ function renderSummary() {
   const seen = new Set();
   for (const [group, count] of Object.entries(stats.main.byGroup)) {
     lines.push(`### ${group} (${count})`, '');
-    const names = [...new Set(mainEntries.filter((entry) => entry.group === group).map((entry) => entry.name))];
+    const names = [...new Set(mainEntries.filter((entry) => entry.group === group).map((entry) => entry.displayName))];
     for (const name of names) {
       const key = `${group}|${name}`;
       if (seen.has(key)) continue;
