@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T21:47:58.465Z",
+  "generatedAt": "2026-10-23T21:50:31.934Z",
   "configVersion": 2,
   "playlistTitle": "JaSH - Tamil channels, Tamil/English sports and Bigg Boss Tamil",
   "filters": {
@@ -447,12 +447,12 @@
       "discovery": false,
       "skipped": false,
       "ok": true,
-      "parsed": 3,
-      "matched": 3,
-      "used": 2,
+      "parsed": 2,
+      "matched": 2,
+      "used": 0,
       "error": "",
       "tamil": 0,
-      "sports": 3
+      "sports": 2
     },
     {
       "key": "prime_sports_one",
@@ -769,12 +769,12 @@
       "discovery": true,
       "skipped": false,
       "ok": true,
-      "parsed": 3,
-      "matched": 3,
+      "parsed": 2,
+      "matched": 2,
       "used": 0,
       "error": "",
       "tamil": 0,
-      "sports": 3,
+      "sports": 2,
       "discovered": true
     },
     {
@@ -815,12 +815,12 @@
       "discovery": true,
       "skipped": false,
       "ok": true,
-      "parsed": 4,
-      "matched": 3,
+      "parsed": 3,
+      "matched": 2,
       "used": 0,
       "error": "",
       "tamil": 0,
-      "sports": 3,
+      "sports": 2,
       "discovered": true
     },
     {
@@ -868,12 +868,12 @@
     }
   ],
   "main": {
-    "total": 300,
+    "total": 298,
     "tamilChannels": 233,
     "biggBoss": 1,
-    "sports": 66,
+    "sports": 64,
     "assertedLanguage": 36,
-    "brands": 154,
+    "brands": 152,
     "byGroup": {
       "Bigg Boss Tamil 24/7": 1,
       "Tamil - Entertainment": 91,
@@ -890,7 +890,7 @@
       "Sports - Star Sports - English": 21,
       "Sports - Sony Sports - Tamil": 4,
       "Sports - Sony Sports - English": 20,
-      "Sports - FanCode - English": 6,
+      "Sports - FanCode - English": 4,
       "Sports - Willow - English": 4,
       "Sports - Cricbuzz - English": 1,
       "Sports - Ten Sports - English": 1,
@@ -909,7 +909,7 @@
     "other regional language": 2212,
     "not https": 1311,
     "expired token": 3684,
-    "duplicate stream": 86,
+    "duplicate stream": 85,
     "alternate stream beyond cap": 100
   },
   "missingSportsFamilies": [

@@ -1,8 +1,8 @@
 # Current curated feed
 
-Generated 2026-10-23T21:47:58.465Z by `scripts/curate-live.mjs` — do not edit by hand.
+Generated 2026-10-23T21:50:31.934Z by `scripts/curate-live.mjs` — do not edit by hand.
 
-300 stream options in `jash-live.m3u`: 233 Tamil channels, 1 Bigg Boss Tamil, 66 sports feeds.
+298 stream options in `jash-live.m3u`: 233 Tamil channels, 1 Bigg Boss Tamil, 64 sports feeds.
 33 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
 
 | Group | Streams |
@@ -22,7 +22,7 @@ Generated 2026-10-23T21:47:58.465Z by `scripts/curate-live.mjs` — do not edit 
 | Sports - Star Sports - English | 21 |
 | Sports - Sony Sports - Tamil | 4 |
 | Sports - Sony Sports - English | 20 |
-| Sports - FanCode - English | 6 |
+| Sports - FanCode - English | 4 |
 | Sports - Willow - English | 4 |
 | Sports - Cricbuzz - English | 1 |
 | Sports - Ten Sports - English | 1 |
@@ -244,14 +244,12 @@ Generated 2026-10-23T21:47:58.465Z by `scripts/curate-live.mjs` — do not edit 
 - Sony Ten 5 HD
 - SONY TEN Cricket
 
-### Sports - FanCode - English (6)
+### Sports - FanCode - English (4)
 
 - Day 2 [English]
 - Day 5 - World Feed [English]
-- EFL Championship 2026-27 [English]
 - FANCODE 1
 - FANCODE 2
-- LALIGA Hypermotion 2026-27 [English]
 
 ### Sports - Willow - English (4)
 
@@ -288,7 +286,6 @@ Generated 2026-10-23T21:47:58.465Z by `scripts/curate-live.mjs` — do not edit 
 | SonyTV 4 (sonytv_4) | pinned | 5 |
 | YuppTV 1 (yupptv_one) | pinned | 10 |
 | Fancode (fancode_avd) | pinned | 2 |
-| Fancode 1 (fancode_one) | pinned | 2 |
 | Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 5 |
 | Fancode 1 [Backup] (fancode_one_backup) | discovered | 0 |
 | Fancode 3 (fancode_three) | discovered | 0 |
