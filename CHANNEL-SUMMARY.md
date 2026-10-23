@@ -1,6 +1,6 @@
 # Current curated feed
 
-Generated 2026-10-23T22:09:59.690Z by `scripts/curate-live.mjs` — do not edit by hand.
+Generated 2026-10-23T22:13:55.534Z by `scripts/curate-live.mjs` — do not edit by hand.
 
 338 stream options in `jash-live.m3u`: 271 Tamil channels, 1 Bigg Boss Tamil, 66 sports feeds.
 38 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
@@ -434,7 +434,7 @@ Generated 2026-10-23T22:09:59.690Z by `scripts/curate-live.mjs` — do not edit 
 |---|---|---:|
 | JioTV proxy (hjh-545.pages.dev) | static | 111 |
 | maybetv/Jo/Zoh2.m3u | github | 4 |
-| maybetv/Jo/Zoh.m3u | github | 9 |
+| maybetv/Jo/Zoh.m3u | github | 8 |
 | maybetv/Jo/playlist.m3u | github | 41 |
 | maybetv/Jo/Zohplx.m3u | github | 5 |
 | sportlive18/Sportlink-wtf/Sports.m3u | github | 10 |
@@ -446,7 +446,7 @@ Generated 2026-10-23T22:09:59.690Z by `scripts/curate-live.mjs` — do not edit 
 | SonyTV 4 (sonytv_4) | pinned | 4 |
 | YuppTV 1 (yupptv_one) | pinned | 5 |
 | Fancode (fancode_avd) | pinned | 2 |
-| Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 5 |
+| Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 6 |
 | Fancode 1 [Backup] (fancode_one_backup) | discovered | 0 |
 | Fancode 3 (fancode_three) | discovered | 0 |
 

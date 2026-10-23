@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T22:09:59.690Z",
+  "generatedAt": "2026-10-23T22:13:55.534Z",
   "configVersion": 2,
   "playlistTitle": "JaSH - Tamil channels, Tamil/English sports and Bigg Boss Tamil",
   "filters": {
@@ -66,11 +66,11 @@
       "skipped": false,
       "ok": true,
       "parsed": 128,
-      "matched": 17,
-      "used": 9,
+      "matched": 16,
+      "used": 8,
       "error": "",
       "tamil": 0,
-      "sports": 17
+      "sports": 16
     },
     {
       "key": "maybetv_Jo__playlist.m3u",
@@ -781,7 +781,7 @@
       "ok": true,
       "parsed": 6,
       "matched": 6,
-      "used": 5,
+      "used": 6,
       "error": "",
       "tamil": 0,
       "sports": 6,
@@ -811,7 +811,7 @@
       "discovery": true,
       "skipped": false,
       "ok": true,
-      "parsed": 3,
+      "parsed": 2,
       "matched": 0,
       "used": 0,
       "error": "discovered but no usable Tamil/sports rows",
@@ -956,12 +956,12 @@
     }
   },
   "dropped": {
-    "not Tamil": 3442,
+    "not Tamil": 3441,
     "other regional language": 2649,
-    "unusable name": 516,
+    "unusable name": 517,
     "not https": 1311,
     "expired token": 3684,
-    "duplicate stream": 84,
+    "duplicate stream": 83,
     "alternate stream beyond cap": 166
   },
   "missingSportsFamilies": [
