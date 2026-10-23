@@ -1,6 +1,6 @@
 # Current curated feed
 
-Generated 2026-10-23T21:39:02.259Z by `scripts/curate-live.mjs` — do not edit by hand.
+Generated 2026-10-23T21:47:58.465Z by `scripts/curate-live.mjs` — do not edit by hand.
 
 300 stream options in `jash-live.m3u`: 233 Tamil channels, 1 Bigg Boss Tamil, 66 sports feeds.
 33 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
@@ -293,6 +293,6 @@ Generated 2026-10-23T21:39:02.259Z by `scripts/curate-live.mjs` — do not edit 
 | Fancode 1 [Backup] (fancode_one_backup) | discovered | 0 |
 | Fancode 3 (fancode_three) | discovered | 0 |
 
-Sources that returned nothing this run: 23 of 59. See `jash-live.stats.json`.
+Sources that returned nothing this run: 21 of 59. See `jash-live.stats.json`.
 
 Playback was **not** verified: entries carry upstream playback properties unchanged, and a stream may still need a compatible player, legitimate access or region availability.

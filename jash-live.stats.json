@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T21:39:02.259Z",
+  "generatedAt": "2026-10-23T21:47:58.465Z",
   "configVersion": 2,
   "playlistTitle": "JaSH - Tamil channels, Tamil/English sports and Bigg Boss Tamil",
   "filters": {
@@ -43,7 +43,7 @@
       "discovery": false,
       "skipped": false,
       "ok": true,
-      "parsed": 127,
+      "parsed": 128,
       "matched": 17,
       "used": 9,
       "error": "",
@@ -664,11 +664,13 @@
       "pinned": false,
       "discovery": true,
       "skipped": false,
-      "ok": false,
-      "parsed": 0,
+      "ok": true,
+      "parsed": 1,
       "matched": 0,
       "used": 0,
-      "error": "no playlist entries"
+      "error": "discovered but no usable Tamil/sports rows",
+      "tamil": 0,
+      "sports": 0
     },
     {
       "key": "sonyliv_two",
@@ -692,11 +694,13 @@
       "pinned": false,
       "discovery": true,
       "skipped": false,
-      "ok": false,
-      "parsed": 0,
+      "ok": true,
+      "parsed": 1,
       "matched": 0,
       "used": 0,
-      "error": "no playlist entries"
+      "error": "discovered but no usable Tamil/sports rows",
+      "tamil": 0,
+      "sports": 0
     },
     {
       "key": "sonyliv_three",
@@ -900,7 +904,7 @@
     }
   },
   "dropped": {
-    "unusable name": 465,
+    "unusable name": 468,
     "not Tamil": 2843,
     "other regional language": 2212,
     "not https": 1311,
