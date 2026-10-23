@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T21:42:12.432Z",
+  "generatedAt": "2026-10-23T21:57:15.402Z",
   "configVersion": 2,
   "playlistTitle": "JaSH - Tamil channels, Tamil/English sports and Bigg Boss Tamil",
   "filters": {
@@ -469,12 +469,12 @@
       "discovery": false,
       "skipped": false,
       "ok": true,
-      "parsed": 3,
-      "matched": 3,
-      "used": 2,
+      "parsed": 2,
+      "matched": 2,
+      "used": 0,
       "error": "",
       "tamil": 0,
-      "sports": 3
+      "sports": 2
     },
     {
       "key": "prime_sports_one",
@@ -746,11 +746,13 @@
       "pinned": false,
       "discovery": true,
       "skipped": false,
-      "ok": false,
-      "parsed": 0,
+      "ok": true,
+      "parsed": 1,
       "matched": 0,
       "used": 0,
-      "error": "no playlist entries"
+      "error": "discovered but no usable Tamil/sports rows",
+      "tamil": 0,
+      "sports": 0
     },
     {
       "key": "willow_one_backup",
@@ -791,12 +793,12 @@
       "discovery": true,
       "skipped": false,
       "ok": true,
-      "parsed": 3,
-      "matched": 3,
+      "parsed": 2,
+      "matched": 2,
       "used": 0,
       "error": "",
       "tamil": 0,
-      "sports": 3,
+      "sports": 2,
       "discovered": true
     },
     {
@@ -837,12 +839,12 @@
       "discovery": true,
       "skipped": false,
       "ok": true,
-      "parsed": 4,
-      "matched": 3,
+      "parsed": 3,
+      "matched": 2,
       "used": 0,
       "error": "",
       "tamil": 0,
-      "sports": 3,
+      "sports": 2,
       "discovered": true
     },
     {
@@ -890,12 +892,12 @@
     }
   ],
   "main": {
-    "total": 340,
+    "total": 338,
     "tamilChannels": 271,
     "biggBoss": 1,
-    "sports": 68,
+    "sports": 66,
     "assertedLanguage": 36,
-    "brands": 154,
+    "brands": 152,
     "byGroup": {
       "Bigg Boss Tamil 24/7": 1,
       "Tamil - Entertainment": 106,
@@ -912,7 +914,7 @@
       "Sports - Star Sports - English": 21,
       "Sports - Sony Sports - Tamil": 6,
       "Sports - Sony Sports - English": 20,
-      "Sports - FanCode - English": 6,
+      "Sports - FanCode - English": 4,
       "Sports - Willow - English": 4,
       "Sports - Cricbuzz - English": 1,
       "Sports - Ten Sports - English": 1,
@@ -928,10 +930,10 @@
   "dropped": {
     "not Tamil": 3442,
     "other regional language": 2649,
-    "unusable name": 514,
+    "unusable name": 515,
     "not https": 1311,
     "expired token": 3684,
-    "duplicate stream": 86,
+    "duplicate stream": 85,
     "alternate stream beyond cap": 166
   },
   "missingSportsFamilies": [
