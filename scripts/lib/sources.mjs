@@ -8,6 +8,7 @@
  *              Pinned ids are always fetched; every other row is a discovery
  *              candidate and is only merged when it actually yields Tamil or
  *              Tamil/English sports entries.
+ *   static   – a direct M3U/JSON URL listed in config.staticSources.
  *   github   – the original raw-github playlist files (maybetv/Jo, Sportlink-wtf).
  *
  * A local snapshot directory (SOURCE_SNAPSHOT_DIR) can replace network access,
@@ -61,12 +62,26 @@ export async function loadIndex(config, { snapshotDir, timeoutMs } = {}) {
 export function buildSourcePlan(config, indexRows) {
   const plan = { primary: [], discovery: [] };
 
+  // Direct feeds first: they are hand-picked, so their copies of a channel win
+  // over rows coming from bulk/legacy playlists during deduplication.
+  (config.staticSources || []).forEach((source, order) => {
+    plan.primary.push({
+      key: source.id || `static_${order}`,
+      label: source.label || source.url,
+      origin: 'static',
+      priority: order,
+      url: source.url,
+      familyHint: source.family || '',
+    });
+  });
+
+  const staticOffset = plan.primary.length;
   (config.legacySources || []).forEach((source, order) => {
     plan.primary.push({
       key: legacyKey(source),
       label: `${source.repo}/${source.file}`,
       origin: 'github',
-      priority: order,
+      priority: staticOffset + order,
       url: `https://raw.githubusercontent.com/${source.repo}/HEAD/${source.file}`,
       familyHint: source.family || '',
     });

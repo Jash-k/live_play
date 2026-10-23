@@ -1,28 +1,28 @@
 # Current curated feed
 
-Generated 2026-10-23T21:50:31.934Z by `scripts/curate-live.mjs` — do not edit by hand.
+Generated 2026-10-23T21:42:12.432Z by `scripts/curate-live.mjs` — do not edit by hand.
 
-298 stream options in `jash-live.m3u`: 233 Tamil channels, 1 Bigg Boss Tamil, 64 sports feeds.
-33 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
+340 stream options in `jash-live.m3u`: 271 Tamil channels, 1 Bigg Boss Tamil, 68 sports feeds.
+38 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
 
 | Group | Streams |
 |---|---:|
 | Bigg Boss Tamil 24/7 | 1 |
-| Tamil - Entertainment | 91 |
-| Tamil - News | 45 |
-| Tamil - Movies | 14 |
-| Tamil - Music | 18 |
-| Tamil - Kids | 19 |
+| Tamil - Entertainment | 106 |
+| Tamil - News | 50 |
+| Tamil - Movies | 16 |
+| Tamil - Music | 20 |
+| Tamil - Kids | 24 |
 | Tamil - Comedy | 4 |
-| Tamil - Devotional | 17 |
-| Tamil - Lifestyle | 2 |
-| Tamil - Infotainment | 10 |
-| Tamil - General | 13 |
+| Tamil - Devotional | 19 |
+| Tamil - Lifestyle | 3 |
+| Tamil - Infotainment | 12 |
+| Tamil - General | 17 |
 | Sports - Star Sports - Tamil | 8 |
 | Sports - Star Sports - English | 21 |
-| Sports - Sony Sports - Tamil | 4 |
+| Sports - Sony Sports - Tamil | 6 |
 | Sports - Sony Sports - English | 20 |
-| Sports - FanCode - English | 4 |
+| Sports - FanCode - English | 6 |
 | Sports - Willow - English | 4 |
 | Sports - Cricbuzz - English | 1 |
 | Sports - Ten Sports - English | 1 |
@@ -34,7 +34,7 @@ Generated 2026-10-23T21:50:31.934Z by `scripts/curate-live.mjs` — do not edit 
 
 - Bigg Boss Tamil 24/7
 
-### Tamil - Entertainment (91)
+### Tamil - Entertainment (106)
 
 - Aaryaa TV
 - Athavan TV HD
@@ -76,7 +76,6 @@ Generated 2026-10-23T21:50:31.934Z by `scripts/curate-live.mjs` — do not edit 
 - Ultimate TV
 - Vaanavil TV
 - Vasanth TV
-- Vasanth TV (240p)
 - Velicham (360p)
 - Velicham Tv
 - Vendhar TV
@@ -89,7 +88,7 @@ Generated 2026-10-23T21:50:31.934Z by `scripts/curate-live.mjs` — do not edit 
 - Zee Tamil
 - Zee Tamil HD
 
-### Tamil - News (45)
+### Tamil - News (50)
 
 - Asianet News Tamil (360p)
 - Kalaignar Seithigal
@@ -114,7 +113,7 @@ Generated 2026-10-23T21:50:31.934Z by `scripts/curate-live.mjs` — do not edit 
 - Thanthi TV
 - Thanthi TV (396p)
 
-### Tamil - Movies (14)
+### Tamil - Movies (16)
 
 - J Movies
 - KTV
@@ -125,7 +124,7 @@ Generated 2026-10-23T21:50:31.934Z by `scripts/curate-live.mjs` — do not edit 
 - Sony Vizha HD
 - Zee Thirai HD
 
-### Tamil - Music (18)
+### Tamil - Music (20)
 
 - 7S Music
 - Isaiaruvi
@@ -133,12 +132,11 @@ Generated 2026-10-23T21:50:31.934Z by `scripts/curate-live.mjs` — do not edit 
 - Peppers TV
 - Raj Musix
 - Roja TV
-- Sun Music
 - Sun music HD
 - Sun Music HD
 - Tunes 6
 
-### Tamil - Kids (19)
+### Tamil - Kids (24)
 
 - Cartoon Network HD+ Tamil
 - Cartoon Network Tamil
@@ -155,9 +153,8 @@ Generated 2026-10-23T21:50:31.934Z by `scripts/curate-live.mjs` — do not edit 
 - Adithya TV
 - Siripoli
 
-### Tamil - Devotional (17)
+### Tamil - Devotional (19)
 
-- Angel TV
 - Angel TV HD
 - Angel TV India (720p)
 - Madha TV
@@ -168,11 +165,11 @@ Generated 2026-10-23T21:50:31.934Z by `scripts/curate-live.mjs` — do not edit 
 - Sri Sankara
 - Sri Sankara Tamil
 
-### Tamil - Lifestyle (2)
+### Tamil - Lifestyle (3)
 
 - Travelxp Tamil
 
-### Tamil - Infotainment (10)
+### Tamil - Infotainment (12)
 
 - Animal Planet HD Tamil
 - Animal Planet Tamil
@@ -181,7 +178,7 @@ Generated 2026-10-23T21:50:31.934Z by `scripts/curate-live.mjs` — do not edit 
 - History TV18 HD Tamil
 - Sony BBC Earth HD Tamil
 
-### Tamil - General (13)
+### Tamil - General (17)
 
 - Loop Tamil
 - M Nadu
@@ -222,7 +219,7 @@ Generated 2026-10-23T21:50:31.934Z by `scripts/curate-live.mjs` — do not edit 
 - Star Sports Select 2 Digital
 - Star Sports Select 2 HD
 
-### Sports - Sony Sports - Tamil (4)
+### Sports - Sony Sports - Tamil (6)
 
 - Sony LIV Sports 4 Tamil
 - Sony Sports Ten 4 Tamil
@@ -244,12 +241,14 @@ Generated 2026-10-23T21:50:31.934Z by `scripts/curate-live.mjs` — do not edit 
 - Sony Ten 5 HD
 - SONY TEN Cricket
 
-### Sports - FanCode - English (4)
+### Sports - FanCode - English (6)
 
 - Day 2 [English]
 - Day 5 - World Feed [English]
+- EFL Championship 2026-27 [English]
 - FANCODE 1
 - FANCODE 2
+- LALIGA Hypermotion 2026-27 [English]
 
 ### Sports - Willow - English (4)
 
@@ -273,23 +272,25 @@ Generated 2026-10-23T21:50:31.934Z by `scripts/curate-live.mjs` — do not edit 
 
 | Source | Kind | Entries used |
 |---|---|---:|
-| maybetv/Jo/Zoh2.m3u | github | 5 |
+| JioTV proxy (hjh-545.pages.dev) | static | 111 |
+| maybetv/Jo/Zoh2.m3u | github | 4 |
 | maybetv/Jo/Zoh.m3u | github | 9 |
-| maybetv/Jo/playlist.m3u | github | 56 |
+| maybetv/Jo/playlist.m3u | github | 41 |
 | maybetv/Jo/Zohplx.m3u | github | 5 |
 | sportlive18/Sportlink-wtf/Sports.m3u | github | 10 |
 | sportlive18/Sportlink-wtf/Sport.m3u | github | 1 |
-| JioTV+ 32 (jiotv_32) | pinned | 116 |
-| JioTV+ 28 (jiotv_28) | pinned | 79 |
+| JioTV+ 32 (jiotv_32) | pinned | 89 |
+| JioTV+ 28 (jiotv_28) | pinned | 63 |
 | Star 3 (star_3) | pinned | 14 |
-| Special (special) | pinned | 14 |
-| SonyTV 4 (sonytv_4) | pinned | 5 |
-| YuppTV 1 (yupptv_one) | pinned | 10 |
+| Special (special) | pinned | 13 |
+| SonyTV 4 (sonytv_4) | pinned | 4 |
+| YuppTV 1 (yupptv_one) | pinned | 5 |
 | Fancode (fancode_avd) | pinned | 2 |
+| Fancode 1 (fancode_one) | pinned | 2 |
 | Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 5 |
 | Fancode 1 [Backup] (fancode_one_backup) | discovered | 0 |
 | Fancode 3 (fancode_three) | discovered | 0 |
 
-Sources that returned nothing this run: 21 of 59. See `jash-live.stats.json`.
+Sources that returned nothing this run: 21 of 60. See `jash-live.stats.json`.
 
 Playback was **not** verified: entries carry upstream playback properties unchanged, and a stream may still need a compatible player, legitimate access or region availability.

@@ -62,7 +62,11 @@ Rules the curator enforces:
    Every other row is a **discovery candidate**: it is merged only if it actually yields Tamil
    channels (`autoDiscoverMinTamil`) or Tamil/English sports (`autoDiscoverMinSports`), so new
    providers added upstream are picked up automatically while dead rows stay out.
-2. **Legacy raw-GitHub playlists** — `maybetv/Jo` and `sportlive18/Sportlink-wtf` (unchanged from
+2. **Direct feeds** — hand-picked M3U/JSON URLs in `index.staticSources`, currently
+   `https://hjh-545.pages.dev/` (JioTV proxy: channels carry clearkey properties and the proxy mints a
+   fresh Jio token on every play request, so nothing expires in the playlist itself). Direct feeds are
+   fetched first and their copy of a channel wins when the same stream URL also appears elsewhere.
+3. **Legacy raw-GitHub playlists** — `maybetv/Jo` and `sportlive18/Sportlink-wtf` (unchanged from
    the previous version, listed under `legacySources`).
 
 Both the M3U and the JSON source shapes are supported: JioTV channel dumps
@@ -94,6 +98,8 @@ SOURCE_SNAPSHOT_DIR=fixtures OUTPUT_DIR=/tmp/out node scripts/curate-live.mjs
 
 Everything tunable lives in `scripts/curate-live.config.json`:
 
+* `index.staticSources` — direct playlist URLs (`{id, label, url}`) that are always fetched, e.g. the
+  `hjh-545` JioTV proxy. Add another URL here and it is picked up on the next run.
 * `index.pinned` / `index.autoDiscover*` — which index sources are always used, and how aggressive
   discovery is.
 * `tamil.brands` — the brand table (category → brand names). Add a channel here to teach the

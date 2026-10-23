@@ -238,6 +238,11 @@ const stats = {
     biggBoss: 'Tamil-labelled 24/7 feeds only',
     maxAlternatesPerChannel: maxAlternates,
   },
+  staticSources: (config.staticSources || []).map((source) => ({
+    id: source.id || source.url,
+    url: source.url,
+    used: usedBySource[source.id] || 0,
+  })),
   index: {
     url: index.url,
     rows: index.rows.length,

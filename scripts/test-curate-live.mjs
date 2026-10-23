@@ -58,7 +58,7 @@ https://fixture.example/bb-tamil.m3u8
 #EXTINF:-1 tvg-language="Hindi",Bigboss 24/7 live-HINDI
 https://fixture.example/bb-hindi.m3u8
 #EXTINF:-1 tvg-language="English",Star Sports 1 HD
-https://fixture.example/star.m3u8
+https://static.example/stream?id=starsports1hd
 #EXTINF:-1 tvg-language="Tamil",Sony Ten 4 Tamil
 https://fixture.example/sony4.m3u8
 #EXTINF:-1 tvg-language="Hindi",Sony Ten 4 Hindi
@@ -118,6 +118,15 @@ https://fixture.example/kalaignar.m3u8
 https://fixture.example/puthiya.m3u8
 `;
 
+const staticFixture = `#EXTM3U
+#EXTINF:-1 tvg-id="1" group-title="Tamil",Raj Digital Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abc123:def456
+https://static.example/stream?id=rajdigitalplus
+#EXTINF:-1 tvg-id="2" group-title="Sports",Star Sports 1 HD
+https://static.example/stream?id=starsports1hd
+`;
+
 const discoverEmpty = `#EXTM3U
 #EXTINF:-1 tvg-language="Hindi",Aaj Tak
 https://fixture.example/aajtak.m3u8
@@ -129,6 +138,7 @@ function writeSnapshot(dir) {
   fs.mkdirSync(dir, { recursive: true });
   fs.writeFileSync(path.join(dir, '_index.json'), JSON.stringify(indexJson));
   fs.writeFileSync(path.join(dir, 'src_jio.m3u'), jioFixture);
+  fs.writeFileSync(path.join(dir, 'src_static'), staticFixture);
   fs.writeFileSync(path.join(dir, 'src_json.json'), jsonFixture);
   fs.writeFileSync(path.join(dir, 'fancode_events.json'), eventFixture);
   fs.writeFileSync(path.join(dir, 'src_discover_ok'), discoverOk);
@@ -139,6 +149,7 @@ function testConfig(overrides = {}) {
   const config = {
     ...baseConfig,
     legacySources: [],
+    staticSources: [{ id: 'src_static', label: 'Direct fixture feed', url: 'https://index.example/static.m3u' }],
     index: {
       ...baseConfig.index,
       pinned: ['src_jio', 'src_json', 'fancode_events', 'src_dead'],
@@ -180,6 +191,10 @@ try {
   assert(names.includes('KTV'), 'short brand name survives the name sanity filter');
   assert(names.includes('Jaya TV HD'), 'auto-discovered source contributes Tamil channels');
   assert(names.includes('sonic Tamil'), 'JSON source normalised into an entry');
+  assert(names.includes('Raj Digital Plus'), 'direct/static source contributes channels');
+  assert.strictEqual(main.filter((entry) => entry.name === 'Star Sports 1 HD').length, 1, 'same stream URL from two sources becomes one entry');
+  assert(main.find((entry) => entry.name === 'Star Sports 1 HD').url.includes('static.example'), 'higher-priority static source wins the duplicate');
+  assert(stats.staticSources.some((source) => source.id === 'src_static' && source.used >= 2), 'stats report static source usage');
   assert(groups.includes('Tamil - Entertainment'), 'Tamil channels grouped by category');
   assert(!names.some((name) => /Big FM|hghk/.test(name)), 'radio and junk rows dropped');
   assert(!names.some((name) => /Gemini|CNBC|Aaj Tak|ETV Telugu/.test(name)), 'non-Tamil regional channels dropped');

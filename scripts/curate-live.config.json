@@ -62,6 +62,14 @@
       "prime_sports": "Prime Sports"
     }
   },
+  "staticSources": [
+    {
+      "id": "hjh-545",
+      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "url": "https://hjh-545.pages.dev/",
+      "note": "Direct M3U feed proxying JioTV channels with clearkey props; no expiring tokens in the URLs."
+    }
+  ],
   "legacySources": [
     {
       "repo": "maybetv/Jo",
