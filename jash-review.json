@@ -1,6 +1,6 @@
 [
   {
-    "name": "Arkansas Pine Bluff vs. Florida A&M",
+    "name": "AHL Hockey: Calgary Wranglers vs Abbotsford Canucks",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -10,13 +10,43 @@
     }
   },
   {
-    "name": "Atlantic Attack vs. Cambridge Turbos",
+    "name": "AHL Hockey: Calgary Wranglers vs Abbotsford Canucks",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Angel City vs. Bay",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Armored MMA-Canton, Ohio",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Birmingham Legion FC at Pittsburgh Riverhounds SC",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
     }
   },
   {
@@ -50,7 +80,17 @@
     }
   },
   {
-    "name": "Eastern New Mexico University vs Western Oregon - Football",
+    "name": "Ecclesia College at John Brown",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Grand Prix of Australia",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -60,7 +100,7 @@
     }
   },
   {
-    "name": "Monster Jam LIVE-LIVE: Monster Jam from Syracuse, NY - 10/24/2026",
+    "name": "Lexington SC at Phoenix Rising FC",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -70,13 +110,23 @@
     }
   },
   {
-    "name": "Motorbootrennen-Season 2026",
+    "name": "LIVE: Genesis Championship Day 4",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
       "key": "maybetv_Jo__Zoh.m3u",
       "label": "maybetv/Jo/Zoh.m3u",
       "origin": "github"
+    }
+  },
+  {
+    "name": "Rive-Sud Revolution vs. Eastern Ontario Capitals",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
     }
   },
   {
@@ -104,8 +154,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_20",
-      "label": "JioTV+ 20 (jiotv_20)",
+      "key": "jiotv_8",
+      "label": "JioTV+ 8 (jiotv_8)",
       "origin": "index"
     }
   },
@@ -134,8 +184,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_20",
-      "label": "JioTV+ 20 (jiotv_20)",
+      "key": "jiotv_8",
+      "label": "JioTV+ 8 (jiotv_8)",
       "origin": "index"
     }
   },
@@ -164,8 +214,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_20",
-      "label": "JioTV+ 20 (jiotv_20)",
+      "key": "jiotv_8",
+      "label": "JioTV+ 8 (jiotv_8)",
       "origin": "index"
     }
   },
@@ -194,8 +244,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_20",
-      "label": "JioTV+ 20 (jiotv_20)",
+      "key": "jiotv_8",
+      "label": "JioTV+ 8 (jiotv_8)",
       "origin": "index"
     }
   },
@@ -294,9 +344,9 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
-      "origin": "index"
+      "key": "hjh-545",
+      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "origin": "static"
     }
   },
   {
@@ -304,9 +354,9 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
-      "origin": "static"
+      "key": "jiotv_16",
+      "label": "JioTV+ 16 (jiotv_16)",
+      "origin": "index"
     }
   },
   {
@@ -334,16 +384,6 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Star Sports Khel",
-    "family": "Star Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
       "key": "hjh-545",
       "label": "JioTV proxy (hjh-545.pages.dev)",
       "origin": "static"
@@ -360,13 +400,33 @@
     }
   },
   {
-    "name": "Western Colorado at Black Hills State",
+    "name": "Texas A&M Kingsville vs Angelo State - Football",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "United States v Australia A",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Vol. 63: Glow Bash II",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
     }
   }
 ]
