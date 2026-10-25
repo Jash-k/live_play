@@ -1,43 +1,8 @@
 #EXTM3U
 #PLAYLIST:JaSH - Tamil channels, Tamil/English sports and Bigg Boss Tamil - review queue
 #NOTE:Not part of the main feed: sports rows without a verifiable Tamil/English label.
-#GENERATED:2026-10-25T04:48:41.111Z
-#ENTRIES:43
-
-#EXTINF:-1 tvg-id="B0H8W7GDJL" tvg-name="AHL Hockey: Calgary Wranglers vs Abbotsford Canucks [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c95e2615-76f4-44e1-b340-96410f31feaa/2/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="AHL Hockey: Calgary Wranglers vs Abbotsford Canucks" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",AHL Hockey: Calgary Wranglers vs Abbotsford Canucks [DASH · ClearKey · Jo/Zoh]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0H8W7GDJL" tvg-name="AHL Hockey: Calgary Wranglers vs Abbotsford Canucks [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c95e2615-76f4-44e1-b340-96410f31feaa/2/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="AHL Hockey: Calgary Wranglers vs Abbotsford Canucks" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",AHL Hockey: Calgary Wranglers vs Abbotsford Canucks [DASH · ClearKey · Prime Sports 1 [Backup]]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HMKC6R1W" tvg-name="Angel City vs. Bay [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e1a5117e-e4e0-48d9-9338-e68e7a8d2593/2/BOXART-16X9/en-US/1920x1080._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Review - language uncertain" base-name="Angel City vs. Bay" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",Angel City vs. Bay [DASH · ClearKey · Prime Sports 1 [Backup]]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad6e7091d1d36a16d5475bdb2d900888:8c67e6b1e4bcf1ee1f12167526ef2503
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qy6usrjqzw/out/v1/48d0ffdc0c354fc8bf9b565c245d0f07/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HP2H4W8W" tvg-name="Armored MMA-Canton Ohio [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.76646501-a3dc-4ea7-a932-6b8f324de81c/2/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Armored MMA-Canton Ohio" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",Armored MMA-Canton Ohio [DASH · ClearKey · Prime Sports 1 [Backup]]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HNPHWC34" tvg-name="Birmingham Legion FC at Pittsburgh Riverhounds SC [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e7e124a3-1b74-4c00-9039-321c4c122994/2/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Birmingham Legion FC at Pittsburgh Riverhounds SC" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",Birmingham Legion FC at Pittsburgh Riverhounds SC [DASH · ClearKey · Prime Sports 1 [Backup]]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+#GENERATED:2026-10-25T11:38:26.561Z
+#ENTRIES:41
 
 #EXTINF:-1 tvg-id="223" tvg-name="DD Sports [HLS · Sportlink-wtf/Sports]" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png" group-title="Review - language uncertain" base-name="DD Sports" stream-type="HLS" stream-source="Sportlink-wtf/Sports",DD Sports [HLS · Sportlink-wtf/Sports]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -60,40 +25,82 @@ https://hjh-545.pages.dev/stream?id=ddsports
 #EXTVLCOPT:http-referrer=https://dishhomego.com.np/
 https://ottlive.dishhome.com.np/protected/jATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 
-#EXTINF:-1 tvg-id="B0HNPSF7GB" tvg-name="Ecclesia College at John Brown [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.864b7e8a-3081-41c7-9a08-061a15247961/5/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Ecclesia College at John Brown" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",Ecclesia College at John Brown [DASH · ClearKey · Prime Sports 1 [Backup]]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HMX2NC56" tvg-name="Grand Prix of Australia [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6cab6dd4-80c3-466f-a696-a09cc5fe6c87/7/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Grand Prix of Australia" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",Grand Prix of Australia [DASH · ClearKey · Jo/Zoh]
+#EXTINF:-1 tvg-id="B0HMX2NC56" tvg-name="Grand Prix of Australia [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6cab6dd4-80c3-466f-a696-a09cc5fe6c87/7/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Grand Prix of Australia" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",Grand Prix of Australia [DASH · ClearKey · Prime Sports 1 [Backup]]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 https://a106live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBpq8P-PBhpq3TkPA2Zha2FtYWkCeChmaWQ6MDFhMTcwMjYtZTM3OC03NDY0LTg5Y2EtMjJjOTcxNGQ2NmE3GQE4oQWhAngzL2F1aGNjd2dnYW8vb3V0L3YxLzMwZjNhZDliYTJjMzQwNzM5ZWEyOTQzZjI5ZDQ0YjMyWCBO3hMUokrNWHcvKktW7zSdqNet_tiF_VIYASVA8b1NmA/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/auhccwggao/out/v1/30f3ad9ba2c340739ea2943f29d44b32/67c248f8-6579-4fc0-b1c6-3409ccf5e5ea-cenc.mpd?aws.sessionId=9562ab18-d16a-443f-bab9-36dce047a45c
 
-#EXTINF:-1 tvg-id="B0H9437KP3" tvg-name="Lexington SC at Phoenix Rising FC [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e95082f4-877a-42d0-b622-ae5a2bc9f716/2/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Lexington SC at Phoenix Rising FC" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",Lexington SC at Phoenix Rising FC [DASH · ClearKey · Jo/Zoh]
+#EXTINF:-1 tvg-id="B0HM61FVPM" tvg-name="India vs. Zimbabwe [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d3d5b55c-eb17-4583-81c2-27de4f1f06b6/1/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="India vs. Zimbabwe" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",India vs. Zimbabwe [DASH · ClearKey · Jo/Zoh]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HNTGYCZJ" tvg-name="LIVE: Genesis Championship Day 4 [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.77be2d58-ac76-4e42-9b51-25c93337a7fb/2/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="LIVE: Genesis Championship Day 4" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",LIVE: Genesis Championship Day 4 [DASH · ClearKey · Jo/Zoh]
+#EXTINF:-1 tvg-id="B0HMLP8D75" tvg-name="India Women vs. Zimbabwe Women [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9ce2fde4-1fb3-475d-8568-fc7d05c9b0e7/4/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1724%2C885%2C117%2C117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="India Women vs. Zimbabwe Women" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",India Women vs. Zimbabwe Women [DASH · ClearKey · Jo/Zoh]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7aa827ea7809299f1459d4934d4d9953:f899257f571bd6a083d8a113edfc3a39
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7ibewarcma/out/v1/2a1ed994d4894d6a951452721876a4c4/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HMLP8D75" tvg-name="India Women vs. Zimbabwe Women [DASH · ClearKey · Prime Sports 1]" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9ce2fde4-1fb3-475d-8568-fc7d05c9b0e7/4/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1724%2C885%2C117%2C117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="India Women vs. Zimbabwe Women" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1",India Women vs. Zimbabwe Women [DASH · ClearKey · Prime Sports 1]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7aa827ea7809299f1459d4934d4d9953:f899257f571bd6a083d8a113edfc3a39
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7ibewarcma/out/v1/2a1ed994d4894d6a951452721876a4c4/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HNTGYCZJ" tvg-name="LIVE: Genesis Championship Day 4 [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.77be2d58-ac76-4e42-9b51-25c93337a7fb/2/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="LIVE: Genesis Championship Day 4" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",LIVE: Genesis Championship Day 4 [DASH · ClearKey · Prime Sports 1 [Backup]]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HMLMMHSW" tvg-name="Rive-Sud Revolution vs. Eastern Ontario Capitals [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d664f3f3-43d0-49be-b1f7-1839f0722396/1/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Rive-Sud Revolution vs. Eastern Ontario Capitals" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",Rive-Sud Revolution vs. Eastern Ontario Capitals [DASH · ClearKey · Prime Sports 1 [Backup]]
+#EXTINF:-1 tvg-id="B0HMG5YWFC" tvg-name="Pakistan ODI Tri-Series 2026 - 4th Match - Pakistan vs England [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6e464c74-5145-4aa7-ab93-bf7dc4a472f7/2/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1724%2C885%2C117%2C117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Pakistan ODI Tri-Series 2026 - 4th Match - Pakistan vs England" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",Pakistan ODI Tri-Series 2026 - 4th Match - Pakistan vs England [DASH · ClearKey · Jo/Zoh]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=53ac5670511d1300366b35b85eb6eadc:e255086091e4638f16985ca3ddd56e2b
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/t0zydsmzll/out/v1/62025d771c7b4fe7a727ede5f3d6b8ec/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HMG5YWFC" tvg-name="Pakistan ODI Tri-Series 2026 - 4th Match - Pakistan vs England [DASH · ClearKey · Prime Sports 1]" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6e464c74-5145-4aa7-ab93-bf7dc4a472f7/2/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1724%2C885%2C117%2C117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Pakistan ODI Tri-Series 2026 - 4th Match - Pakistan vs England" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1",Pakistan ODI Tri-Series 2026 - 4th Match - Pakistan vs England [DASH · ClearKey · Prime Sports 1]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53ac5670511d1300366b35b85eb6eadc:e255086091e4638f16985ca3ddd56e2b
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/t0zydsmzll/out/v1/62025d771c7b4fe7a727ede5f3d6b8ec/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H37FB27F" tvg-name="Predator European Championships: Spain [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.447494d8-1dc7-4b08-89c7-f04ce02111ea/9/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Predator European Championships: Spain" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",Predator European Championships: Spain [DASH · ClearKey · Jo/Zoh]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H37FB27F" tvg-name="Predator European Championships: Spain [DASH · ClearKey · Prime Sports 1]" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.447494d8-1dc7-4b08-89c7-f04ce02111ea/9/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Predator European Championships: Spain" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1",Predator European Championships: Spain [DASH · ClearKey · Prime Sports 1]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HJJJT7SP" tvg-name="Rybakina vs. Fernandez [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5d28b5ff-ba78-458a-b268-036a9954d972/9/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Rybakina vs. Fernandez" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",Rybakina vs. Fernandez [DASH · ClearKey · Jo/Zoh]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+
+#EXTINF:-1 tvg-id="162" tvg-name="Sony LIV Sports 1 [HLS · ClearKey · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 1" stream-type="HLS" stream-drm="ClearKey" stream-source="JioTV+ 32",Sony LIV Sports 1 [HLS · ClearKey · JioTV+ 32]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e4c5dba5bfe5a7c9338bc086eb80379:b8e8932f440084e1d2b705fa52eef94b
+#EXTVLCOPT:http-user-agent=Droovy
+#EXTHTTP:{"cookie":"__hdnea__=st=1792922412~exp=1792944012~acl=/*~hmac=aca8faa9c16c419c925501ef197e06f2bbb4d562991021df03e00f8a00b761fe"}
+https://sliv.tgaadi.workers.dev/ten1hd.m3u8?__hdnea__=st=1792922412~exp=1792944012~acl=/*~hmac=aca8faa9c16c419c925501ef197e06f2bbb4d562991021df03e00f8a00b761fe
 
 #EXTINF:-1 tvg-id="162" tvg-name="Sony LIV Sports 1 [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 1" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Sony LIV Sports 1 [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -102,18 +109,18 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/
 #KODIPROP:inputstream.adaptive.license_key=4e4c5dba5bfe5a7c9338bc086eb80379:b8e8932f440084e1d2b705fa52eef94b
 https://hjh-545.pages.dev/stream?id=sonylivsports1
 
-#EXTINF:-1 tvg-id="162" tvg-name="Sony LIV Sports 1 [DASH · ClearKey · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 1" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 32",Sony LIV Sports 1 [DASH · ClearKey · JioTV+ 32]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e4c5dba5bfe5a7c9338bc086eb80379:b8e8932f440084e1d2b705fa52eef94b
-#EXTVLCOPT:http-user-agent=Droovy
-#EXTHTTP:{"cookie":"__hdnea__=st=1792886405~exp=1792908005~acl=/*~hmac=7489c20c5ddd0888a1daa714bc5018bac01cffd5e4ad994001341a9512c9d1e0"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_1_MOB/WDVLive/index.mpd?__hdnea__=st=1792886405~exp=1792908005~acl=/*~hmac=7489c20c5ddd0888a1daa714bc5018bac01cffd5e4ad994001341a9512c9d1e0
-
 #EXTINF:-1 tvg-id="" tvg-name="Sony LIV Sports 1 [DASH · ClearKey · JioTV+ 8]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 1" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 8",Sony LIV Sports 1 [DASH · ClearKey · JioTV+ 8]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e4c5dba5bfe5a7c9338bc086eb80379:b8e8932f440084e1d2b705fa52eef94b
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_1_MOB/WDVLive/index.mpd?__hdnea__=st=1792900808~exp=1792922408~acl=/*~hmac=999e46b12dfc9dcb85806185d6c2fbc46e99b495b03c258a9a9a02278139277f
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_1_MOB/WDVLive/index.mpd?__hdnea__=st=1792926005~exp=1792947605~acl=/*~hmac=0d71b539867e925c683d6cbfdbbd669d4bf883638f44f09ee2d02c48a739e796
+
+#EXTINF:-1 tvg-id="3373" tvg-name="Sony LIV Sports 2 [HLS · ClearKey · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 2" stream-type="HLS" stream-drm="ClearKey" stream-source="JioTV+ 32",Sony LIV Sports 2 [HLS · ClearKey · JioTV+ 32]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef24516ae38b50d18049343cd1cd998a:eb4810ec250a1795a0019dba7881ff45
+#EXTVLCOPT:http-user-agent=Droovy
+#EXTHTTP:{"cookie":"__hdnea__=st=1792922412~exp=1792944012~acl=/*~hmac=aca8faa9c16c419c925501ef197e06f2bbb4d562991021df03e00f8a00b761fe"}
+https://sliv.tgaadi.workers.dev/ten2hd.m3u8?__hdnea__=st=1792922412~exp=1792944012~acl=/*~hmac=aca8faa9c16c419c925501ef197e06f2bbb4d562991021df03e00f8a00b761fe
 
 #EXTINF:-1 tvg-id="3373" tvg-name="Sony LIV Sports 2 [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 2" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Sony LIV Sports 2 [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -122,18 +129,18 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_1_MOB/WDVLive/index.mpd?__
 #KODIPROP:inputstream.adaptive.license_key=ef24516ae38b50d18049343cd1cd998a:eb4810ec250a1795a0019dba7881ff45
 https://hjh-545.pages.dev/stream?id=sonylivsports2
 
-#EXTINF:-1 tvg-id="3373" tvg-name="Sony LIV Sports 2 [DASH · ClearKey · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 2" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 32",Sony LIV Sports 2 [DASH · ClearKey · JioTV+ 32]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ef24516ae38b50d18049343cd1cd998a:eb4810ec250a1795a0019dba7881ff45
-#EXTVLCOPT:http-user-agent=Droovy
-#EXTHTTP:{"cookie":"__hdnea__=st=1792886405~exp=1792908005~acl=/*~hmac=7489c20c5ddd0888a1daa714bc5018bac01cffd5e4ad994001341a9512c9d1e0"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_2_MOB/WDVLive/index.mpd?__hdnea__=st=1792886405~exp=1792908005~acl=/*~hmac=7489c20c5ddd0888a1daa714bc5018bac01cffd5e4ad994001341a9512c9d1e0
-
 #EXTINF:-1 tvg-id="" tvg-name="Sony LIV Sports 2 [DASH · ClearKey · JioTV+ 8]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 2" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 8",Sony LIV Sports 2 [DASH · ClearKey · JioTV+ 8]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef24516ae38b50d18049343cd1cd998a:eb4810ec250a1795a0019dba7881ff45
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_2_MOB/WDVLive/index.mpd?__hdnea__=st=1792900808~exp=1792922408~acl=/*~hmac=999e46b12dfc9dcb85806185d6c2fbc46e99b495b03c258a9a9a02278139277f
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_2_MOB/WDVLive/index.mpd?__hdnea__=st=1792926005~exp=1792947605~acl=/*~hmac=0d71b539867e925c683d6cbfdbbd669d4bf883638f44f09ee2d02c48a739e796
+
+#EXTINF:-1 tvg-id="3374" tvg-name="Sony LIV Sports 3 [HLS · ClearKey · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 3" stream-type="HLS" stream-drm="ClearKey" stream-source="JioTV+ 32",Sony LIV Sports 3 [HLS · ClearKey · JioTV+ 32]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3afa887864e6545aa006db21aeb39054:6b8cce271f3cd923d0df32d45b44f6df
+#EXTVLCOPT:http-user-agent=Droovy
+#EXTHTTP:{"cookie":"__hdnea__=st=1792922412~exp=1792944012~acl=/*~hmac=aca8faa9c16c419c925501ef197e06f2bbb4d562991021df03e00f8a00b761fe"}
+https://sliv.tgaadi.workers.dev/ten3hd.m3u8?__hdnea__=st=1792922412~exp=1792944012~acl=/*~hmac=aca8faa9c16c419c925501ef197e06f2bbb4d562991021df03e00f8a00b761fe
 
 #EXTINF:-1 tvg-id="3374" tvg-name="Sony LIV Sports 3 [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 3" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Sony LIV Sports 3 [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -142,18 +149,18 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_2_MOB/WDVLive/index.mpd?__
 #KODIPROP:inputstream.adaptive.license_key=3afa887864e6545aa006db21aeb39054:6b8cce271f3cd923d0df32d45b44f6df
 https://hjh-545.pages.dev/stream?id=sonylivsports3
 
-#EXTINF:-1 tvg-id="3374" tvg-name="Sony LIV Sports 3 [DASH · ClearKey · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 3" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 32",Sony LIV Sports 3 [DASH · ClearKey · JioTV+ 32]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3afa887864e6545aa006db21aeb39054:6b8cce271f3cd923d0df32d45b44f6df
-#EXTVLCOPT:http-user-agent=Droovy
-#EXTHTTP:{"cookie":"__hdnea__=st=1792886405~exp=1792908005~acl=/*~hmac=7489c20c5ddd0888a1daa714bc5018bac01cffd5e4ad994001341a9512c9d1e0"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_3_MOB/WDVLive/index.mpd?__hdnea__=st=1792886405~exp=1792908005~acl=/*~hmac=7489c20c5ddd0888a1daa714bc5018bac01cffd5e4ad994001341a9512c9d1e0
-
 #EXTINF:-1 tvg-id="" tvg-name="Sony LIV Sports 3 [DASH · ClearKey · JioTV+ 8]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 3" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 8",Sony LIV Sports 3 [DASH · ClearKey · JioTV+ 8]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3afa887864e6545aa006db21aeb39054:6b8cce271f3cd923d0df32d45b44f6df
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_3_MOB/WDVLive/index.mpd?__hdnea__=st=1792900808~exp=1792922408~acl=/*~hmac=999e46b12dfc9dcb85806185d6c2fbc46e99b495b03c258a9a9a02278139277f
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_3_MOB/WDVLive/index.mpd?__hdnea__=st=1792926005~exp=1792947605~acl=/*~hmac=0d71b539867e925c683d6cbfdbbd669d4bf883638f44f09ee2d02c48a739e796
+
+#EXTINF:-1 tvg-id="3399" tvg-name="Sony LIV Sports 5 [HLS · ClearKey · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 5" stream-type="HLS" stream-drm="ClearKey" stream-source="JioTV+ 32",Sony LIV Sports 5 [HLS · ClearKey · JioTV+ 32]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cee8550bf50b569d8ad2ed0c5264f0d2:565a95f1c332c03534e1e5fcc1ff9a8b
+#EXTVLCOPT:http-user-agent=Droovy
+#EXTHTTP:{"cookie":"__hdnea__=st=1792922412~exp=1792944012~acl=/*~hmac=aca8faa9c16c419c925501ef197e06f2bbb4d562991021df03e00f8a00b761fe"}
+https://sliv.tgaadi.workers.dev/sonysixhd.m3u8?__hdnea__=st=1792922412~exp=1792944012~acl=/*~hmac=aca8faa9c16c419c925501ef197e06f2bbb4d562991021df03e00f8a00b761fe
 
 #EXTINF:-1 tvg-id="3399" tvg-name="Sony LIV Sports 5 [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 5" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Sony LIV Sports 5 [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -162,18 +169,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_3_MOB/WDVLive/index.mpd?__
 #KODIPROP:inputstream.adaptive.license_key=cee8550bf50b569d8ad2ed0c5264f0d2:565a95f1c332c03534e1e5fcc1ff9a8b
 https://hjh-545.pages.dev/stream?id=sonylivsports5
 
-#EXTINF:-1 tvg-id="3399" tvg-name="Sony LIV Sports 5 [DASH · ClearKey · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 5" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 32",Sony LIV Sports 5 [DASH · ClearKey · JioTV+ 32]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cee8550bf50b569d8ad2ed0c5264f0d2:565a95f1c332c03534e1e5fcc1ff9a8b
-#EXTVLCOPT:http-user-agent=Droovy
-#EXTHTTP:{"cookie":"__hdnea__=st=1792886405~exp=1792908005~acl=/*~hmac=7489c20c5ddd0888a1daa714bc5018bac01cffd5e4ad994001341a9512c9d1e0"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_5_MOB/WDVLive/index.mpd?__hdnea__=st=1792886405~exp=1792908005~acl=/*~hmac=7489c20c5ddd0888a1daa714bc5018bac01cffd5e4ad994001341a9512c9d1e0
-
 #EXTINF:-1 tvg-id="" tvg-name="Sony LIV Sports 5 [DASH · ClearKey · JioTV+ 8]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 5" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 8",Sony LIV Sports 5 [DASH · ClearKey · JioTV+ 8]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cee8550bf50b569d8ad2ed0c5264f0d2:565a95f1c332c03534e1e5fcc1ff9a8b
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_5_MOB/WDVLive/index.mpd?__hdnea__=st=1792900808~exp=1792922408~acl=/*~hmac=999e46b12dfc9dcb85806185d6c2fbc46e99b495b03c258a9a9a02278139277f
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_5_MOB/WDVLive/index.mpd?__hdnea__=st=1792926005~exp=1792947605~acl=/*~hmac=0d71b539867e925c683d6cbfdbbd669d4bf883638f44f09ee2d02c48a739e796
 
 #EXTINF:-1 tvg-id="Sony Sports Ten 3 HD" tvg-name="Sony Sports Ten 3 HD [HLS · Jo/playlist]" tvg-logo="https://i.postimg.cc/rpZ7d4BL/Sony-Sports-TEN-3-Hindi-HD.png" group-title="Review - language uncertain" base-name="Sony Sports Ten 3 HD" stream-type="HLS" stream-source="Jo/playlist",Sony Sports Ten 3 HD [HLS · Jo/playlist]
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https://allinonereborn2.online/sony-new/playlists/sony_ten3_hd.m3u8
@@ -218,6 +218,11 @@ https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY TEN SIX HD [HLS · Special]" tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill%2Ce_contrast:30%2Cf_auto%2Cfl_lossy%2Ch_494%2Cq_auto:low%2Cw_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SIXHD_Portrait_ThumbNEW.jpg" group-title="Review - language uncertain" base-name="SONY TEN SIX HD" stream-type="HLS" stream-source="Special",SONY TEN SIX HD [HLS · Special]
 https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
+#EXTINF:-1 tvg-id="1389" tvg-name="Star Sports 3 [DASH · JioTV+ 32]" tvg-logo="https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg" group-title="Review - language uncertain" base-name="Star Sports 3" stream-type="DASH" stream-source="JioTV+ 32",Star Sports 3 [DASH · JioTV+ 32]
+#EXTVLCOPT:http-user-agent=Droovy
+#EXTHTTP:{"cookie":"__hdnea__=st=1792914328~exp=1792935928~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=cb229c6988db89b1357493ffe23dd06f885219eaca246222212d1613186a9834"}
+https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st=1792914328~exp=1792935928~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=cb229c6988db89b1357493ffe23dd06f885219eaca246222212d1613186a9834
+
 #EXTINF:-1 tvg-id="1389" tvg-name="Star Sports 3 [DASH · ClearKey · JioTV proxy]" tvg-logo="https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg" group-title="Review - language uncertain" base-name="Star Sports 3" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Star Sports 3 [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -229,13 +234,7 @@ https://hjh-545.pages.dev/stream?id=starsports3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2904732c8fb55ebeaa0f59316916997e:f69101b71872dcfb2cd1987d3773c0f4,82dc7db814ef5165a3d93102f40a5142:f767c4c59fbfeaf84754994a0ed5dc8b
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st=1792892118~exp=1792913718~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=2c434261375de21cd84c3b777988ab08c6b901e09017f9e8d8e670f77439bc7b
-
-#EXTINF:-1 tvg-id="1389" tvg-name="Star Sports 3 [DASH · ClearKey · JioTV+ 28]" tvg-logo="https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg" group-title="Review - language uncertain" base-name="Star Sports 3" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 28",Star Sports 3 [DASH · ClearKey · JioTV+ 28]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e4e8647eaf0659ac85f61765a5abcdc1:d749c9b27505beb0e1a8b6c30ca65de6
-#KODIPROP:inputstream=inputstream.adaptive
-https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st=1792914328~exp=1792935928~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=cb229c6988db89b1357493ffe23dd06f885219eaca246222212d1613186a9834
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 3 Digital [DASH · ClearKey · Star 3]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2523/1783001062523-h.jpg" group-title="Review - language uncertain" base-name="Star Sports 3 Digital" stream-type="DASH" stream-drm="ClearKey" stream-source="Star 3",Star Sports 3 Digital [DASH · ClearKey · Star 3]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -248,6 +247,11 @@ https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd
 #EXTVLCOPT:http-cookie=hdntl=exp=1792965451~acl=%2f*~id=3a3a34f9f892ec99e20fb2c548dd4db8~data=hdntl~hmac=c21371c0f3e907b9a97df5446ea51c22fdf55e99cf8f97eb774d4e34b7cb3bbe
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1792965451~acl=%2f*~id=3a3a34f9f892ec99e20fb2c548dd4db8~data=hdntl~hmac=c21371c0f3e907b9a97df5446ea51c22fdf55e99cf8f97eb774d4e34b7cb3bbe"}
 https://livetv.hotstar.com/mp1/gec-india-1540068301/c776132a964441e1b929b2c0451222af/index.mpd?|cookie=hdntl=exp=1792965451~acl=%2f*~id=3a3a34f9f892ec99e20fb2c548dd4db8~data=hdntl~hmac=c21371c0f3e907b9a97df5446ea51c22fdf55e99cf8f97eb774d4e34b7cb3bbe&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+
+#EXTINF:-1 tvg-id="1998" tvg-name="Star Sports Khel [DASH · JioTV+ 32]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/StarSportsKhel.png" group-title="Review - language uncertain" base-name="Star Sports Khel" stream-type="DASH" stream-source="JioTV+ 32",Star Sports Khel [DASH · JioTV+ 32]
+#EXTVLCOPT:http-user-agent=Droovy
+#EXTHTTP:{"cookie":"__hdnea__=st=1792914325~exp=1792935925~acl=/bpk-tv/StarSportsKhel_BTS/WDVLive/*~hmac=8a648a71ac74e71f44317fce765d5c3b48d2edd81e42456f8ef48e6381fee87b"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsKhel_BTS/WDVLive/index.mpd?__hdnea__=st=1792914325~exp=1792935925~acl=/bpk-tv/StarSportsKhel_BTS/WDVLive/*~hmac=8a648a71ac74e71f44317fce765d5c3b48d2edd81e42456f8ef48e6381fee87b
 
 #EXTINF:-1 tvg-id="1998" tvg-name="Star Sports Khel [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/StarSportsKhel.png" group-title="Review - language uncertain" base-name="Star Sports Khel" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Star Sports Khel [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -267,24 +271,3 @@ https://hjh-545.pages.dev/stream?id=starsportskhel
 #EXTVLCOPT:http-cookie=hdntl=exp=1792965451~acl=%2f*~id=3a3a34f9f892ec99e20fb2c548dd4db8~data=hdntl~hmac=c21371c0f3e907b9a97df5446ea51c22fdf55e99cf8f97eb774d4e34b7cb3bbe
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1792965451~acl=%2f*~id=3a3a34f9f892ec99e20fb2c548dd4db8~data=hdntl~hmac=c21371c0f3e907b9a97df5446ea51c22fdf55e99cf8f97eb774d4e34b7cb3bbe"}
 https://livetv.hotstar.com/mp2/gec-india-1540073624/4a56d383d1074f3d908a7f9b7a3321f1/index.mpd?|cookie=hdntl=exp=1792965451~acl=%2f*~id=3a3a34f9f892ec99e20fb2c548dd4db8~data=hdntl~hmac=c21371c0f3e907b9a97df5446ea51c22fdf55e99cf8f97eb774d4e34b7cb3bbe&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
-
-#EXTINF:-1 tvg-id="B0HKXTXQKB" tvg-name="Texas A&M Kingsville vs Angelo State - Football [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.22a94b54-51c8-49e3-afa2-1e90173fb150/2/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Texas A&M Kingsville vs Angelo State - Football" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",Texas A&M Kingsville vs Angelo State - Football [DASH · ClearKey · Prime Sports 1 [Backup]]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HLSRTZJV" tvg-name="United States v Australia A [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3cd54ddf-5e69-4ea1-b6eb-fc070ac9e26a/1/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="United States v Australia A" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",United States v Australia A [DASH · ClearKey · Prime Sports 1 [Backup]]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HMC33YXN" tvg-name="Vol. 63: Glow Bash II [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8512998a-da77-49fe-be7f-fcc2c3bab32d/3/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Vol. 63: Glow Bash II" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",Vol. 63: Glow Bash II [DASH · ClearKey · Prime Sports 1 [Backup]]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd
