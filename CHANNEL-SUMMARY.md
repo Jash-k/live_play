@@ -1,9 +1,9 @@
 # Current curated feed
 
-Generated 2026-10-25T11:38:26.561Z by `scripts/curate-live.mjs` — do not edit by hand.
+Generated 2026-10-25T16:28:25.769Z by `scripts/curate-live.mjs` — do not edit by hand.
 
-409 stream options in `jash-live.m3u`: 334 Tamil channels, 1 Bigg Boss Tamil, 74 sports feeds.
-41 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
+410 stream options in `jash-live.m3u`: 334 Tamil channels, 1 Bigg Boss Tamil, 75 sports feeds.
+45 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
 
 | Group | Streams |
 |---|---:|
@@ -21,8 +21,8 @@ Generated 2026-10-25T11:38:26.561Z by `scripts/curate-live.mjs` — do not edit 
 | Sports - Star Sports - Tamil | 8 |
 | Sports - Star Sports - English | 21 |
 | Sports - Sony Sports - Tamil | 7 |
-| Sports - Sony Sports - English | 21 |
-| Sports - FanCode - English | 9 |
+| Sports - Sony Sports - English | 20 |
+| Sports - FanCode - English | 11 |
 | Sports - Willow - English | 4 |
 | Sports - Cricbuzz - English | 1 |
 | Sports - Ten Sports - English | 2 |
@@ -443,9 +443,8 @@ Generated 2026-10-25T11:38:26.561Z by `scripts/curate-live.mjs` — do not edit 
 - Sony Ten 4 Tamil [DASH · ClearKey · JioTV proxy]
 - Sony Ten 4 Tamil [DASH · ClearKey · JioTV+ 32]
 
-### Sports - Sony Sports - English (21)
+### Sports - Sony Sports - English (20)
 
-- Churchill Brothers SC vs Punjab FC - 25 Oct 2026 [ENG] [HLS · SonyLIV 3]
 - Sony Sports Ten 1 [HLS · Jo/Zoh]
 - Sony Sports Ten 1 [HLS · Jo/Zoh2]
 - Sony Sports Ten 1 HD [HLS · Jo/Zoh]
@@ -467,17 +466,19 @@ Generated 2026-10-25T11:38:26.561Z by `scripts/curate-live.mjs` — do not edit 
 - SONY TEN Cricket [HLS · Jo/Zoh]
 - SONY TEN Cricket [HLS · Sportlink-wtf/Sports]
 
-### Sports - FanCode - English (9)
+### Sports - FanCode - English (11)
 
+- ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026 [English] [HLS · Fancode 1 [Backup]]
+- Barclays Women's Super League 2026-27 [English] [HLS · Fancode 1 [Backup]]
+- Birmingham City F.C. Women vs Charlton Athletic F.C Women [English] [HLS · Fancode]
+- BWF Super 750 - French Open 2026 [English] [HLS · Fancode 1 [Backup]]
+- Day 4 - World Feed [English] [HLS · Fancode]
 - Day 7 - World Feed [English] [HLS · Fancode]
-- Denmark vs Papua New Guinea [English] [HLS · Fancode]
+- Dubai vs Ajman [English] [HLS · Fancode]
+- Everton Women vs Aston Villa Women [English] [HLS · Fancode]
 - FANCODE 1 [DASH · ClearKey · Sportlink-wtf/Sports]
 - FANCODE 2 [DASH · ClearKey · Sportlink-wtf/Sports]
-- Finals [English] [HLS · Fancode]
-- Gambia vs Lesotho [English] [HLS · Fancode]
-- Jersey vs Kenya [English] [HLS · Fancode]
-- United Arab Emirates vs Netherlands [English] [HLS · Fancode]
-- Zambia vs Mozambique [English] [HLS · Fancode]
+- Nigeria vs Uganda [English] [HLS · Fancode]
 
 ### Sports - Willow - English (4)
 
@@ -505,27 +506,25 @@ Generated 2026-10-25T11:38:26.561Z by `scripts/curate-live.mjs` — do not edit 
 |---|---|---:|
 | JioTV proxy (hjh-545.pages.dev) | static | 111 |
 | maybetv/Jo/Zoh2.m3u | github | 3 |
-| maybetv/Jo/Zoh.m3u | github | 12 |
+| maybetv/Jo/Zoh.m3u | github | 16 |
 | maybetv/Jo/playlist.m3u | github | 41 |
 | maybetv/Jo/Zohplx.m3u | github | 5 |
 | sportlive18/Sportlink-wtf/Sports.m3u | github | 10 |
 | sportlive18/Sportlink-wtf/Sport.m3u | github | 1 |
 | JioTV+ 32 (jiotv_32) | pinned | 89 |
-| JioTV+ 8 (jiotv_8) | pinned | 57 |
-| JioTV+ 16 (jiotv_16) | pinned | 63 |
+| JioTV+ 8 (jiotv_8) | pinned | 58 |
+| JioTV+ 16 (jiotv_16) | pinned | 62 |
 | JioTV+ 28 (jiotv_28) | pinned | 5 |
 | Star 3 (star_3) | pinned | 14 |
 | Special (special) | pinned | 13 |
 | SonyTV 4 (sonytv_4) | pinned | 4 |
 | YuppTV 1 (yupptv_one) | pinned | 5 |
 | YuppTV 2 (yupptv_two) | pinned | 4 |
-| Fancode (fancode_avd) | pinned | 7 |
-| Prime Sports 1 (prime_sports_one) | pinned | 3 |
-| SonyLIV 3 (sonyliv_three) | discovered | 1 |
-| Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 2 |
-| Fancode 1 [Backup] (fancode_one_backup) | discovered | 0 |
+| Fancode (fancode_avd) | pinned | 6 |
+| Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 5 |
+| Fancode 1 [Backup] (fancode_one_backup) | discovered | 3 |
 | Fancode 3 (fancode_three) | discovered | 0 |
 
-Sources that returned nothing this run: 18 of 60. See `jash-live.stats.json`.
+Sources that returned nothing this run: 17 of 60. See `jash-live.stats.json`.
 
 Playback was **not** verified: entries carry upstream playback properties unchanged, and a stream may still need a compatible player, legitimate access or region availability.
