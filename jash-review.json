@@ -1,15 +1,5 @@
 [
   {
-    "name": "Canadian Open, Day 1, Session 2",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
     "name": "DD Sports",
     "family": "DD Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -37,6 +27,16 @@
       "key": "sportlive18_Sportlink-wtf__Sports.m3u",
       "label": "sportlive18/Sportlink-wtf/Sports.m3u",
       "origin": "github"
+    }
+  },
+  {
+    "name": "Delhi Dynamites vs Haryana Hustlers",
+    "family": "FanCode",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "fancode_avd",
+      "label": "Fancode (fancode_avd)",
+      "origin": "index"
     }
   },
   {
@@ -320,7 +320,7 @@
     }
   },
   {
-    "name": "USHL Hockey: Fargo Force vs Sioux Falls Stampede",
+    "name": "Tennis Today Live-Tokyo WTA & Guangzhou-WTA Early Rounds",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -330,7 +330,7 @@
     }
   },
   {
-    "name": "USHL Hockey: Fargo Force vs Sioux Falls Stampede",
+    "name": "Tennis Today Live-Tokyo WTA & Guangzhou-WTA Early Rounds",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
