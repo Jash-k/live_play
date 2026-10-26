@@ -30,23 +30,33 @@
     }
   },
   {
-    "name": "Delhi Dynamites vs Haryana Hustlers",
-    "family": "FanCode",
+    "name": "Predator European Championships: Spain",
+    "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "fancode_avd",
-      "label": "Fancode (fancode_avd)",
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Predator European Championships: Spain",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
       "origin": "index"
     }
   },
   {
-    "name": "Sony LIV Sports 1",
-    "family": "Sony Sports",
+    "name": "Second Serve - Live-Basel-ATP & Vienna-ATP Early Rounds",
+    "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
-      "origin": "index"
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   },
   {
@@ -61,6 +71,36 @@
   },
   {
     "name": "Sony LIV Sports 1",
+    "family": "Sony Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "jiotv_8",
+      "label": "JioTV+ 8 (jiotv_8)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Sony LIV Sports 1",
+    "family": "Sony Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "jiotv_20",
+      "label": "JioTV+ 20 (jiotv_20)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Sony LIV Sports 2",
+    "family": "Sony Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "hjh-545",
+      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "origin": "static"
+    }
+  },
+  {
+    "name": "Sony LIV Sports 2",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -74,38 +114,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Sony LIV Sports 2",
-    "family": "Sony Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
-      "origin": "static"
-    }
-  },
-  {
-    "name": "Sony LIV Sports 2",
-    "family": "Sony Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "jiotv_8",
-      "label": "JioTV+ 8 (jiotv_8)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Sony LIV Sports 3",
-    "family": "Sony Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
+      "key": "jiotv_20",
+      "label": "JioTV+ 20 (jiotv_20)",
       "origin": "index"
     }
   },
@@ -130,12 +140,12 @@
     }
   },
   {
-    "name": "Sony LIV Sports 5",
+    "name": "Sony LIV Sports 3",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
+      "key": "jiotv_20",
+      "label": "JioTV+ 20 (jiotv_20)",
       "origin": "index"
     }
   },
@@ -156,6 +166,16 @@
     "source": {
       "key": "jiotv_8",
       "label": "JioTV+ 8 (jiotv_8)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Sony LIV Sports 5",
+    "family": "Sony Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "jiotv_20",
+      "label": "JioTV+ 20 (jiotv_20)",
       "origin": "index"
     }
   },
@@ -254,16 +274,6 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Star Sports 3",
-    "family": "Star Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
       "key": "hjh-545",
       "label": "JioTV proxy (hjh-545.pages.dev)",
       "origin": "static"
@@ -280,22 +290,22 @@
     }
   },
   {
+    "name": "Star Sports 3",
+    "family": "Star Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "jiotv_20",
+      "label": "JioTV+ 20 (jiotv_20)",
+      "origin": "index"
+    }
+  },
+  {
     "name": "Star Sports 3 Digital",
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
       "key": "star_3",
       "label": "Star 3 (star_3)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Star Sports Khel",
-    "family": "Star Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
       "origin": "index"
     }
   },
@@ -320,7 +330,7 @@
     }
   },
   {
-    "name": "Tennis Today Live-Tokyo WTA & Guangzhou-WTA Early Rounds",
+    "name": "Tennis Today Live-Basel-ATP & Vienna-ATP Early Rounds",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -330,7 +340,17 @@
     }
   },
   {
-    "name": "Tennis Today Live-Tokyo WTA & Guangzhou-WTA Early Rounds",
+    "name": "Tennis Today Live-Basel-ATP & Vienna-ATP Early Rounds",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "The Morning Drive",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
