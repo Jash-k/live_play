@@ -1,12 +1,12 @@
 [
   {
-    "name": "Canadian Open, Day 2",
+    "name": "Bradford vs. Peterborough",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   },
   {
@@ -40,7 +40,7 @@
     }
   },
   {
-    "name": "New Zealand vs. India",
+    "name": "Second Serve - Live-Basel-ATP & Vienna-ATP Early Rounds",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -50,13 +50,13 @@
     }
   },
   {
-    "name": "Pakistan ODI Tri-Series 2026 - 5th Match - Pakistan vs Sri Lanka",
+    "name": "Second Serve - Live-Basel-ATP & Vienna-ATP Early Rounds",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
     }
   },
   {
@@ -340,13 +340,23 @@
     }
   },
   {
-    "name": "Tennis Today Live-Tokyo WTA & Guangzhou-WTA Early Rounds",
+    "name": "Tennis Today Live-Basel-ATP & Vienna-ATP Early Rounds",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
       "key": "maybetv_Jo__Zoh.m3u",
       "label": "maybetv/Jo/Zoh.m3u",
       "origin": "github"
+    }
+  },
+  {
+    "name": "Tennis Today Live-Basel-ATP & Vienna-ATP Early Rounds",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
     }
   }
 ]
