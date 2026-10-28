@@ -1,6 +1,16 @@
 [
   {
-    "name": "Bradford vs. Peterborough",
+    "name": "Canadian Open, Day 3",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "DBU vs Midwestern State - Women's Soccer",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -37,26 +47,6 @@
       "key": "sportlive18_Sportlink-wtf__Sports.m3u",
       "label": "sportlive18/Sportlink-wtf/Sports.m3u",
       "origin": "github"
-    }
-  },
-  {
-    "name": "Second Serve - Live-Basel-ATP & Vienna-ATP Early Rounds",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Second Serve - Live-Basel-ATP & Vienna-ATP Early Rounds",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
     }
   },
   {
@@ -340,23 +330,13 @@
     }
   },
   {
-    "name": "Tennis Today Live-Basel-ATP & Vienna-ATP Early Rounds",
+    "name": "Volleyball - GPAC - Buena Vista University at Briar Cliff University",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
       "key": "maybetv_Jo__Zoh.m3u",
       "label": "maybetv/Jo/Zoh.m3u",
       "origin": "github"
-    }
-  },
-  {
-    "name": "Tennis Today Live-Basel-ATP & Vienna-ATP Early Rounds",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
     }
   }
 ]
