@@ -1,9 +1,9 @@
 # Current curated feed
 
-Generated 2026-10-28T08:38:30.209Z by `scripts/curate-live.mjs` — do not edit by hand.
+Generated 2026-10-28T16:41:26.470Z by `scripts/curate-live.mjs` — do not edit by hand.
 
-384 stream options in `jash-live.m3u`: 315 Tamil channels, 1 Bigg Boss Tamil, 68 sports feeds.
-40 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
+387 stream options in `jash-live.m3u`: 315 Tamil channels, 1 Bigg Boss Tamil, 71 sports feeds.
+34 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
 
 | Group | Streams |
 |---|---:|
@@ -22,7 +22,7 @@ Generated 2026-10-28T08:38:30.209Z by `scripts/curate-live.mjs` — do not edit 
 | Sports - Star Sports - English | 21 |
 | Sports - Sony Sports - Tamil | 7 |
 | Sports - Sony Sports - English | 20 |
-| Sports - FanCode - English | 6 |
+| Sports - FanCode - English | 9 |
 | Sports - Willow - English | 4 |
 | Sports - Ten Sports - English | 1 |
 | Sports - Sports18 - English | 1 |
@@ -446,14 +446,17 @@ Generated 2026-10-28T08:38:30.209Z by `scripts/curate-live.mjs` — do not edit 
 - SONY TEN Cricket [HLS · Jo/Zoh]
 - SONY TEN Cricket [HLS · Sportlink-wtf/Sports]
 
-### Sports - FanCode - English (6)
+### Sports - FanCode - English (9)
 
-- Bangladesh vs West Indies [English] [HLS · Fancode]
-- Denmark vs Qatar [English] [HLS · Fancode]
+- Abu Dhabi vs Emirates Blues [English] [HLS · Fancode]
+- Al Jazira vs Al Muharraq [English] [HLS · Fancode]
+- Al-Nahda Club vs Al Rayyan [English] [HLS · Fancode]
 - FANCODE 1 [DASH · ClearKey · Sportlink-wtf/Sports]
 - FANCODE 2 [DASH · ClearKey · Sportlink-wtf/Sports]
-- Kuwait vs Kenya [English] [HLS · Fancode]
-- South Africa vs Australia [English] [HLS · Fancode]
+- Glaubandich Court [English] [HLS · Fancode]
+- IWB Court 1 [English] [HLS · Fancode]
+- N. Djokovic vs U. Humbert [English] [HLS · Fancode]
+- World Feed [English] [HLS · Fancode]
 
 ### Sports - Willow - English (4)
 
@@ -476,7 +479,7 @@ Generated 2026-10-28T08:38:30.209Z by `scripts/curate-live.mjs` — do not edit 
 |---|---|---:|
 | JioTV proxy (hjh-545.pages.dev) | static | 111 |
 | maybetv/Jo/Zoh2.m3u | github | 5 |
-| maybetv/Jo/Zoh.m3u | github | 6 |
+| maybetv/Jo/Zoh.m3u | github | 5 |
 | maybetv/Jo/Zohplx.m3u | github | 5 |
 | sportlive18/Sportlink-wtf/Sports.m3u | github | 10 |
 | sportlive18/Sportlink-wtf/Sport.m3u | github | 1 |
@@ -489,12 +492,11 @@ Generated 2026-10-28T08:38:30.209Z by `scripts/curate-live.mjs` — do not edit 
 | SonyTV 4 (sonytv_4) | pinned | 4 |
 | Mix Channels (mix_channels) | pinned | 2 |
 | YuppTV 1 (yupptv_one) | pinned | 5 |
-| Fancode (fancode_avd) | pinned | 4 |
-| Prime Sports 1 (prime_sports_one) | pinned | 4 |
-| Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 4 |
+| Fancode (fancode_avd) | pinned | 7 |
+| Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 3 |
 | Fancode 1 [Backup] (fancode_one_backup) | discovered | 0 |
 | Fancode 3 (fancode_three) | discovered | 0 |
 
-Sources that returned nothing this run: 18 of 60. See `jash-live.stats.json`.
+Sources that returned nothing this run: 17 of 60. See `jash-live.stats.json`.
 
 Playback was **not** verified: entries carry upstream playback properties unchanged, and a stream may still need a compatible player, legitimate access or region availability.
