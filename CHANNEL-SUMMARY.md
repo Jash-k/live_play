@@ -1,9 +1,9 @@
 # Current curated feed
 
-Generated 2026-10-29T19:41:02.580Z by `scripts/curate-live.mjs` — do not edit by hand.
+Generated 2026-10-29T23:57:54.394Z by `scripts/curate-live.mjs` — do not edit by hand.
 
-389 stream options in `jash-live.m3u`: 315 Tamil channels, 1 Bigg Boss Tamil, 73 sports feeds.
-34 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
+383 stream options in `jash-live.m3u`: 315 Tamil channels, 1 Bigg Boss Tamil, 67 sports feeds.
+36 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
 
 | Group | Streams |
 |---|---:|
@@ -22,7 +22,7 @@ Generated 2026-10-29T19:41:02.580Z by `scripts/curate-live.mjs` — do not edit 
 | Sports - Star Sports - English | 21 |
 | Sports - Sony Sports - Tamil | 7 |
 | Sports - Sony Sports - English | 20 |
-| Sports - FanCode - English | 11 |
+| Sports - FanCode - English | 5 |
 | Sports - Willow - English | 4 |
 | Sports - Ten Sports - English | 1 |
 | Sports - Sports18 - English | 1 |
@@ -446,19 +446,13 @@ Generated 2026-10-29T19:41:02.580Z by `scripts/curate-live.mjs` — do not edit 
 - SONY TEN Cricket [HLS · Jo/Zoh]
 - SONY TEN Cricket [HLS · Sportlink-wtf/Sports]
 
-### Sports - FanCode - English (11)
+### Sports - FanCode - English (5)
 
-- A. Zverev vs T. Griekspoor [English] [HLS · Fancode]
-- Al-Nassr FC vs Al-Kholood Club [English] [HLS · Fancode]
-- Al-Riyadh SC vs Al-Qadsiah FC [English] [HLS · Fancode]
-- Austria Wien Women vs Juventus Women [English] [HLS · Fancode]
-- Everton vs Newcastle United [English] [HLS · Fancode]
+- 2026/27 [English] [HLS · Fancode 1]
 - FANCODE 1 [DASH · ClearKey · Sportlink-wtf/Sports]
 - FANCODE 2 [DASH · ClearKey · Sportlink-wtf/Sports]
-- Glaubandich Court [English] [HLS · Fancode]
-- IWB Court 1 [English] [HLS · Fancode]
-- N. Djokovic vs J.L. Struff [English] [HLS · Fancode]
-- Paris FC Women vs BK Häcken Women [English] [HLS · Fancode]
+- Tasmania vs New South Wales [English] [HLS · Fancode]
+- World Feed [English] [HLS · Fancode]
 
 ### Sports - Willow - English (4)
 
@@ -481,7 +475,7 @@ Generated 2026-10-29T19:41:02.580Z by `scripts/curate-live.mjs` — do not edit 
 |---|---|---:|
 | JioTV proxy (hjh-545.pages.dev) | static | 111 |
 | maybetv/Jo/Zoh2.m3u | github | 5 |
-| maybetv/Jo/Zoh.m3u | github | 6 |
+| maybetv/Jo/Zoh.m3u | github | 8 |
 | maybetv/Jo/Zohplx.m3u | github | 5 |
 | sportlive18/Sportlink-wtf/Sports.m3u | github | 10 |
 | sportlive18/Sportlink-wtf/Sport.m3u | github | 1 |
@@ -494,11 +488,12 @@ Generated 2026-10-29T19:41:02.580Z by `scripts/curate-live.mjs` — do not edit 
 | SonyTV 4 (sonytv_4) | pinned | 4 |
 | Mix Channels (mix_channels) | pinned | 2 |
 | YuppTV 1 (yupptv_one) | pinned | 5 |
-| Fancode (fancode_avd) | pinned | 9 |
+| Fancode (fancode_avd) | pinned | 2 |
+| Fancode 1 (fancode_one) | pinned | 1 |
 | Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 2 |
 | Fancode 1 [Backup] (fancode_one_backup) | discovered | 0 |
 | Fancode 3 (fancode_three) | discovered | 0 |
 
-Sources that returned nothing this run: 25 of 60. See `jash-live.stats.json`.
+Sources that returned nothing this run: 26 of 60. See `jash-live.stats.json`.
 
 Playback was **not** verified: entries carry upstream playback properties unchanged, and a stream may still need a compatible player, legitimate access or region availability.

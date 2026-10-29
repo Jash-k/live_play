@@ -1,5 +1,35 @@
 [
   {
+    "name": "Cal State LA vs Cal State Dominguez Hills - Men's Soccer",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Cal State LA vs Cal State Dominguez Hills - Men's Soccer",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Canadian Open, Day 5",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
     "name": "DD Sports",
     "family": "DD Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -30,17 +60,7 @@
     }
   },
   {
-    "name": "ECHL Hockey: Idaho Steelheads vs Allen Americans",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Second Serve - Live-Basel-ATP & Vienna-ATP Early Rounds",
+    "name": "QMJHL Hockey: Halifax Mooseheads vs Gatineau Olympiques",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -320,7 +340,7 @@
     }
   },
   {
-    "name": "Tennis Today Live-Basel-ATP & Vienna-ATP Early Rounds",
+    "name": "University of Health Sciences & Pharmacy at Columbia College",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -330,7 +350,7 @@
     }
   },
   {
-    "name": "Tennis Today Live-Basel-ATP & Vienna-ATP Early Rounds",
+    "name": "University of Health Sciences & Pharmacy at Columbia College",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
