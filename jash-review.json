@@ -1,22 +1,12 @@
 [
   {
-    "name": "Canadian Open, Day 4",
+    "name": "Cricket-WBBL 2026: Renegades vs Thunder - 1st Match",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
       "key": "prime_sports_one_backup",
       "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
       "origin": "index"
-    }
-  },
-  {
-    "name": "Cricket-WBBL 2026: Renegades vs Thunder - 1st Match",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
     }
   },
   {
@@ -34,9 +24,9 @@
     "family": "DD Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
-      "origin": "static"
+      "key": "jiotv_32",
+      "label": "JioTV+ 32 (jiotv_32)",
+      "origin": "index"
     }
   },
   {
@@ -54,23 +44,13 @@
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "ECHL Hockey: Trenton Ironhawks vs Reading Royals",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
       "key": "prime_sports_one_backup",
       "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
       "origin": "index"
     }
   },
   {
-    "name": "Olimpia vs. Cartaginés",
+    "name": "LIVE: HotelPlanner Final 2026 Day 1",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -80,6 +60,36 @@
     }
   },
   {
+    "name": "LIVE: HotelPlanner Final 2026 Day 1",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Pakistan ODI Tri-Series 2026 - 6th Match - Sri Lanka vs England",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Pakistan ODI Tri-Series 2026 - 6th Match - Sri Lanka vs England",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
     "name": "Sony LIV Sports 1",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -94,9 +104,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
-      "origin": "static"
+      "key": "jiotv_8",
+      "label": "JioTV+ 8 (jiotv_8)",
+      "origin": "index"
     }
   },
   {
@@ -104,8 +114,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_8",
-      "label": "JioTV+ 8 (jiotv_8)",
+      "key": "jiotv_20",
+      "label": "JioTV+ 20 (jiotv_20)",
       "origin": "index"
     }
   },
@@ -124,9 +134,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
-      "origin": "static"
+      "key": "jiotv_8",
+      "label": "JioTV+ 8 (jiotv_8)",
+      "origin": "index"
     }
   },
   {
@@ -134,8 +144,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_8",
-      "label": "JioTV+ 8 (jiotv_8)",
+      "key": "jiotv_20",
+      "label": "JioTV+ 20 (jiotv_20)",
       "origin": "index"
     }
   },
@@ -154,9 +164,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
-      "origin": "static"
+      "key": "jiotv_8",
+      "label": "JioTV+ 8 (jiotv_8)",
+      "origin": "index"
     }
   },
   {
@@ -164,8 +174,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_8",
-      "label": "JioTV+ 8 (jiotv_8)",
+      "key": "jiotv_20",
+      "label": "JioTV+ 20 (jiotv_20)",
       "origin": "index"
     }
   },
@@ -184,9 +194,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
-      "origin": "static"
+      "key": "jiotv_8",
+      "label": "JioTV+ 8 (jiotv_8)",
+      "origin": "index"
     }
   },
   {
@@ -194,28 +204,28 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_8",
-      "label": "JioTV+ 8 (jiotv_8)",
+      "key": "jiotv_20",
+      "label": "JioTV+ 20 (jiotv_20)",
       "origin": "index"
     }
   },
   {
-    "name": "Sony Ten 3",
+    "name": "Sony TEN 3 HD",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "sonytv_4",
-      "label": "SonyTV 4 (sonytv_4)",
-      "origin": "index"
+      "key": "sportlive18_Sportlink-wtf__Sports.m3u",
+      "label": "sportlive18/Sportlink-wtf/Sports.m3u",
+      "origin": "github"
     }
   },
   {
-    "name": "Sony Ten 3 HD",
+    "name": "SONY TEN 3 HD",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "sonytv_4",
-      "label": "SonyTV 4 (sonytv_4)",
+      "key": "special",
+      "label": "Special (special)",
       "origin": "index"
     }
   },
@@ -230,22 +240,22 @@
     }
   },
   {
-    "name": "Sony Ten 4",
+    "name": "Sony TEN 4 HD",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "sonytv_4",
-      "label": "SonyTV 4 (sonytv_4)",
-      "origin": "index"
+      "key": "sportlive18_Sportlink-wtf__Sports.m3u",
+      "label": "sportlive18/Sportlink-wtf/Sports.m3u",
+      "origin": "github"
     }
   },
   {
-    "name": "Sony Ten 4 HD",
+    "name": "SONY TEN 4 HD",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "sonytv_4",
-      "label": "SonyTV 4 (sonytv_4)",
+      "key": "special",
+      "label": "Special (special)",
       "origin": "index"
     }
   },
@@ -294,9 +304,9 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
-      "origin": "static"
+      "key": "jiotv_8",
+      "label": "JioTV+ 8 (jiotv_8)",
+      "origin": "index"
     }
   },
   {
@@ -304,18 +314,8 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_8",
-      "label": "JioTV+ 8 (jiotv_8)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Star Sports 3 Digital",
-    "family": "Star Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "star_3",
-      "label": "Star 3 (star_3)",
+      "key": "jiotv_16",
+      "label": "JioTV+ 16 (jiotv_16)",
       "origin": "index"
     }
   },
@@ -330,22 +330,42 @@
     }
   },
   {
-    "name": "Star Sports Khel",
-    "family": "Star Sports",
+    "name": "Tennis Today Live-Basel-ATP & Vienna-ATP Early Rounds",
+    "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
-      "origin": "static"
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   },
   {
-    "name": "Star Sports Khel Digital",
-    "family": "Star Sports",
+    "name": "Tennis Today Live-Basel-ATP & Vienna-ATP Early Rounds",
+    "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "star_3",
-      "label": "Star 3 (star_3)",
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "The Morning Drive",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "The Morning Drive",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
       "origin": "index"
     }
   },
@@ -354,9 +374,9 @@
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
     }
   }
 ]
