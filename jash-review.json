@@ -1,12 +1,12 @@
 [
   {
-    "name": "Cricket-WBBL 2026: Heat vs Sixers - 3rd Match",
+    "name": "AHA Hockey: Delaware vs Syracuse - Women's",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   },
   {
@@ -40,27 +40,7 @@
     }
   },
   {
-    "name": "Hong Kong Sixes 2026 - 8th Match - South Africa vs Afghanistan",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Hong Kong Sixes 2026 - 9th Match - England vs Australia",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "LIVE: HotelPlanner Final 2026 Day 2",
+    "name": "LIVE Weigh In-Canelo vs. Mbilli",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -70,7 +50,7 @@
     }
   },
   {
-    "name": "New Zealand vs. India",
+    "name": "LIVE: HotelPlanner Final 2026 Day 2",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -80,7 +60,37 @@
     }
   },
   {
-    "name": "Petronas Grand Prix of Malaysia, Practice",
+    "name": "MLP Nations Cup",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "MLP Nations Cup",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "ONE Friday Fights 176",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Second Serve - Live-Basel-ATP & Vienna-ATP Early Rounds",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -314,8 +324,8 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_20",
-      "label": "JioTV+ 20 (jiotv_20)",
+      "key": "jiotv_8",
+      "label": "JioTV+ 8 (jiotv_8)",
       "origin": "index"
     }
   },
@@ -360,6 +370,16 @@
     }
   },
   {
+    "name": "Team World Championship, Stuttgart",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
     "name": "Tennis Today Live-Basel-ATP & Vienna-ATP Quarterfinals",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -370,12 +390,12 @@
     }
   },
   {
-    "name": "Womens Big Bash League 2026 - 3rd Match - Brisbane Heat Women vs Sydney Sixers Women",
+    "name": "Tennis Today Live-Basel-ATP & Vienna-ATP Quarterfinals",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
       "origin": "index"
     }
   }
