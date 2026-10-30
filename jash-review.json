@@ -1,6 +1,6 @@
 [
   {
-    "name": "AHA Hockey: Delaware vs Syracuse - Women's",
+    "name": "Boise State at Texas State",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -40,20 +40,30 @@
     }
   },
   {
+    "name": "El Salvador, Day 3",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Iron-Man Halloween Nationals at Portsmouth Raceway Park",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
     "name": "LIVE Weigh In-Canelo vs. Mbilli",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "LIVE: HotelPlanner Final 2026 Day 2",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
       "key": "prime_sports_one_backup",
       "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
       "origin": "index"
@@ -80,17 +90,27 @@
     }
   },
   {
-    "name": "ONE Friday Fights 176",
+    "name": "OHL Hockey: Brantford Bulldogs vs Ottawa 67's",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   },
   {
-    "name": "Second Serve - Live-Basel-ATP & Vienna-ATP Early Rounds",
+    "name": "Sheffield United vs. Wrexham",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Sheffield United vs. Wrexham",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -304,16 +324,6 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Star Sports 3",
-    "family": "Star Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
       "key": "hjh-545",
       "label": "JioTV proxy (hjh-545.pages.dev)",
       "origin": "static"
@@ -330,22 +340,22 @@
     }
   },
   {
+    "name": "Star Sports 3",
+    "family": "Star Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "jiotv_20",
+      "label": "JioTV+ 20 (jiotv_20)",
+      "origin": "index"
+    }
+  },
+  {
     "name": "Star Sports 3 Digital",
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
       "key": "star_3",
       "label": "Star 3 (star_3)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Star Sports Khel",
-    "family": "Star Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
       "origin": "index"
     }
   },
@@ -374,29 +384,39 @@
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Tennis Today Live-Basel-ATP & Vienna-ATP Quarterfinals",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Tennis Today Live-Basel-ATP & Vienna-ATP Quarterfinals",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
       "origin": "index"
+    }
+  },
+  {
+    "name": "Tennis Today Live-Basel-ATP & Vienna-ATP Quarterfinals",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Tennis Today Live-Basel-ATP & Vienna-ATP Quarterfinals",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "UNC Wilmington vs Stony Brook - Women's Volleyball",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   }
 ]
