@@ -1,16 +1,6 @@
 [
   {
-    "name": "Alajuelense vs. Motagua",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Boise State at San Diego State",
+    "name": "Cricket-WBBL 2026: Heat vs Sixers - 3rd Match",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -50,17 +40,7 @@
     }
   },
   {
-    "name": "Heart of Dixie 200",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Heart of Dixie 200",
+    "name": "Hong Kong Sixes 2026 - 8th Match - South Africa vs Afghanistan",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -70,7 +50,7 @@
     }
   },
   {
-    "name": "Hong Kong Sixes 2026 - 2nd Match - Bangladesh vs Scotland",
+    "name": "Hong Kong Sixes 2026 - 9th Match - England vs Australia",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -80,17 +60,7 @@
     }
   },
   {
-    "name": "Hong Kong Sixes 2026 - 3rd Match - Pakistan vs United Arab Emirates",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Hong Kong Sixes 2026 - 5th Match - Hong Kong, China vs England",
+    "name": "LIVE: HotelPlanner Final 2026 Day 2",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -100,27 +70,7 @@
     }
   },
   {
-    "name": "Hong Kong Sixes 2026 - 6th Match - Bangladesh vs Sri Lanka",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Hong Kong, China vs. England",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Pakistan vs. United Arab Emirates",
+    "name": "New Zealand vs. India",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -134,19 +84,9 @@
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Quarterfinals",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
     }
   },
   {
@@ -354,6 +294,16 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
+      "key": "jiotv_32",
+      "label": "JioTV+ 32 (jiotv_32)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Star Sports 3",
+    "family": "Star Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
       "key": "hjh-545",
       "label": "JioTV proxy (hjh-545.pages.dev)",
       "origin": "static"
@@ -364,18 +314,8 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_8",
-      "label": "JioTV+ 8 (jiotv_8)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Star Sports 3",
-    "family": "Star Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "jiotv_16",
-      "label": "JioTV+ 16 (jiotv_16)",
+      "key": "jiotv_20",
+      "label": "JioTV+ 20 (jiotv_20)",
       "origin": "index"
     }
   },
@@ -386,6 +326,16 @@
     "source": {
       "key": "star_3",
       "label": "Star 3 (star_3)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Star Sports Khel",
+    "family": "Star Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "jiotv_32",
+      "label": "JioTV+ 32 (jiotv_32)",
       "origin": "index"
     }
   },
@@ -410,7 +360,7 @@
     }
   },
   {
-    "name": "Trophy Cup at Tulare Thunderbowl Raceway",
+    "name": "Tennis Today Live-Basel-ATP & Vienna-ATP Quarterfinals",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -420,7 +370,7 @@
     }
   },
   {
-    "name": "Trophy Cup at Tulare Thunderbowl Raceway",
+    "name": "Womens Big Bash League 2026 - 3rd Match - Brisbane Heat Women vs Sydney Sixers Women",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
