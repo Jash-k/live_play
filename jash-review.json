@@ -1,6 +1,6 @@
 [
   {
-    "name": "AHL Hockey: Milwaukee Admirals vs Cleveland Monsters",
+    "name": "ARCA West at Kevin Harvick's Kern Raceway",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -10,23 +10,13 @@
     }
   },
   {
-    "name": "Canelo Alvarez vs. Christian Mbilli",
+    "name": "Black Hills State at CSU-Pueblo",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
       "key": "maybetv_Jo__Zoh.m3u",
       "label": "maybetv/Jo/Zoh.m3u",
       "origin": "github"
-    }
-  },
-  {
-    "name": "Canelo Alvarez vs. Christian Mbilli",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
     }
   },
   {
@@ -60,26 +50,6 @@
     }
   },
   {
-    "name": "LIVE: HotelPlanner Final 2026 Day 3",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Mercyhurst vs. Stonehill",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
     "name": "MLP Nations Cup",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -90,27 +60,7 @@
     }
   },
   {
-    "name": "MLP Nations Cup",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Pakistan ODI Tri-Series 2026 - Final - Pakistan vs Sri Lanka",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Sacred Heart Pioneers vs. Stony Brook",
+    "name": "SFT Combat 65 - Pink October 9",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -400,33 +350,13 @@
     }
   },
   {
-    "name": "Tennis Today Live-Vienna-ATP & Basel Semifinals",
+    "name": "Western Colorado University at Metropolitan State University of Denver",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
       "key": "maybetv_Jo__Zoh.m3u",
       "label": "maybetv/Jo/Zoh.m3u",
       "origin": "github"
-    }
-  },
-  {
-    "name": "Tennis Today Live-Vienna-ATP & Basel Semifinals",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "West Ham United vs. West Bromwich Albion",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
     }
   }
 ]
