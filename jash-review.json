@@ -1,12 +1,12 @@
 [
   {
-    "name": "Cricket-WBBL 2026: Strikers vs Stars - 4th Match",
+    "name": "Cricket-WBBL 2026: Scorchers vs Renegades - 5th Match",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
     }
   },
   {
@@ -40,7 +40,17 @@
     }
   },
   {
-    "name": "Hong Kong Sixes 2026 - Bowl Semi Final 2- England vs India",
+    "name": "Lincoln City vs. Birmingham City",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "LIVE: HotelPlanner Final 2026 Day 3",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -50,7 +60,17 @@
     }
   },
   {
-    "name": "Hong Kong Sixes 2026 - Bowl Semi Final 2- England vs India",
+    "name": "LIVE: HotelPlanner Final 2026 Day 3",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "LIVE: HotelPlanner Final 2026 Day 3",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -60,7 +80,7 @@
     }
   },
   {
-    "name": "Hong Kong Sixes 2026 - Plate Semi Final 1- Sri Lanka vs Oman",
+    "name": "Pakistan ODI Tri-Series 2026 - Final - Pakistan vs Sri Lanka",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -70,13 +90,23 @@
     }
   },
   {
-    "name": "Petronas Grand Prix of Malaysia, Qualifying",
+    "name": "Pakistan ODI Tri-Series 2026 - Final - Pakistan vs Sri Lanka",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Pakistan ODI Tri-Series 2026 - Final - Pakistan vs Sri Lanka",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
     }
   },
   {
@@ -350,7 +380,7 @@
     }
   },
   {
-    "name": "Womens Big Bash League 2026 - 4th Match - Adelaide Strikers Women vs Melbourne Stars Women",
+    "name": "Womens Big Bash League 2026 - 5th Match - Perth Scorchers Women vs Melbourne Renegades Women",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -360,7 +390,7 @@
     }
   },
   {
-    "name": "Womens Big Bash League 2026 - 4th Match - Adelaide Strikers Women vs Melbourne Stars Women",
+    "name": "Womens Big Bash League 2026 - 5th Match - Perth Scorchers Women vs Melbourne Renegades Women",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
