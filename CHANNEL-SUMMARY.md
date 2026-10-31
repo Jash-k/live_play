@@ -1,9 +1,9 @@
 # Current curated feed
 
-Generated 2026-10-31T12:40:19.839Z by `scripts/curate-live.mjs` — do not edit by hand.
+Generated 2026-10-31T18:36:14.177Z by `scripts/curate-live.mjs` — do not edit by hand.
 
-392 stream options in `jash-live.m3u`: 316 Tamil channels, 1 Bigg Boss Tamil, 75 sports feeds.
-40 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
+385 stream options in `jash-live.m3u`: 315 Tamil channels, 1 Bigg Boss Tamil, 69 sports feeds.
+43 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
 
 | Group | Streams |
 |---|---:|
@@ -17,12 +17,12 @@ Generated 2026-10-31T12:40:19.839Z by `scripts/curate-live.mjs` — do not edit 
 | Tamil - Devotional | 20 |
 | Tamil - Lifestyle | 3 |
 | Tamil - Infotainment | 12 |
-| Tamil - General | 49 |
+| Tamil - General | 48 |
 | Sports - Star Sports - Tamil | 8 |
 | Sports - Star Sports - English | 21 |
-| Sports - Sony Sports - Tamil | 8 |
-| Sports - Sony Sports - English | 21 |
-| Sports - FanCode - English | 11 |
+| Sports - Sony Sports - Tamil | 7 |
+| Sports - Sony Sports - English | 20 |
+| Sports - FanCode - English | 7 |
 | Sports - Willow - English | 4 |
 | Sports - Ten Sports - English | 1 |
 | Sports - Sports18 - English | 1 |
@@ -222,7 +222,7 @@ Generated 2026-10-31T12:40:19.839Z by `scripts/curate-live.mjs` — do not edit 
 - Superfine Films Tamil [HLS · JioTV+ 16]
 - Zee Thirai HD [DASH · JioTV+ 32]
 - Zee Thirai HD [DASH · ClearKey · JioTV proxy]
-- Zee Thirai HD [DASH · ClearKey · JioTV+ 20]
+- Zee Thirai HD [DASH · ClearKey · JioTV+ 8]
 
 ### Tamil - Music (20)
 
@@ -327,9 +327,8 @@ Generated 2026-10-31T12:40:19.839Z by `scripts/curate-live.mjs` — do not edit 
 - Sony BBC Earth HD Tamil [DASH · ClearKey · JioTV+ 32]
 - Sony BBC Earth HD Tamil [DASH · ClearKey · JioTV+ 8]
 
-### Tamil - General (49)
+### Tamil - General (48)
 
-- Chennaiyin FC vs Kerala Blasters FC | MG Indian Super League 2026-27 [Tamil] [HLS · Jo/Zoh]
 - ENGLISH OTT TAMIL DUBBED [HLS · JioTV+ 16]
 - Eye Tamil [HLS · JioTV+ 16]
 - HINDI OTT TAMIL DUBBED [HLS · JioTV+ 16]
@@ -414,9 +413,8 @@ Generated 2026-10-31T12:40:19.839Z by `scripts/curate-live.mjs` — do not edit 
 - Star Sports Select 2 HD [HLS · Jo/Zoh]
 - Star Sports Select 2 HD [DASH · ClearKey · JioTV proxy]
 
-### Sports - Sony Sports - Tamil (8)
+### Sports - Sony Sports - Tamil (7)
 
-- Chennaiyin FC vs Kerala Blasters FC - 31 Oct 2026 [TAM] [HLS · SonyLIV 3]
 - Sony LIV Sports 4 Tamil [HLS · ClearKey · JioTV+ 32]
 - Sony LIV Sports 4 Tamil [DASH · ClearKey · JioTV proxy]
 - Sony LIV Sports 4 Tamil [DASH · ClearKey · JioTV+ 8]
@@ -425,9 +423,8 @@ Generated 2026-10-31T12:40:19.839Z by `scripts/curate-live.mjs` — do not edit 
 - Sony Ten 4 Tamil [DASH · ClearKey · JioTV proxy]
 - Sony Ten 4 Tamil [DASH · ClearKey · JioTV+ 32]
 
-### Sports - Sony Sports - English (21)
+### Sports - Sony Sports - English (20)
 
-- Chennaiyin FC vs Kerala Blasters FC - 31 Oct 2026 [ENG] [HLS · SonyLIV 3]
 - Sony Sports Ten 1 [HLS · Jo/Zoh2]
 - Sony Sports Ten 1 HD [HLS · JioTV+ 16]
 - Sony Sports Ten 1 HD [HLS · Jo/Zoh2]
@@ -449,19 +446,15 @@ Generated 2026-10-31T12:40:19.839Z by `scripts/curate-live.mjs` — do not edit 
 - SONY TEN Cricket [HLS · Jo/Zoh]
 - SONY TEN Cricket [HLS · Sportlink-wtf/Sports]
 
-### Sports - FanCode - English (11)
+### Sports - FanCode - English (7)
 
-- Abu Dhabi vs Dubai [English] [HLS · Fancode]
-- Everton Women vs Manchester United Women [English] [HLS · Fancode]
+- A. Zverev vs A. de Minaur [English] [HLS · Fancode]
+- Al Hilal SFC vs Al-Fateh SC [English] [HLS · Fancode]
+- Emirates Blues vs Sharjah [English] [HLS · Fancode]
 - FANCODE 1 [DASH · ClearKey · Sportlink-wtf/Sports]
 - FANCODE 2 [DASH · ClearKey · Sportlink-wtf/Sports]
-- Glaubandich Court [English] [HLS · Fancode]
-- Jersey vs Qatar [English] [HLS · Fancode]
-- Kenya vs Papua New Guinea [English] [HLS · Fancode]
-- Netherlands vs United Arab Emirates [English] [HLS · Fancode]
-- South Africa vs Australia [English] [HLS · Fancode]
-- Stoke City F.C. vs Preston North End F.C. [English] [HLS · Fancode]
-- Sudurpaschim Royals vs Biratnagar Kings [English] [HLS · Fancode]
+- Semi-Finals [English] [HLS · Fancode]
+- World Feed [English] [HLS · Fancode]
 
 ### Sports - Willow - English (4)
 
@@ -484,13 +477,12 @@ Generated 2026-10-31T12:40:19.839Z by `scripts/curate-live.mjs` — do not edit 
 |---|---|---:|
 | JioTV proxy (hjh-545.pages.dev) | static | 111 |
 | maybetv/Jo/Zoh2.m3u | github | 5 |
-| maybetv/Jo/Zoh.m3u | github | 8 |
+| maybetv/Jo/Zoh.m3u | github | 12 |
 | maybetv/Jo/Zohplx.m3u | github | 5 |
 | sportlive18/Sportlink-wtf/Sports.m3u | github | 10 |
 | sportlive18/Sportlink-wtf/Sport.m3u | github | 1 |
 | JioTV+ 32 (jiotv_32) | pinned | 99 |
-| JioTV+ 8 (jiotv_8) | pinned | 61 |
-| JioTV+ 20 (jiotv_20) | pinned | 1 |
+| JioTV+ 8 (jiotv_8) | pinned | 62 |
 | JioTV+ 16 (jiotv_16) | pinned | 70 |
 | JioTV+ 28 (jiotv_28) | pinned | 5 |
 | Star 3 (star_3) | pinned | 14 |
@@ -498,13 +490,11 @@ Generated 2026-10-31T12:40:19.839Z by `scripts/curate-live.mjs` — do not edit 
 | SonyTV 4 (sonytv_4) | pinned | 4 |
 | Mix Channels (mix_channels) | pinned | 2 |
 | YuppTV 1 (yupptv_one) | pinned | 5 |
-| Fancode (fancode_avd) | pinned | 9 |
-| Prime Sports 1 (prime_sports_one) | pinned | 3 |
-| SonyLIV 3 (sonyliv_three) | discovered | 2 |
-| Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 4 |
+| Fancode (fancode_avd) | pinned | 5 |
+| Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 5 |
 | Fancode 1 [Backup] (fancode_one_backup) | discovered | 0 |
 | Fancode 3 (fancode_three) | discovered | 0 |
 
-Sources that returned nothing this run: 17 of 60. See `jash-live.stats.json`.
+Sources that returned nothing this run: 26 of 60. See `jash-live.stats.json`.
 
 Playback was **not** verified: entries carry upstream playback properties unchanged, and a stream may still need a compatible player, legitimate access or region availability.

@@ -1,6 +1,26 @@
 [
   {
-    "name": "Cricket-WBBL 2026: Scorchers vs Renegades - 5th Match",
+    "name": "AHL Hockey: Milwaukee Admirals vs Cleveland Monsters",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Canelo Alvarez vs. Christian Mbilli",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Canelo Alvarez vs. Christian Mbilli",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -40,17 +60,17 @@
     }
   },
   {
-    "name": "Lincoln City vs. Birmingham City",
+    "name": "LIVE: HotelPlanner Final 2026 Day 3",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
       "origin": "index"
     }
   },
   {
-    "name": "LIVE: HotelPlanner Final 2026 Day 3",
+    "name": "Mercyhurst vs. Stonehill",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -60,17 +80,17 @@
     }
   },
   {
-    "name": "LIVE: HotelPlanner Final 2026 Day 3",
+    "name": "MLP Nations Cup",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
-      "origin": "index"
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   },
   {
-    "name": "LIVE: HotelPlanner Final 2026 Day 3",
+    "name": "MLP Nations Cup",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -90,23 +110,23 @@
     }
   },
   {
-    "name": "Pakistan ODI Tri-Series 2026 - Final - Pakistan vs Sri Lanka",
+    "name": "Sacred Heart Pioneers vs. Stony Brook",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
-      "origin": "index"
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   },
   {
-    "name": "Pakistan ODI Tri-Series 2026 - Final - Pakistan vs Sri Lanka",
+    "name": "Small School Saturday",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   },
   {
@@ -380,7 +400,7 @@
     }
   },
   {
-    "name": "Womens Big Bash League 2026 - 5th Match - Perth Scorchers Women vs Melbourne Renegades Women",
+    "name": "Tennis Today Live-Vienna-ATP & Basel Semifinals",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -390,7 +410,17 @@
     }
   },
   {
-    "name": "Womens Big Bash League 2026 - 5th Match - Perth Scorchers Women vs Melbourne Renegades Women",
+    "name": "Tennis Today Live-Vienna-ATP & Basel Semifinals",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "West Ham United vs. West Bromwich Albion",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
