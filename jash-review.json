@@ -30,7 +30,7 @@
     }
   },
   {
-    "name": "Hong Kong Sixes 2026 - Bowl Final - South Africa vs England",
+    "name": "LIVE: HotelPlanner Final 2026 Day 4",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -40,13 +40,33 @@
     }
   },
   {
-    "name": "Hong Kong Sixes 2026 - Plate Final - Oman vs Pakistan",
+    "name": "LIVE: HotelPlanner Final 2026 Day 4",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "London City Lionesses vs. Manchester City",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
       "key": "maybetv_Jo__Zoh.m3u",
       "label": "maybetv/Jo/Zoh.m3u",
       "origin": "github"
+    }
+  },
+  {
+    "name": "New Zealand vs. India",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
     }
   },
   {
@@ -60,13 +80,13 @@
     }
   },
   {
-    "name": "Petronas Grand Prix of Malaysia",
+    "name": "Perth Steel vs. Canberra Heat",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
     }
   },
   {
@@ -340,13 +360,13 @@
     }
   },
   {
-    "name": "Sydney Thunder vs. Brisbane Heat",
+    "name": "Sydney Sixers vs. Hobart Hurricanes",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
     }
   },
   {
@@ -354,9 +374,19 @@
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Womens Big Bash League 2026 - 7th Match - Sydney Sixers Women vs Hobart Hurricanes Women",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
     }
   }
 ]
