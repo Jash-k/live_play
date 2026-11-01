@@ -1,28 +1,28 @@
 # Current curated feed
 
-Generated 2026-10-31T23:25:54.980Z by `scripts/curate-live.mjs` — do not edit by hand.
+Generated 2026-11-01T06:14:52.537Z by `scripts/curate-live.mjs` — do not edit by hand.
 
-386 stream options in `jash-live.m3u`: 319 Tamil channels, 1 Bigg Boss Tamil, 66 sports feeds.
+389 stream options in `jash-live.m3u`: 315 Tamil channels, 1 Bigg Boss Tamil, 73 sports feeds.
 36 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
 
 | Group | Streams |
 |---|---:|
 | Bigg Boss Tamil 24/7 | 1 |
-| Tamil - Entertainment | 118 |
-| Tamil - News | 49 |
+| Tamil - Entertainment | 117 |
+| Tamil - News | 47 |
 | Tamil - Movies | 18 |
 | Tamil - Music | 20 |
 | Tamil - Kids | 26 |
 | Tamil - Comedy | 4 |
-| Tamil - Devotional | 21 |
+| Tamil - Devotional | 20 |
 | Tamil - Lifestyle | 3 |
 | Tamil - Infotainment | 12 |
 | Tamil - General | 48 |
 | Sports - Star Sports - Tamil | 8 |
 | Sports - Star Sports - English | 21 |
-| Sports - Sony Sports - Tamil | 7 |
-| Sports - Sony Sports - English | 20 |
-| Sports - FanCode - English | 4 |
+| Sports - Sony Sports - Tamil | 8 |
+| Sports - Sony Sports - English | 21 |
+| Sports - FanCode - English | 9 |
 | Sports - Willow - English | 4 |
 | Sports - Ten Sports - English | 1 |
 | Sports - Sports18 - English | 1 |
@@ -33,7 +33,7 @@ Generated 2026-10-31T23:25:54.980Z by `scripts/curate-live.mjs` — do not edit 
 
 - Bigg Boss Tamil 24/7 [HLS · Star 3]
 
-### Tamil - Entertainment (118)
+### Tamil - Entertainment (117)
 
 - Aadhavan Tamil Tv [HLS · JioTV+ 16]
 - Aaryaa TV [HLS · JioTV proxy]
@@ -42,7 +42,6 @@ Generated 2026-10-31T23:25:54.980Z by `scripts/curate-live.mjs` — do not edit 
 - Anandham TV [HLS · JioTV+ 16]
 - Astro Vaanavil [DASH · ClearKey · JioTV+ 16]
 - Athavan TV HD [HLS · YuppTV 1]
-- Athavan TV HD [HLS · YuppTV 2]
 - Bhagyam TV [HLS · JioTV proxy]
 - Bhagyam TV [HLS · JioTV+ 32]
 - Bhagyam TV [HLS · ClearKey · JioTV+ 28]
@@ -154,7 +153,7 @@ Generated 2026-10-31T23:25:54.980Z by `scripts/curate-live.mjs` — do not edit 
 - Zee Tamil News [HLS · JioTV+ 16]
 - Zee Tamil SA [DASH · ClearKey · JioTV+ 16]
 
-### Tamil - News (49)
+### Tamil - News (47)
 
 - Asianet News Tamil (360p) [HLS · Special]
 - Kalaignar Seithigal [DASH · ClearKey · JioTV proxy]
@@ -170,7 +169,6 @@ Generated 2026-10-31T23:25:54.980Z by `scripts/curate-live.mjs` — do not edit 
 - News J [DASH · ClearKey · JioTV+ 32]
 - News J [DASH · ClearKey · JioTV+ 8]
 - News Tamil [HLS · YuppTV 1]
-- News Tamil [HLS · YuppTV 2]
 - News Tamil 24x7 [DASH · ClearKey · JioTV proxy]
 - News Tamil 24x7 [DASH · ClearKey · JioTV+ 32]
 - News Tamil 24x7 [DASH · ClearKey · JioTV+ 8]
@@ -184,7 +182,6 @@ Generated 2026-10-31T23:25:54.980Z by `scripts/curate-live.mjs` — do not edit 
 - Polimer News [DASH · ClearKey · JioTV+ 32]
 - Polimer News [DASH · ClearKey · JioTV+ 8]
 - Puthiya Thalaimurai [HLS · YuppTV 1]
-- Puthiya Thalaimurai [HLS · YuppTV 2]
 - Puthiya Thalaimurai [HLS · JioTV+ 16]
 - Puthiya Thalimurai [DASH · JioTV+ 32]
 - Puthiya Thalimurai [DASH · ClearKey · JioTV proxy]
@@ -225,7 +222,7 @@ Generated 2026-10-31T23:25:54.980Z by `scripts/curate-live.mjs` — do not edit 
 - Superfine Films Tamil [HLS · JioTV+ 16]
 - Zee Thirai HD [DASH · JioTV+ 32]
 - Zee Thirai HD [DASH · ClearKey · JioTV proxy]
-- Zee Thirai HD [DASH · ClearKey · JioTV+ 8]
+- Zee Thirai HD [DASH · ClearKey · JioTV+ 20]
 
 ### Tamil - Music (20)
 
@@ -286,7 +283,7 @@ Generated 2026-10-31T23:25:54.980Z by `scripts/curate-live.mjs` — do not edit 
 - Adithya TV [DASH · ClearKey · JioTV+ 32] (2)
 - Sirippoli [DASH · ClearKey · JioTV+ 16]
 
-### Tamil - Devotional (21)
+### Tamil - Devotional (20)
 
 - Aastha Tamil [HLS · JioTV+ 16]
 - Angel TV HD [DASH · ClearKey · JioTV proxy]
@@ -308,7 +305,6 @@ Generated 2026-10-31T23:25:54.980Z by `scripts/curate-live.mjs` — do not edit 
 - Sri Sankara [DASH · ClearKey · JioTV+ 32]
 - Sri Sankara [DASH · ClearKey · JioTV+ 8]
 - Sri Sankara Tamil [HLS · YuppTV 1]
-- Sri Sankara Tamil [HLS · YuppTV 2]
 
 ### Tamil - Lifestyle (3)
 
@@ -417,8 +413,9 @@ Generated 2026-10-31T23:25:54.980Z by `scripts/curate-live.mjs` — do not edit 
 - Star Sports Select 2 HD [HLS · Jo/Zoh]
 - Star Sports Select 2 HD [DASH · ClearKey · JioTV proxy]
 
-### Sports - Sony Sports - Tamil (7)
+### Sports - Sony Sports - Tamil (8)
 
+- 5th T20I - 1 Nov 2026 [TAM] [HLS · SonyLIV 3]
 - Sony LIV Sports 4 Tamil [HLS · ClearKey · JioTV+ 32]
 - Sony LIV Sports 4 Tamil [DASH · ClearKey · JioTV proxy]
 - Sony LIV Sports 4 Tamil [DASH · ClearKey · JioTV+ 8]
@@ -427,8 +424,9 @@ Generated 2026-10-31T23:25:54.980Z by `scripts/curate-live.mjs` — do not edit 
 - Sony Ten 4 Tamil [DASH · ClearKey · JioTV proxy]
 - Sony Ten 4 Tamil [DASH · ClearKey · JioTV+ 32]
 
-### Sports - Sony Sports - English (20)
+### Sports - Sony Sports - English (21)
 
+- 5th T20I - 1 Nov 2026 [ENG] [HLS · SonyLIV 3]
 - Sony Sports Ten 1 [HLS · Jo/Zoh2]
 - Sony Sports Ten 1 HD [HLS · JioTV+ 16]
 - Sony Sports Ten 1 HD [HLS · Jo/Zoh2]
@@ -450,11 +448,16 @@ Generated 2026-10-31T23:25:54.980Z by `scripts/curate-live.mjs` — do not edit 
 - SONY TEN Cricket [HLS · Jo/Zoh]
 - SONY TEN Cricket [HLS · Sportlink-wtf/Sports]
 
-### Sports - FanCode - English (4)
+### Sports - FanCode - English (9)
 
+- Brisbane Heat Women vs Sydney Thunder Women [English] [HLS · Fancode]
+- Day 4 [English] [HLS · Fancode]
+- England vs South Africa [English] [HLS · Fancode]
 - FANCODE 1 [DASH · ClearKey · Sportlink-wtf/Sports]
 - FANCODE 2 [DASH · ClearKey · Sportlink-wtf/Sports]
-- Tasmania vs New South Wales [English] [HLS · Fancode]
+- Melbourne Victory vs Central Coast Mariners [English] [HLS · Fancode]
+- Oman vs Pakistan [English] [HLS · Fancode]
+- Race Day [English] [HLS · Fancode]
 - Victoria vs Queensland [English] [HLS · Fancode]
 
 ### Sports - Willow - English (4)
@@ -483,7 +486,8 @@ Generated 2026-10-31T23:25:54.980Z by `scripts/curate-live.mjs` — do not edit 
 | sportlive18/Sportlink-wtf/Sports.m3u | github | 10 |
 | sportlive18/Sportlink-wtf/Sport.m3u | github | 1 |
 | JioTV+ 32 (jiotv_32) | pinned | 99 |
-| JioTV+ 8 (jiotv_8) | pinned | 62 |
+| JioTV+ 8 (jiotv_8) | pinned | 61 |
+| JioTV+ 20 (jiotv_20) | pinned | 1 |
 | JioTV+ 16 (jiotv_16) | pinned | 70 |
 | JioTV+ 28 (jiotv_28) | pinned | 5 |
 | Star 3 (star_3) | pinned | 14 |
@@ -491,9 +495,8 @@ Generated 2026-10-31T23:25:54.980Z by `scripts/curate-live.mjs` — do not edit 
 | SonyTV 4 (sonytv_4) | pinned | 4 |
 | Mix Channels (mix_channels) | pinned | 2 |
 | YuppTV 1 (yupptv_one) | pinned | 5 |
-| YuppTV 2 (yupptv_two) | pinned | 4 |
-| Fancode (fancode_avd) | pinned | 2 |
-| Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 0 |
+| Fancode (fancode_avd) | pinned | 7 |
+| SonyLIV 3 (sonyliv_three) | discovered | 2 |
 | Fancode 1 [Backup] (fancode_one_backup) | discovered | 0 |
 | Fancode 3 (fancode_three) | discovered | 0 |
 

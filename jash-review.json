@@ -1,25 +1,5 @@
 [
   {
-    "name": "ARCA West at Kevin Harvick's Kern Raceway",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Black Hills State at CSU-Pueblo",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
     "name": "DD Sports",
     "family": "DD Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -50,7 +30,7 @@
     }
   },
   {
-    "name": "MLP Nations Cup",
+    "name": "Hong Kong Sixes 2026 - Bowl Final - South Africa vs England",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -60,7 +40,7 @@
     }
   },
   {
-    "name": "SFT Combat 65 - Pink October 9",
+    "name": "Hong Kong Sixes 2026 - Plate Final - Oman vs Pakistan",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -70,7 +50,17 @@
     }
   },
   {
-    "name": "Small School Saturday",
+    "name": "Perth Steel vs. Canberra Heat",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Petronas Grand Prix of Malaysia",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -350,7 +340,17 @@
     }
   },
   {
-    "name": "Western Colorado University at Metropolitan State University of Denver",
+    "name": "Sydney Thunder vs. Brisbane Heat",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Womens Big Bash League 2026 - 6th Match - Sydney Thunder Women vs Brisbane Heat Women",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
