@@ -1,16 +1,16 @@
 # Current curated feed
 
-Generated 2026-11-01T13:37:07.428Z by `scripts/curate-live.mjs` — do not edit by hand.
+Generated 2026-11-01T18:58:05.212Z by `scripts/curate-live.mjs` — do not edit by hand.
 
-390 stream options in `jash-live.m3u`: 315 Tamil channels, 1 Bigg Boss Tamil, 74 sports feeds.
-39 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
+381 stream options in `jash-live.m3u`: 314 Tamil channels, 1 Bigg Boss Tamil, 66 sports feeds.
+35 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
 
 | Group | Streams |
 |---|---:|
 | Bigg Boss Tamil 24/7 | 1 |
 | Tamil - Entertainment | 117 |
 | Tamil - News | 47 |
-| Tamil - Movies | 18 |
+| Tamil - Movies | 17 |
 | Tamil - Music | 20 |
 | Tamil - Kids | 26 |
 | Tamil - Comedy | 4 |
@@ -21,8 +21,8 @@ Generated 2026-11-01T13:37:07.428Z by `scripts/curate-live.mjs` — do not edit 
 | Sports - Star Sports - Tamil | 8 |
 | Sports - Star Sports - English | 21 |
 | Sports - Sony Sports - Tamil | 7 |
-| Sports - Sony Sports - English | 22 |
-| Sports - FanCode - English | 10 |
+| Sports - Sony Sports - English | 20 |
+| Sports - FanCode - English | 4 |
 | Sports - Willow - English | 4 |
 | Sports - Ten Sports - English | 1 |
 | Sports - Sports18 - English | 1 |
@@ -137,10 +137,10 @@ Generated 2026-11-01T13:37:07.428Z by `scripts/curate-live.mjs` — do not edit 
 - Vendhar TV [DASH · ClearKey · JioTV proxy]
 - Vendhar TV [DASH · ClearKey · JioTV+ 32]
 - Vendhar TV [DASH · ClearKey · JioTV+ 20]
-- Vijay Super [DASH · ClearKey · JioTV+ 8]
 - Vijay Super Digital [DASH · ClearKey · Star 3]
 - Vijay Super HD [DASH · ClearKey · JioTV proxy]
 - Vijay Super HD [DASH · ClearKey · JioTV+ 32]
+- Vijay Super HD [DASH · ClearKey · JioTV+ 20]
 - Vijay Takkar [DASH · ClearKey · JioTV proxy]
 - Vijay Takkar [DASH · ClearKey · JioTV+ 32]
 - Vijay Takkar [DASH · ClearKey · JioTV+ 20]
@@ -175,35 +175,35 @@ Generated 2026-11-01T13:37:07.428Z by `scripts/curate-live.mjs` — do not edit 
 - News18 Tamil nadu [DASH · ClearKey · JioTV+ 32]
 - News18 Tamil Nadu. [HLS · JioTV proxy]
 - News18 Tamil Nadu. [HLS · ClearKey · JioTV+ 32]
+- News7 Tamil [DASH · JioTV+ 32]
 - News7 Tamil [DASH · ClearKey · JioTV proxy]
-- News7 Tamil [DASH · ClearKey · JioTV+ 8]
 - News7 Tamil [DASH · ClearKey · JioTV+ 28]
 - Polimer News [DASH · ClearKey · JioTV proxy]
 - Polimer News [DASH · ClearKey · JioTV+ 32]
 - Polimer News [DASH · ClearKey · JioTV+ 20]
 - Puthiya Thalaimurai [HLS · YuppTV 1]
 - Puthiya Thalaimurai [HLS · JioTV+ 16]
+- Puthiya Thalimurai [DASH · JioTV+ 32]
 - Puthiya Thalimurai [DASH · ClearKey · JioTV proxy]
-- Puthiya Thalimurai [DASH · ClearKey · JioTV+ 8]
 - Puthiya Thalimurai [DASH · ClearKey · JioTV+ 28]
+- Raj News 24x7 [DASH · JioTV+ 32]
 - Raj News 24x7 [DASH · ClearKey · JioTV proxy]
-- Raj News 24x7 [DASH · ClearKey · JioTV+ 8]
-- Raj News 24x7 [DASH · ClearKey · JioTV+ 16]
+- Raj News 24x7 [DASH · ClearKey · JioTV+ 28]
 - Sathiyam TV [DASH · ClearKey · JioTV proxy]
 - Sathiyam TV [DASH · ClearKey · JioTV+ 32]
 - Sathiyam TV [DASH · ClearKey · JioTV+ 20]
 - Sun News [DASH · ClearKey · JioTV proxy]
 - Sun News [DASH · ClearKey · JioTV+ 32]
 - Sun News [DASH · ClearKey · JioTV+ 32] (2)
+- Thanthi One [DASH · JioTV+ 32]
 - Thanthi One [DASH · ClearKey · JioTV proxy]
-- Thanthi One [DASH · ClearKey · JioTV+ 8]
 - Thanthi One [DASH · ClearKey · JioTV+ 28]
+- Thanthi TV [DASH · JioTV+ 32]
 - Thanthi TV [DASH · ClearKey · JioTV proxy]
-- Thanthi TV [DASH · ClearKey · JioTV+ 8]
 - Thanthi TV [DASH · ClearKey · JioTV+ 28]
 - Thanthi TV (396p) [HLS · Special]
 
-### Tamil - Movies (18)
+### Tamil - Movies (17)
 
 - J Movies [DASH · ClearKey · JioTV proxy]
 - J Movies [DASH · ClearKey · JioTV+ 32]
@@ -218,11 +218,10 @@ Generated 2026-11-01T13:37:07.428Z by `scripts/curate-live.mjs` — do not edit 
 - Raj Digital Plus [DASH · ClearKey · JioTV+ 20]
 - Sony Vizha HD [DASH · ClearKey · JioTV proxy]
 - Sony Vizha HD [DASH · ClearKey · JioTV+ 32]
-- Sony Vizha HD [DASH · ClearKey · JioTV+ 16]
 - Superfine Films Tamil [HLS · JioTV+ 16]
 - Zee Thirai HD [DASH · JioTV+ 32]
 - Zee Thirai HD [DASH · ClearKey · JioTV proxy]
-- Zee Thirai HD [DASH · ClearKey · JioTV+ 20]
+- Zee Thirai HD [DASH · ClearKey · JioTV+ 8]
 
 ### Tamil - Music (20)
 
@@ -417,16 +416,14 @@ Generated 2026-11-01T13:37:07.428Z by `scripts/curate-live.mjs` — do not edit 
 
 - Sony LIV Sports 4 Tamil [HLS · ClearKey · JioTV+ 32]
 - Sony LIV Sports 4 Tamil [DASH · ClearKey · JioTV proxy]
-- Sony LIV Sports 4 Tamil [DASH · ClearKey · JioTV+ 8]
+- Sony LIV Sports 4 Tamil [DASH · ClearKey · JioTV+ 20]
 - Sony Sports Ten 4 Tamil [HLS · JioTV+ 16]
 - Sony Sports Ten 4 Tamil [HLS · Jo/Zoh]
 - Sony Ten 4 Tamil [DASH · ClearKey · JioTV proxy]
 - Sony Ten 4 Tamil [DASH · ClearKey · JioTV+ 32]
 
-### Sports - Sony Sports - English (22)
+### Sports - Sony Sports - English (20)
 
-- Inter Kashi vs FC Goa - 1 Nov 2026 [ENG] [HLS · SonyLIV 3]
-- Mumbai City FC vs Sporting Club Delhi - 1 Nov 2026 [ENG] [HLS · SonyLIV 3]
 - Sony Sports Ten 1 [HLS · Jo/Zoh2]
 - Sony Sports Ten 1 HD [HLS · JioTV+ 16]
 - Sony Sports Ten 1 HD [HLS · Jo/Zoh2]
@@ -448,18 +445,12 @@ Generated 2026-11-01T13:37:07.428Z by `scripts/curate-live.mjs` — do not edit 
 - SONY TEN Cricket [HLS · Jo/Zoh]
 - SONY TEN Cricket [HLS · Sportlink-wtf/Sports]
 
-### Sports - FanCode - English (10)
+### Sports - FanCode - English (4)
 
-- Abu Dhabi vs Sharjah [English] [HLS · Fancode]
-- Arsenal Women vs Aston Villa Women [English] [HLS · Fancode]
-- Doubles Final [English] [HLS · Fancode]
+- Ajman vs Emirates Red [English] [HLS · Fancode]
 - FANCODE 1 [DASH · ClearKey · Sportlink-wtf/Sports]
 - FANCODE 2 [DASH · ClearKey · Sportlink-wtf/Sports]
-- Final: A. de Minaur vs C. Alcaraz [English] [HLS · Fancode]
-- Finals: L Kjaersfeldt vs PV Sindhu [English] [HLS · Fancode]
-- Janakpur Bolts vs Pokhara Avengers [English] [HLS · Fancode]
-- London City Lionesses vs Manchester City Women [English] [HLS · Fancode]
-- Naegohyang Women's FC vs Ayeyawady FC Women [English] [HLS · Fancode]
+- West Indies A vs England Lions [English] [HLS · Fancode]
 
 ### Sports - Willow - English (4)
 
@@ -486,23 +477,21 @@ Generated 2026-11-01T13:37:07.428Z by `scripts/curate-live.mjs` — do not edit 
 | maybetv/Jo/Zohplx.m3u | github | 5 |
 | sportlive18/Sportlink-wtf/Sports.m3u | github | 10 |
 | sportlive18/Sportlink-wtf/Sport.m3u | github | 1 |
-| JioTV+ 32 (jiotv_32) | pinned | 94 |
-| JioTV+ 8 (jiotv_8) | pinned | 12 |
-| JioTV+ 20 (jiotv_20) | pinned | 49 |
-| JioTV+ 16 (jiotv_16) | pinned | 71 |
-| JioTV+ 28 (jiotv_28) | pinned | 10 |
+| JioTV+ 32 (jiotv_32) | pinned | 99 |
+| JioTV+ 8 (jiotv_8) | pinned | 2 |
+| JioTV+ 20 (jiotv_20) | pinned | 54 |
+| JioTV+ 16 (jiotv_16) | pinned | 69 |
+| JioTV+ 28 (jiotv_28) | pinned | 11 |
 | Star 3 (star_3) | pinned | 14 |
 | Special (special) | pinned | 13 |
 | SonyTV 4 (sonytv_4) | pinned | 4 |
 | Mix Channels (mix_channels) | pinned | 2 |
 | YuppTV 1 (yupptv_one) | pinned | 5 |
-| Fancode (fancode_avd) | pinned | 8 |
-| Prime Sports 1 (prime_sports_one) | pinned | 2 |
-| SonyLIV 3 (sonyliv_three) | discovered | 2 |
-| Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 4 |
+| Fancode (fancode_avd) | pinned | 2 |
+| Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 2 |
 | Fancode 1 [Backup] (fancode_one_backup) | discovered | 0 |
 | Fancode 3 (fancode_three) | discovered | 0 |
 
-Sources that returned nothing this run: 18 of 60. See `jash-live.stats.json`.
+Sources that returned nothing this run: 25 of 60. See `jash-live.stats.json`.
 
 Playback was **not** verified: entries carry upstream playback properties unchanged, and a stream may still need a compatible player, legitimate access or region availability.
