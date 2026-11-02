@@ -254,8 +254,8 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_28",
-      "label": "JioTV+ 28 (jiotv_28)",
+      "key": "jiotv_20",
+      "label": "JioTV+ 20 (jiotv_20)",
       "origin": "index"
     }
   },
@@ -287,36 +287,6 @@
       "key": "star_3",
       "label": "Star 3 (star_3)",
       "origin": "index"
-    }
-  },
-  {
-    "name": "Tennis Today Live-Hong Kong-WTA and Chennai-WTA-Live Early Rounds",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Tennis Today Live-Paris-ATP & Chennai-WTA Early Rounds",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "The Morning Drive",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
     }
   }
 ]
