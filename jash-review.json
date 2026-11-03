@@ -288,5 +288,15 @@
       "label": "Star 3 (star_3)",
       "origin": "index"
     }
+  },
+  {
+    "name": "Tennis Today Live-Hong Kong-WTA & Chennai-WTA-Live Early Rounds",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
   }
 ]
