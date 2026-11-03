@@ -1,18 +1,18 @@
 # Current curated feed
 
-Generated 2026-11-03T06:54:10.517Z by `scripts/curate-live.mjs` — do not edit by hand.
+Generated 2026-11-03T16:18:16.985Z by `scripts/curate-live.mjs` — do not edit by hand.
 
-380 stream options in `jash-live.m3u`: 314 Tamil channels, 1 Bigg Boss Tamil, 65 sports feeds.
-30 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
+394 stream options in `jash-live.m3u`: 317 Tamil channels, 1 Bigg Boss Tamil, 76 sports feeds.
+34 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
 
 | Group | Streams |
 |---|---:|
 | Bigg Boss Tamil 24/7 | 1 |
-| Tamil - Entertainment | 116 |
-| Tamil - News | 47 |
+| Tamil - Entertainment | 117 |
+| Tamil - News | 48 |
 | Tamil - Movies | 18 |
 | Tamil - Music | 20 |
-| Tamil - Kids | 26 |
+| Tamil - Kids | 27 |
 | Tamil - Comedy | 4 |
 | Tamil - Devotional | 20 |
 | Tamil - Lifestyle | 3 |
@@ -20,9 +20,9 @@ Generated 2026-11-03T06:54:10.517Z by `scripts/curate-live.mjs` — do not edit 
 | Tamil - General | 48 |
 | Sports - Star Sports - Tamil | 8 |
 | Sports - Star Sports - English | 21 |
-| Sports - Sony Sports - Tamil | 7 |
-| Sports - Sony Sports - English | 20 |
-| Sports - FanCode - English | 3 |
+| Sports - Sony Sports - Tamil | 8 |
+| Sports - Sony Sports - English | 21 |
+| Sports - FanCode - English | 12 |
 | Sports - Willow - English | 4 |
 | Sports - Ten Sports - English | 1 |
 | Sports - Sports18 - English | 1 |
@@ -33,7 +33,7 @@ Generated 2026-11-03T06:54:10.517Z by `scripts/curate-live.mjs` — do not edit 
 
 - Bigg Boss Tamil 24/7 [HLS · Star 3]
 
-### Tamil - Entertainment (116)
+### Tamil - Entertainment (117)
 
 - Aadhavan Tamil Tv [HLS · JioTV+ 16]
 - Aaryaa TV [HLS · JioTV proxy]
@@ -54,12 +54,12 @@ Generated 2026-11-03T06:54:10.517Z by `scripts/curate-live.mjs` — do not edit 
 - CTV IDC (TAMIL) [HLS · Star 3]
 - D Tamil [DASH · ClearKey · JioTV proxy]
 - D Tamil [DASH · ClearKey · JioTV+ 32]
-- D Tamil [DASH · ClearKey · JioTV+ 20]
+- D Tamil [DASH · ClearKey · JioTV+ 8]
 - DD Podhigai [HLS · Special]
 - DD Tamil [HLS · JioTV+ 16]
 - DD5 Podhigai [DASH · ClearKey · JioTV proxy]
 - DD5 Podhigai [DASH · ClearKey · JioTV+ 32]
-- DD5 Podhigai [DASH · ClearKey · JioTV+ 20]
+- DD5 Podhigai [DASH · ClearKey · JioTV+ 8]
 - Dharsan TV [HLS · JioTV proxy]
 - Dharsan TV [HLS · JioTV+ 32]
 - Dharsan TV [HLS · ClearKey · JioTV+ 28]
@@ -68,35 +68,35 @@ Generated 2026-11-03T06:54:10.517Z by `scripts/curate-live.mjs` — do not edit 
 - Imai Tv [HLS · JioTV+ 16]
 - Jaya Plus [DASH · ClearKey · JioTV proxy]
 - Jaya Plus [DASH · ClearKey · JioTV+ 32]
-- Jaya Plus [DASH · ClearKey · JioTV+ 20]
+- Jaya Plus [DASH · ClearKey · JioTV+ 8]
 - Jaya TV HD [DASH · ClearKey · JioTV proxy]
 - Jaya TV HD [DASH · ClearKey · JioTV+ 32]
-- Jaya TV HD [DASH · ClearKey · JioTV+ 20]
+- Jaya TV HD [DASH · ClearKey · JioTV+ 8]
 - Jothi TV [DASH · ClearKey · JioTV proxy]
 - Jothi TV [DASH · ClearKey · JioTV+ 32]
-- Jothi TV [DASH · ClearKey · JioTV+ 20]
+- Jothi TV [DASH · ClearKey · JioTV+ 8]
 - Kalaignar TV [DASH · ClearKey · JioTV proxy]
 - Kalaignar TV [DASH · ClearKey · JioTV+ 32]
-- Kalaignar TV [DASH · ClearKey · JioTV+ 20]
+- Kalaignar TV [DASH · ClearKey · JioTV+ 8]
 - Madhimugam TV [DASH · ClearKey · JioTV proxy]
 - Madhimugam TV [DASH · ClearKey · JioTV+ 32]
-- Madhimugam TV [DASH · ClearKey · JioTV+ 20]
+- Madhimugam TV [DASH · ClearKey · JioTV+ 8]
 - Makkal TV [DASH · ClearKey · JioTV proxy]
 - Makkal TV [DASH · ClearKey · JioTV+ 32]
-- Makkal TV [DASH · ClearKey · JioTV+ 20]
+- Makkal TV [DASH · ClearKey · JioTV+ 8]
 - Moon TV [DASH · ClearKey · JioTV proxy]
 - Moon TV [DASH · ClearKey · JioTV+ 32]
-- Moon TV [DASH · ClearKey · JioTV+ 20]
+- Moon TV [DASH · ClearKey · JioTV+ 8]
 - NH Tamil Gold [HLS · JioTV+ 16]
 - Polimer TV [DASH · ClearKey · JioTV proxy]
 - Polimer TV [DASH · ClearKey · JioTV+ 32]
-- Polimer TV [DASH · ClearKey · JioTV+ 28]
+- Polimer TV [DASH · ClearKey · JioTV+ 8]
 - Puthu Yugam [DASH · ClearKey · JioTV proxy]
 - Puthu Yugam [DASH · ClearKey · JioTV+ 32]
-- Puthu Yugam [DASH · ClearKey · JioTV+ 20]
+- Puthu Yugam [DASH · ClearKey · JioTV+ 8]
 - Raj TV [DASH · ClearKey · JioTV proxy]
 - Raj TV [DASH · ClearKey · JioTV+ 32]
-- Raj TV [DASH · ClearKey · JioTV+ 20]
+- Raj TV [DASH · ClearKey · JioTV+ 8]
 - Sooriyan Tv [HLS · JioTV+ 16]
 - Sooriyan TV [HLS · Special]
 - Sri Vasanth Tv [HLS · JioTV+ 16]
@@ -105,6 +105,7 @@ Generated 2026-11-03T06:54:10.517Z by `scripts/curate-live.mjs` — do not edit 
 - Star Vijay HD [DASH · ClearKey · JioTV proxy]
 - Star Vijay HD [DASH · ClearKey · JioTV+ 32]
 - Star Vijay Super [DASH · ClearKey · JioTV proxy]
+- Star Vijay Super [DASH · ClearKey · All in one 3]
 - Sun Life [DASH · ClearKey · JioTV proxy]
 - Sun Life [DASH · ClearKey · JioTV+ 32]
 - Sun Life [DASH · ClearKey · JioTV+ 32] (2)
@@ -115,7 +116,7 @@ Generated 2026-11-03T06:54:10.517Z by `scripts/curate-live.mjs` — do not edit 
 - Sun TV HDR10 [HLS · ClearKey · JioTV+ 16]
 - Tamil Janam [DASH · ClearKey · JioTV proxy]
 - Tamil Janam [DASH · ClearKey · JioTV+ 32]
-- Tamil Janam [DASH · ClearKey · JioTV+ 20]
+- Tamil Janam [DASH · ClearKey · JioTV+ 8]
 - Tamil Vision TV [HLS · JioTV+ 16]
 - Thangam TV [HLS · JioTV+ 16]
 - Ultimate TV [HLS · JioTV proxy]
@@ -123,90 +124,91 @@ Generated 2026-11-03T06:54:10.517Z by `scripts/curate-live.mjs` — do not edit 
 - Ultimate TV [HLS · ClearKey · JioTV+ 28]
 - Vaanavil TV [DASH · ClearKey · JioTV proxy]
 - Vaanavil TV [DASH · ClearKey · JioTV+ 32]
-- Vaanavil TV [DASH · ClearKey · JioTV+ 20]
+- Vaanavil TV [DASH · ClearKey · JioTV+ 8]
 - Vasanth TV [DASH · ClearKey · JioTV proxy]
 - Vasanth TV [DASH · ClearKey · JioTV+ 32]
-- Vasanth TV [DASH · ClearKey · JioTV+ 20]
+- Vasanth TV [DASH · ClearKey · JioTV+ 8]
 - Vasantham [DASH · ClearKey · JioTV+ 16]
 - Vasantham TV [HLS · JioTV+ 16]
 - Velicham (360p) [HLS · Special]
 - Velicham Tv [DASH · ClearKey · JioTV proxy]
 - Velicham Tv [DASH · ClearKey · JioTV+ 32]
-- Velicham Tv [DASH · ClearKey · JioTV+ 20]
+- Velicham Tv [DASH · ClearKey · JioTV+ 8]
 - Vendhar TV [DASH · ClearKey · JioTV proxy]
 - Vendhar TV [DASH · ClearKey · JioTV+ 32]
-- Vendhar TV [DASH · ClearKey · JioTV+ 20]
+- Vendhar TV [DASH · ClearKey · JioTV+ 8]
 - Vijay Super [DASH · ClearKey · JioTV+ 8]
 - Vijay Super Digital [DASH · ClearKey · Star 3]
 - Vijay Super HD [DASH · ClearKey · JioTV proxy]
 - Vijay Super HD [DASH · ClearKey · JioTV+ 32]
 - Vijay Takkar [DASH · ClearKey · JioTV proxy]
 - Vijay Takkar [DASH · ClearKey · JioTV+ 32]
-- Vijay Takkar [DASH · ClearKey · JioTV+ 20]
+- Vijay Takkar [DASH · ClearKey · JioTV+ 8]
 - Win TV [DASH · ClearKey · JioTV proxy]
 - Win TV [DASH · ClearKey · JioTV+ 32]
-- Win TV [DASH · ClearKey · JioTV+ 20]
+- Win TV [DASH · ClearKey · JioTV+ 8]
 - Zee Tamil [DASH · ClearKey · JioTV proxy]
 - Zee Tamil [DASH · ClearKey · JioTV+ 8]
 - Zee Tamil HD [DASH · ClearKey · JioTV proxy]
-- Zee Tamil News [HLS · JioTV+ 16]
+- Zee Tamil HD APAC [HLS · All in one 3]
 - Zee Tamil SA [DASH · ClearKey · JioTV+ 16]
 
-### Tamil - News (47)
+### Tamil - News (48)
 
 - Asianet News Tamil (360p) [HLS · Special]
 - Kalaignar Seithigal [DASH · ClearKey · JioTV proxy]
 - Kalaignar Seithigal [DASH · ClearKey · JioTV+ 32]
-- Kalaignar Seithigal [DASH · ClearKey · JioTV+ 20]
+- Kalaignar Seithigal [DASH · ClearKey · JioTV+ 8]
 - Malaimurasu Seithigal [DASH · ClearKey · JioTV proxy]
 - Malaimurasu Seithigal [DASH · ClearKey · JioTV+ 32]
-- Malaimurasu Seithigal [DASH · ClearKey · JioTV+ 20]
+- Malaimurasu Seithigal [DASH · ClearKey · JioTV+ 8]
 - MK Six [DASH · ClearKey · JioTV proxy]
 - MK Six [DASH · ClearKey · JioTV+ 32]
-- MK Six [DASH · ClearKey · JioTV+ 20]
+- MK Six [DASH · ClearKey · JioTV+ 8]
 - News J [DASH · ClearKey · JioTV proxy]
 - News J [DASH · ClearKey · JioTV+ 32]
-- News J [DASH · ClearKey · JioTV+ 20]
+- News J [DASH · ClearKey · JioTV+ 8]
 - News Tamil [HLS · YuppTV 1]
 - News Tamil 24x7 [DASH · ClearKey · JioTV proxy]
 - News Tamil 24x7 [DASH · ClearKey · JioTV+ 32]
-- News Tamil 24x7 [DASH · ClearKey · JioTV+ 20]
+- News Tamil 24x7 [DASH · ClearKey · JioTV+ 8]
 - News18 Tamil nadu [DASH · ClearKey · JioTV+ 32]
 - News18 Tamil Nadu. [HLS · JioTV proxy]
 - News18 Tamil Nadu. [HLS · ClearKey · JioTV+ 32]
+- News7 Tamil [DASH · JioTV+ 32]
 - News7 Tamil [DASH · ClearKey · JioTV proxy]
 - News7 Tamil [DASH · ClearKey · JioTV+ 8]
-- News7 Tamil [DASH · ClearKey · JioTV+ 28]
 - Polimer News [DASH · ClearKey · JioTV proxy]
 - Polimer News [DASH · ClearKey · JioTV+ 32]
-- Polimer News [DASH · ClearKey · JioTV+ 20]
+- Polimer News [DASH · ClearKey · JioTV+ 8]
 - Puthiya Thalaimurai [HLS · YuppTV 1]
 - Puthiya Thalaimurai [HLS · JioTV+ 16]
+- Puthiya Thalimurai [DASH · JioTV+ 32]
 - Puthiya Thalimurai [DASH · ClearKey · JioTV proxy]
 - Puthiya Thalimurai [DASH · ClearKey · JioTV+ 8]
-- Puthiya Thalimurai [DASH · ClearKey · JioTV+ 28]
+- Raj News 24x7 [DASH · JioTV+ 32]
 - Raj News 24x7 [DASH · ClearKey · JioTV proxy]
 - Raj News 24x7 [DASH · ClearKey · JioTV+ 8]
-- Raj News 24x7 [DASH · ClearKey · JioTV+ 16]
 - Sathiyam TV [DASH · ClearKey · JioTV proxy]
 - Sathiyam TV [DASH · ClearKey · JioTV+ 32]
-- Sathiyam TV [DASH · ClearKey · JioTV+ 20]
+- Sathiyam TV [DASH · ClearKey · JioTV+ 8]
 - Sun News [DASH · ClearKey · JioTV proxy]
 - Sun News [DASH · ClearKey · JioTV+ 32]
 - Sun News [DASH · ClearKey · JioTV+ 32] (2)
+- Thanthi One [DASH · JioTV+ 32]
 - Thanthi One [DASH · ClearKey · JioTV proxy]
 - Thanthi One [DASH · ClearKey · JioTV+ 8]
-- Thanthi One [DASH · ClearKey · JioTV+ 28]
+- Thanthi TV [DASH · JioTV+ 32]
 - Thanthi TV [DASH · ClearKey · JioTV proxy]
 - Thanthi TV [DASH · ClearKey · JioTV+ 8]
-- Thanthi TV [DASH · ClearKey · JioTV+ 28]
 - Thanthi TV (396p) [HLS · Special]
+- Zee News Tamil [HLS · JioTV+ 16]
 
 ### Tamil - Movies (18)
 
 - J Movies [DASH · ClearKey · JioTV proxy]
 - J Movies [DASH · ClearKey · JioTV+ 32]
-- J Movies [DASH · ClearKey · JioTV+ 20]
+- J Movies [DASH · ClearKey · JioTV+ 8]
 - KTV [DASH · ClearKey · JioTV+ 32]
 - KTV HD [DASH · ClearKey · JioTV proxy]
 - KTV HD [DASH · ClearKey · JioTV+ 32]
@@ -214,14 +216,14 @@ Generated 2026-11-03T06:54:10.517Z by `scripts/curate-live.mjs` — do not edit 
 - KTV Sport Plus (1080p) [HLS · Mix Channels]
 - Raj Digital Plus [DASH · ClearKey · JioTV proxy]
 - Raj Digital Plus [DASH · ClearKey · JioTV+ 32]
-- Raj Digital Plus [DASH · ClearKey · JioTV+ 20]
+- Raj Digital Plus [DASH · ClearKey · JioTV+ 8]
 - Sony Vizha HD [DASH · ClearKey · JioTV proxy]
 - Sony Vizha HD [DASH · ClearKey · JioTV+ 32]
 - Sony Vizha HD [DASH · ClearKey · JioTV+ 16]
 - Superfine Films Tamil [HLS · JioTV+ 16]
 - Zee Thirai HD [DASH · ClearKey · JioTV proxy]
-- Zee Thirai HD [DASH · ClearKey · JioTV+ 8]
 - Zee Thirai HD [DASH · ClearKey · JioTV+ 20]
+- Zee Thirai HD [DASH · ClearKey · JioTV+ 16]
 
 ### Tamil - Music (20)
 
@@ -229,13 +231,13 @@ Generated 2026-11-03T06:54:10.517Z by `scripts/curate-live.mjs` — do not edit 
 - Isai Aruvi [DASH · ClearKey · JioTV+ 16]
 - Jaya Max [DASH · ClearKey · JioTV proxy]
 - Jaya Max [DASH · ClearKey · JioTV+ 32]
-- Jaya Max [DASH · ClearKey · JioTV+ 20]
+- Jaya Max [DASH · ClearKey · JioTV+ 8]
 - Peppers TV [DASH · ClearKey · JioTV proxy]
 - Peppers TV [DASH · ClearKey · JioTV+ 32]
-- Peppers TV [DASH · ClearKey · JioTV+ 20]
+- Peppers TV [DASH · ClearKey · JioTV+ 8]
 - Raj Musix [DASH · ClearKey · JioTV proxy]
 - Raj Musix [DASH · ClearKey · JioTV+ 32]
-- Raj Musix [DASH · ClearKey · JioTV+ 20]
+- Raj Musix [DASH · ClearKey · JioTV+ 8]
 - Roja TV [HLS · JioTV proxy]
 - Roja TV [HLS · JioTV+ 32]
 - Roja TV [HLS · ClearKey · JioTV+ 28]
@@ -244,9 +246,9 @@ Generated 2026-11-03T06:54:10.517Z by `scripts/curate-live.mjs` — do not edit 
 - Sun Music HD [DASH · ClearKey · JioTV+ 32] (2)
 - Tunes 6 [DASH · ClearKey · JioTV proxy]
 - Tunes 6 [DASH · ClearKey · JioTV+ 32]
-- Tunes 6 [DASH · ClearKey · JioTV+ 20]
+- Tunes 6 [DASH · ClearKey · JioTV+ 8]
 
-### Tamil - Kids (26)
+### Tamil - Kids (27)
 
 - Cartoon Network HD+ Tamil [DASH · ClearKey · JioTV proxy]
 - Cartoon Network Tamil [DASH · ClearKey · JioTV proxy]
@@ -260,20 +262,21 @@ Generated 2026-11-03T06:54:10.517Z by `scripts/curate-live.mjs` — do not edit 
 - Chutti TV [DASH · ClearKey · JioTV+ 32] (2)
 - Discovery Kids Tamil [DASH · ClearKey · JioTV proxy]
 - Discovery Kids Tamil [DASH · ClearKey · JioTV+ 32]
-- Discovery Kids Tamil [DASH · ClearKey · JioTV+ 20]
+- Discovery Kids Tamil [DASH · ClearKey · JioTV+ 8]
 - Nick Tamil [DASH · ClearKey · JioTV proxy]
 - Nick Tamil [DASH · ClearKey · JioTV+ 32]
-- Nick Tamil [DASH · ClearKey · JioTV+ 20]
+- Nick Tamil [DASH · ClearKey · JioTV+ 8]
 - Pogo Tamil [DASH · ClearKey · JioTV proxy]
 - Pogo Tamil [DASH · ClearKey · JioTV+ 32]
-- Pogo Tamil [DASH · ClearKey · JioTV+ 20]
+- Pogo Tamil [DASH · ClearKey · JioTV+ 8]
 - sonic Tamil [DASH · ClearKey · JioTV proxy]
 - sonic Tamil [DASH · ClearKey · JioTV+ 32]
-- sonic Tamil [DASH · ClearKey · JioTV+ 20]
+- sonic Tamil [DASH · ClearKey · JioTV+ 8]
 - Sony Yay Tamil [DASH · ClearKey · JioTV proxy]
 - Sony Yay Tamil [DASH · ClearKey · JioTV+ 32]
-- Sony Yay Tamil [DASH · ClearKey · JioTV+ 20]
+- Sony Yay Tamil [DASH · ClearKey · JioTV+ 8]
 - Wow Kidz Tamil [HLS · JioTV+ 16]
+- WOW KIDZ Tamil [HLS · All in one 3]
 
 ### Tamil - Comedy (4)
 
@@ -287,29 +290,29 @@ Generated 2026-11-03T06:54:10.517Z by `scripts/curate-live.mjs` — do not edit 
 - Aastha Tamil [HLS · JioTV+ 16]
 - Angel TV HD [DASH · ClearKey · JioTV proxy]
 - Angel TV HD [DASH · ClearKey · JioTV+ 32]
-- Angel TV HD [DASH · ClearKey · JioTV+ 20]
+- Angel TV HD [DASH · ClearKey · JioTV+ 8]
 - Angel TV India (720p) [HLS · Special]
 - Madha TV [DASH · ClearKey · JioTV proxy]
 - Madha TV [DASH · ClearKey · JioTV+ 32]
-- Madha TV [DASH · ClearKey · JioTV+ 20]
+- Madha TV [DASH · ClearKey · JioTV+ 8]
 - Madha TV (600p) [HLS · Special]
 - Nambikkai [DASH · ClearKey · JioTV proxy]
 - Nambikkai [DASH · ClearKey · JioTV+ 32]
-- Nambikkai [DASH · ClearKey · JioTV+ 20]
+- Nambikkai [DASH · ClearKey · JioTV+ 8]
 - Nambikkai TV (576p) [HLS · Special]
 - Sai TV [DASH · ClearKey · JioTV proxy]
 - Sai TV [DASH · ClearKey · JioTV+ 32]
-- Sai TV [DASH · ClearKey · JioTV+ 20]
+- Sai TV [DASH · ClearKey · JioTV+ 8]
 - Sri Sankara [DASH · ClearKey · JioTV proxy]
 - Sri Sankara [DASH · ClearKey · JioTV+ 32]
-- Sri Sankara [DASH · ClearKey · JioTV+ 20]
+- Sri Sankara [DASH · ClearKey · JioTV+ 8]
 - Sri Sankara Tamil [HLS · YuppTV 1]
 
 ### Tamil - Lifestyle (3)
 
 - Travelxp Tamil [DASH · ClearKey · JioTV proxy]
 - Travelxp Tamil [DASH · ClearKey · JioTV+ 32]
-- Travelxp Tamil [DASH · ClearKey · JioTV+ 20]
+- Travelxp Tamil [DASH · ClearKey · JioTV+ 8]
 
 ### Tamil - Infotainment (12)
 
@@ -321,10 +324,10 @@ Generated 2026-11-03T06:54:10.517Z by `scripts/curate-live.mjs` — do not edit 
 - Discovery Tamil [DASH · ClearKey · JioTV+ 32]
 - History TV18 HD Tamil [DASH · ClearKey · JioTV proxy]
 - History TV18 HD Tamil [DASH · ClearKey · JioTV+ 32]
-- History TV18 HD Tamil [DASH · ClearKey · JioTV+ 20]
+- History TV18 HD Tamil [DASH · ClearKey · JioTV+ 8]
 - Sony BBC Earth HD Tamil [DASH · ClearKey · JioTV proxy]
 - Sony BBC Earth HD Tamil [DASH · ClearKey · JioTV+ 32]
-- Sony BBC Earth HD Tamil [DASH · ClearKey · JioTV+ 20]
+- Sony BBC Earth HD Tamil [DASH · ClearKey · JioTV+ 8]
 
 ### Tamil - General (48)
 
@@ -334,12 +337,12 @@ Generated 2026-11-03T06:54:10.517Z by `scripts/curate-live.mjs` — do not edit 
 - JJ News Tamil [HLS · JioTV+ 16]
 - M Nadu [DASH · ClearKey · JioTV proxy]
 - M Nadu [DASH · ClearKey · JioTV+ 32]
-- M Nadu [DASH · ClearKey · JioTV+ 20]
+- M Nadu [DASH · ClearKey · JioTV+ 8]
 - ME24 Tamil [HLS · JioTV+ 16]
 - Murasu [HLS · JioTV+ 16]
 - RadheKrishna TV [DASH · ClearKey · JioTV proxy]
 - RadheKrishna TV [DASH · ClearKey · JioTV+ 32]
-- RadheKrishna TV [DASH · ClearKey · JioTV+ 20]
+- RadheKrishna TV [DASH · ClearKey · JioTV+ 8]
 - RJ TAMIL [HLS · JioTV+ 16]
 - Sairam TV [HLS · JioTV+ 16]
 - Selva Tamil TV [DASH · JioTV+ 16]
@@ -355,7 +358,7 @@ Generated 2026-11-03T06:54:10.517Z by `scripts/curate-live.mjs` — do not edit 
 - TAMIL MOVIES 2026 [HLS · JioTV+ 16]
 - Tamil Naaptol [DASH · ClearKey · JioTV proxy]
 - Tamil Naaptol [DASH · ClearKey · JioTV+ 32]
-- Tamil Naaptol [DASH · ClearKey · JioTV+ 20]
+- Tamil Naaptol [DASH · ClearKey · JioTV+ 8]
 - Tamil New Series [HLS · JioTV+ 16]
 - Tamil NTT [HLS · JioTV+ 16]
 - Tamil Oli TV [HLS · JioTV+ 16]
@@ -373,7 +376,7 @@ Generated 2026-11-03T06:54:10.517Z by `scripts/curate-live.mjs` — do not edit 
 - Tamil Web Series 7 [HLS · JioTV+ 16]
 - Tamilan Television [DASH · ClearKey · JioTV proxy]
 - Tamilan Television [DASH · ClearKey · JioTV+ 32]
-- Tamilan Television [DASH · ClearKey · JioTV+ 20]
+- Tamilan Television [DASH · ClearKey · JioTV+ 8]
 - Telemax Tamil [HLS · JioTV+ 16]
 - V Tamizh [HLS · JioTV+ 16]
 
@@ -412,7 +415,7 @@ Generated 2026-11-03T06:54:10.517Z by `scripts/curate-live.mjs` — do not edit 
 - Star Sports Select 2 HD [HLS · Jo/Zoh]
 - Star Sports Select 2 HD [DASH · ClearKey · JioTV proxy]
 
-### Sports - Sony Sports - Tamil (7)
+### Sports - Sony Sports - Tamil (8)
 
 - Sony LIV Sports 4 Tamil [HLS · ClearKey · JioTV+ 32]
 - Sony LIV Sports 4 Tamil [DASH · ClearKey · JioTV proxy]
@@ -421,9 +424,11 @@ Generated 2026-11-03T06:54:10.517Z by `scripts/curate-live.mjs` — do not edit 
 - Sony Sports Ten 4 Tamil [HLS · Jo/Zoh]
 - Sony Ten 4 Tamil [DASH · ClearKey · JioTV proxy]
 - Sony Ten 4 Tamil [DASH · ClearKey · JioTV+ 32]
+- Sony Ten 4 Tamil [DASH · ClearKey · All in one 3]
 
-### Sports - Sony Sports - English (20)
+### Sports - Sony Sports - English (21)
 
+- Atletico de Madrid vs FC Bayern Munich - 3 Nov 2026 [ENG] [HLS · SonyLIV 3]
 - Sony Sports Ten 1 [HLS · Jo/Zoh2]
 - Sony Sports Ten 1 HD [HLS · JioTV+ 16]
 - Sony Sports Ten 1 HD [HLS · Jo/Zoh2]
@@ -445,11 +450,20 @@ Generated 2026-11-03T06:54:10.517Z by `scripts/curate-live.mjs` — do not edit 
 - SONY TEN Cricket [HLS · Jo/Zoh]
 - SONY TEN Cricket [HLS · Sportlink-wtf/Sports]
 
-### Sports - FanCode - English (3)
+### Sports - FanCode - English (12)
 
-- Biratnagar Kings vs Janakpur Bolts [English] [HLS · Fancode]
+- AFC Champions League Two 2026-27 [English] [HLS · Fancode 1]
+- Al Hussein vs Al Shorta [English] [HLS · Fancode]
+- Court 1 [English] [HLS · Fancode]
+- Court 2 [English] [HLS · Fancode]
+- Court 3 [English] [HLS · Fancode]
+- Court Central [English] [HLS · Fancode]
+- Dubai vs Ajman [English] [HLS · Fancode]
+- Emirates Red vs Emirates Blues [English] [HLS · Fancode]
+- Esteghlal FC vs Al Shamal [English] [HLS · Fancode]
 - FANCODE 1 [DASH · ClearKey · Sportlink-wtf/Sports]
 - FANCODE 2 [DASH · ClearKey · Sportlink-wtf/Sports]
+- World Feed [English] [HLS · Fancode]
 
 ### Sports - Willow - English (4)
 
@@ -472,24 +486,28 @@ Generated 2026-11-03T06:54:10.517Z by `scripts/curate-live.mjs` — do not edit 
 |---|---|---:|
 | JioTV proxy (hjh-545.pages.dev) | static | 111 |
 | maybetv/Jo/Zoh2.m3u | github | 5 |
-| maybetv/Jo/Zoh.m3u | github | 5 |
+| maybetv/Jo/Zoh.m3u | github | 6 |
 | maybetv/Jo/Zohplx.m3u | github | 5 |
 | sportlive18/Sportlink-wtf/Sports.m3u | github | 10 |
 | sportlive18/Sportlink-wtf/Sport.m3u | github | 1 |
-| JioTV+ 32 (jiotv_32) | pinned | 88 |
-| JioTV+ 8 (jiotv_8) | pinned | 15 |
-| JioTV+ 20 (jiotv_20) | pinned | 50 |
-| JioTV+ 16 (jiotv_16) | pinned | 71 |
-| JioTV+ 28 (jiotv_28) | pinned | 10 |
+| JioTV+ 32 (jiotv_32) | pinned | 93 |
+| JioTV+ 8 (jiotv_8) | pinned | 63 |
+| JioTV+ 20 (jiotv_20) | pinned | 1 |
+| JioTV+ 16 (jiotv_16) | pinned | 72 |
+| JioTV+ 28 (jiotv_28) | pinned | 5 |
 | Star 3 (star_3) | pinned | 14 |
 | Special (special) | pinned | 13 |
 | SonyTV 4 (sonytv_4) | pinned | 4 |
 | Mix Channels (mix_channels) | pinned | 2 |
 | YuppTV 1 (yupptv_one) | pinned | 5 |
-| Fancode (fancode_avd) | pinned | 1 |
+| Fancode (fancode_avd) | pinned | 9 |
+| Fancode 1 (fancode_one) | pinned | 1 |
+| All in one 3 (all_in_one_3) | discovered | 6 |
+| SonyLIV 3 (sonyliv_three) | discovered | 1 |
+| Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 1 |
 | Fancode 1 [Backup] (fancode_one_backup) | discovered | 0 |
 | Fancode 3 (fancode_three) | discovered | 0 |
 
-Sources that returned nothing this run: 25 of 60. See `jash-live.stats.json`.
+Sources that returned nothing this run: 18 of 60. See `jash-live.stats.json`.
 
 Playback was **not** verified: entries carry upstream playback properties unchanged, and a stream may still need a compatible player, legitimate access or region availability.
