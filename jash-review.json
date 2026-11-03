@@ -34,9 +34,29 @@
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Galatasaray vs. Stuttgart",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "No live events",
+    "family": "FanCode",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
+      "origin": "index"
     }
   },
   {
@@ -50,13 +70,23 @@
     }
   },
   {
-    "name": "Sony LIV Sports 1",
-    "family": "Sony Sports",
+    "name": "Northern Michigan vs Michigan Tech - Women's Volleyball",
+    "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
-      "origin": "index"
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "PPA Tour: World Championships-World Championships, Round of 64",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   },
   {
@@ -67,6 +97,16 @@
       "key": "hjh-545",
       "label": "JioTV proxy (hjh-545.pages.dev)",
       "origin": "static"
+    }
+  },
+  {
+    "name": "Sony LIV Sports 1",
+    "family": "Sony Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "jiotv_32",
+      "label": "JioTV+ 32 (jiotv_32)",
+      "origin": "index"
     }
   },
   {
@@ -84,9 +124,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
-      "origin": "index"
+      "key": "hjh-545",
+      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "origin": "static"
     }
   },
   {
@@ -94,9 +134,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
-      "origin": "static"
+      "key": "jiotv_32",
+      "label": "JioTV+ 32 (jiotv_32)",
+      "origin": "index"
     }
   },
   {
@@ -114,9 +154,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
-      "origin": "index"
+      "key": "hjh-545",
+      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "origin": "static"
     }
   },
   {
@@ -124,9 +164,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
-      "origin": "static"
+      "key": "jiotv_32",
+      "label": "JioTV+ 32 (jiotv_32)",
+      "origin": "index"
     }
   },
   {
@@ -144,9 +184,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
-      "origin": "index"
+      "key": "hjh-545",
+      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "origin": "static"
     }
   },
   {
@@ -154,9 +194,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
-      "origin": "static"
+      "key": "jiotv_32",
+      "label": "JioTV+ 32 (jiotv_32)",
+      "origin": "index"
     }
   },
   {
@@ -320,23 +360,13 @@
     }
   },
   {
-    "name": "Tennis Today Live-Hong Kong-WTA & Chennai-WTA-Live Early Rounds",
+    "name": "Tennis Today Live-Paris-ATP & Chennai-WTA Early Rounds",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
       "key": "prime_sports_one_backup",
       "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
       "origin": "index"
-    }
-  },
-  {
-    "name": "Tennis Today Live-Paris-ATP & Chennai-WTA Early Rounds",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
     }
   }
 ]
