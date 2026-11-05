@@ -1,5 +1,75 @@
 [
   {
+    "name": "Basketball (Women's) - Morningside vs. Kansas Wesleyan",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Basketball (Women's) - Morningside vs. Kansas Wesleyan",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Charleston vs Elon - CAA Men's Soccer Championship",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Charleston vs Elon - CAA Men's Soccer Championship",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Chicago Cavaliers vs. Houston Saints",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Chicago Cavaliers vs. Houston Saints",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Cricket Preview-USA Seniors Cricket NPL 2026 - Dallas Lions vs NY X-Factor - 6th Match",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
     "name": "DD Sports",
     "family": "DD Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -30,23 +100,13 @@
     }
   },
   {
-    "name": "ECHL Hockey: Atlanta Gladiators vs Savannah Ghost Pirates",
+    "name": "NASCAR Craftsman Truck Series Practice-LIVE: NASCAR Truck Series practice from Homestead-Miami Speedway",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Mighty Dallas vs. Seattle Moose",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
     }
   },
   {
@@ -66,6 +126,56 @@
     "source": {
       "key": "all_in_one_3",
       "label": "All in one 3 (all_in_one_3)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "PPA Tour: World Championships-2026: Round of 16",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "PPA Tour: World Championships-2026: Round of 16",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "PPA Tour: World Championships-2026: Round of 16",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "QMJHL Hockey: Moncton Wildcats vs Newfoundland Regiment",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "QMJHL Hockey: Moncton Wildcats vs Newfoundland Regiment",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
       "origin": "index"
     }
   },
@@ -354,23 +464,13 @@
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Tennis Today Live-Paris-ATP & Chennai-WTA Early Rounds",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
       "key": "prime_sports_one_backup",
       "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
       "origin": "index"
     }
   },
   {
-    "name": "The Morning Drive",
+    "name": "USA Seniors Cricket NPL 2026 - 5th Match - Chicago Cavaliers vs Houston Saints",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -380,13 +480,23 @@
     }
   },
   {
-    "name": "USA Seniors Cricket NPL 2026 - 4th Match - Mighty Dallas vs Seattle Moose",
+    "name": "USA Seniors Cricket NPL 2026 - 5th Match - Chicago Cavaliers vs Houston Saints",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "USA Seniors Cricket NPL 2026 - 5th Match - Chicago Cavaliers vs Houston Saints",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
     }
   }
 ]
