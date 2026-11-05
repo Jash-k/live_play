@@ -1,12 +1,62 @@
 [
   {
-    "name": "Austin Hunters vs. Washington Eagles",
+    "name": "2026 Hong Kong Tennis Open",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "ACC Mens U19 Asia Cup 2026 - 1st Match - Sri Lanka U19 vs Malaysia U19",
+    "family": "Willow",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "ACC Mens U19 Asia Cup 2026 - 1st Match - Sri Lanka U19 vs Malaysia U19",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "ACC Mens U19 Asia Cup 2026 - 2nd Match - Bangladesh U19 vs Afghanistan U19",
+    "family": "Willow",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "ACC Mens U19 Asia Cup 2026 - 2nd Match - Bangladesh U19 vs Afghanistan U19",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Adelaide Strikers vs. Brisbane Heat",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
     }
   },
   {
@@ -24,9 +74,9 @@
     "family": "DD Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
-      "origin": "index"
+      "key": "hjh-545",
+      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "origin": "static"
     }
   },
   {
@@ -40,16 +90,6 @@
     }
   },
   {
-    "name": "Houston Saints vs. Seattle Moose",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
     "name": "No live events",
     "family": "FanCode",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -60,13 +100,13 @@
     }
   },
   {
-    "name": "PPA Tour: World Championships-Round of 64",
-    "family": "Prime Sports",
+    "name": "Sony LIV Sports 1",
+    "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "hjh-545",
+      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "origin": "static"
     }
   },
   {
@@ -90,13 +130,13 @@
     }
   },
   {
-    "name": "Sony LIV Sports 1",
+    "name": "Sony LIV Sports 2",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
+      "key": "hjh-545",
+      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "origin": "static"
     }
   },
   {
@@ -120,13 +160,13 @@
     }
   },
   {
-    "name": "Sony LIV Sports 2",
+    "name": "Sony LIV Sports 3",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
+      "key": "hjh-545",
+      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "origin": "static"
     }
   },
   {
@@ -150,13 +190,13 @@
     }
   },
   {
-    "name": "Sony LIV Sports 3",
+    "name": "Sony LIV Sports 5",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
+      "key": "hjh-545",
+      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "origin": "static"
     }
   },
   {
@@ -176,16 +216,6 @@
     "source": {
       "key": "jiotv_8",
       "label": "JioTV+ 8 (jiotv_8)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Sony LIV Sports 5",
-    "family": "Sony Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
       "origin": "index"
     }
   },
@@ -274,6 +304,16 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
+      "key": "hjh-545",
+      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "origin": "static"
+    }
+  },
+  {
+    "name": "Star Sports 3",
+    "family": "Star Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
       "key": "jiotv_32",
       "label": "JioTV+ 32 (jiotv_32)",
       "origin": "index"
@@ -290,16 +330,6 @@
     }
   },
   {
-    "name": "Star Sports 3",
-    "family": "Star Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
     "name": "Star Sports 3 Digital",
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -307,6 +337,16 @@
       "key": "star_3",
       "label": "Star 3 (star_3)",
       "origin": "index"
+    }
+  },
+  {
+    "name": "Star Sports Khel",
+    "family": "Star Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "hjh-545",
+      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "origin": "static"
     }
   },
   {
@@ -340,37 +380,7 @@
     }
   },
   {
-    "name": "Tennis Today Live-Paris-ATP & Chennai-WTA Early Rounds",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "USA Seniors Cricket NPL 2026 - 1st Match - Houston Saints vs Seattle Moose",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "USA Seniors Cricket NPL 2026 - 2nd Match - Mighty Dallas vs Chicago Cavaliers",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "USA Seniors Cricket NPL 2026 - 2nd Match - Mighty Dallas vs Chicago Cavaliers",
+    "name": "Womens Big Bash League 2026 - 10th Match - Adelaide Strikers Women vs Brisbane Heat Women",
     "family": "Willow",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
