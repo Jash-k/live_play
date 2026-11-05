@@ -1,65 +1,5 @@
 [
   {
-    "name": "2026 Hong Kong Tennis Open",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "ACC Mens U19 Asia Cup 2026 - 1st Match - Sri Lanka U19 vs Malaysia U19",
-    "family": "Willow",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "ACC Mens U19 Asia Cup 2026 - 1st Match - Sri Lanka U19 vs Malaysia U19",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "ACC Mens U19 Asia Cup 2026 - 2nd Match - Bangladesh U19 vs Afghanistan U19",
-    "family": "Willow",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "ACC Mens U19 Asia Cup 2026 - 2nd Match - Bangladesh U19 vs Afghanistan U19",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Adelaide Strikers vs. Brisbane Heat",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
     "name": "DD Sports",
     "family": "DD Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -90,8 +30,38 @@
     }
   },
   {
+    "name": "ECHL Hockey: Atlanta Gladiators vs Savannah Ghost Pirates",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Mighty Dallas vs. Seattle Moose",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
     "name": "No live events",
     "family": "FanCode",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "No live events",
+    "family": "Willow",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
       "key": "all_in_one_3",
@@ -324,8 +294,8 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_8",
-      "label": "JioTV+ 8 (jiotv_8)",
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
       "origin": "index"
     }
   },
@@ -380,13 +350,43 @@
     }
   },
   {
-    "name": "Womens Big Bash League 2026 - 10th Match - Adelaide Strikers Women vs Brisbane Heat Women",
-    "family": "Willow",
+    "name": "Tennis Today Live-Paris-ATP & Chennai-WTA Early Rounds",
+    "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Tennis Today Live-Paris-ATP & Chennai-WTA Early Rounds",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
       "origin": "index"
+    }
+  },
+  {
+    "name": "The Morning Drive",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "USA Seniors Cricket NPL 2026 - 4th Match - Mighty Dallas vs Seattle Moose",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   }
 ]
