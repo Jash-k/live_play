@@ -1,51 +1,11 @@
 [
   {
-    "name": "ACC Mens U19 Asia Cup 2026 - 3rd Match - Pakistan U19 vs United Arab Emirates U19",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "ACC Mens U19 Asia Cup 2026 - 4th Match - India U19 vs Nepal U19",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Afghanistan vs. Zimbabwe",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
     "name": "Bassmaster Redfish Cup at Port Aransas",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Court 1 vs Paris, France [ATP Masters - Rolex Paris Masters 2026]",
-    "family": "FanCode",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
       "origin": "index"
     }
   },
@@ -54,13 +14,13 @@
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
     }
   },
   {
-    "name": "Day 1 vs Lusail International Circuit [QATAR AIRWAYS GRAND PRIX OF QATAR 2026]",
+    "name": "Day 2 vs Los Cabos, Mexico [World Wide Technology Championship 2026]",
     "family": "FanCode",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -100,7 +60,7 @@
     }
   },
   {
-    "name": "Eavion Eagles vs Paratus Jets [Namibia Super 50, 2026]",
+    "name": "Derby County Football Club vs Bolton Wanderers [EFL Championship 2026-27]",
     "family": "FanCode",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -110,7 +70,47 @@
     }
   },
   {
+    "name": "Derby County vs. Bolton Wanderers",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Ireland v Argentina",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
     "name": "ONE Friday Fights 177",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Paris Saint-Germain vs. Le Havre AC",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "PPA Tour: World Championships-2026: Quarterfinals",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -134,9 +134,9 @@
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
     }
   },
   {
@@ -354,8 +354,8 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
+      "key": "jiotv_16",
+      "label": "JioTV+ 16 (jiotv_16)",
       "origin": "index"
     }
   },
@@ -364,8 +364,8 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_8",
-      "label": "JioTV+ 8 (jiotv_8)",
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
       "origin": "index"
     }
   },
@@ -394,16 +394,6 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Star Sports Khel",
-    "family": "Star Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
       "key": "all_in_one_3",
       "label": "All in one 3 (all_in_one_3)",
       "origin": "index"
@@ -420,13 +410,23 @@
     }
   },
   {
-    "name": "The Morning Drive",
+    "name": "Tabor at Oklahoma Panhandle State",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
       "key": "maybetv_Jo__Zoh.m3u",
       "label": "maybetv/Jo/Zoh.m3u",
       "origin": "github"
+    }
+  },
+  {
+    "name": "The Morning Drive",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
     }
   },
   {
@@ -440,7 +440,27 @@
     }
   },
   {
+    "name": "Triton Poker ONE Series Cyprus-$3K QQPK Genesis",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
     "name": "USA Seniors Cricket NPL 2026 - 7th Match - Dallas Lions vs Austin Hunters",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "USA Seniors Cricket NPL 2026 - 8th Match - Washington Eagles vs NY X-Factor",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -450,23 +470,13 @@
     }
   },
   {
-    "name": "USA Seniors Cricket NPL 2026 - 7th Match - Dallas Lions vs Austin Hunters",
-    "family": "Willow",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Womens Big Bash League 2026 - 12th Match - Melbourne Stars Women vs Sydney Sixers Women",
+    "name": "Washington Eagles vs. N.Y. X-Factor",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   },
   {
