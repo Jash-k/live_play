@@ -1,32 +1,12 @@
 [
   {
-    "name": "Bassmaster Redfish Cup at Port Aransas",
+    "name": "Canberra Heat vs. Adelaide Storm",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Dallas Lions vs. Austin Hunters",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Day 2 vs Los Cabos, Mexico [World Wide Technology Championship 2026]",
-    "family": "FanCode",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   },
   {
@@ -60,17 +40,7 @@
     }
   },
   {
-    "name": "Derby County Football Club vs Bolton Wanderers [EFL Championship 2026-27]",
-    "family": "FanCode",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Derby County vs. Bolton Wanderers",
+    "name": "Houston Saints vs. Mighty Dallas",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -80,17 +50,7 @@
     }
   },
   {
-    "name": "Ireland v Argentina",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "ONE Friday Fights 177",
+    "name": "Houston Saints vs. Mighty Dallas",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -100,13 +60,43 @@
     }
   },
   {
-    "name": "Paris Saint-Germain vs. Le Havre AC",
+    "name": "Missouri Southern at Nebraska - Kearney",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
       "key": "maybetv_Jo__Zoh.m3u",
       "label": "maybetv/Jo/Zoh.m3u",
       "origin": "github"
+    }
+  },
+  {
+    "name": "Missouri Southern at Nebraska - Kearney",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "OHL Hockey: Erie Otters vs Flint Firebirds",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "OHL Hockey: Erie Otters vs Flint Firebirds",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
     }
   },
   {
@@ -114,28 +104,18 @@
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Qatar Airways Grand Prix of Qatar, Practice",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Quarterfinals",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
       "key": "prime_sports_one_backup",
       "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Semi-Final vs Korea [BWF Super 500 - Korea Open 2026]",
+    "family": "FanCode",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
       "origin": "index"
     }
   },
@@ -354,8 +334,8 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_16",
-      "label": "JioTV+ 16 (jiotv_16)",
+      "key": "jiotv_32",
+      "label": "JioTV+ 32 (jiotv_32)",
       "origin": "index"
     }
   },
@@ -364,8 +344,8 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
+      "key": "jiotv_8",
+      "label": "JioTV+ 8 (jiotv_8)",
       "origin": "index"
     }
   },
@@ -394,6 +374,16 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
+      "key": "jiotv_32",
+      "label": "JioTV+ 32 (jiotv_32)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Star Sports Khel",
+    "family": "Star Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
       "key": "all_in_one_3",
       "label": "All in one 3 (all_in_one_3)",
       "origin": "index"
@@ -410,7 +400,7 @@
     }
   },
   {
-    "name": "Tabor at Oklahoma Panhandle State",
+    "name": "USA Seniors Cricket NPL 2026 - 9th Match - Houston Saints vs Mighty Dallas",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -420,72 +410,22 @@
     }
   },
   {
-    "name": "The Morning Drive",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Triton Poker ONE Series Cyprus-$3K QQPK Genesis",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Triton Poker ONE Series Cyprus-$3K QQPK Genesis",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "USA Seniors Cricket NPL 2026 - 7th Match - Dallas Lions vs Austin Hunters",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "USA Seniors Cricket NPL 2026 - 8th Match - Washington Eagles vs NY X-Factor",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Washington Eagles vs. N.Y. X-Factor",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "World Feed vs Paris, France [ATP Masters - Rolex Paris Masters 2026]",
-    "family": "FanCode",
+    "name": "USA Seniors Cricket NPL 2026 - 9th Match - Houston Saints vs Mighty Dallas",
+    "family": "Willow",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
       "key": "all_in_one_3",
       "label": "All in one 3 (all_in_one_3)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "USA Seniors Cricket NPL 2026 - 9th Match - Houston Saints vs Mighty Dallas",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
       "origin": "index"
     }
   }
