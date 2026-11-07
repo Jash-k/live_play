@@ -1,14 +1,14 @@
 # Current curated feed
 
-Generated 2026-11-07T08:51:09.302Z by `scripts/curate-live.mjs` — do not edit by hand.
+Generated 2026-11-07T16:29:03.193Z by `scripts/curate-live.mjs` — do not edit by hand.
 
-399 stream options in `jash-live.m3u`: 320 Tamil channels, 1 Bigg Boss Tamil, 78 sports feeds.
-58 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
+401 stream options in `jash-live.m3u`: 320 Tamil channels, 1 Bigg Boss Tamil, 80 sports feeds.
+51 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
 
 | Group | Streams |
 |---|---:|
 | Bigg Boss Tamil 24/7 | 1 |
-| Tamil - Entertainment | 118 |
+| Tamil - Entertainment | 117 |
 | Tamil - News | 48 |
 | Tamil - Movies | 18 |
 | Tamil - Music | 20 |
@@ -17,12 +17,12 @@ Generated 2026-11-07T08:51:09.302Z by `scripts/curate-live.mjs` — do not edit 
 | Tamil - Devotional | 20 |
 | Tamil - Lifestyle | 3 |
 | Tamil - Infotainment | 12 |
-| Tamil - General | 50 |
+| Tamil - General | 51 |
 | Sports - Star Sports - Tamil | 8 |
 | Sports - Star Sports - English | 21 |
 | Sports - Sony Sports - Tamil | 9 |
-| Sports - Sony Sports - English | 23 |
-| Sports - FanCode - English | 11 |
+| Sports - Sony Sports - English | 21 |
+| Sports - FanCode - English | 15 |
 | Sports - Willow - English | 4 |
 | Sports - Ten Sports - English | 1 |
 | Sports - Sports18 - English | 1 |
@@ -33,7 +33,7 @@ Generated 2026-11-07T08:51:09.302Z by `scripts/curate-live.mjs` — do not edit 
 
 - Bigg Boss Tamil 24/7 [HLS · Star 3]
 
-### Tamil - Entertainment (118)
+### Tamil - Entertainment (117)
 
 - Aadhavan Tamil Tv [HLS · JioTV+ 16]
 - Aaryaa TV [HLS · JioTV proxy]
@@ -105,7 +105,6 @@ Generated 2026-11-07T08:51:09.302Z by `scripts/curate-live.mjs` — do not edit 
 - Star Vijay HD [DASH · ClearKey · JioTV proxy]
 - Star Vijay HD [DASH · ClearKey · JioTV+ 32]
 - Star Vijay Super [DASH · ClearKey · JioTV proxy]
-- Star Vijay Super [DASH · ClearKey · JioTV+ 32]
 - Star Vijay Super [DASH · ClearKey · All in one 3]
 - Sun Life [DASH · ClearKey · JioTV proxy]
 - Sun Life [DASH · ClearKey · JioTV+ 32]
@@ -149,7 +148,7 @@ Generated 2026-11-07T08:51:09.302Z by `scripts/curate-live.mjs` — do not edit 
 - Win TV [DASH · ClearKey · JioTV+ 32]
 - Win TV [DASH · ClearKey · All in one 3]
 - Zee Tamil [DASH · ClearKey · JioTV proxy]
-- Zee Tamil [DASH · ClearKey · JioTV+ 32]
+- Zee Tamil [DASH · ClearKey · JioTV+ 8]
 - Zee Tamil HD [DASH · ClearKey · JioTV proxy]
 - Zee Tamil HD APAC [HLS · All in one 3]
 - Zee Tamil SA [DASH · ClearKey · JioTV+ 16]
@@ -223,8 +222,8 @@ Generated 2026-11-07T08:51:09.302Z by `scripts/curate-live.mjs` — do not edit 
 - Sony Vizha HD [DASH · ClearKey · JioTV+ 16]
 - Superfine Films Tamil [HLS · JioTV+ 16]
 - Zee Thirai HD [DASH · ClearKey · JioTV proxy]
-- Zee Thirai HD [DASH · ClearKey · JioTV+ 32]
 - Zee Thirai HD [DASH · ClearKey · JioTV+ 8]
+- Zee Thirai HD [DASH · ClearKey · JioTV+ 20]
 
 ### Tamil - Music (20)
 
@@ -330,10 +329,11 @@ Generated 2026-11-07T08:51:09.302Z by `scripts/curate-live.mjs` — do not edit 
 - Sony BBC Earth HD Tamil [DASH · ClearKey · JioTV+ 32]
 - Sony BBC Earth HD Tamil [DASH · ClearKey · All in one 3]
 
-### Tamil - General (50)
+### Tamil - General (51)
 
-- 2nd ODI - 7 Nov 2026 [TAM DAI] [HLS · All in one 3]
-- 2nd ODI - 7 Nov 2026 [TAM] [HLS · All in one 3]
+- Chennaiyin FC vs East Bengal FC - 7 Nov 2026 [TAM DAI] [HLS · All in one 3]
+- Chennaiyin FC vs East Bengal FC - 7 Nov 2026 [TAM] [HLS · All in one 3]
+- Chennaiyin FC vs East Bengal FC | MG Indian Super League 2026-27 [Tamil] [HLS · Jo/Zoh]
 - ENGLISH OTT TAMIL DUBBED [HLS · JioTV+ 16]
 - Eye Tamil [HLS · JioTV+ 16]
 - HINDI OTT TAMIL DUBBED [HLS · JioTV+ 16]
@@ -412,7 +412,7 @@ Generated 2026-11-07T08:51:09.302Z by `scripts/curate-live.mjs` — do not edit 
 - Star Sports Select 1 [DASH · ClearKey · JioTV proxy]
 - Star Sports Select 1 Digital [DASH · ClearKey · Star 3]
 - Star Sports Select 1 HD [DASH · ClearKey · JioTV proxy]
-- Star Sports Select 1 HD [DASH · ClearKey · JioTV+ 32]
+- Star Sports Select 1 HD [DASH · ClearKey · JioTV+ 8]
 - Star Sports Select 2 [DASH · ClearKey · JioTV proxy]
 - Star Sports Select 2 Digital [DASH · ClearKey · Star 3]
 - Star Sports Select 2 HD [HLS · Jo/Zoh]
@@ -420,7 +420,7 @@ Generated 2026-11-07T08:51:09.302Z by `scripts/curate-live.mjs` — do not edit 
 
 ### Sports - Sony Sports - Tamil (9)
 
-- 2nd ODI - 7 Nov 2026 [TAM] [HLS · SonyLIV 3]
+- Chennaiyin FC vs East Bengal FC - 7 Nov 2026 [TAM] [HLS · SonyLIV 3]
 - Sony LIV Sports 4 Tamil [DASH · ClearKey · JioTV proxy]
 - Sony LIV Sports 4 Tamil [DASH · ClearKey · JioTV+ 32]
 - Sony LIV Sports 4 Tamil [DASH · ClearKey · JioTV+ 8]
@@ -430,10 +430,9 @@ Generated 2026-11-07T08:51:09.302Z by `scripts/curate-live.mjs` — do not edit 
 - Sony Ten 4 Tamil [DASH · ClearKey · JioTV+ 32]
 - Sony Ten 4 Tamil [DASH · ClearKey · All in one 3]
 
-### Sports - Sony Sports - English (23)
+### Sports - Sony Sports - English (21)
 
-- 2nd ODI - 7 Nov 2026 [ENG] [HLS · SonyLIV 3]
-- Abu Dhabi HSBC Championship - Day 3 - 7 Nov 2026 [ENG] [HLS · SonyLIV 3]
+- Chennaiyin FC vs East Bengal FC - 7 Nov 2026 [ENG] [HLS · SonyLIV 3]
 - Sony Sports Ten 1 [HLS · Jo/Zoh2]
 - Sony Sports Ten 1 HD [HLS · JioTV+ 16]
 - Sony Sports Ten 1 HD [HLS · Jo/Zoh2]
@@ -454,21 +453,24 @@ Generated 2026-11-07T08:51:09.302Z by `scripts/curate-live.mjs` — do not edit 
 - Sony Ten 5 HD [DASH · ClearKey · JioTV+ 32]
 - SONY TEN Cricket [HLS · Jo/Zoh]
 - SONY TEN Cricket [HLS · Sportlink-wtf/Sports]
-- Sri Lanka vs Bangladesh - 7 Nov 2026 [ENG] [HLS · SonyLIV 3]
 
-### Sports - FanCode - English (11)
+### Sports - FanCode - English (15)
 
-- Day 3 [English] [HLS · Fancode]
+- 2026 [English] [HLS · Fancode 1]
+- Bam Khatoon FC vs Ayeyawady FC Women [English] [HLS · Fancode]
+- Chelsea F.C. Women vs Everton Women [English] [HLS · Fancode]
+- Court Central [English] [HLS · Fancode]
+- Day 2 [English] [HLS · Fancode]
+- East Bengal FC Women vs 4.25 SC Women [English] [HLS · Fancode]
 - FANCODE 1 [DASH · ClearKey · Sportlink-wtf/Sports]
 - FANCODE 2 [DASH · ClearKey · Sportlink-wtf/Sports]
-- Hobart Hurricanes Women vs Brisbane Heat Women [English] [HLS · Fancode]
-- Hwacheon KSPO WFC vs Ho Chi Minh City Women [English] [HLS · Fancode]
-- Melbourne City vs Western Sydney Wanderers [English] [HLS · Fancode]
-- Naegohyang Women's FC vs INAC Kobe Leonessa Women [English] [HLS · Fancode]
-- Paratus Jets vs Pupkewitz Wildcats [English] [HLS · Fancode]
+- Kathmandu Gorkhas vs Lumbini Lions [English] [HLS · Fancode]
+- Kaya FC Iloilo Women vs PFC Nasaf Women [English] [HLS · Fancode]
+- Melbourne City Women vs Beijing Jingtan FC Women [English] [HLS · Fancode]
 - Semi-Final [English] [HLS · Fancode]
 - West Indies vs Bangladesh [English] [HLS · Fancode]
-- Zimbabwe vs Afghanistan [English] [HLS · Fancode]
+- World Feed [English] [HLS · Fancode]
+- Wrexham A.F.C. vs Wolverhampton Wanderers F.C. [English] [HLS · Fancode]
 
 ### Sports - Willow - English (4)
 
@@ -491,12 +493,13 @@ Generated 2026-11-07T08:51:09.302Z by `scripts/curate-live.mjs` — do not edit 
 |---|---|---:|
 | JioTV proxy (hjh-545.pages.dev) | static | 111 |
 | maybetv/Jo/Zoh2.m3u | github | 5 |
-| maybetv/Jo/Zoh.m3u | github | 11 |
+| maybetv/Jo/Zoh.m3u | github | 15 |
 | maybetv/Jo/Zohplx.m3u | github | 5 |
 | sportlive18/Sportlink-wtf/Sports.m3u | github | 10 |
 | sportlive18/Sportlink-wtf/Sport.m3u | github | 1 |
-| JioTV+ 32 (jiotv_32) | pinned | 99 |
-| JioTV+ 8 (jiotv_8) | pinned | 8 |
+| JioTV+ 32 (jiotv_32) | pinned | 93 |
+| JioTV+ 8 (jiotv_8) | pinned | 10 |
+| JioTV+ 20 (jiotv_20) | pinned | 1 |
 | JioTV+ 16 (jiotv_16) | pinned | 84 |
 | JioTV+ 28 (jiotv_28) | pinned | 9 |
 | Star 3 (star_3) | pinned | 14 |
@@ -504,9 +507,10 @@ Generated 2026-11-07T08:51:09.302Z by `scripts/curate-live.mjs` — do not edit 
 | SonyTV 4 (sonytv_4) | pinned | 4 |
 | Mix Channels (mix_channels) | pinned | 2 |
 | YuppTV 1 (yupptv_one) | pinned | 11 |
-| Fancode (fancode_avd) | pinned | 9 |
-| All in one 3 (all_in_one_3) | discovered | 51 |
-| SonyLIV 3 (sonyliv_three) | discovered | 4 |
+| Fancode (fancode_avd) | pinned | 13 |
+| Fancode 1 (fancode_one) | pinned | 1 |
+| All in one 3 (all_in_one_3) | discovered | 42 |
+| SonyLIV 3 (sonyliv_three) | discovered | 2 |
 | Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 6 |
 | Fancode 1 [Backup] (fancode_one_backup) | discovered | 0 |
 | Fancode 3 (fancode_three) | discovered | 0 |

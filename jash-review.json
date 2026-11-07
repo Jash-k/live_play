@@ -1,6 +1,16 @@
 [
   {
-    "name": "ACC Mens U19 Asia Cup 2026 - 5th Match - Afghanistan U19 vs Malaysia U19",
+    "name": "Abu Dhabi T10 League 2026 - 1st Match - UAE Bulls vs Yas Lions",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Abu Dhabi T10 League 2026 - 2nd Match - Royal Desert Champions vs Emirates Eagles",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -10,7 +20,7 @@
     }
   },
   {
-    "name": "ACC Mens U19 Asia Cup 2026 - 5th Match - Afghanistan U19 vs Malaysia U19",
+    "name": "Abu Dhabi T10 League 2026 - 2nd Match - Royal Desert Champions vs Emirates Eagles",
     "family": "Willow",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -20,7 +30,7 @@
     }
   },
   {
-    "name": "ACC Mens U19 Asia Cup 2026 - 5th Match - Afghanistan U19 vs Malaysia U19",
+    "name": "Abu Dhabi T10 League 2026 - 2nd Match - Royal Desert Champions vs Emirates Eagles",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -30,7 +40,7 @@
     }
   },
   {
-    "name": "ACC Mens U19 Asia Cup 2026 - 6th Match - Sri Lanka U19 vs Bangladesh U19",
+    "name": "Abu Dhabi T10 League 2026 - 3rd Match - United Tigers vs Arabian Aces",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -40,7 +50,7 @@
     }
   },
   {
-    "name": "ACC Mens U19 Asia Cup 2026 - 6th Match - Sri Lanka U19 vs Bangladesh U19",
+    "name": "Abu Dhabi T10 League 2026 - 3rd Match - United Tigers vs Arabian Aces",
     "family": "Willow",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -50,37 +60,7 @@
     }
   },
   {
-    "name": "ACC Mens U19 Asia Cup 2026 - 6th Match - Sri Lanka U19 vs Bangladesh U19",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Afghanistan vs Zimbabwe [Zimbabwe Tour of Afghanistan in UAE, 2026]",
-    "family": "FanCode",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Bangladesh vs West Indies [West Indies tour of Bangladesh, 2026]",
-    "family": "FanCode",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Brisbane Heat vs. Hobart Hurricanes",
+    "name": "Bassmaster Redfish Cup at Port Aransas",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -90,17 +70,7 @@
     }
   },
   {
-    "name": "Brisbane Heat Women vs Hobart Hurricanes Women [Women's Big Bash League, 2026]",
-    "family": "FanCode",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Cricket Review-WBBL 2026: Renegades vs Strikers - 13th Match",
+    "name": "Bassmaster Redfish Cup at Port Aransas",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -110,13 +80,23 @@
     }
   },
   {
-    "name": "Day 3 vs Mission Hills, China [Aramco China Championship 2026]",
-    "family": "FanCode",
+    "name": "Chelsea vs. Everton",
+    "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
       "origin": "index"
+    }
+  },
+  {
+    "name": "Cricket Preview-USA Seniors Cricket NPL 2026 -- Austin Hunters vs. NY X-Factor -- 10th Match",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   },
   {
@@ -150,17 +130,7 @@
     }
   },
   {
-    "name": "Hwacheon KSPO WFC vs Ho Chi Minh City Women [AFC Women's Champions League 2026-27]",
-    "family": "FanCode",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "India tour of New Zealand 2026 - 2nd ODI - New Zealand vs India",
+    "name": "Live Prelims-Buatsi vs. Hutchinson",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -170,27 +140,17 @@
     }
   },
   {
-    "name": "India tour of New Zealand 2026 - 2nd ODI - New Zealand vs India",
-    "family": "Willow",
+    "name": "Manchester City Women vs West Ham United Women",
+    "family": "FanCode",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
+      "key": "fancode_avd",
+      "label": "Fancode (fancode_avd)",
       "origin": "index"
     }
   },
   {
-    "name": "India tour of New Zealand 2026 - 2nd ODI - New Zealand vs India",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Melbourne City vs Western Sydney Wanderers [A-League 2026-27]",
+    "name": "No live events",
     "family": "FanCode",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -200,17 +160,7 @@
     }
   },
   {
-    "name": "Melbourne Renegades vs. Adelaide Strikers",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Melbourne Vipers vs. Queensland Pirates",
+    "name": "Qatar Airways Grand Prix of Qatar, Qualifying",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -220,42 +170,22 @@
     }
   },
   {
-    "name": "Naegohyang Women's FC vs INAC Kobe Leonessa Women [AFC Women's Champions League 2026-27]",
-    "family": "FanCode",
+    "name": "Semifinals",
+    "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   },
   {
-    "name": "NSW Phoenix vs. Perth Steel",
+    "name": "Semifinals",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
       "key": "prime_sports_one_backup",
       "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Paratus Jets vs Pupkewitz Wildcats [Namibia Super 50, 2026]",
-    "family": "FanCode",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Semi-Final vs Korea [BWF Super 500 - Korea Open 2026]",
-    "family": "FanCode",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
       "origin": "index"
     }
   },
@@ -474,8 +404,8 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
+      "key": "jiotv_8",
+      "label": "JioTV+ 8 (jiotv_8)",
       "origin": "index"
     }
   },
@@ -484,8 +414,8 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_8",
-      "label": "JioTV+ 8 (jiotv_8)",
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
       "origin": "index"
     }
   },
@@ -514,16 +444,6 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Star Sports Khel",
-    "family": "Star Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
       "key": "all_in_one_3",
       "label": "All in one 3 (all_in_one_3)",
       "origin": "index"
@@ -540,7 +460,7 @@
     }
   },
   {
-    "name": "Womens Big Bash League 2026 - 13th Match - Melbourne Renegades Women vs Adelaide Strikers Women",
+    "name": "Triton Poker ONE Series Cyprus-$3K QQPK Genesis",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -550,17 +470,17 @@
     }
   },
   {
-    "name": "Womens Big Bash League 2026 - 13th Match - Melbourne Renegades Women vs Adelaide Strikers Women",
-    "family": "Willow",
+    "name": "Triton Poker ONE Series Cyprus-$3K QQPK Genesis",
+    "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
       "origin": "index"
     }
   },
   {
-    "name": "Womens Big Bash League 2026 - 14th Match - Brisbane Heat Women vs Hobart Hurricanes Women",
+    "name": "USA Seniors Cricket NPL 2026 - 10th Match - Austin Hunters vs NY X-Factor",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -570,13 +490,23 @@
     }
   },
   {
-    "name": "Womens Big Bash League 2026 - 14th Match - Brisbane Heat Women vs Hobart Hurricanes Women",
+    "name": "USA Seniors Cricket NPL 2026 - 10th Match - Austin Hunters vs NY X-Factor",
     "family": "Willow",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
       "key": "all_in_one_3",
       "label": "All in one 3 (all_in_one_3)",
       "origin": "index"
+    }
+  },
+  {
+    "name": "Watford vs. Middlesbrough",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   }
 ]
