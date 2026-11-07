@@ -1,15 +1,76 @@
 #EXTM3U
 #PLAYLIST:JaSH - Tamil channels, Tamil/English sports and Bigg Boss Tamil - review queue
 #NOTE:Not part of the main feed: sports rows without a verifiable Tamil/English label.
-#GENERATED:2026-11-07T01:58:09.467Z
-#ENTRIES:43
+#GENERATED:2026-11-07T08:51:09.302Z
+#ENTRIES:58
 
-#EXTINF:-1 tvg-id="B0HNSBSV46" tvg-name="Canberra Heat vs. Adelaide Storm [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.c40f1b8e-a4ad-4e66-8165-810068ae1ff1/1/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Canberra Heat vs. Adelaide Storm" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",Canberra Heat vs. Adelaide Storm [DASH · ClearKey · Jo/Zoh]
+#EXTINF:-1 tvg-id="B0H96MRJVZ" tvg-name="ACC Mens U19 Asia Cup 2026 - 5th Match - Afghanistan U19 vs Malaysia U19 [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.07f50fb2-33c9-43df-b334-1d757610adfa/3/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1724%2C885%2C117%2C117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="ACC Mens U19 Asia Cup 2026 - 5th Match - Afghanistan U19 vs Malaysia U19" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",ACC Mens U19 Asia Cup 2026 - 5th Match - Afghanistan U19 vs Malaysia U19 [DASH · ClearKey · Jo/Zoh]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=6285784b996a420f16710da94ed83846:94f2f4d5dffb2097ce56a43289d76662
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rwk2dindgf/out/v1/5866ccb3cf0a4702bb021d777d6787cc/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H96MRJVZ" tvg-name="ACC Mens U19 Asia Cup 2026 - 5th Match - Afghanistan U19 vs Malaysia U19 [DASH · ClearKey · All in one 3]" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.07f50fb2-33c9-43df-b334-1d757610adfa/3/BOXART-16X9/en-US._UR1920%2C1080_.jpeg" group-title="Review - language uncertain" base-name="ACC Mens U19 Asia Cup 2026 - 5th Match - Afghanistan U19 vs Malaysia U19" stream-type="DASH" stream-drm="ClearKey" stream-source="All in one 3",ACC Mens U19 Asia Cup 2026 - 5th Match - Afghanistan U19 vs Malaysia U19 [DASH · ClearKey · All in one 3]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6285784b996a420f16710da94ed83846:94f2f4d5dffb2097ce56a43289d76662
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rwk2dindgf/out/v1/5866ccb3cf0a4702bb021d777d6787cc/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H96MRJVZ" tvg-name="ACC Mens U19 Asia Cup 2026 - 5th Match - Afghanistan U19 vs Malaysia U19 [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.07f50fb2-33c9-43df-b334-1d757610adfa/3/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1724%2C885%2C117%2C117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="ACC Mens U19 Asia Cup 2026 - 5th Match - Afghanistan U19 vs Malaysia U19" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",ACC Mens U19 Asia Cup 2026 - 5th Match - Afghanistan U19 vs Malaysia U19 [DASH · ClearKey · Prime Sports 1 [Backup]]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6285784b996a420f16710da94ed83846:94f2f4d5dffb2097ce56a43289d76662
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rwk2dindgf/out/v1/5866ccb3cf0a4702bb021d777d6787cc/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HMJFFMFG" tvg-name="ACC Mens U19 Asia Cup 2026 - 6th Match - Sri Lanka U19 vs Bangladesh U19 [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.9ba1fbec-5219-427a-b408-5f6c67c0030a/3/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1724%2C885%2C117%2C117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="ACC Mens U19 Asia Cup 2026 - 6th Match - Sri Lanka U19 vs Bangladesh U19" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",ACC Mens U19 Asia Cup 2026 - 6th Match - Sri Lanka U19 vs Bangladesh U19 [DASH · ClearKey · Jo/Zoh]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c70292ec5aeeabfafcbb4443924d0a4:cc6f131f2ddb87f645d045586ce0ecb7
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0fwqahjstr/out/v1/2047669080944848be586e9a051a881e/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HMJFFMFG" tvg-name="ACC Mens U19 Asia Cup 2026 - 6th Match - Sri Lanka U19 vs Bangladesh U19 [DASH · ClearKey · All in one 3]" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9ba1fbec-5219-427a-b408-5f6c67c0030a/3/BOXART-16X9/en-US._UR1920%2C1080_.jpeg" group-title="Review - language uncertain" base-name="ACC Mens U19 Asia Cup 2026 - 6th Match - Sri Lanka U19 vs Bangladesh U19" stream-type="DASH" stream-drm="ClearKey" stream-source="All in one 3",ACC Mens U19 Asia Cup 2026 - 6th Match - Sri Lanka U19 vs Bangladesh U19 [DASH · ClearKey · All in one 3]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c70292ec5aeeabfafcbb4443924d0a4:cc6f131f2ddb87f645d045586ce0ecb7
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0fwqahjstr/out/v1/2047669080944848be586e9a051a881e/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HMJFFMFG" tvg-name="ACC Mens U19 Asia Cup 2026 - 6th Match - Sri Lanka U19 vs Bangladesh U19 [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.9ba1fbec-5219-427a-b408-5f6c67c0030a/3/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1724%2C885%2C117%2C117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="ACC Mens U19 Asia Cup 2026 - 6th Match - Sri Lanka U19 vs Bangladesh U19" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",ACC Mens U19 Asia Cup 2026 - 6th Match - Sri Lanka U19 vs Bangladesh U19 [DASH · ClearKey · Prime Sports 1 [Backup]]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c70292ec5aeeabfafcbb4443924d0a4:cc6f131f2ddb87f645d045586ce0ecb7
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0fwqahjstr/out/v1/2047669080944848be586e9a051a881e/cenc.mpd
+
+#EXTINF:-1 tvg-id="4249772-fancode" tvg-name="Afghanistan vs Zimbabwe [Zimbabwe Tour of Afghanistan in UAE 2026] [HLS · All in one 3]" tvg-logo="https://www.fancode.com/favicon.ico" group-title="Review - language uncertain" base-name="Afghanistan vs Zimbabwe [Zimbabwe Tour of Afghanistan in UAE 2026]" stream-type="HLS" stream-source="All in one 3",Afghanistan vs Zimbabwe [Zimbabwe Tour of Afghanistan in UAE 2026] [HLS · All in one 3]
+https://in-mc-plive.fancode.com/mumbai/4249772_english_hls_ea87fdf83418752_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794127759~_GO=Generated~acl=/mumbai/4249772_english_hls_ea87fdf83418752_1ta-di_h264/*~SessionID=9101273790_watcho_56d05e4f-f873-48~Signature=AV7HGj6VfE_3Ktd3h2KBX1OeLRgBMNJY5bejSWI33E0pUh87WDgKU9fWbSafqamJeVzN_TbntUw6BqfHn3ihqBoRfUgO
+
+#EXTINF:-1 tvg-id="4250527-fancode" tvg-name="Bangladesh vs West Indies [West Indies tour of Bangladesh 2026] [HLS · All in one 3]" tvg-logo="https://www.fancode.com/favicon.ico" group-title="Review - language uncertain" base-name="Bangladesh vs West Indies [West Indies tour of Bangladesh 2026]" stream-type="HLS" stream-source="All in one 3",Bangladesh vs West Indies [West Indies tour of Bangladesh 2026] [HLS · All in one 3]
+https://in-mc-plive.fancode.com/mumbai/4250527_english_hls_370c69458425280_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794127758~_GO=Generated~acl=/mumbai/4250527_english_hls_370c69458425280_1ta-di_h264/*~SessionID=9101273790_watcho_e4b407af-8a45-42~Signature=AV7HGj6sENZ00E7vpozFPVz85XwrEsd1vwyfJswOhG5NptD6EqG5tT3s3VkXct1iYWmDTR-ZtqAbyuAnROEwe_aOTswG
+
+#EXTINF:-1 tvg-id="B0HN4DPXX8" tvg-name="Brisbane Heat vs. Hobart Hurricanes [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.deac76e4-29ce-4950-b285-0d64aa57003a/5/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Brisbane Heat vs. Hobart Hurricanes" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",Brisbane Heat vs. Hobart Hurricanes [DASH · ClearKey · Jo/Zoh]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+
+#EXTINF:-1 tvg-id="4250400-fancode" tvg-name="Brisbane Heat Women vs Hobart Hurricanes Women [Women's Big Bash League 2026] [HLS · All in one 3]" tvg-logo="https://www.fancode.com/favicon.ico" group-title="Review - language uncertain" base-name="Brisbane Heat Women vs Hobart Hurricanes Women [Women's Big Bash League 2026]" stream-type="HLS" stream-source="All in one 3",Brisbane Heat Women vs Hobart Hurricanes Women [Women's Big Bash League 2026] [HLS · All in one 3]
+https://in-mc-plive.fancode.com/mumbai/4250400_english_hls_c7c99ef10a62356_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794127761~_GO=Generated~acl=/mumbai/4250400_english_hls_c7c99ef10a62356_1ta-di_h264/*~SessionID=9101273790_watcho_cdb8417a-3c33-4d~Signature=AV7HGj6IWA70shT6rWHkyhqYQKsMSvPqIsHqnUyAKWGqBBI81HwKwoLTLaAqGNI66wr6KzXh8BCz-hi6U8aaALe6-jIA
+
+#EXTINF:-1 tvg-id="B0HN5SC7SP" tvg-name="Cricket Review-WBBL 2026: Renegades vs Strikers - 13th Match [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.6357b716-9289-4266-b1f0-38255a4c7313/4/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Cricket Review-WBBL 2026: Renegades vs Strikers - 13th Match" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",Cricket Review-WBBL 2026: Renegades vs Strikers - 13th Match [DASH · ClearKey · Prime Sports 1 [Backup]]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
+#EXTINF:-1 tvg-id="4250610-fancode" tvg-name="Day 3 vs Mission Hills China [Aramco China Championship 2026] [HLS · All in one 3]" tvg-logo="https://www.fancode.com/favicon.ico" group-title="Review - language uncertain" base-name="Day 3 vs Mission Hills China [Aramco China Championship 2026]" stream-type="HLS" stream-source="All in one 3",Day 3 vs Mission Hills China [Aramco China Championship 2026] [HLS · All in one 3]
+https://in-mc-plive.fancode.com/mumbai/4250610_english_hls_4dc30906936029_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794127767~_GO=Generated~acl=/mumbai/4250610_english_hls_4dc30906936029_1ta-di_h264/*~SessionID=9101273790_watcho_0c402146-6b22-42~Signature=AV7HGj6xoSDnSLOuY8DX8JPXZM7IDgZp2maNxvOxiVHJSPCEAxXeGWa6D8j8UplxOT0yJ5TnnNh2j1BCajFklddD5n0D
 
 #EXTINF:-1 tvg-id="223" tvg-name="DD Sports [HLS · Sportlink-wtf/Sports]" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png" group-title="Review - language uncertain" base-name="DD Sports" stream-type="HLS" stream-source="Sportlink-wtf/Sports",DD Sports [HLS · Sportlink-wtf/Sports]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -32,57 +93,62 @@ https://hjh-545.pages.dev/stream?id=ddsports
 #EXTVLCOPT:http-referrer=https://dishhomego.com.np/
 https://ottlive.dishhome.com.np/protected/jATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 
-#EXTINF:-1 tvg-id="B0HP3ZXGQY" tvg-name="Houston Saints vs. Mighty Dallas [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.e0debe1e-dac4-4723-90d4-81be16508661/2/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Houston Saints vs. Mighty Dallas" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",Houston Saints vs. Mighty Dallas [DASH · ClearKey · Jo/Zoh]
+#EXTINF:-1 tvg-id="4250258-fancode" tvg-name="Hwacheon KSPO WFC vs Ho Chi Minh City Women [AFC Women's Champions League 2026-27] [HLS · All in one 3]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/8z57zuRkNqtX0yNoluC32xT_cT4IKjthbOQCrXwUvZo_zT_vALKYjHqkVZN1-Ni5CfjlfOvMfpifYIXnN_KyHg.png" group-title="Review - language uncertain" base-name="Hwacheon KSPO WFC vs Ho Chi Minh City Women [AFC Women's Champions League 2026-27]" stream-type="HLS" stream-source="All in one 3",Hwacheon KSPO WFC vs Ho Chi Minh City Women [AFC Women's Champions League 2026-27] [HLS · All in one 3]
+https://in-mc-plive.fancode.com/mumbai/4250258_english_hls_9c05c3795f71138_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794127764~_GO=Generated~acl=/mumbai/4250258_english_hls_9c05c3795f71138_1ta-di_h264/*~SessionID=9101273790_watcho_904ee2ee-5396-4b~Signature=AV7HGj6MfrvkpeLB0TC4dITXsVvc1ElNIn_8gepYv5-6t_Wz3AUnnNakumIegG4fqKuy4GgsE9KYlTTLGN-LgwwQEn8H
+
+#EXTINF:-1 tvg-id="B0HNKB52ZX" tvg-name="India tour of New Zealand 2026 - 2nd ODI - New Zealand vs India [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.d579999e-b24f-4858-8739-cf9a57ed3a01/4/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1724%2C885%2C117%2C117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="India tour of New Zealand 2026 - 2nd ODI - New Zealand vs India" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",India tour of New Zealand 2026 - 2nd ODI - New Zealand vs India [DASH · ClearKey · Jo/Zoh]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5718f40a4901526a597012cc242b4c4a:6d47e18a26287fa2a4e641901f07e50f
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iukkxk78gp/out/v1/4f9f877fe4ff45e3b19e08b4eeee2f42/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HNKB52ZX" tvg-name="India tour of New Zealand 2026 - 2nd ODI - New Zealand vs India [DASH · ClearKey · All in one 3]" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d579999e-b24f-4858-8739-cf9a57ed3a01/4/BOXART-16X9/en-US._UR1920%2C1080_.jpeg" group-title="Review - language uncertain" base-name="India tour of New Zealand 2026 - 2nd ODI - New Zealand vs India" stream-type="DASH" stream-drm="ClearKey" stream-source="All in one 3",India tour of New Zealand 2026 - 2nd ODI - New Zealand vs India [DASH · ClearKey · All in one 3]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5718f40a4901526a597012cc242b4c4a:6d47e18a26287fa2a4e641901f07e50f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iukkxk78gp/out/v1/4f9f877fe4ff45e3b19e08b4eeee2f42/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HNKB52ZX" tvg-name="India tour of New Zealand 2026 - 2nd ODI - New Zealand vs India [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.d579999e-b24f-4858-8739-cf9a57ed3a01/4/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1724%2C885%2C117%2C117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="India tour of New Zealand 2026 - 2nd ODI - New Zealand vs India" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",India tour of New Zealand 2026 - 2nd ODI - New Zealand vs India [DASH · ClearKey · Prime Sports 1 [Backup]]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5718f40a4901526a597012cc242b4c4a:6d47e18a26287fa2a4e641901f07e50f
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/iukkxk78gp/out/v1/4f9f877fe4ff45e3b19e08b4eeee2f42/cenc.mpd
+
+#EXTINF:-1 tvg-id="4249854-fancode" tvg-name="Melbourne City vs Western Sydney Wanderers [A-League 2026-27] [HLS · All in one 3]" tvg-logo="https://www.fancode.com/favicon.ico" group-title="Review - language uncertain" base-name="Melbourne City vs Western Sydney Wanderers [A-League 2026-27]" stream-type="HLS" stream-source="All in one 3",Melbourne City vs Western Sydney Wanderers [A-League 2026-27] [HLS · All in one 3]
+https://in-mc-plive.fancode.com/mumbai/4249854_english_hls_7f6bb93b5e80599_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794127768~_GO=Generated~acl=/mumbai/4249854_english_hls_7f6bb93b5e80599_1ta-di_h264/*~SessionID=9101273790_watcho_b0600994-54f1-46~Signature=AV7HGj4Cx5UAhixT8aZA-9XzGhD5zl9qJQSD9_pEe3AS8AGss3Djtn0mhEpTsLtVYJCvniJit6xLaMaV_pSPy6zp97sK
+
+#EXTINF:-1 tvg-id="B0HCYD799P" tvg-name="Melbourne Renegades vs. Adelaide Strikers [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.6774bad9-b836-49f2-9784-f96adb7febc5/4/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Melbourne Renegades vs. Adelaide Strikers" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",Melbourne Renegades vs. Adelaide Strikers [DASH · ClearKey · Prime Sports 1 [Backup]]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HP3ZXGQY" tvg-name="Houston Saints vs. Mighty Dallas [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.e0debe1e-dac4-4723-90d4-81be16508661/2/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Houston Saints vs. Mighty Dallas" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",Houston Saints vs. Mighty Dallas [DASH · ClearKey · Prime Sports 1 [Backup]]
+#EXTINF:-1 tvg-id="B0HFLL8LQZ" tvg-name="Melbourne Vipers vs. Queensland Pirates [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.7a25a4ee-70aa-45d7-9b4a-e3acfabf2c33/2/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Melbourne Vipers vs. Queensland Pirates" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",Melbourne Vipers vs. Queensland Pirates [DASH · ClearKey · Jo/Zoh]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HPZMFQYJ" tvg-name="Missouri Southern at Nebraska - Kearney [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.c0af3191-83f8-4c22-824d-ab4f1a5f33d7/1/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Missouri Southern at Nebraska - Kearney" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",Missouri Southern at Nebraska - Kearney [DASH · ClearKey · Jo/Zoh]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
+#EXTINF:-1 tvg-id="4250252-fancode" tvg-name="Naegohyang Women's FC vs INAC Kobe Leonessa Women [AFC Women's Champions League 2026-27] [HLS · All in one 3]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/inac-kobe-leonessa-logo-CC4DD28463-seeklogo.com.png" group-title="Review - language uncertain" base-name="Naegohyang Women's FC vs INAC Kobe Leonessa Women [AFC Women's Champions League 2026-27]" stream-type="HLS" stream-source="All in one 3",Naegohyang Women's FC vs INAC Kobe Leonessa Women [AFC Women's Champions League 2026-27] [HLS · All in one 3]
+https://in-mc-plive.fancode.com/mumbai/4250252_english_hls_c046005e7b68873_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794127763~_GO=Generated~acl=/mumbai/4250252_english_hls_c046005e7b68873_1ta-di_h264/*~SessionID=9101273790_watcho_d71677ea-92ba-48~Signature=AV7HGj4a-iH1PVwAQoq9gR4T-sxmr78Zep3HHDIe0xJcoYoAb0VyD22ZzJBufpj8rgHNDxYo6VnJ0MyqR4tMhh-tH24K
 
-#EXTINF:-1 tvg-id="B0HPZMFQYJ" tvg-name="Missouri Southern at Nebraska - Kearney [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.c0af3191-83f8-4c22-824d-ab4f1a5f33d7/1/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Missouri Southern at Nebraska - Kearney" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",Missouri Southern at Nebraska - Kearney [DASH · ClearKey · Prime Sports 1 [Backup]]
+#EXTINF:-1 tvg-id="B0GZPVSC1H" tvg-name="NSW Phoenix vs. Perth Steel [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.5993b489-15e3-47e6-ae6e-0f4710dfe927/1/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="NSW Phoenix vs. Perth Steel" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",NSW Phoenix vs. Perth Steel [DASH · ClearKey · Prime Sports 1 [Backup]]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HN6MP4V6" tvg-name="OHL Hockey: Erie Otters vs Flint Firebirds [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.d0f7638d-3087-4915-bf8e-76be89bb799d/2/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="OHL Hockey: Erie Otters vs Flint Firebirds" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",OHL Hockey: Erie Otters vs Flint Firebirds [DASH · ClearKey · Jo/Zoh]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HN6MP4V6" tvg-name="OHL Hockey: Erie Otters vs Flint Firebirds [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.d0f7638d-3087-4915-bf8e-76be89bb799d/2/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="OHL Hockey: Erie Otters vs Flint Firebirds" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",OHL Hockey: Erie Otters vs Flint Firebirds [DASH · ClearKey · Prime Sports 1 [Backup]]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HPZTVMX5" tvg-name="PPA Tour: World Championships-2026: Quarterfinals [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.854ed171-ca0f-447e-a458-02a811babb49/2/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="PPA Tour: World Championships-2026: Quarterfinals" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",PPA Tour: World Championships-2026: Quarterfinals [DASH · ClearKey · Prime Sports 1 [Backup]]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
+#EXTINF:-1 tvg-id="4250745-fancode" tvg-name="Paratus Jets vs Pupkewitz Wildcats [Namibia Super 50 2026] [HLS · All in one 3]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Paratus-Jets.png" group-title="Review - language uncertain" base-name="Paratus Jets vs Pupkewitz Wildcats [Namibia Super 50 2026]" stream-type="HLS" stream-source="All in one 3",Paratus Jets vs Pupkewitz Wildcats [Namibia Super 50 2026] [HLS · All in one 3]
+https://in-mc-plive.fancode.com/mumbai/4250745_english_hls_b417730c511101_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794127762~_GO=Generated~acl=/mumbai/4250745_english_hls_b417730c511101_1ta-di_h264/*~SessionID=9101273790_watcho_49d97fac-6a7e-46~Signature=AV7HGj7NK8FKeH40mn34dqTbJUW6PabbIJpz9JH9YYN9u5qh5JD4w_kkNo-PFQx8pkkQ7pJHmICUE03i6gCRIu1I9uYP
 
 #EXTINF:-1 tvg-id="4250605-fancode" tvg-name="Semi-Final vs Korea [BWF Super 500 - Korea Open 2026] [HLS · All in one 3]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/2012_BWF_logo.svg.png" group-title="Review - language uncertain" base-name="Semi-Final vs Korea [BWF Super 500 - Korea Open 2026]" stream-type="HLS" stream-source="All in one 3",Semi-Final vs Korea [BWF Super 500 - Korea Open 2026] [HLS · All in one 3]
-https://in-mc-plive.fancode.com/mumbai/4250605_english_hls_263bfd45b59969_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794102883~_GO=Generated~acl=/mumbai/4250605_english_hls_263bfd45b59969_1ta-di_h264/*~SessionID=9101273790_watcho_baa9eb8f-ccf4-4d~Signature=AV7HGj6dCZUVXmc9scQSH76qOOLjZ3tdn-Xd-6K08n_wLrKHlOaIliCGgAojqKftGJPa8c9dP5snIkNtk6FamVp3GBQH
+https://in-mc-plive.fancode.com/mumbai/4250605_english_hls_263bfd45b59969_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794127766~_GO=Generated~acl=/mumbai/4250605_english_hls_263bfd45b59969_1ta-di_h264/*~SessionID=9101273790_watcho_6f824ee7-40a1-48~Signature=AV7HGj5hJ9cSajILu-qiIh1epmyyloHN0Y7umKJXV01E6TUepMfKqEr-KjRtumlvPQN_VcPybhsR6w45GZbW1fzM4_IL
 
 #EXTINF:-1 tvg-id="162" tvg-name="Sony LIV Sports 1 [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 1" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Sony LIV Sports 1 [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -96,13 +162,13 @@ https://hjh-545.pages.dev/stream?id=sonylivsports1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://sliv.tgaadi.workers.dev/ten1hd.m3u8?__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41
+https://sliv.tgaadi.workers.dev/ten1hd.m3u8?__hdnea__=st=1794022213~exp=1794108613~acl=/*~hmac=f6570d44386aed4e2add2aee8a6b62f65e9b11674a2bfade55bbf00e67244d9e
 
 #EXTINF:-1 tvg-id="" tvg-name="Sony LIV Sports 1 [DASH · ClearKey · JioTV+ 8]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 1" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 8",Sony LIV Sports 1 [DASH · ClearKey · JioTV+ 8]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e4c5dba5bfe5a7c9338bc086eb80379:b8e8932f440084e1d2b705fa52eef94b
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_1_MOB/WDVLive/index.mpd?__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_1_MOB/WDVLive/index.mpd?__hdnea__=st=1794022213~exp=1794108613~acl=/*~hmac=f6570d44386aed4e2add2aee8a6b62f65e9b11674a2bfade55bbf00e67244d9e
 
 #EXTINF:-1 tvg-id="3373" tvg-name="Sony LIV Sports 2 [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 2" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Sony LIV Sports 2 [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -116,13 +182,13 @@ https://hjh-545.pages.dev/stream?id=sonylivsports2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://sliv.tgaadi.workers.dev/ten2hd.m3u8?__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41
+https://sliv.tgaadi.workers.dev/ten2hd.m3u8?__hdnea__=st=1794022213~exp=1794108613~acl=/*~hmac=f6570d44386aed4e2add2aee8a6b62f65e9b11674a2bfade55bbf00e67244d9e
 
 #EXTINF:-1 tvg-id="" tvg-name="Sony LIV Sports 2 [DASH · ClearKey · JioTV+ 8]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 2" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 8",Sony LIV Sports 2 [DASH · ClearKey · JioTV+ 8]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef24516ae38b50d18049343cd1cd998a:eb4810ec250a1795a0019dba7881ff45
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_2_MOB/WDVLive/index.mpd?__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_2_MOB/WDVLive/index.mpd?__hdnea__=st=1794022213~exp=1794108613~acl=/*~hmac=f6570d44386aed4e2add2aee8a6b62f65e9b11674a2bfade55bbf00e67244d9e
 
 #EXTINF:-1 tvg-id="3374" tvg-name="Sony LIV Sports 3 [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 3" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Sony LIV Sports 3 [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -136,13 +202,13 @@ https://hjh-545.pages.dev/stream?id=sonylivsports3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://sliv.tgaadi.workers.dev/ten3hd.m3u8?__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41
+https://sliv.tgaadi.workers.dev/ten3hd.m3u8?__hdnea__=st=1794022213~exp=1794108613~acl=/*~hmac=f6570d44386aed4e2add2aee8a6b62f65e9b11674a2bfade55bbf00e67244d9e
 
 #EXTINF:-1 tvg-id="" tvg-name="Sony LIV Sports 3 [DASH · ClearKey · JioTV+ 8]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 3" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 8",Sony LIV Sports 3 [DASH · ClearKey · JioTV+ 8]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3afa887864e6545aa006db21aeb39054:6b8cce271f3cd923d0df32d45b44f6df
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_3_MOB/WDVLive/index.mpd?__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_3_MOB/WDVLive/index.mpd?__hdnea__=st=1794022213~exp=1794108613~acl=/*~hmac=f6570d44386aed4e2add2aee8a6b62f65e9b11674a2bfade55bbf00e67244d9e
 
 #EXTINF:-1 tvg-id="3399" tvg-name="Sony LIV Sports 5 [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 5" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Sony LIV Sports 5 [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -156,13 +222,13 @@ https://hjh-545.pages.dev/stream?id=sonylivsports5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://sliv.tgaadi.workers.dev/sonysixhd.m3u8?__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41
+https://sliv.tgaadi.workers.dev/sonysixhd.m3u8?__hdnea__=st=1794022213~exp=1794108613~acl=/*~hmac=f6570d44386aed4e2add2aee8a6b62f65e9b11674a2bfade55bbf00e67244d9e
 
 #EXTINF:-1 tvg-id="" tvg-name="Sony LIV Sports 5 [DASH · ClearKey · JioTV+ 8]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 5" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 8",Sony LIV Sports 5 [DASH · ClearKey · JioTV+ 8]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cee8550bf50b569d8ad2ed0c5264f0d2:565a95f1c332c03534e1e5fcc1ff9a8b
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_5_MOB/WDVLive/index.mpd?__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_5_MOB/WDVLive/index.mpd?__hdnea__=st=1794022213~exp=1794108613~acl=/*~hmac=f6570d44386aed4e2add2aee8a6b62f65e9b11674a2bfade55bbf00e67244d9e
 
 #EXTINF:-1 tvg-id="ten3.sonyliv" tvg-name="Sony Ten 3 [HLS · SonyTV 4]" tvg-logo="" group-title="Review - language uncertain" base-name="Sony Ten 3" stream-type="HLS" stream-source="SonyTV 4",Sony Ten 3 [HLS · SonyTV 4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
@@ -216,13 +282,13 @@ https://hjh-545.pages.dev/stream?id=starsports3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2904732c8fb55ebeaa0f59316916997e:f69101b71872dcfb2cd1987d3773c0f4,82dc7db814ef5165a3d93102f40a5142:f767c4c59fbfeaf84754994a0ed5dc8b,6fbf6696ff3051768337a34da0e66eb8:cae19d171fb1015a89342e5185f8cc7b,2f040ce640ee57978b0bcbb975af00a4:88c56371262c1bbe843c174720bbdeb0,c19b6cfea03150bea01a255345e5d706:8ed757eda2b740285bcf9a8fd9263422
-https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st=1794002434~exp=1794024034~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=3a6f32fa69b6a0fa667fa9abee765740707312f958fb025d2759a14ca39fb64a
+https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st=1794024623~exp=1794046223~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=b8cd56a4480ba14713537918207987764659b1e275bc2a1ca534662669e74aff
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 3 [DASH · ClearKey · JioTV+ 8]" tvg-logo="https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg" group-title="Review - language uncertain" base-name="Star Sports 3" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 8",Star Sports 3 [DASH · ClearKey · JioTV+ 8]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4e8647eaf0659ac85f61765a5abcdc1:d749c9b27505beb0e1a8b6c30ca65de6
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st=1794001508~exp=1794023108~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=163a013ba4c27872b83790d8e5aa504c13edd92833abaaba84afb7106af76e88
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st=1794023397~exp=1794044997~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=82445822fa4b74a09cb41ca19a90d3ab2b7cc98dd3032e905f573334f8205689
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 3 Digital [DASH · ClearKey · Star 3]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2523/1783001062523-h.jpg" group-title="Review - language uncertain" base-name="Star Sports 3 Digital" stream-type="DASH" stream-drm="ClearKey" stream-source="Star 3",Star Sports 3 Digital [DASH · ClearKey · Star 3]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -232,9 +298,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdn
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1794034873~acl=%2f*~id=00f91594f7d85a40455417f304b49a2c~data=hdntl~hmac=8cbe4290ddb318d6f1d7be2043038583c4afbb462feb557809f156ea1a7d1b07
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1794034873~acl=%2f*~id=00f91594f7d85a40455417f304b49a2c~data=hdntl~hmac=8cbe4290ddb318d6f1d7be2043038583c4afbb462feb557809f156ea1a7d1b07"}
-https://livetv.hotstar.com/mp1/gec-india-1540068301/c776132a964441e1b929b2c0451222af/index.mpd?|cookie=hdntl=exp=1794034873~acl=%2f*~id=00f91594f7d85a40455417f304b49a2c~data=hdntl~hmac=8cbe4290ddb318d6f1d7be2043038583c4afbb462feb557809f156ea1a7d1b07&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+#EXTVLCOPT:http-cookie=hdntl=exp=1794106886~acl=%2f*~id=627a583dc9b58c3777b843e82dba7666~data=hdntl~hmac=17aace9c1a70186d61f1d81eb0b6820e09917a15cf239bf54b7e34810e6c3b89
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1794106886~acl=%2f*~id=627a583dc9b58c3777b843e82dba7666~data=hdntl~hmac=17aace9c1a70186d61f1d81eb0b6820e09917a15cf239bf54b7e34810e6c3b89"}
+https://livetv.hotstar.com/mp1/gec-india-1540068301/c776132a964441e1b929b2c0451222af/index.mpd?|cookie=hdntl=exp=1794106886~acl=%2f*~id=627a583dc9b58c3777b843e82dba7666~data=hdntl~hmac=17aace9c1a70186d61f1d81eb0b6820e09917a15cf239bf54b7e34810e6c3b89&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 
 #EXTINF:-1 tvg-id="1998" tvg-name="Star Sports Khel [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/StarSportsKhel.png" group-title="Review - language uncertain" base-name="Star Sports Khel" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Star Sports Khel [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -248,14 +314,14 @@ https://hjh-545.pages.dev/stream?id=starsportskhel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=942646c32cde5325a7c33b137cf7d46e:ebb1edf4d1ca69738d8cf378a00ad35d,2898824f2440509698d04f0109f1d285:58e2fbc4e5ae22f973c21c402340debc,1eb81f72a86d56c3bdfe905c2e987d1d:4720e2ac970828d2befb2cf838d486fb,906cc35528ca58348e7fed58f8796687:3a1eaff9da6a0083567fb1ea1eaa21f5,1dfe1c29b8f15ab3a158bb27eb5b8d3f:432ff00824d61ff1da1348cc53e0968c
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsKhel_BTS/WDVLive/index.mpd?__hdnea__=st=1794002431~exp=1794024031~acl=/bpk-tv/StarSportsKhel_BTS/WDVLive/*~hmac=dbb5fa79fd118bf99f36e6487ca4ff593c4636c3b03fc5145a0045b34dd45b9b
+https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsKhel_BTS/WDVLive/index.mpd?__hdnea__=st=1794024620~exp=1794046220~acl=/bpk-tv/StarSportsKhel_BTS/WDVLive/*~hmac=23fdc51bbe2212d178ea66bedf11b6687d6b5d7f3a8ac03958b229ab269bc147
 
 #EXTINF:-1 tvg-id="1998" tvg-name="Star Sports Khel [DASH · ClearKey · All in one 3]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/StarSportsKhel.png" group-title="Review - language uncertain" base-name="Star Sports Khel" stream-type="DASH" stream-drm="ClearKey" stream-source="All in one 3",Star Sports Khel [DASH · ClearKey · All in one 3]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=906cc35528ca58348e7fed58f8796687:3a1eaff9da6a0083567fb1ea1eaa21f5,1dfe1c29b8f15ab3a158bb27eb5b8d3f:432ff00824d61ff1da1348cc53e0968c,942646c32cde5325a7c33b137cf7d46e:ebb1edf4d1ca69738d8cf378a00ad35d,2898824f2440509698d04f0109f1d285:58e2fbc4e5ae22f973c21c402340debc,1eb81f72a86d56c3bdfe905c2e987d1d:4720e2ac970828d2befb2cf838d486fb
 #EXTVLCOPT:http-user-agent=PlayTV/7.1.5 (Linux;Android 8.1.0) ExoPlayerLib/2.11.7
-#EXTHTTP:{"cookie":"__hdnea__=st=1794013515~exp=1794035115~acl=/bpk-tv/StarSportsKhel_BTS/WDVLive/*~hmac=d128fa59c6640ce6417d75ac696109ca246138c1f89ddaeeeda56a2a7bba1e22"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794035718~exp=1794057318~acl=/bpk-tv/StarSportsKhel_BTS/WDVLive/*~hmac=fa58a64fd6be4149975377f97b15eae07486bf24ee8fefecd3cc5473be009f1c"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsKhel_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports Khel Digital [DASH · ClearKey · Star 3]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/270/1782998020270-h.jpg" group-title="Review - language uncertain" base-name="Star Sports Khel Digital" stream-type="DASH" stream-drm="ClearKey" stream-source="Star 3",Star Sports Khel Digital [DASH · ClearKey · Star 3]
@@ -266,27 +332,34 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsKhel_BTS/WDVLive/index.mpd
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1794034873~acl=%2f*~id=00f91594f7d85a40455417f304b49a2c~data=hdntl~hmac=8cbe4290ddb318d6f1d7be2043038583c4afbb462feb557809f156ea1a7d1b07
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1794034873~acl=%2f*~id=00f91594f7d85a40455417f304b49a2c~data=hdntl~hmac=8cbe4290ddb318d6f1d7be2043038583c4afbb462feb557809f156ea1a7d1b07"}
-https://livetv.hotstar.com/mp2/gec-india-1540073624/4a56d383d1074f3d908a7f9b7a3321f1/index.mpd?|cookie=hdntl=exp=1794034873~acl=%2f*~id=00f91594f7d85a40455417f304b49a2c~data=hdntl~hmac=8cbe4290ddb318d6f1d7be2043038583c4afbb462feb557809f156ea1a7d1b07&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+#EXTVLCOPT:http-cookie=hdntl=exp=1794106886~acl=%2f*~id=627a583dc9b58c3777b843e82dba7666~data=hdntl~hmac=17aace9c1a70186d61f1d81eb0b6820e09917a15cf239bf54b7e34810e6c3b89
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1794106886~acl=%2f*~id=627a583dc9b58c3777b843e82dba7666~data=hdntl~hmac=17aace9c1a70186d61f1d81eb0b6820e09917a15cf239bf54b7e34810e6c3b89"}
+https://livetv.hotstar.com/mp2/gec-india-1540073624/4a56d383d1074f3d908a7f9b7a3321f1/index.mpd?|cookie=hdntl=exp=1794106886~acl=%2f*~id=627a583dc9b58c3777b843e82dba7666~data=hdntl~hmac=17aace9c1a70186d61f1d81eb0b6820e09917a15cf239bf54b7e34810e6c3b89&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 
-#EXTINF:-1 tvg-id="B0HP6WQNNF" tvg-name="USA Seniors Cricket NPL 2026 - 9th Match - Houston Saints vs Mighty Dallas [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.91b1acfd-89e0-44f9-9fd4-50780065b815/3/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1724%2C885%2C117%2C117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="USA Seniors Cricket NPL 2026 - 9th Match - Houston Saints vs Mighty Dallas" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",USA Seniors Cricket NPL 2026 - 9th Match - Houston Saints vs Mighty Dallas [DASH · ClearKey · Jo/Zoh]
+#EXTINF:-1 tvg-id="B0HLQ78QD4" tvg-name="Womens Big Bash League 2026 - 13th Match - Melbourne Renegades Women vs Adelaide Strikers Women [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.a4105473-29cb-4c06-af5c-03d8b080da6c/2/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1724%2C885%2C117%2C117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Womens Big Bash League 2026 - 13th Match - Melbourne Renegades Women vs Adelaide Strikers Women" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",Womens Big Bash League 2026 - 13th Match - Melbourne Renegades Women vs Adelaide Strikers Women [DASH · ClearKey · Jo/Zoh]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8fe0574c48dee67bb7850d96ae2d445a:7f9bb72166d5f6f58aee66cb2d7596ae
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w7drnanyba/out/v1/54b52282749043739a55deff6af01d2d/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=8034d996508ff5f2f3017d9e2a03d3e6:ce2d564ec40cf4a6423afcc93e28f2be
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4bwynjqz2z/out/v1/f7fc9b904ef044c68c652f0b5f4e8acf/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HP6WQNNF" tvg-name="USA Seniors Cricket NPL 2026 - 9th Match - Houston Saints vs Mighty Dallas [DASH · ClearKey · All in one 3]" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.91b1acfd-89e0-44f9-9fd4-50780065b815/3/BOXART-16X9/en-US._UR1920%2C1080_.jpeg" group-title="Review - language uncertain" base-name="USA Seniors Cricket NPL 2026 - 9th Match - Houston Saints vs Mighty Dallas" stream-type="DASH" stream-drm="ClearKey" stream-source="All in one 3",USA Seniors Cricket NPL 2026 - 9th Match - Houston Saints vs Mighty Dallas [DASH · ClearKey · All in one 3]
+#EXTINF:-1 tvg-id="B0HLQ78QD4" tvg-name="Womens Big Bash League 2026 - 13th Match - Melbourne Renegades Women vs Adelaide Strikers Women [DASH · ClearKey · All in one 3]" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a4105473-29cb-4c06-af5c-03d8b080da6c/2/BOXART-16X9/en-US._UR1920%2C1080_.jpeg" group-title="Review - language uncertain" base-name="Womens Big Bash League 2026 - 13th Match - Melbourne Renegades Women vs Adelaide Strikers Women" stream-type="DASH" stream-drm="ClearKey" stream-source="All in one 3",Womens Big Bash League 2026 - 13th Match - Melbourne Renegades Women vs Adelaide Strikers Women [DASH · ClearKey · All in one 3]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8fe0574c48dee67bb7850d96ae2d445a:7f9bb72166d5f6f58aee66cb2d7596ae
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w7drnanyba/out/v1/54b52282749043739a55deff6af01d2d/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=8034d996508ff5f2f3017d9e2a03d3e6:ce2d564ec40cf4a6423afcc93e28f2be
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4bwynjqz2z/out/v1/f7fc9b904ef044c68c652f0b5f4e8acf/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HP6WQNNF" tvg-name="USA Seniors Cricket NPL 2026 - 9th Match - Houston Saints vs Mighty Dallas [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.91b1acfd-89e0-44f9-9fd4-50780065b815/3/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1724%2C885%2C117%2C117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="USA Seniors Cricket NPL 2026 - 9th Match - Houston Saints vs Mighty Dallas" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",USA Seniors Cricket NPL 2026 - 9th Match - Houston Saints vs Mighty Dallas [DASH · ClearKey · Prime Sports 1 [Backup]]
+#EXTINF:-1 tvg-id="B0HLRWXZY4" tvg-name="Womens Big Bash League 2026 - 14th Match - Brisbane Heat Women vs Hobart Hurricanes Women [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.8540dc19-4fd6-482f-9bad-855bed41f903/1/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1724%2C885%2C117%2C117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Womens Big Bash League 2026 - 14th Match - Brisbane Heat Women vs Hobart Hurricanes Women" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",Womens Big Bash League 2026 - 14th Match - Brisbane Heat Women vs Hobart Hurricanes Women [DASH · ClearKey · Jo/Zoh]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8fe0574c48dee67bb7850d96ae2d445a:7f9bb72166d5f6f58aee66cb2d7596ae
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w7drnanyba/out/v1/54b52282749043739a55deff6af01d2d/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=c79965c6e98d75014af324695469beb1:1e13d1bd23ca2b97cf02d59013dd0d08
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ccyildnmm0/out/v1/bae85fd9be274c13a7e0c658cef09664/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HLRWXZY4" tvg-name="Womens Big Bash League 2026 - 14th Match - Brisbane Heat Women vs Hobart Hurricanes Women [DASH · ClearKey · All in one 3]" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8540dc19-4fd6-482f-9bad-855bed41f903/1/BOXART-16X9/en-US._UR1920%2C1080_.jpeg" group-title="Review - language uncertain" base-name="Womens Big Bash League 2026 - 14th Match - Brisbane Heat Women vs Hobart Hurricanes Women" stream-type="DASH" stream-drm="ClearKey" stream-source="All in one 3",Womens Big Bash League 2026 - 14th Match - Brisbane Heat Women vs Hobart Hurricanes Women [DASH · ClearKey · All in one 3]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c79965c6e98d75014af324695469beb1:1e13d1bd23ca2b97cf02d59013dd0d08
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ccyildnmm0/out/v1/bae85fd9be274c13a7e0c658cef09664/cenc.mpd
