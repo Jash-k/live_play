@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T21:55:27.130Z",
+  "generatedAt": "2026-11-08T09:04:07.778Z",
   "configVersion": 2,
   "playlistTitle": "JaSH - Tamil channels, Tamil/English sports and Bigg Boss Tamil",
   "filters": {
@@ -21,6 +21,7 @@
     "pinned": 18,
     "pinnedMissing": [],
     "discovered": [
+      "sonyliv_three",
       "prime_sports_one_backup",
       "fancode_one_backup",
       "fancode_three"
@@ -50,7 +51,7 @@
       "ok": true,
       "parsed": 62,
       "matched": 12,
-      "used": 7,
+      "used": 6,
       "error": "",
       "tamil": 0,
       "sports": 12
@@ -63,12 +64,12 @@
       "discovery": false,
       "skipped": false,
       "ok": true,
-      "parsed": 130,
-      "matched": 23,
-      "used": 17,
+      "parsed": 118,
+      "matched": 10,
+      "used": 4,
       "error": "",
       "tamil": 0,
-      "sports": 23
+      "sports": 10
     },
     {
       "key": "maybetv_Jo__playlist.m3u",
@@ -259,7 +260,7 @@
       "discovery": false,
       "skipped": false,
       "ok": true,
-      "parsed": 1275,
+      "parsed": 1273,
       "matched": 105,
       "used": 104,
       "error": "",
@@ -275,11 +276,11 @@
       "skipped": false,
       "ok": true,
       "parsed": 1175,
-      "matched": 102,
-      "used": 20,
+      "matched": 96,
+      "used": 14,
       "error": "",
       "tamil": 82,
-      "sports": 20
+      "sports": 14
     },
     {
       "key": "jiotv_20",
@@ -290,11 +291,11 @@
       "skipped": false,
       "ok": true,
       "parsed": 1173,
-      "matched": 98,
+      "matched": 95,
       "used": 71,
       "error": "",
       "tamil": 83,
-      "sports": 15
+      "sports": 12
     },
     {
       "key": "jiotv_16",
@@ -303,11 +304,13 @@
       "pinned": true,
       "discovery": false,
       "skipped": false,
-      "ok": false,
-      "parsed": 0,
-      "matched": 0,
-      "used": 0,
-      "error": "no playlist entries"
+      "ok": true,
+      "parsed": 1497,
+      "matched": 156,
+      "used": 104,
+      "error": "",
+      "tamil": 141,
+      "sports": 15
     },
     {
       "key": "jiotv_36",
@@ -349,7 +352,7 @@
       "ok": true,
       "parsed": 1175,
       "matched": 103,
-      "used": 14,
+      "used": 18,
       "error": "",
       "tamil": 83,
       "sports": 20
@@ -377,7 +380,7 @@
       "ok": true,
       "parsed": 1537,
       "matched": 34,
-      "used": 19,
+      "used": 13,
       "error": "",
       "tamil": 17,
       "sports": 17
@@ -405,7 +408,7 @@
       "discovery": false,
       "skipped": false,
       "ok": true,
-      "parsed": 479,
+      "parsed": 502,
       "matched": 5,
       "used": 2,
       "error": "",
@@ -436,11 +439,11 @@
       "skipped": false,
       "ok": true,
       "parsed": 280,
-      "matched": 11,
-      "used": 4,
+      "matched": 0,
+      "used": 0,
       "error": "",
-      "tamil": 10,
-      "sports": 1
+      "tamil": 0,
+      "sports": 0
     },
     {
       "key": "fancode_avd",
@@ -450,12 +453,12 @@
       "discovery": false,
       "skipped": false,
       "ok": true,
-      "parsed": 2,
-      "matched": 2,
-      "used": 2,
+      "parsed": 5,
+      "matched": 5,
+      "used": 5,
       "error": "",
       "tamil": 0,
-      "sports": 2
+      "sports": 5
     },
     {
       "key": "fancode_one",
@@ -465,12 +468,12 @@
       "discovery": false,
       "skipped": false,
       "ok": true,
-      "parsed": 2,
-      "matched": 2,
+      "parsed": 5,
+      "matched": 5,
       "used": 0,
       "error": "",
       "tamil": 0,
-      "sports": 2
+      "sports": 5
     },
     {
       "key": "prime_sports_one",
@@ -480,12 +483,12 @@
       "discovery": false,
       "skipped": false,
       "ok": true,
-      "parsed": 13,
-      "matched": 13,
-      "used": 0,
+      "parsed": 6,
+      "matched": 5,
+      "used": 5,
       "error": "",
       "tamil": 0,
-      "sports": 13
+      "sports": 5
     },
     {
       "key": "willow_one",
@@ -495,7 +498,7 @@
       "discovery": false,
       "skipped": false,
       "ok": true,
-      "parsed": 1,
+      "parsed": 5,
       "matched": 0,
       "used": 0,
       "error": "",
@@ -551,11 +554,11 @@
       "discovery": true,
       "skipped": false,
       "ok": true,
-      "parsed": 1,
-      "matched": 0,
+      "parsed": 6,
+      "matched": 1,
       "used": 0,
       "error": "discovered but no usable Tamil/sports rows",
-      "tamil": 0,
+      "tamil": 1,
       "sports": 0
     },
     {
@@ -672,11 +675,11 @@
       "discovery": true,
       "skipped": false,
       "ok": true,
-      "parsed": 1,
-      "matched": 0,
+      "parsed": 7,
+      "matched": 1,
       "used": 0,
       "error": "discovered but no usable Tamil/sports rows",
-      "tamil": 0,
+      "tamil": 1,
       "sports": 0
     },
     {
@@ -687,11 +690,11 @@
       "discovery": true,
       "skipped": false,
       "ok": true,
-      "parsed": 1,
-      "matched": 0,
+      "parsed": 7,
+      "matched": 1,
       "used": 0,
       "error": "discovered but no usable Tamil/sports rows",
-      "tamil": 0,
+      "tamil": 1,
       "sports": 0
     },
     {
@@ -702,11 +705,11 @@
       "discovery": true,
       "skipped": false,
       "ok": true,
-      "parsed": 1,
-      "matched": 0,
+      "parsed": 7,
+      "matched": 1,
       "used": 0,
       "error": "discovered but no usable Tamil/sports rows",
-      "tamil": 0,
+      "tamil": 1,
       "sports": 0
     },
     {
@@ -717,11 +720,11 @@
       "discovery": true,
       "skipped": false,
       "ok": true,
-      "parsed": 1,
-      "matched": 0,
+      "parsed": 7,
+      "matched": 1,
       "used": 0,
       "error": "discovered but no usable Tamil/sports rows",
-      "tamil": 0,
+      "tamil": 1,
       "sports": 0
     },
     {
@@ -732,12 +735,13 @@
       "discovery": true,
       "skipped": false,
       "ok": true,
-      "parsed": 1,
-      "matched": 0,
-      "used": 0,
-      "error": "discovered but no usable Tamil/sports rows",
+      "parsed": 6,
+      "matched": 4,
+      "used": 4,
+      "error": "",
       "tamil": 0,
-      "sports": 0
+      "sports": 4,
+      "discovered": true
     },
     {
       "key": "sonyliv_four",
@@ -762,7 +766,7 @@
       "discovery": true,
       "skipped": false,
       "ok": true,
-      "parsed": 2,
+      "parsed": 5,
       "matched": 0,
       "used": 0,
       "error": "discovered but no usable Tamil/sports rows",
@@ -777,12 +781,12 @@
       "discovery": true,
       "skipped": false,
       "ok": true,
-      "parsed": 13,
-      "matched": 13,
-      "used": 10,
+      "parsed": 6,
+      "matched": 5,
+      "used": 5,
       "error": "",
       "tamil": 0,
-      "sports": 13,
+      "sports": 5,
       "discovered": true
     },
     {
@@ -793,12 +797,12 @@
       "discovery": true,
       "skipped": false,
       "ok": true,
-      "parsed": 2,
-      "matched": 2,
+      "parsed": 5,
+      "matched": 5,
       "used": 0,
       "error": "",
       "tamil": 0,
-      "sports": 2,
+      "sports": 5,
       "discovered": true
     },
     {
@@ -809,7 +813,7 @@
       "discovery": true,
       "skipped": false,
       "ok": true,
-      "parsed": 3,
+      "parsed": 4,
       "matched": 0,
       "used": 0,
       "error": "discovered but no usable Tamil/sports rows",
@@ -824,7 +828,7 @@
       "discovery": true,
       "skipped": false,
       "ok": true,
-      "parsed": 3,
+      "parsed": 4,
       "matched": 0,
       "used": 0,
       "error": "discovered but no usable Tamil/sports rows",
@@ -839,12 +843,12 @@
       "discovery": true,
       "skipped": false,
       "ok": true,
-      "parsed": 3,
-      "matched": 2,
+      "parsed": 6,
+      "matched": 5,
       "used": 0,
       "error": "",
       "tamil": 0,
-      "sports": 2,
+      "sports": 5,
       "discovered": true
     },
     {
@@ -892,80 +896,84 @@
     }
   ],
   "main": {
-    "total": 253,
-    "tamilChannels": 200,
+    "total": 351,
+    "tamilChannels": 287,
     "biggBoss": 0,
-    "sports": 53,
-    "assertedLanguage": 28,
+    "sports": 64,
+    "assertedLanguage": 32,
     "streamTypes": {
       "protocol": {
-        "DASH": 198,
-        "HLS": 55
+        "DASH": 212,
+        "HLS": 137,
+        "unknown": 2
       },
       "drm": {
-        "ClearKey": 202,
-        "none": 51
+        "ClearKey": 219,
+        "none": 132
       },
       "source": {
+        "JioTV+ 16": 104,
         "JioTV+ 32": 99,
-        "JioTV+ 20": 66,
-        "Special": 17,
-        "JioTV+ 8": 15,
-        "JioTV+ 28": 14,
+        "JioTV+ 20": 67,
+        "JioTV+ 28": 17,
         "YuppTV 1": 11,
+        "Special": 11,
+        "JioTV+ 8": 9,
         "Sportlink-wtf/Sports": 6,
-        "Jo/Zoh2": 6,
         "Jo/Zohplx": 5,
-        "YuppTV 2": 4,
+        "Jo/Zoh2": 5,
+        "Fancode": 5,
         "Jo/Zoh": 4,
+        "SonyLIV 3": 4,
         "Mix Channels": 2,
-        "Fancode": 2,
         "SonyTV 4": 1,
         "Sportlink-wtf/Sport": 1
       }
     },
     "channelsWithAlternates": 95,
-    "brands": 120,
+    "brands": 188,
     "byGroup": {
-      "Tamil - Entertainment": 75,
-      "Tamil - News": 38,
-      "Tamil - Movies": 13,
-      "Tamil - Music": 14,
-      "Tamil - Kids": 19,
-      "Tamil - Comedy": 3,
-      "Tamil - Devotional": 18,
+      "Tamil - Entertainment": 104,
+      "Tamil - News": 45,
+      "Tamil - Movies": 16,
+      "Tamil - Music": 20,
+      "Tamil - Kids": 21,
+      "Tamil - Comedy": 4,
+      "Tamil - Devotional": 20,
       "Tamil - Lifestyle": 2,
       "Tamil - Infotainment": 10,
-      "Tamil - General": 8,
+      "Tamil - General": 45,
       "Sports - Star Sports - Tamil": 6,
       "Sports - Star Sports - English": 15,
-      "Sports - Sony Sports - Tamil": 5,
-      "Sports - Sony Sports - English": 18,
-      "Sports - FanCode - English": 4,
+      "Sports - Sony Sports - Tamil": 7,
+      "Sports - Sony Sports - English": 23,
+      "Sports - FanCode - English": 7,
       "Sports - Willow - English": 4,
+      "Sports - Ten Sports - English": 1,
       "Sports - Sports18 - English": 1
     }
   },
   "review": {
-    "total": 49,
+    "total": 36,
     "byGroup": {
-      "Review - language uncertain": 49
+      "Review - language uncertain": 36
     }
   },
   "dropped": {
-    "unusable name": 446,
-    "not Tamil": 3831,
-    "other regional language": 2431,
-    "not https": 1208,
-    "expired token": 1902,
-    "duplicate stream": 237,
-    "alternate stream beyond cap": 66
+    "unusable name": 529,
+    "not Tamil": 4226,
+    "other regional language": 2447,
+    "not https": 1655,
+    "expired token": 2142,
+    "raw container or audio-only": 19,
+    "radio/audio channel": 219,
+    "duplicate stream": 256,
+    "alternate stream beyond cap": 85
   },
   "missingSportsFamilies": [
     "Cricbuzz",
     "CricHD",
     "Prime Sports",
-    "Ten Sports",
     "DD Sports"
   ],
   "playbackVerified": false
