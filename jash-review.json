@@ -1,16 +1,6 @@
 [
   {
-    "name": "Abu Dhabi T10 League 2026 - 5th Match - United Tigers vs UAE Bulls",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Abu Dhabi T10 League 2026 - 6th Match - Arabian Aces vs Royal Desert Champions",
+    "name": "ACC Mens U19 Asia Cup 2026 - 10th Match - Sri Lanka U19 vs Afghanistan U19",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -20,7 +10,17 @@
     }
   },
   {
-    "name": "Bassmaster Redfish Cup at Port Aransas",
+    "name": "ACC Mens U19 Asia Cup 2026 - 10th Match - Sri Lanka U19 vs Afghanistan U19",
+    "family": "Willow",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "ACC Mens U19 Asia Cup 2026 - 9th Match - Bangladesh U19 vs Malaysia U19",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -30,62 +30,32 @@
     }
   },
   {
-    "name": "Bassmaster Redfish Cup at Port Aransas",
-    "family": "Prime Sports",
+    "name": "ACC Mens U19 Asia Cup 2026 - 9th Match - Bangladesh U19 vs Malaysia U19",
+    "family": "Willow",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
       "origin": "index"
     }
   },
   {
-    "name": "Bratislava Singles Final",
-    "family": "Prime Sports",
+    "name": "Afghanistan vs Zimbabwe [Zimbabwe Tour of Afghanistan in UAE, 2026]",
+    "family": "FanCode",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Bratislava Singles Final",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
       "origin": "index"
     }
   },
   {
-    "name": "Chennai-WTA: Final",
-    "family": "Prime Sports",
+    "name": "Bangladesh vs West Indies [West Indies tour of Bangladesh, 2026]",
+    "family": "FanCode",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Circuit of the Americas",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Circuit of the Americas",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
       "origin": "index"
     }
   },
@@ -120,7 +90,7 @@
     }
   },
   {
-    "name": "England v Australia",
+    "name": "Pakistan vs. Sri Lanka",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -130,62 +100,12 @@
     }
   },
   {
-    "name": "England v Australia",
-    "family": "Prime Sports",
+    "name": "Pokhara Avengers vs Karnali Yaks [Nepal Premier League Season 3, 2026]",
+    "family": "FanCode",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "First Semifinal: Teams TBA",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "London City Lionesses vs. Birmingham City",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "London City Lionesses vs. Birmingham City",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "PPA Tour: World Championships-2026: Championship Sunday",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Qatar Airways Grand Prix of Qatar",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
       "origin": "index"
     }
   },
@@ -310,22 +230,22 @@
     }
   },
   {
-    "name": "Sony TEN 3 HD",
+    "name": "Sony Ten 3",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "sportlive18_Sportlink-wtf__Sports.m3u",
-      "label": "sportlive18/Sportlink-wtf/Sports.m3u",
-      "origin": "github"
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
+      "origin": "index"
     }
   },
   {
-    "name": "SONY TEN 3 HD",
+    "name": "Sony Ten 3 HD",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "special",
-      "label": "Special (special)",
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
       "origin": "index"
     }
   },
@@ -340,22 +260,22 @@
     }
   },
   {
-    "name": "Sony TEN 4 HD",
+    "name": "Sony Ten 4",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "sportlive18_Sportlink-wtf__Sports.m3u",
-      "label": "sportlive18/Sportlink-wtf/Sports.m3u",
-      "origin": "github"
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
+      "origin": "index"
     }
   },
   {
-    "name": "SONY TEN 4 HD",
+    "name": "Sony Ten 4 HD",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "special",
-      "label": "Special (special)",
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
       "origin": "index"
     }
   },
@@ -404,8 +324,8 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_8",
-      "label": "JioTV+ 8 (jiotv_8)",
+      "key": "jiotv_16",
+      "label": "JioTV+ 16 (jiotv_16)",
       "origin": "index"
     }
   },
@@ -414,8 +334,18 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_20",
-      "label": "JioTV+ 20 (jiotv_20)",
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Star Sports 3 Digital",
+    "family": "Star Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "star_3",
+      "label": "Star 3 (star_3)",
       "origin": "index"
     }
   },
@@ -430,17 +360,37 @@
     }
   },
   {
-    "name": "Triton Poker ONE Series Cyprus-$3K One-W Championship",
-    "family": "Prime Sports",
+    "name": "Star Sports Khel",
+    "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
+      "origin": "index"
     }
   },
   {
-    "name": "Triton Poker ONE Series Cyprus-$3K One-W Championship",
+    "name": "Star Sports Khel",
+    "family": "Star Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Star Sports Khel Digital",
+    "family": "Star Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "star_3",
+      "label": "Star 3 (star_3)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "USA Seniors Cricket NPL 2026 - Final - Washington Eagles vs Austin Hunters",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -450,23 +400,23 @@
     }
   },
   {
-    "name": "US Open Netball Champs",
+    "name": "USA Seniors Cricket NPL 2026: Final",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
     }
   },
   {
-    "name": "USA Seniors Cricket NPL 2026 - Semi-Final 1 - Washington Eagles vs Chicago Cavaliers",
+    "name": "USA vs. Mexico",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
     }
   }
 ]
