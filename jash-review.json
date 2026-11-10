@@ -1,6 +1,6 @@
 [
   {
-    "name": "ACC Mens U19 Asia Cup 2026 - 11th Match - India U19 vs United Arab Emirates U19",
+    "name": "Abu Dhabi T10 League 2026 - 10th Match - UAE Bulls vs Yas Lions",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -10,17 +10,7 @@
     }
   },
   {
-    "name": "ACC Mens U19 Asia Cup 2026 - 11th Match - India U19 vs United Arab Emirates U19",
-    "family": "Willow",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "ACC Mens U19 Asia Cup 2026 - 12th Match - Pakistan U19 vs Nepal U19",
+    "name": "BK Häcken vs. Chelsea FC Women",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -30,22 +20,12 @@
     }
   },
   {
-    "name": "ACC Mens U19 Asia Cup 2026 - 12th Match - Pakistan U19 vs Nepal U19",
+    "name": "CIAA, Semifinal 1: Elizabeth City State vs. Shaw",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
       "key": "prime_sports_one",
       "label": "Prime Sports 1 (prime_sports_one)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "ACC Mens U19 Asia Cup 2026 - 12th Match - Pakistan U19 vs Nepal U19",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
       "origin": "index"
     }
   },
@@ -80,27 +60,7 @@
     }
   },
   {
-    "name": "Hobart Hurricanes vs. Adelaide Strikers",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Hobart Hurricanes vs. Adelaide Strikers",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Pakistan U19 vs. Nepal U19",
+    "name": "FC Internazionale Milano vs. Manchester City WFC",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -110,12 +70,62 @@
     }
   },
   {
-    "name": "Pakistan U19 vs. Nepal U19",
+    "name": "Inter Women vs Manchester City Women [UEFA Women's Champions League 2026-27]",
+    "family": "FanCode",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "No live events",
+    "family": "Willow",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Orleans 2026 - Early Rounds - 3",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Orleans 2026 - Early Rounds - 3",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Paris Saint-Germain Women vs Bayern Munich Women [UEFA Women's Champions League 2026-27]",
+    "family": "FanCode",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Roma Women vs Servette Women [UEFA Women's Champions League 2026-27]",
+    "family": "FanCode",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
       "origin": "index"
     }
   },
@@ -400,17 +410,7 @@
     }
   },
   {
-    "name": "Sudurpaschim Royals vs Janakpur Bolts [Nepal Premier League Season 3, 2026]",
-    "family": "FanCode",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "The Morning Drive",
+    "name": "Tennis Today Live-Stockholm-ATP & Orleans-ATP Early Rounds",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -421,26 +421,6 @@
   },
   {
     "name": "Triton Poker ONE Series Cyprus-$10K NLH 7-Handed",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Triton Poker ONE Series Cyprus-$10K NLH 7-Handed",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Womens Big Bash League 2026 - 17th Match - Hobart Hurricanes Women vs Adelaide Strikers Women",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -450,22 +430,12 @@
     }
   },
   {
-    "name": "Womens Big Bash League 2026 - 17th Match - Hobart Hurricanes Women vs Adelaide Strikers Women",
+    "name": "WPT Venetian Fall Championship Final Table",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "World Feed vs Stockholm, Sweden [ATP 250 - Bybit Stockholm Open 2026]",
-    "family": "FanCode",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
       "origin": "index"
     }
   }

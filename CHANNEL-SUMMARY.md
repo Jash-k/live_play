@@ -1,9 +1,9 @@
 # Current curated feed
 
-Generated 2026-11-10T12:43:17.208Z by `scripts/curate-live.mjs` — do not edit by hand.
+Generated 2026-11-10T20:51:09.590Z by `scripts/curate-live.mjs` — do not edit by hand.
 
 386 stream options in `jash-live.m3u`: 315 Tamil channels, 1 Bigg Boss Tamil, 70 sports feeds.
-47 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
+44 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
 
 | Group | Streams |
 |---|---:|
@@ -21,8 +21,8 @@ Generated 2026-11-10T12:43:17.208Z by `scripts/curate-live.mjs` — do not edit 
 | Sports - Star Sports - Tamil | 8 |
 | Sports - Star Sports - English | 21 |
 | Sports - Sony Sports - Tamil | 9 |
-| Sports - Sony Sports - English | 22 |
-| Sports - FanCode - English | 4 |
+| Sports - Sony Sports - English | 21 |
+| Sports - FanCode - English | 5 |
 | Sports - Willow - English | 4 |
 | Sports - Ten Sports - English | 1 |
 | Sports - Sports18 - English | 1 |
@@ -425,9 +425,8 @@ Generated 2026-11-10T12:43:17.208Z by `scripts/curate-live.mjs` — do not edit 
 - Sony Ten 4 Tamil [DASH · ClearKey · JioTV+ 32]
 - Sony Ten 4 Tamil [DASH · ClearKey · All in one 3]
 
-### Sports - Sony Sports - English (22)
+### Sports - Sony Sports - English (21)
 
-- India vs UAE - 10 Nov 2026 [ENG] [HLS · SonyLIV 3]
 - Sony Sports Ten 1 [HLS · Jo/Zoh2]
 - Sony Sports Ten 1 HD [HLS · JioTV+ 16]
 - Sony Sports Ten 1 HD [DASH · ClearKey · All in one 3]
@@ -450,12 +449,13 @@ Generated 2026-11-10T12:43:17.208Z by `scripts/curate-live.mjs` — do not edit 
 - SONY TEN Cricket [HLS · Sportlink-wtf/Sports]
 - SONY TEN Cricket [HLS · JioTV+ 16]
 
-### Sports - FanCode - English (4)
+### Sports - FanCode - English (5)
 
 - FANCODE 1 [DASH · ClearKey · Sportlink-wtf/Sports]
 - FANCODE 2 [DASH · ClearKey · Sportlink-wtf/Sports]
-- Sudurpaschim Royals vs Janakpur Bolts [English] [HLS · Fancode]
-- World Feed [English] [HLS · Fancode]
+- Inter Women vs Manchester City Women [English] [HLS · Fancode]
+- Paris Saint-Germain Women vs Bayern Munich Women [English] [HLS · Fancode]
+- Roma Women vs Servette Women [English] [HLS · Fancode]
 
 ### Sports - Willow - English (4)
 
@@ -490,14 +490,13 @@ Generated 2026-11-10T12:43:17.208Z by `scripts/curate-live.mjs` — do not edit 
 | Star 3 (star_3) | pinned | 14 |
 | Special (special) | pinned | 13 |
 | Mix Channels (mix_channels) | pinned | 3 |
-| Fancode (fancode_avd) | pinned | 2 |
-| Prime Sports 1 (prime_sports_one) | pinned | 4 |
-| All in one 3 (all_in_one_3) | discovered | 62 |
-| SonyLIV 3 (sonyliv_three) | discovered | 1 |
-| Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 5 |
+| Fancode (fancode_avd) | pinned | 3 |
+| Prime Sports 1 (prime_sports_one) | pinned | 5 |
+| All in one 3 (all_in_one_3) | discovered | 63 |
+| Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 0 |
 | Fancode 1 [Backup] (fancode_one_backup) | discovered | 0 |
 | Fancode 3 (fancode_three) | discovered | 0 |
 
-Sources that returned nothing this run: 18 of 60. See `jash-live.stats.json`.
+Sources that returned nothing this run: 25 of 60. See `jash-live.stats.json`.
 
 Playback was **not** verified: entries carry upstream playback properties unchanged, and a stream may still need a compatible player, legitimate access or region availability.
