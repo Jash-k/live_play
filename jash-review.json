@@ -1,15 +1,5 @@
 [
   {
-    "name": "CIAA, Semifinal 2: Fayetteville State vs. Bowie State",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
     "name": "DD Sports",
     "family": "DD Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -40,36 +30,6 @@
     }
   },
   {
-    "name": "DET vs LAGC vs Palm Beach Gardens, FL [WTGL 2026]",
-    "family": "FanCode",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Gardner-Webb vs Elon - Women's Volleyball",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "New South Wales vs South Australia [Sheffield Shield, 2026/27]",
-    "family": "FanCode",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
     "name": "No live events",
     "family": "Willow",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -80,7 +40,17 @@
     }
   },
   {
-    "name": "Queensland vs Tasmania [Sheffield Shield, 2026/27]",
+    "name": "Perth Scorchers vs. Sydney Thunder",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Perth Scorchers Women vs Sydney Thunder Women [Women's Big Bash League, 2026]",
     "family": "FanCode",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -370,33 +340,13 @@
     }
   },
   {
-    "name": "USHL Hockey: Fargo Force vs Sioux Falls Stampede",
+    "name": "Womens Big Bash League 2026 - 18th Match - Perth Scorchers Women vs Sydney Thunder Women",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
       "key": "prime_sports_one",
       "label": "Prime Sports 1 (prime_sports_one)",
       "origin": "index"
-    }
-  },
-  {
-    "name": "Victoria vs Western Australia [Sheffield Shield, 2026/27]",
-    "family": "FanCode",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "WPT Venetian Fall Championship Final Table",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
     }
   }
 ]
