@@ -1,5 +1,25 @@
 [
   {
+    "name": "Abu Dhabi T10 League 2026 - 12th Match - Arabian Aces vs Yas Lions",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "CIAA, Championship Game: Fayetteville State vs. Livingstone",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
     "name": "DD Sports",
     "family": "DD Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -30,17 +50,7 @@
     }
   },
   {
-    "name": "No live events",
-    "family": "Willow",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Perth Scorchers vs. Sydney Thunder",
+    "name": "ECHL Hockey: Idaho Steelheads vs Wichita Thunder",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -50,13 +60,23 @@
     }
   },
   {
-    "name": "Perth Scorchers Women vs Sydney Thunder Women [Women's Big Bash League, 2026]",
-    "family": "FanCode",
+    "name": "Orleans 2026 - Early Rounds - 6",
+    "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
       "origin": "index"
+    }
+  },
+  {
+    "name": "Perth Scorchers vs. Sydney Thunder",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   },
   {
@@ -180,22 +200,22 @@
     }
   },
   {
-    "name": "Sony Ten 3",
+    "name": "Sony TEN 3 HD",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
+      "key": "sportlive18_Sportlink-wtf__Sports.m3u",
+      "label": "sportlive18/Sportlink-wtf/Sports.m3u",
+      "origin": "github"
     }
   },
   {
-    "name": "Sony Ten 3 HD",
+    "name": "SONY TEN 3 HD",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
+      "key": "special",
+      "label": "Special (special)",
       "origin": "index"
     }
   },
@@ -210,22 +230,22 @@
     }
   },
   {
-    "name": "Sony Ten 4",
+    "name": "Sony TEN 4 HD",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
+      "key": "sportlive18_Sportlink-wtf__Sports.m3u",
+      "label": "sportlive18/Sportlink-wtf/Sports.m3u",
+      "origin": "github"
     }
   },
   {
-    "name": "Sony Ten 4 HD",
+    "name": "SONY TEN 4 HD",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
+      "key": "special",
+      "label": "Special (special)",
       "origin": "index"
     }
   },
@@ -284,8 +304,8 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_8",
-      "label": "JioTV+ 8 (jiotv_8)",
+      "key": "jiotv_28",
+      "label": "JioTV+ 28 (jiotv_28)",
       "origin": "index"
     }
   },
@@ -320,16 +340,6 @@
     }
   },
   {
-    "name": "Star Sports Khel",
-    "family": "Star Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
     "name": "Star Sports Khel Digital",
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -340,13 +350,43 @@
     }
   },
   {
-    "name": "Womens Big Bash League 2026 - 18th Match - Perth Scorchers Women vs Sydney Thunder Women",
+    "name": "The Morning Drive",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Triton ONE Poker Series Cyprus-$8K Main Event",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
       "key": "prime_sports_one",
       "label": "Prime Sports 1 (prime_sports_one)",
       "origin": "index"
+    }
+  },
+  {
+    "name": "Triton ONE Poker Series Cyprus-$8K Main Event",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Womens Big Bash League 2026 - 18th Match - Perth Scorchers Women vs Sydney Thunder Women",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   }
 ]
