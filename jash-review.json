@@ -1,5 +1,25 @@
 [
   {
+    "name": "Abu Dhabi T10 League 2026 - 13th Match - United Tigers vs Emirates Eagles",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Abu Dhabi T10 League 2026 - 15th Match - Arabian Aces vs UAE Bulls",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
     "name": "DD Sports",
     "family": "DD Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -20,6 +40,26 @@
     }
   },
   {
+    "name": "DD Sports By Premium PlugX",
+    "family": "DD Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "DD Sports By Premium PlugX",
+    "family": "DD Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
+      "origin": "index"
+    }
+  },
+  {
     "name": "DD Sports HD",
     "family": "DD Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -30,17 +70,7 @@
     }
   },
   {
-    "name": "NARA Nationals at Southern Illinois Center",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "New South Wales vs South Australia [Sheffield Shield, 2026/27]",
+    "name": "No live events",
     "family": "FanCode",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -60,27 +90,7 @@
     }
   },
   {
-    "name": "Quarter-Final vs Japan [BWF Super 500 - Japan Masters 2026]",
-    "family": "FanCode",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Queensland vs Tasmania [Sheffield Shield, 2026/27]",
-    "family": "FanCode",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "San Diego State at Texas State",
+    "name": "Orleans 2026 - Quarterfinals - 9",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -120,97 +130,7 @@
     }
   },
   {
-    "name": "Sony LIV Sports 2",
-    "family": "Sony Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
-      "origin": "static"
-    }
-  },
-  {
-    "name": "Sony LIV Sports 2",
-    "family": "Sony Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Sony LIV Sports 2",
-    "family": "Sony Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "jiotv_8",
-      "label": "JioTV+ 8 (jiotv_8)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Sony LIV Sports 3",
-    "family": "Sony Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
-      "origin": "static"
-    }
-  },
-  {
-    "name": "Sony LIV Sports 3",
-    "family": "Sony Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Sony LIV Sports 3",
-    "family": "Sony Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "jiotv_8",
-      "label": "JioTV+ 8 (jiotv_8)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Sony LIV Sports 5",
-    "family": "Sony Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
-      "origin": "static"
-    }
-  },
-  {
-    "name": "Sony LIV Sports 5",
-    "family": "Sony Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Sony LIV Sports 5",
-    "family": "Sony Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "jiotv_8",
-      "label": "JioTV+ 8 (jiotv_8)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Sony Ten 3",
+    "name": "Sony LIV Sports 1 By Premium PlugX",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -220,7 +140,157 @@
     }
   },
   {
-    "name": "Sony Ten 3 HD",
+    "name": "Sony LIV Sports 2",
+    "family": "Sony Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "hjh-545",
+      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "origin": "static"
+    }
+  },
+  {
+    "name": "Sony LIV Sports 2",
+    "family": "Sony Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "jiotv_32",
+      "label": "JioTV+ 32 (jiotv_32)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Sony LIV Sports 2",
+    "family": "Sony Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "jiotv_8",
+      "label": "JioTV+ 8 (jiotv_8)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Sony LIV Sports 2 By Premium PlugX",
+    "family": "Sony Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Sony LIV Sports 3",
+    "family": "Sony Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "hjh-545",
+      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "origin": "static"
+    }
+  },
+  {
+    "name": "Sony LIV Sports 3",
+    "family": "Sony Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "jiotv_32",
+      "label": "JioTV+ 32 (jiotv_32)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Sony LIV Sports 3",
+    "family": "Sony Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "jiotv_8",
+      "label": "JioTV+ 8 (jiotv_8)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Sony LIV Sports 3 By Premium PlugX",
+    "family": "Sony Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Sony LIV Sports 5",
+    "family": "Sony Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "hjh-545",
+      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "origin": "static"
+    }
+  },
+  {
+    "name": "Sony LIV Sports 5",
+    "family": "Sony Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "jiotv_32",
+      "label": "JioTV+ 32 (jiotv_32)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Sony LIV Sports 5",
+    "family": "Sony Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "jiotv_8",
+      "label": "JioTV+ 8 (jiotv_8)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Sony LIV Sports 5 By Premium PlugX",
+    "family": "Sony Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Sony Ten 3 By Premium PlugX",
+    "family": "Sony Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Sony TEN 3 HD",
+    "family": "Sony Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "sportlive18_Sportlink-wtf__Sports.m3u",
+      "label": "sportlive18/Sportlink-wtf/Sports.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "SONY TEN 3 HD",
+    "family": "Sony Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "special",
+      "label": "Special (special)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Sony Ten 3 HD By Premium PlugX",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -240,7 +310,7 @@
     }
   },
   {
-    "name": "Sony Ten 4",
+    "name": "Sony Ten 4 By Premium PlugX",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -250,7 +320,27 @@
     }
   },
   {
-    "name": "Sony Ten 4 HD",
+    "name": "Sony TEN 4 HD",
+    "family": "Sony Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "sportlive18_Sportlink-wtf__Sports.m3u",
+      "label": "sportlive18/Sportlink-wtf/Sports.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "SONY TEN 4 HD",
+    "family": "Sony Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "special",
+      "label": "Special (special)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Sony Ten 4 HD By Premium PlugX",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -294,6 +384,16 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
+      "key": "maybetv_Jo__Zoh2.m3u",
+      "label": "maybetv/Jo/Zoh2.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Star Sports 3",
+    "family": "Star Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
       "key": "hjh-545",
       "label": "JioTV proxy (hjh-545.pages.dev)",
       "origin": "static"
@@ -304,13 +404,23 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
+      "key": "jiotv_16",
+      "label": "JioTV+ 16 (jiotv_16)",
       "origin": "index"
     }
   },
   {
-    "name": "Star Sports 3",
+    "name": "Star Sports 3 By Premium PlugX",
+    "family": "Star Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Star Sports 3 By Premium PlugX",
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -340,17 +450,17 @@
     }
   },
   {
-    "name": "Star Sports Khel",
+    "name": "Star Sports Khel By Premium PlugX",
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
       "origin": "index"
     }
   },
   {
-    "name": "Star Sports Khel",
+    "name": "Star Sports Khel By Premium PlugX",
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -370,22 +480,22 @@
     }
   },
   {
-    "name": "Tennis Today Live-Stockholm-ATP & Orleans-ATP Early Rounds",
+    "name": "Triton ONE Poker Series Cyprus-$8K Main Event",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
     }
   },
   {
-    "name": "Victoria vs Western Australia [Sheffield Shield, 2026/27]",
-    "family": "FanCode",
+    "name": "Triton ONE Poker Series Cyprus-$8K Main Event",
+    "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
       "origin": "index"
     }
   }
