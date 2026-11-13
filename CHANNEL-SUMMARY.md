@@ -1,9 +1,9 @@
 # Current curated feed
 
-Generated 2026-11-12T18:22:01.210Z by `scripts/curate-live.mjs` — do not edit by hand.
+Generated 2026-11-13T01:08:23.135Z by `scripts/curate-live.mjs` — do not edit by hand.
 
-388 stream options in `jash-live.m3u`: 317 Tamil channels, 1 Bigg Boss Tamil, 70 sports feeds.
-41 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
+389 stream options in `jash-live.m3u`: 319 Tamil channels, 1 Bigg Boss Tamil, 69 sports feeds.
+39 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
 
 | Group | Streams |
 |---|---:|
@@ -17,11 +17,11 @@ Generated 2026-11-12T18:22:01.210Z by `scripts/curate-live.mjs` — do not edit 
 | Tamil - Devotional | 19 |
 | Tamil - Lifestyle | 3 |
 | Tamil - Infotainment | 12 |
-| Tamil - General | 48 |
+| Tamil - General | 50 |
 | Sports - Star Sports - Tamil | 8 |
 | Sports - Star Sports - English | 21 |
-| Sports - Sony Sports - Tamil | 9 |
-| Sports - Sony Sports - English | 23 |
+| Sports - Sony Sports - Tamil | 10 |
+| Sports - Sony Sports - English | 21 |
 | Sports - FanCode - English | 3 |
 | Sports - Willow - English | 4 |
 | Sports - Ten Sports - English | 1 |
@@ -223,7 +223,7 @@ Generated 2026-11-12T18:22:01.210Z by `scripts/curate-live.mjs` — do not edit 
 - Superfine Films Tamil [HLS · JioTV+ 16]
 - Zee Thirai HD [DASH · ClearKey · JioTV proxy]
 - Zee Thirai HD [DASH · ClearKey · JioTV+ 32]
-- Zee Thirai HD [DASH · ClearKey · JioTV+ 8]
+- Zee Thirai HD [DASH · ClearKey · JioTV+ 20]
 
 ### Tamil - Music (21)
 
@@ -329,8 +329,10 @@ Generated 2026-11-12T18:22:01.210Z by `scripts/curate-live.mjs` — do not edit 
 - Sony BBC Earth HD Tamil [DASH · ClearKey · JioTV+ 32]
 - Sony BBC Earth HD Tamil [DASH · ClearKey · All in one 3]
 
-### Tamil - General (48)
+### Tamil - General (50)
 
+- 4th ODI - 13 Nov 2026 [TAM DAI] [HLS · All in one 3]
+- 4th ODI - 13 Nov 2026 [TAM] [HLS · All in one 3]
 - ENGLISH OTT TAMIL DUBBED [HLS · JioTV+ 16]
 - Eye Tamil [HLS · JioTV+ 16]
 - HINDI OTT TAMIL DUBBED [HLS · JioTV+ 16]
@@ -415,8 +417,9 @@ Generated 2026-11-12T18:22:01.210Z by `scripts/curate-live.mjs` — do not edit 
 - Star Sports Select 2 HD [DASH · ClearKey · JioTV proxy]
 - Star Sports Select 2 HD [DASH · ClearKey · JioTV+ 32]
 
-### Sports - Sony Sports - Tamil (9)
+### Sports - Sony Sports - Tamil (10)
 
+- 4th ODI - 13 Nov 2026 [TAM] [HLS · SonyLIV 3]
 - Sony LIV Sports 4 Tamil [DASH · ClearKey · JioTV proxy]
 - Sony LIV Sports 4 Tamil [DASH · ClearKey · JioTV+ 32]
 - Sony LIV Sports 4 Tamil [DASH · ClearKey · JioTV+ 8]
@@ -427,9 +430,9 @@ Generated 2026-11-12T18:22:01.210Z by `scripts/curate-live.mjs` — do not edit 
 - Sony Ten 4 Tamil [DASH · ClearKey · JioTV+ 32]
 - Sony Ten 4 Tamil [DASH · ClearKey · All in one 3]
 
-### Sports - Sony Sports - English (23)
+### Sports - Sony Sports - English (21)
 
-- Armenia vs Cyprus - 12 Nov 2026 [ENG] [HLS · SonyLIV 3]
+- 4th ODI - 13 Nov 2026 [ENG] [HLS · SonyLIV 3]
 - Sony Sports Ten 1 [HLS · Jo/Zoh2]
 - Sony Sports Ten 1 HD [HLS · JioTV+ 16]
 - Sony Sports Ten 1 HD [DASH · ClearKey · All in one 3]
@@ -448,10 +451,8 @@ Generated 2026-11-12T18:22:01.210Z by `scripts/curate-live.mjs` — do not edit 
 - Sony Ten 5 [DASH · ClearKey · JioTV proxy]
 - Sony Ten 5 HD [DASH · ClearKey · JioTV proxy]
 - Sony Ten 5 HD [DASH · ClearKey · JioTV+ 32]
-- SONY TEN Cricket [HLS · Jo/Zoh]
 - SONY TEN Cricket [HLS · Sportlink-wtf/Sports]
 - SONY TEN Cricket [HLS · JioTV+ 16]
-- Türkiye vs Belgium - 12 Nov 2026 [ENG] [HLS · SonyLIV 3]
 
 ### Sports - FanCode - English (3)
 
@@ -480,23 +481,24 @@ Generated 2026-11-12T18:22:01.210Z by `scripts/curate-live.mjs` — do not edit 
 |---|---|---:|
 | JioTV proxy (hjh-545.pages.dev) | static | 111 |
 | maybetv/Jo/Zoh2.m3u | github | 2 |
-| maybetv/Jo/Zoh.m3u | github | 5 |
+| maybetv/Jo/Zoh.m3u | github | 3 |
 | maybetv/Jo/Zohplx.m3u | github | 5 |
 | sportlive18/Sportlink-wtf/Sports.m3u | github | 10 |
 | sportlive18/Sportlink-wtf/Sport.m3u | github | 1 |
 | JioTV+ 32 (jiotv_32) | pinned | 100 |
-| JioTV+ 8 (jiotv_8) | pinned | 8 |
+| JioTV+ 8 (jiotv_8) | pinned | 6 |
+| JioTV+ 20 (jiotv_20) | pinned | 1 |
 | JioTV+ 16 (jiotv_16) | pinned | 76 |
 | JioTV+ 28 (jiotv_28) | pinned | 10 |
 | Star 3 (star_3) | pinned | 14 |
 | Special (special) | pinned | 13 |
 | Mix Channels (mix_channels) | pinned | 3 |
 | Prime Sports 1 (prime_sports_one) | pinned | 2 |
-| All in one 3 (all_in_one_3) | discovered | 64 |
+| All in one 3 (all_in_one_3) | discovered | 68 |
 | SonyLIV 3 (sonyliv_three) | discovered | 2 |
-| Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 2 |
+| Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 0 |
 | Fancode 1 [Backup] (fancode_one_backup) | discovered | 1 |
 
-Sources that returned nothing this run: 23 of 60. See `jash-live.stats.json`.
+Sources that returned nothing this run: 24 of 60. See `jash-live.stats.json`.
 
 Playback was **not** verified: entries carry upstream playback properties unchanged, and a stream may still need a compatible player, legitimate access or region availability.

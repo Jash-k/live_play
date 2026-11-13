@@ -1,15 +1,5 @@
 [
   {
-    "name": "Barcelona Women vs Arsenal Women [UEFA Women's Champions League 2026-27]",
-    "family": "FanCode",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
     "name": "DD Sports",
     "family": "DD Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -40,7 +30,7 @@
     }
   },
   {
-    "name": "FC Barcelona vs. Arsenal WFC",
+    "name": "NARA Nationals at Southern Illinois Center",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -50,7 +40,7 @@
     }
   },
   {
-    "name": "Featured Group - Day 1 vs Omni Barton Creek Resort & Spa (Fazio Canyons Cour [Austin Championship 2026]",
+    "name": "New South Wales vs South Australia [Sheffield Shield, 2026/27]",
     "family": "FanCode",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -70,22 +60,32 @@
     }
   },
   {
-    "name": "Orleans 2026 - Early Rounds - 7",
-    "family": "Prime Sports",
+    "name": "Quarter-Final vs Japan [BWF Super 500 - Japan Masters 2026]",
+    "family": "FanCode",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
+      "origin": "index"
     }
   },
   {
-    "name": "Orleans 2026 - Early Rounds - 7",
+    "name": "Queensland vs Tasmania [Sheffield Shield, 2026/27]",
+    "family": "FanCode",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "San Diego State at Texas State",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
       "origin": "index"
     }
   },
@@ -314,8 +314,8 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_8",
-      "label": "JioTV+ 8 (jiotv_8)",
+      "key": "all_in_one_3",
+      "label": "All in one 3 (all_in_one_3)",
       "origin": "index"
     }
   },
@@ -370,7 +370,7 @@
     }
   },
   {
-    "name": "Triton Poker ONE Series Cyprus-$8K Main Event",
+    "name": "Tennis Today Live-Stockholm-ATP & Orleans-ATP Early Rounds",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -380,27 +380,7 @@
     }
   },
   {
-    "name": "Triton Poker ONE Series Cyprus-$8K Main Event",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Triton Poker ONE Series Cyprus-$8K Main Event",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "World Feed vs Stockholm, Sweden [ATP 250 - Bybit Stockholm Open 2026]",
+    "name": "Victoria vs Western Australia [Sheffield Shield, 2026/27]",
     "family": "FanCode",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {

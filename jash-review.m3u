@@ -1,11 +1,8 @@
 #EXTM3U
 #PLAYLIST:JaSH - Tamil channels, Tamil/English sports and Bigg Boss Tamil - review queue
 #NOTE:Not part of the main feed: sports rows without a verifiable Tamil/English label.
-#GENERATED:2026-11-12T18:22:01.210Z
-#ENTRIES:41
-
-#EXTINF:-1 tvg-id="4249500-fancode" tvg-name="Barcelona Women vs Arsenal Women [UEFA Women's Champions League 2026-27] [HLS · All in one 3]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249500_53078_BAR-W_ARS-W_fc-web.jpg" group-title="Review - language uncertain" base-name="Barcelona Women vs Arsenal Women [UEFA Women's Champions League 2026-27]" stream-type="HLS" stream-source="All in one 3",Barcelona Women vs Arsenal Women [UEFA Women's Champions League 2026-27] [HLS · All in one 3]
-https://in-mc-plive.fancode.com/mumbai/4249500_english_hls_ea0c1c592833326_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794591304~_GO=Generated~acl=/mumbai/4249500_english_hls_ea0c1c592833326_1ta-di_h264/*~SessionID=9309450855_watcho_64744435-a46b-4f~Signature=AbO9BjjLx_reNo2X0_5k6-ZoHIhqgWA10E5rsDcKgOFSA1ecKGGDL8M110ovKeQV6fHzyuhwlYJY8Np381JJRd5bmbwM
+#GENERATED:2026-11-13T01:08:23.135Z
+#ENTRIES:39
 
 #EXTINF:-1 tvg-id="223" tvg-name="DD Sports [HLS · Sportlink-wtf/Sports]" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png" group-title="Review - language uncertain" base-name="DD Sports" stream-type="HLS" stream-source="Sportlink-wtf/Sports",DD Sports [HLS · Sportlink-wtf/Sports]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -28,32 +25,31 @@ https://hjh-545.pages.dev/stream?id=ddsports
 #EXTVLCOPT:http-referrer=https://dishhomego.com.np/
 https://ottlive.dishhome.com.np/protected/jATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 
-#EXTINF:-1 tvg-id="B0HQR7LG94" tvg-name="FC Barcelona vs. Arsenal WFC [DASH · ClearKey · Prime Sports 1]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.a358c817-d8b1-48dd-ae41-4bd25baa935a/4/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="FC Barcelona vs. Arsenal WFC" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1",FC Barcelona vs. Arsenal WFC [DASH · ClearKey · Prime Sports 1]
+#EXTINF:-1 tvg-id="B0HJZSBL2M" tvg-name="NARA Nationals at Southern Illinois Center [DASH · ClearKey · Prime Sports 1]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.bebcf5dd-1566-4436-a821-a7675d43e030/2/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="NARA Nationals at Southern Illinois Center" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1",NARA Nationals at Southern Illinois Center [DASH · ClearKey · Prime Sports 1]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd
 
-#EXTINF:-1 tvg-id="4250881-fancode" tvg-name="Featured Group - Day 1 vs Omni Barton Creek Resort & Spa (Fazio Canyons Cour [Austin Championship 2026] [HLS · All in one 3]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Austin-championship_Web-match-card.png" group-title="Review - language uncertain" base-name="Featured Group - Day 1 vs Omni Barton Creek Resort & Spa (Fazio Canyons Cour [Austin Championship 2026]" stream-type="HLS" stream-source="All in one 3",Featured Group - Day 1 vs Omni Barton Creek Resort & Spa (Fazio Canyons Cour [Austin Championship 2026] [HLS · All in one 3]
-https://in-mc-plive.fancode.com/mumbai/4250881_english_hls_3b1be586ad16086_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794577881~_GO=Generated~acl=/mumbai/4250881_english_hls_3b1be586ad16086_1ta-di_h264/*~SessionID=9309450855_watcho_4a63ff9f-904e-4c~Signature=AbO9BjgTzWmrYQ10nToikWajiGpF2iaReI2g9M4Uy2ak7XKOh6vPGhPd8y3oUBkjiIuUzH_bwTn_ItzNEmAlgWvv5IoI
+#EXTINF:-1 tvg-id="4249671-fancode" tvg-name="New South Wales vs South Australia [Sheffield Shield 2026/27] [HLS · All in one 3]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249671_53087_NSW_SAU_FC-WEB.jpg" group-title="Review - language uncertain" base-name="New South Wales vs South Australia [Sheffield Shield 2026/27]" stream-type="HLS" stream-source="All in one 3",New South Wales vs South Australia [Sheffield Shield 2026/27] [HLS · All in one 3]
+https://in-mc-plive.fancode.com/mumbai/4249671_english_hls_4ea963994d63563_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794611952~_GO=Generated~acl=/mumbai/4249671_english_hls_4ea963994d63563_1ta-di_h264/*~SessionID=9309450855_watcho_6849f4f1-a687-49~Signature=AbO9BjjeQFUDTSLAOI7L05SRqZ4oihns-uOB5P8X1H1TI_PENDWMq5UMTD9Gm3gAOWIRkAjegxOG7srek2NrCOrpG6cP
 
 #EXTINF:-1 tvg-id="willow-no-events" tvg-name="No live events [All in one 3]" tvg-logo="" group-title="Review - language uncertain" base-name="No live events" stream-source="All in one 3",No live events [All in one 3]
 https://no-live-events.invalid/willow
 
-#EXTINF:-1 tvg-id="B0HPP3VBT8" tvg-name="Orleans 2026 - Early Rounds - 7 [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.22bcaf15-b559-4039-91e5-699d825da84d/7/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Orleans 2026 - Early Rounds - 7" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",Orleans 2026 - Early Rounds - 7 [DASH · ClearKey · Jo/Zoh]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+#EXTINF:-1 tvg-id="4250631-fancode" tvg-name="Quarter-Final vs Japan [BWF Super 500 - Japan Masters 2026] [HLS · All in one 3]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Japan-Masters_fc-web.jpg" group-title="Review - language uncertain" base-name="Quarter-Final vs Japan [BWF Super 500 - Japan Masters 2026]" stream-type="HLS" stream-source="All in one 3",Quarter-Final vs Japan [BWF Super 500 - Japan Masters 2026] [HLS · All in one 3]
+https://in-mc-plive.fancode.com/mumbai/4250631_english_hls_dc90967e3d84043_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794617188~_GO=Generated~acl=/mumbai/4250631_english_hls_dc90967e3d84043_1ta-di_h264/*~SessionID=9309450855_watcho_b5c5c6e3-bbd6-4b~Signature=AbO9Bjh3mZFCRquum0vIughrJrSDQ8jdWnMKLp93U8JEZra3MnR4MbByuARpoSDO8TUOR_x6dsxzYCEf0IBsLvNpaM8C
 
-#EXTINF:-1 tvg-id="B0HPP3VBT8" tvg-name="Orleans 2026 - Early Rounds - 7 [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.22bcaf15-b559-4039-91e5-699d825da84d/7/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Orleans 2026 - Early Rounds - 7" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",Orleans 2026 - Early Rounds - 7 [DASH · ClearKey · Prime Sports 1 [Backup]]
+#EXTINF:-1 tvg-id="4249673-fancode" tvg-name="Queensland vs Tasmania [Sheffield Shield 2026/27] [HLS · All in one 3]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249673_53087_QUN_TAS_FC-WEB.jpg" group-title="Review - language uncertain" base-name="Queensland vs Tasmania [Sheffield Shield 2026/27]" stream-type="HLS" stream-source="All in one 3",Queensland vs Tasmania [Sheffield Shield 2026/27] [HLS · All in one 3]
+https://in-mc-plive.fancode.com/mumbai/4249673_english_hls_1f70f8c9aa97142_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794612280~_GO=Generated~acl=/mumbai/4249673_english_hls_1f70f8c9aa97142_1ta-di_h264/*~SessionID=9309450855_watcho_79113f9c-f996-47~Signature=AbO9BjisikmJOZ6nNVCmSDInTOwpOZf33Jl8Ytn-WWZXq0XQHi_KGaJ-buhbVR9SBXSZD28YXrUxPfzHp6b4puRrXqYF
+
+#EXTINF:-1 tvg-id="B0HQT3JCQT" tvg-name="San Diego State at Texas State [DASH · ClearKey · Prime Sports 1]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.8eda9e17-db2f-4f36-80cc-a00d07a5b856/3/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="San Diego State at Texas State" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1",San Diego State at Texas State [DASH · ClearKey · Prime Sports 1]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
 
 #EXTINF:-1 tvg-id="162" tvg-name="Sony LIV Sports 1 [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 1" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Sony LIV Sports 1 [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -138,16 +134,16 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_5_MOB/WDVLive/index.mpd?__
 #EXTINF:-1 tvg-id="ten3.sonyliv" tvg-name="Sony Ten 3 [HLS · All in one 3]" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi.png" group-title="Review - language uncertain" base-name="Sony Ten 3" stream-type="HLS" stream-source="All in one 3",Sony Ten 3 [HLS · All in one 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794528551~acl=/*~id=89377184340403922758895672546929~hmac=db9037ea25db9460cde79b2d80f746681834e0c92053883699cf743b9b117f32
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794528551~acl=/*~id=89377184340403922758895672546929~hmac=db9037ea25db9460cde79b2d80f746681834e0c92053883699cf743b9b117f32"}
-https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1794528551~acl=/*~id=89377184340403922758895672546929~hmac=db9037ea25db9460cde79b2d80f746681834e0c92053883699cf743b9b117f32
+#EXTVLCOPT:http-cookie=hdnea=exp=1794571645~acl=/*~id=69672686139627656766973108237241~hmac=9a09fd04287f671ce5c7e9c274d9506eed59989a8186d595ae4f0983b59606aa
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794571645~acl=/*~id=69672686139627656766973108237241~hmac=9a09fd04287f671ce5c7e9c274d9506eed59989a8186d595ae4f0983b59606aa"}
+https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1794571645~acl=/*~id=69672686139627656766973108237241~hmac=9a09fd04287f671ce5c7e9c274d9506eed59989a8186d595ae4f0983b59606aa
 
 #EXTINF:-1 tvg-id="ten3-hd.sonyliv" tvg-name="Sony Ten 3 HD [HLS · All in one 3]" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi_HD.png" group-title="Review - language uncertain" base-name="Sony Ten 3 HD" stream-type="HLS" stream-source="All in one 3",Sony Ten 3 HD [HLS · All in one 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794528551~acl=/*~id=89377184340403922758895672546929~hmac=db9037ea25db9460cde79b2d80f746681834e0c92053883699cf743b9b117f32
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794528551~acl=/*~id=89377184340403922758895672546929~hmac=db9037ea25db9460cde79b2d80f746681834e0c92053883699cf743b9b117f32"}
-https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1794528551~acl=/*~id=89377184340403922758895672546929~hmac=db9037ea25db9460cde79b2d80f746681834e0c92053883699cf743b9b117f32
+#EXTVLCOPT:http-cookie=hdnea=exp=1794571645~acl=/*~id=69672686139627656766973108237241~hmac=9a09fd04287f671ce5c7e9c274d9506eed59989a8186d595ae4f0983b59606aa
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794571645~acl=/*~id=69672686139627656766973108237241~hmac=9a09fd04287f671ce5c7e9c274d9506eed59989a8186d595ae4f0983b59606aa"}
+https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1794571645~acl=/*~id=69672686139627656766973108237241~hmac=9a09fd04287f671ce5c7e9c274d9506eed59989a8186d595ae4f0983b59606aa
 
 #EXTINF:-1 tvg-id="SONY SPORTS TEN 3.in" tvg-name="Sony TEN 3 SD [HLS · Sportlink-wtf/Sports]" tvg-logo="https://i.postimg.cc/XY80VmGH/sonysportsten3.webp" group-title="Review - language uncertain" base-name="Sony TEN 3 SD" stream-type="HLS" stream-source="Sportlink-wtf/Sports",Sony TEN 3 SD [HLS · Sportlink-wtf/Sports]
 https://cloudplay-sonyliv.pages.dev/ten3.m3u8
@@ -155,16 +151,16 @@ https://cloudplay-sonyliv.pages.dev/ten3.m3u8
 #EXTINF:-1 tvg-id="ten4.sonyliv" tvg-name="Sony Ten 4 [HLS · All in one 3]" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_4_Tamil.png" group-title="Review - language uncertain" base-name="Sony Ten 4" stream-type="HLS" stream-source="All in one 3",Sony Ten 4 [HLS · All in one 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794528551~acl=/*~id=89377184340403922758895672546929~hmac=db9037ea25db9460cde79b2d80f746681834e0c92053883699cf743b9b117f32
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794528551~acl=/*~id=89377184340403922758895672546929~hmac=db9037ea25db9460cde79b2d80f746681834e0c92053883699cf743b9b117f32"}
-https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1794528551~acl=/*~id=89377184340403922758895672546929~hmac=db9037ea25db9460cde79b2d80f746681834e0c92053883699cf743b9b117f32
+#EXTVLCOPT:http-cookie=hdnea=exp=1794571645~acl=/*~id=69672686139627656766973108237241~hmac=9a09fd04287f671ce5c7e9c274d9506eed59989a8186d595ae4f0983b59606aa
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794571645~acl=/*~id=69672686139627656766973108237241~hmac=9a09fd04287f671ce5c7e9c274d9506eed59989a8186d595ae4f0983b59606aa"}
+https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1794571645~acl=/*~id=69672686139627656766973108237241~hmac=9a09fd04287f671ce5c7e9c274d9506eed59989a8186d595ae4f0983b59606aa
 
 #EXTINF:-1 tvg-id="ten4-hd.sonyliv" tvg-name="Sony Ten 4 HD [HLS · All in one 3]" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_4_Telugu.png" group-title="Review - language uncertain" base-name="Sony Ten 4 HD" stream-type="HLS" stream-source="All in one 3",Sony Ten 4 HD [HLS · All in one 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-cookie=hdnea=exp=1794528551~acl=/*~id=89377184340403922758895672546929~hmac=db9037ea25db9460cde79b2d80f746681834e0c92053883699cf743b9b117f32
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794528551~acl=/*~id=89377184340403922758895672546929~hmac=db9037ea25db9460cde79b2d80f746681834e0c92053883699cf743b9b117f32"}
-https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1794528551~acl=/*~id=89377184340403922758895672546929~hmac=db9037ea25db9460cde79b2d80f746681834e0c92053883699cf743b9b117f32
+#EXTVLCOPT:http-cookie=hdnea=exp=1794571645~acl=/*~id=69672686139627656766973108237241~hmac=9a09fd04287f671ce5c7e9c274d9506eed59989a8186d595ae4f0983b59606aa
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36","Referrer":"https://www.sonyliv.com/","Origin":"https://www.sonyliv.com","Cookie":"hdnea=exp=1794571645~acl=/*~id=69672686139627656766973108237241~hmac=9a09fd04287f671ce5c7e9c274d9506eed59989a8186d595ae4f0983b59606aa"}
+https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1794571645~acl=/*~id=69672686139627656766973108237241~hmac=9a09fd04287f671ce5c7e9c274d9506eed59989a8186d595ae4f0983b59606aa
 
 #EXTINF:-1 tvg-id="SONY SPORTS TEN 4.in" tvg-name="Sony TEN 4 SD [HLS · Sportlink-wtf/Sports]" tvg-logo="https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png" group-title="Review - language uncertain" base-name="Sony TEN 4 SD" stream-type="HLS" stream-source="Sportlink-wtf/Sports",Sony TEN 4 SD [HLS · Sportlink-wtf/Sports]
 https://cloudplay-sonyliv.pages.dev/ten4.m3u8
@@ -186,14 +182,15 @@ https://hjh-545.pages.dev/stream?id=starsports3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2904732c8fb55ebeaa0f59316916997e:f69101b71872dcfb2cd1987d3773c0f4,82dc7db814ef5165a3d93102f40a5142:f767c4c59fbfeaf84754994a0ed5dc8b,6fbf6696ff3051768337a34da0e66eb8:cae19d171fb1015a89342e5185f8cc7b,2f040ce640ee57978b0bcbb975af00a4:88c56371262c1bbe843c174720bbdeb0,c19b6cfea03150bea01a255345e5d706:8ed757eda2b740285bcf9a8fd9263422
-https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st=1794490823~exp=1794512423~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=e3584c4869faa32c6ddd30b5b62ae36ac50341dc7156adc5de4c3daa774e5970
+#KODIPROP:inputstream.adaptive.license_key=2904732c8fb55ebeaa0f59316916997e:f69101b71872dcfb2cd1987d3773c0f4,2f040ce640ee57978b0bcbb975af00a4:88c56371262c1bbe843c174720bbdeb0,6fbf6696ff3051768337a34da0e66eb8:cae19d171fb1015a89342e5185f8cc7b,c19b6cfea03150bea01a255345e5d706:8ed757eda2b740285bcf9a8fd9263422,82dc7db814ef5165a3d93102f40a5142:f767c4c59fbfeaf84754994a0ed5dc8b
+https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st=1794524118~exp=1794545718~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=9d78fb4746a8029c3bead385597794683869c396f2501095891f814e40e1825f
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 3 [DASH · ClearKey · JioTV+ 8]" tvg-logo="https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg" group-title="Review - language uncertain" base-name="Star Sports 3" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 8",Star Sports 3 [DASH · ClearKey · JioTV+ 8]
+#EXTINF:-1 tvg-id="1389" tvg-name="Star Sports 3 [DASH · ClearKey · All in one 3]" tvg-logo="https://img.media.jio.com/tvpimages/78/2/302117_1753186009563_l_medium.jpg" group-title="Review - language uncertain" base-name="Star Sports 3" stream-type="DASH" stream-drm="ClearKey" stream-source="All in one 3",Star Sports 3 [DASH · ClearKey · All in one 3]
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e4e8647eaf0659ac85f61765a5abcdc1:d749c9b27505beb0e1a8b6c30ca65de6
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st=1794491708~exp=1794513308~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=18d49346239da8c8baeb28293c9841bceec77aa1754851702b0338f84aa88b96
+#KODIPROP:inputstream.adaptive.license_key=2904732c8fb55ebeaa0f59316916997e:f69101b71872dcfb2cd1987d3773c0f4,2f040ce640ee57978b0bcbb975af00a4:88c56371262c1bbe843c174720bbdeb0,6fbf6696ff3051768337a34da0e66eb8:cae19d171fb1015a89342e5185f8cc7b,c19b6cfea03150bea01a255345e5d706:8ed757eda2b740285bcf9a8fd9263422,82dc7db814ef5165a3d93102f40a5142:f767c4c59fbfeaf84754994a0ed5dc8b
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st=1794524118~exp=1794545718~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=9d78fb4746a8029c3bead385597794683869c396f2501095891f814e40e1825f
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 3 Digital [DASH · ClearKey · Star 3]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2523/1783001062523-h.jpg" group-title="Review - language uncertain" base-name="Star Sports 3 Digital" stream-type="DASH" stream-drm="ClearKey" stream-source="Star 3",Star Sports 3 Digital [DASH · ClearKey · Star 3]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -203,9 +200,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdn
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1794522880~acl=%2f*~id=4b0e95bc45ac636d127f9749237c24d3~data=hdntl~hmac=eb5db6ae9f10c4cf12bcfd6cee135917d52613fd675c366509214babb9e215f3
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1794522880~acl=%2f*~id=4b0e95bc45ac636d127f9749237c24d3~data=hdntl~hmac=eb5db6ae9f10c4cf12bcfd6cee135917d52613fd675c366509214babb9e215f3"}
-https://livetv.hotstar.com/mp1/gec-india-1540068301/c776132a964441e1b929b2c0451222af/index.mpd?|cookie=hdntl=exp=1794522880~acl=%2f*~id=4b0e95bc45ac636d127f9749237c24d3~data=hdntl~hmac=eb5db6ae9f10c4cf12bcfd6cee135917d52613fd675c366509214babb9e215f3&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+#EXTVLCOPT:http-cookie=hdntl=exp=1794594895~acl=%2f*~id=1462bb784f712c5151d85a9608494c35~data=hdntl~hmac=34c022eee5b94c3d97499c76f16c5401e4ca2f9ece471f8806d9674fbeb00217
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1794594895~acl=%2f*~id=1462bb784f712c5151d85a9608494c35~data=hdntl~hmac=34c022eee5b94c3d97499c76f16c5401e4ca2f9ece471f8806d9674fbeb00217"}
+https://livetv.hotstar.com/mp1/gec-india-1540068301/c776132a964441e1b929b2c0451222af/index.mpd?|cookie=hdntl=exp=1794594895~acl=%2f*~id=1462bb784f712c5151d85a9608494c35~data=hdntl~hmac=34c022eee5b94c3d97499c76f16c5401e4ca2f9ece471f8806d9674fbeb00217&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 
 #EXTINF:-1 tvg-id="1998" tvg-name="Star Sports Khel [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/StarSportsKhel.png" group-title="Review - language uncertain" base-name="Star Sports Khel" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Star Sports Khel [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -214,19 +211,19 @@ https://livetv.hotstar.com/mp1/gec-india-1540068301/c776132a964441e1b929b2c04512
 #KODIPROP:inputstream.adaptive.license_key=906cc35528ca58348e7fed58f8796687:3a1eaff9da6a0083567fb1ea1eaa21f5,1dfe1c29b8f15ab3a158bb27eb5b8d3f:432ff00824d61ff1da1348cc53e0968c,942646c32cde5325a7c33b137cf7d46e:ebb1edf4d1ca69738d8cf378a00ad35d,2898824f2440509698d04f0109f1d285:58e2fbc4e5ae22f973c21c402340debc,1eb81f72a86d56c3bdfe905c2e987d1d:4720e2ac970828d2befb2cf838d486fb
 https://hjh-545.pages.dev/stream?id=starsportskhel
 
-#EXTINF:-1 tvg-id="1998" tvg-name="Star Sports Khel [DASH · ClearKey · JioTV+ 32]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/StarSportsKhel.png" group-title="Review - language uncertain" base-name="Star Sports Khel" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 32",Star Sports Khel [DASH · ClearKey · JioTV+ 32]
+#EXTINF:-1 tvg-id="1998" tvg-name="Star Sports Khel [DASH · ClearKey · JioTV+ 32]" tvg-logo="https://img.media.jio.com/tvpimages/88/40/301246_1760689454012_l_medium.jpg" group-title="Review - language uncertain" base-name="Star Sports Khel" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 32",Star Sports Khel [DASH · ClearKey · JioTV+ 32]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=942646c32cde5325a7c33b137cf7d46e:ebb1edf4d1ca69738d8cf378a00ad35d,2898824f2440509698d04f0109f1d285:58e2fbc4e5ae22f973c21c402340debc,1eb81f72a86d56c3bdfe905c2e987d1d:4720e2ac970828d2befb2cf838d486fb,906cc35528ca58348e7fed58f8796687:3a1eaff9da6a0083567fb1ea1eaa21f5,1dfe1c29b8f15ab3a158bb27eb5b8d3f:432ff00824d61ff1da1348cc53e0968c
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsKhel_BTS/WDVLive/index.mpd?__hdnea__=st=1794490821~exp=1794512421~acl=/bpk-tv/StarSportsKhel_BTS/WDVLive/*~hmac=80217612d631717e6d59931c65daccfdbbd431664040be61ec4fefea057327e1
+#KODIPROP:inputstream.adaptive.license_key=906cc35528ca58348e7fed58f8796687:3a1eaff9da6a0083567fb1ea1eaa21f5,1dfe1c29b8f15ab3a158bb27eb5b8d3f:432ff00824d61ff1da1348cc53e0968c,942646c32cde5325a7c33b137cf7d46e:ebb1edf4d1ca69738d8cf378a00ad35d,2898824f2440509698d04f0109f1d285:58e2fbc4e5ae22f973c21c402340debc,1eb81f72a86d56c3bdfe905c2e987d1d:4720e2ac970828d2befb2cf838d486fb
+https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsKhel_BTS/WDVLive/index.mpd?__hdnea__=st=1794524115~exp=1794545715~acl=/bpk-tv/StarSportsKhel_BTS/WDVLive/*~hmac=7ee33bb77640d26cfde145589c96d30a396e9a4f04ad7d7677044294f489597d
 
 #EXTINF:-1 tvg-id="1998" tvg-name="Star Sports Khel [DASH · ClearKey · All in one 3]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/StarSportsKhel.png" group-title="Review - language uncertain" base-name="Star Sports Khel" stream-type="DASH" stream-drm="ClearKey" stream-source="All in one 3",Star Sports Khel [DASH · ClearKey · All in one 3]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=906cc35528ca58348e7fed58f8796687:3a1eaff9da6a0083567fb1ea1eaa21f5,1dfe1c29b8f15ab3a158bb27eb5b8d3f:432ff00824d61ff1da1348cc53e0968c,942646c32cde5325a7c33b137cf7d46e:ebb1edf4d1ca69738d8cf378a00ad35d,2898824f2440509698d04f0109f1d285:58e2fbc4e5ae22f973c21c402340debc,1eb81f72a86d56c3bdfe905c2e987d1d:4720e2ac970828d2befb2cf838d486fb
 #EXTVLCOPT:http-user-agent=PlayTV/7.1.5 (Linux;Android 8.1.0) ExoPlayerLib/2.11.7
-#EXTHTTP:{"cookie":"__hdnea__=st=1794501920~exp=1794523520~acl=/bpk-tv/StarSportsKhel_BTS/WDVLive/*~hmac=2ef7fdbb91e1034c25421f6ccf5247a556e5050840e284beecda489988babe3f"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794524115~exp=1794545715~acl=/bpk-tv/StarSportsKhel_BTS/WDVLive/*~hmac=7ee33bb77640d26cfde145589c96d30a396e9a4f04ad7d7677044294f489597d"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsKhel_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports Khel Digital [DASH · ClearKey · Star 3]" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/270/1782998020270-h.jpg" group-title="Review - language uncertain" base-name="Star Sports Khel Digital" stream-type="DASH" stream-drm="ClearKey" stream-source="Star 3",Star Sports Khel Digital [DASH · ClearKey · Star 3]
@@ -237,30 +234,16 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsKhel_BTS/WDVLive/index.mpd
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
-#EXTVLCOPT:http-cookie=hdntl=exp=1794522880~acl=%2f*~id=4b0e95bc45ac636d127f9749237c24d3~data=hdntl~hmac=eb5db6ae9f10c4cf12bcfd6cee135917d52613fd675c366509214babb9e215f3
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1794522880~acl=%2f*~id=4b0e95bc45ac636d127f9749237c24d3~data=hdntl~hmac=eb5db6ae9f10c4cf12bcfd6cee135917d52613fd675c366509214babb9e215f3"}
-https://livetv.hotstar.com/mp2/gec-india-1540073624/4a56d383d1074f3d908a7f9b7a3321f1/index.mpd?|cookie=hdntl=exp=1794522880~acl=%2f*~id=4b0e95bc45ac636d127f9749237c24d3~data=hdntl~hmac=eb5db6ae9f10c4cf12bcfd6cee135917d52613fd675c366509214babb9e215f3&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
+#EXTVLCOPT:http-cookie=hdntl=exp=1794594895~acl=%2f*~id=1462bb784f712c5151d85a9608494c35~data=hdntl~hmac=34c022eee5b94c3d97499c76f16c5401e4ca2f9ece471f8806d9674fbeb00217
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1794594895~acl=%2f*~id=1462bb784f712c5151d85a9608494c35~data=hdntl~hmac=34c022eee5b94c3d97499c76f16c5401e4ca2f9ece471f8806d9674fbeb00217"}
+https://livetv.hotstar.com/mp2/gec-india-1540073624/4a56d383d1074f3d908a7f9b7a3321f1/index.mpd?|cookie=hdntl=exp=1794594895~acl=%2f*~id=1462bb784f712c5151d85a9608494c35~data=hdntl~hmac=34c022eee5b94c3d97499c76f16c5401e4ca2f9ece471f8806d9674fbeb00217&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
 
-#EXTINF:-1 tvg-id="B0HQ6ZJ6TX" tvg-name="Triton Poker ONE Series Cyprus-$8K Main Event [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.73e1d769-2b15-44d3-bbaf-bb8324e3b6f3/4/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Triton Poker ONE Series Cyprus-$8K Main Event" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",Triton Poker ONE Series Cyprus-$8K Main Event [DASH · ClearKey · Jo/Zoh]
+#EXTINF:-1 tvg-id="B0HP69HR8B" tvg-name="Tennis Today Live-Stockholm-ATP & Orleans-ATP Early Rounds [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.64701d4e-6e16-4f88-b7aa-aed1ad262770/5/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Tennis Today Live-Stockholm-ATP & Orleans-ATP Early Rounds" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",Tennis Today Live-Stockholm-ATP & Orleans-ATP Early Rounds [DASH · ClearKey · Jo/Zoh]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HQ6ZJ6TX" tvg-name="Triton Poker ONE Series Cyprus-$8K Main Event [DASH · ClearKey · Prime Sports 1]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.73e1d769-2b15-44d3-bbaf-bb8324e3b6f3/4/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Triton Poker ONE Series Cyprus-$8K Main Event" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1",Triton Poker ONE Series Cyprus-$8K Main Event [DASH · ClearKey · Prime Sports 1]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HQ6ZJ6TX" tvg-name="Triton Poker ONE Series Cyprus-$8K Main Event [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.73e1d769-2b15-44d3-bbaf-bb8324e3b6f3/4/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Triton Poker ONE Series Cyprus-$8K Main Event" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",Triton Poker ONE Series Cyprus-$8K Main Event [DASH · ClearKey · Prime Sports 1 [Backup]]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
-
-#EXTINF:-1 tvg-id="4250585-fancode" tvg-name="World Feed vs Stockholm Sweden [ATP 250 - Bybit Stockholm Open 2026] [HLS · All in one 3]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Bybit-Stockholm-Open_2026_FC-WEB.jpg" group-title="Review - language uncertain" base-name="World Feed vs Stockholm Sweden [ATP 250 - Bybit Stockholm Open 2026]" stream-type="HLS" stream-source="All in one 3",World Feed vs Stockholm Sweden [ATP 250 - Bybit Stockholm Open 2026] [HLS · All in one 3]
-https://in-mc-plive.fancode.com/mumbai/4250585_english_hls_5479830f9b30919_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794577880~_GO=Generated~acl=/mumbai/4250585_english_hls_5479830f9b30919_1ta-di_h264/*~SessionID=9309450855_watcho_d10f1e52-0afc-42~Signature=AbO9BjgE68M_sN4DchYroLLAQhmhmNJYKkLl_GxeQyLOFNUrLW1RedOVfJx4-Qq0vj4W96HAL5d86dQj-roVeOSHEaoJ
+#EXTINF:-1 tvg-id="4249672-fancode" tvg-name="Victoria vs Western Australia [Sheffield Shield 2026/27] [HLS · All in one 3]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249672_53087_VCT_WAU_FC-WEB.jpg" group-title="Review - language uncertain" base-name="Victoria vs Western Australia [Sheffield Shield 2026/27]" stream-type="HLS" stream-source="All in one 3",Victoria vs Western Australia [Sheffield Shield 2026/27] [HLS · All in one 3]
+https://in-mc-plive.fancode.com/mumbai/4249672_english_hls_774ea9bc0e37693_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794611954~_GO=Generated~acl=/mumbai/4249672_english_hls_774ea9bc0e37693_1ta-di_h264/*~SessionID=9309450855_watcho_8365c41b-ecf8-49~Signature=AbO9BjibbFFgKyr7gMxBVTsrHB9jZnbKB05_YDjpurGJWN7ueyKb7a3LpmviIU-4_mTL03Z0gqEQ4DEHeMCxtRG0Ju0H
