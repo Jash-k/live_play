@@ -1,6 +1,6 @@
 [
   {
-    "name": "Abu Dhabi T10 League 2026 - 13th Match - United Tigers vs Emirates Eagles",
+    "name": "Abu Dhabi T10 League 2026 - 15th Match - Arabian Aces vs UAE Bulls",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -10,7 +10,37 @@
     }
   },
   {
-    "name": "Abu Dhabi T10 League 2026 - 15th Match - Arabian Aces vs UAE Bulls",
+    "name": "American Poolplayers Association Billiards-2026 American Poolplayers Association: U.S. Amateur Championships",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "American Poolplayers Association Billiards-2026 American Poolplayers Association: U.S. Amateur Championships",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "CIAA Friday Night Blitz: Fayetteville State vs. Virginia State",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "CIAA Friday Night Blitz: Fayetteville State vs. Virginia State",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -70,6 +100,36 @@
     }
   },
   {
+    "name": "First Semifinal: Melbourne Vipers vs. Queensland Pirates",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "FloRacing Night in America at Senoia Raceway",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "FloRacing Night in America at Senoia Raceway",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
     "name": "No live events",
     "family": "FanCode",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -94,8 +154,8 @@
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
       "origin": "index"
     }
   },
@@ -404,8 +464,8 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_16",
-      "label": "JioTV+ 16 (jiotv_16)",
+      "key": "jiotv_32",
+      "label": "JioTV+ 32 (jiotv_32)",
       "origin": "index"
     }
   },
@@ -450,6 +510,16 @@
     }
   },
   {
+    "name": "Star Sports Khel",
+    "family": "Star Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "jiotv_32",
+      "label": "JioTV+ 32 (jiotv_32)",
+      "origin": "index"
+    }
+  },
+  {
     "name": "Star Sports Khel By Premium PlugX",
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -480,13 +550,33 @@
     }
   },
   {
-    "name": "Triton ONE Poker Series Cyprus-$8K Main Event",
+    "name": "Superkarts USA-Supernationals, Friday",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Superkarts USA-Supernationals, Friday",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
       "key": "prime_sports_one",
       "label": "Prime Sports 1 (prime_sports_one)",
       "origin": "index"
+    }
+  },
+  {
+    "name": "Towson vs Stony Brook - Women's Volleyball",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   },
   {
