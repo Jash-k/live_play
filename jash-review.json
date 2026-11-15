@@ -1,6 +1,6 @@
 [
   {
-    "name": "Abu Dhabi T10 League 2026 - 15th Match - Arabian Aces vs UAE Bulls",
+    "name": "2026 Professional Bowlers Association Elite Tour: Central Regional",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -10,6 +10,56 @@
     }
   },
   {
+    "name": "AEW Full Gear: Buy-In",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "AHA Hockey: Canisius vs RIT - Men's",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "AHA Hockey: Canisius vs RIT - Men's",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "AHA Hockey: Canisius vs RIT - Men's",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Alcorn State vs. Southern",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
     "name": "American Poolplayers Association Billiards-2026 American Poolplayers Association: U.S. Amateur Championships",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -30,7 +80,7 @@
     }
   },
   {
-    "name": "CIAA Friday Night Blitz: Fayetteville State vs. Virginia State",
+    "name": "Athletic Club Boise at Charlotte Independence",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -40,12 +90,22 @@
     }
   },
   {
-    "name": "CIAA Friday Night Blitz: Fayetteville State vs. Virginia State",
+    "name": "Athletic Club Boise at Charlotte Independence",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
       "key": "prime_sports_one",
       "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Central Washington vs West Texas A&M - Football",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
       "origin": "index"
     }
   },
@@ -67,26 +127,6 @@
       "key": "hjh-545",
       "label": "JioTV proxy (hjh-545.pages.dev)",
       "origin": "static"
-    }
-  },
-  {
-    "name": "DD Sports By Premium PlugX",
-    "family": "DD Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "DD Sports By Premium PlugX",
-    "family": "DD Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
     }
   },
   {
@@ -100,7 +140,17 @@
     }
   },
   {
-    "name": "First Semifinal: Melbourne Vipers vs. Queensland Pirates",
+    "name": "Fleetwood Town vs Tranmere Rovers (League Two 2026-27)",
+    "family": "FanCode",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "fancode_one_backup",
+      "label": "Fancode 1 [Backup] (fancode_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Governor's Cup at New Smyrna Speedway",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -110,17 +160,7 @@
     }
   },
   {
-    "name": "FloRacing Night in America at Senoia Raceway",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "FloRacing Night in America at Senoia Raceway",
+    "name": "Governor's Cup at New Smyrna Speedway",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -130,27 +170,17 @@
     }
   },
   {
-    "name": "No live events",
-    "family": "FanCode",
+    "name": "HSR Daytona Classic 24 Hour",
+    "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   },
   {
-    "name": "No live events",
-    "family": "Willow",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Orleans 2026 - Quarterfinals - 9",
+    "name": "HSR Daytona Classic 24 Hour",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -160,6 +190,56 @@
     }
   },
   {
+    "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Megabox Volley Vallefoglia vs. Il Bisonte Firenze",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Nov 14 - PTT Carvoeiro",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "RMAC Championship Game",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "RMAC Championship Game",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
     "name": "Sony LIV Sports 1",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -186,16 +266,6 @@
     "source": {
       "key": "jiotv_8",
       "label": "JioTV+ 8 (jiotv_8)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Sony LIV Sports 1 By Premium PlugX",
-    "family": "Sony Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
       "origin": "index"
     }
   },
@@ -230,16 +300,6 @@
     }
   },
   {
-    "name": "Sony LIV Sports 2 By Premium PlugX",
-    "family": "Sony Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
     "name": "Sony LIV Sports 3",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -270,16 +330,6 @@
     }
   },
   {
-    "name": "Sony LIV Sports 3 By Premium PlugX",
-    "family": "Sony Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
     "name": "Sony LIV Sports 5",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -306,26 +356,6 @@
     "source": {
       "key": "jiotv_8",
       "label": "JioTV+ 8 (jiotv_8)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Sony LIV Sports 5 By Premium PlugX",
-    "family": "Sony Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Sony Ten 3 By Premium PlugX",
-    "family": "Sony Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
       "origin": "index"
     }
   },
@@ -350,16 +380,6 @@
     }
   },
   {
-    "name": "Sony Ten 3 HD By Premium PlugX",
-    "family": "Sony Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
     "name": "Sony TEN 3 SD",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -367,16 +387,6 @@
       "key": "sportlive18_Sportlink-wtf__Sports.m3u",
       "label": "sportlive18/Sportlink-wtf/Sports.m3u",
       "origin": "github"
-    }
-  },
-  {
-    "name": "Sony Ten 4 By Premium PlugX",
-    "family": "Sony Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
     }
   },
   {
@@ -396,16 +406,6 @@
     "source": {
       "key": "special",
       "label": "Special (special)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Sony Ten 4 HD By Premium PlugX",
-    "family": "Sony Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
       "origin": "index"
     }
   },
@@ -444,16 +444,6 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh2.m3u",
-      "label": "maybetv/Jo/Zoh2.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Star Sports 3",
-    "family": "Star Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
       "key": "hjh-545",
       "label": "JioTV proxy (hjh-545.pages.dev)",
       "origin": "static"
@@ -470,32 +460,12 @@
     }
   },
   {
-    "name": "Star Sports 3 By Premium PlugX",
+    "name": "Star Sports 3",
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Star Sports 3 By Premium PlugX",
-    "family": "Star Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Star Sports 3 Digital",
-    "family": "Star Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "star_3",
-      "label": "Star 3 (star_3)",
+      "key": "jiotv_28",
+      "label": "JioTV+ 28 (jiotv_28)",
       "origin": "index"
     }
   },
@@ -520,37 +490,7 @@
     }
   },
   {
-    "name": "Star Sports Khel By Premium PlugX",
-    "family": "Star Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Star Sports Khel By Premium PlugX",
-    "family": "Star Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "all_in_one_3",
-      "label": "All in one 3 (all_in_one_3)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Star Sports Khel Digital",
-    "family": "Star Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "star_3",
-      "label": "Star 3 (star_3)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Superkarts USA-Supernationals, Friday",
+    "name": "Superkarts USA-Supernationals, Saturday",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -560,7 +500,27 @@
     }
   },
   {
-    "name": "Superkarts USA-Supernationals, Friday",
+    "name": "Superkarts USA-Supernationals, Saturday",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Sydney Sixers vs. Melbourne Renegades",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Sydney Sixers vs. Melbourne Renegades",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -570,7 +530,17 @@
     }
   },
   {
-    "name": "Towson vs Stony Brook - Women's Volleyball",
+    "name": "Unknown Match",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Womens Big Bash League 2026 - 23rd Match -Sydney Sixers Women vs Melbourne Renegades Women",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -580,12 +550,12 @@
     }
   },
   {
-    "name": "Triton ONE Poker Series Cyprus-$8K Main Event",
+    "name": "Womens Big Bash League 2026 - 23rd Match -Sydney Sixers Women vs Melbourne Renegades Women",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
       "origin": "index"
     }
   }
