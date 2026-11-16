@@ -9,6 +9,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { parseM3U } from './lib/parse.mjs';
+import { allowedGroups, configProblems } from './lib/groups.mjs';
 
 const argv = process.argv.slice(2);
 let dir = '.';
@@ -22,7 +23,7 @@ const config = JSON.parse(fs.readFileSync(configPath, 'utf8'));
 const errors = [];
 const warnings = [];
 
-function check(filePath, { expectEntries }) {
+function check(filePath, { expectEntries, sourceGrouped = false }) {
   const name = path.basename(filePath);
   if (!fs.existsSync(filePath)) {
     errors.push(`${name}: missing`);
@@ -78,22 +79,35 @@ function check(filePath, { expectEntries }) {
     for (const match of [entry.url, ...entry.props].join(' ').matchAll(/(?:exp|expires)(?:=|%3D)(\d{10})(?!\d)/gi)) {
       if (Number(match[1]) * 1000 < now) warnings.push(`${where}: expired token published`);
     }
+
+    // In a source-grouped playlist the group IS the source, so it must equal the
+    // stream-source fingerprint the renderer wrote for the same entry.
+    if (sourceGrouped) {
+      const source = entry.attrs['stream-source'];
+      if (!source) errors.push(`${where}: no stream-source attribute in a source-grouped playlist`);
+      else if (source !== entry.attrs['group-title']) {
+        errors.push(`${where}: group "${entry.attrs['group-title']}" does not match its source "${source}"`);
+      }
+    }
   }
   return entries;
 }
 
 const mainEntries = check(path.join(dir, config.output.main), { expectEntries: true });
 check(path.join(dir, config.output.review), { expectEntries: false });
-
-const allowedGroups = new Set([config.groups.biggBoss, config.groups.review]);
-(config.tamil.categoryOrder || []).forEach((category) => allowedGroups.add(`${config.groups.tamilPrefix}${category}`));
-for (const family of Object.keys(config.sports.families)) {
-  for (const language of [...config.sports.languages, 'Language unknown']) {
-    allowedGroups.add(`${config.groups.sportsPrefix}${family} - ${language}`);
-  }
+let bySourceSummary = '';
+if (config.output.bySource) {
+  const bySourceEntries = check(path.join(dir, config.output.bySource), { expectEntries: true, sourceGrouped: true });
+  const catalogues = new Set(bySourceEntries.map((entry) => entry.attrs['group-title']));
+  bySourceSummary = `, ${bySourceEntries.length} streams in ${catalogues.size} source catalogues`;
 }
+
+// Same catalogue the curator uses (scripts/lib/groups.mjs): if the config can
+// produce a group that is not in it, that is a config bug, not a data bug.
+const catalogue = allowedGroups(config);
+for (const problem of configProblems(config)) errors.push(`${path.basename(configPath)}: ${problem}`);
 for (const entry of mainEntries) {
-  if (entry.attrs['group-title'] && !allowedGroups.has(entry.attrs['group-title'])) {
+  if (entry.attrs['group-title'] && !catalogue.has(entry.attrs['group-title'])) {
     errors.push(`${config.output.main}: unexpected group "${entry.attrs['group-title']}"`);
   }
 }
@@ -105,7 +119,7 @@ if (!tamil) errors.push(`${config.output.main}: no Tamil channel groups`);
 if (!biggBoss) warnings.push(`${config.output.main}: no Bigg Boss Tamil feed this refresh`);
 
 const withTags = mainEntries.filter((entry) => entry.attrs['stream-type']).length;
-const summary = `${mainEntries.length} main entries (${tamil} Tamil, ${biggBoss} Bigg Boss, ${sports} sports, ${withTags} with a stream tag)`;
+const summary = `${mainEntries.length} main entries (${tamil} Tamil, ${biggBoss} Bigg Boss, ${sports} sports, ${withTags} with a stream tag)${bySourceSummary}`;
 for (const warning of [...new Set(warnings)]) console.warn(`warn: ${warning}`);
 if (errors.length) {
   for (const error of [...new Set(errors)]) console.error(`error: ${error}`);

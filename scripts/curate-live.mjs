@@ -23,6 +23,7 @@ import { buildClassifier, channelKey } from './lib/classify.mjs';
 import { renderPlaylist } from './lib/render.mjs';
 import { detectStream, decorateName } from './lib/streaminfo.mjs';
 import { loadIndex, buildSourcePlan, readSource } from './lib/sources.mjs';
+import { allowedGroups, groupRanks } from './lib/groups.mjs';
 import { mapLimit } from './lib/net.mjs';
 
 const here = path.dirname(fileURLToPath(import.meta.url));
@@ -170,21 +171,32 @@ const mainEntries = collapse(main);
 const reviewEntries = collapse(review);
 
 /* ------------------------------------------------------------------ *
+ * 3b. Never publish a group the validator would reject
+ * ------------------------------------------------------------------ */
+// A label this curator has never seen (an upstream group called "Sports", say)
+// used to reach the published file as "Tamil - Sports" and fail validation,
+// which blocked the whole refresh and left subscribers on a stale feed. Unknown
+// Tamil categories are folded into the default category instead and reported in
+// the stats file, so one new upstream label can never stop a refresh again.
+const catalogue = allowedGroups(config);
+const fallbackGroup = `${config.groups.tamilPrefix}${config.tamil.defaultCategory}`;
+const remapped = [];
+for (const entry of mainEntries) {
+  if (catalogue.has(entry.group) || entry.family) continue;
+  remapped.push({ name: entry.name, from: entry.group, to: fallbackGroup });
+  entry.group = fallbackGroup;
+}
+if (remapped.length) {
+  console.warn(
+    `warn: ${remapped.length} entry/entries moved out of unknown group(s) ` +
+      `${[...new Set(remapped.map((row) => row.from))].join(', ')} into "${fallbackGroup}"`,
+  );
+}
+
+/* ------------------------------------------------------------------ *
  * 4. Order: Bigg Boss, Tamil categories, sports brands, review
  * ------------------------------------------------------------------ */
-const groupRank = new Map();
-groupRank.set(config.groups.biggBoss, 0);
-(config.tamil.categoryOrder || []).forEach((category, order) => {
-  groupRank.set(`${config.groups.tamilPrefix}${category}`, order + 1);
-});
-Object.keys(config.sports.families || {})
-  .filter((family) => family !== 'Bigg Boss')
-  .forEach((family, order) => {
-    groupRank.set(`${config.groups.sportsPrefix}${family} - Tamil`, 100 + order * 2);
-    groupRank.set(`${config.groups.sportsPrefix}${family} - English`, 101 + order * 2);
-    groupRank.set(`${config.groups.sportsPrefix}${family} - Language unknown`, 101 + order * 2);
-  });
-groupRank.set(config.groups.review, 9999);
+const groupRank = groupRanks(config);
 const rankOf = (group) => groupRank.get(group) ?? 500;
 
 // Fingerprint every stream (protocol / DRM / source) so alternates of the same
@@ -214,6 +226,27 @@ function decorateAll(entries) {
 }
 decorateAll(mainEntries);
 decorateAll(reviewEntries);
+
+/* ------------------------------------------------------------------ *
+ * 4b. Source catalogues — the same streams, grouped by where they came
+ *     from. A source that contributed nothing gets no catalogue at all.
+ * ------------------------------------------------------------------ */
+const sourceLabelOf = (entry) =>
+  entry.stream.source || entry.source.short || entry.source.label || entry.source.key || 'unknown source';
+const bySourceEntries = mainEntries.map((entry) => ({ ...entry, group: sourceLabelOf(entry) }));
+const catalogueSize = new Map();
+for (const entry of bySourceEntries) catalogueSize.set(entry.group, (catalogueSize.get(entry.group) || 0) + 1);
+// Busiest catalogue first; inside a catalogue, alphabetical.
+bySourceEntries.sort(
+  (a, b) =>
+    catalogueSize.get(b.group) - catalogueSize.get(a.group) ||
+    a.group.localeCompare(b.group) ||
+    a.name.localeCompare(b.name),
+);
+decorateAll(bySourceEntries);
+const catalogueCounts = Object.fromEntries(
+  [...catalogueSize].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0])),
+);
 
 /* ------------------------------------------------------------------ *
  * 5. Safety gate – never publish an empty or unrepresentative feed
@@ -304,7 +337,9 @@ const stats = {
     byGroup: tally(mainEntries),
   },
   review: { total: reviewEntries.length, byGroup: tally(reviewEntries) },
+  bySource: { total: bySourceEntries.length, catalogues: catalogueCounts },
   dropped,
+  remapped,
   missingSportsFamilies: missingFamilies,
   playbackVerified: false,
 };
@@ -324,6 +359,17 @@ fs.writeFileSync(path.join(outputDir, files.review), renderPlaylist(reviewEntrie
   generatedAt,
   entryOptions,
 }));
+// Same streams as the main feed, filed under the source that supplied them.
+// Sources with no usable row simply do not appear.
+if (files.bySource) {
+  fs.writeFileSync(path.join(outputDir, files.bySource), renderPlaylist(bySourceEntries, {
+    title: `${files.title} - by source`,
+    note: 'Identical streams to the main feed, grouped by upstream source. Sources that contributed nothing have no group.',
+    generatedAt,
+    entryOptions,
+    extraLines: [`#CATALOGUES:${catalogueSize.size} sources contributed ${bySourceEntries.length} streams`],
+  }));
+}
 fs.writeFileSync(path.join(outputDir, files.stats), `${JSON.stringify(stats, null, 2)}\n`);
 fs.writeFileSync(path.join(outputDir, files.reviewJson), `${JSON.stringify(
   reviewEntries.map((entry) => ({
@@ -347,10 +393,17 @@ function renderSummary() {
     '',
     `${mainEntries.length} stream options in \`${files.main}\`: ${tamilCount} Tamil channels, ${biggBossCount} Bigg Boss Tamil, ${stats.main.sports} sports feeds.`,
     `${reviewEntries.length} further stream options are parked in \`${files.review}\` because upstream states no Tamil/English language.`,
+    `${bySourceEntries.length} of those streams are also published in \`${files.bySource}\`, filed under the ${catalogueSize.size} sources that supplied them.`,
     '',
     '| Group | Streams |',
     '|---|---:|',
     ...Object.entries(stats.main.byGroup).map(([group, count]) => `| ${group} | ${count} |`),
+    '',
+    `## Source catalogues (\`${files.bySource || 'by source'}\`)`,
+    '',
+    '| Source | Streams |',
+    '|---|---:|',
+    ...Object.entries(catalogueCounts).map(([source, count]) => `| ${source} | ${count} |`),
     '',
     '## Channels (alternate streams of the same brand may repeat)',
     '',
@@ -391,6 +444,7 @@ console.log(JSON.stringify({
   biggBoss: biggBossCount,
   sports: stats.main.sports,
   reviewEntries: reviewEntries.length,
+  sourceCatalogues: catalogueSize.size,
   okSources: okSources.length,
   discovered: stats.index.discovered,
   missingSportsFamilies: missingFamilies,

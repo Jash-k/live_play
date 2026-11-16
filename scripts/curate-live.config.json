@@ -2,6 +2,7 @@
   "version": 2,
   "output": {
     "main": "jash-live.m3u",
+    "bySource": "jash-by-source.m3u",
     "review": "jash-review.m3u",
     "stats": "jash-live.stats.json",
     "reviewJson": "jash-review.json",
@@ -43,9 +44,7 @@
       "jiotv_36",
       "jiotv_18",
       "jiotv_28",
-      "star_3",
       "special",
-      "sonytv_4",
       "mix_channels",
       "yupptv_one",
       "yupptv_two",
@@ -78,6 +77,83 @@
       "url": "https://hjh-545.pages.dev/",
       "note": "Direct M3U feed proxying JioTV channels with clearkey props; no expiring tokens in the URLs.",
       "short": "JioTV proxy"
+    },
+    {
+      "id": "saboorabd_tamil-iptv-player",
+      "label": "saboorabd/Tamil-iptv-player",
+      "url": "https://raw.githubusercontent.com/saboorabd/Tamil-iptv-player/HEAD/public/playlist.m3u",
+      "note": "Verified 2026-11-15: 102 Tamil rows + the only working Bigg Boss Tamil 24/7 feed upstream.",
+      "short": "Tamil Player"
+    },
+    {
+      "id": "snwebdev211-jpg_tamil-world-iptv",
+      "label": "snwebdev211-jpg/Tamil-World-IPTV",
+      "url": "https://raw.githubusercontent.com/snwebdev211-jpg/Tamil-World-IPTV/HEAD/playlists/all-sources.m3u",
+      "note": "Verified 2026-11-15: 132 Tamil + 3 Tamil sports rows, repo pushed 2026-11-14.",
+      "short": "Tamil World"
+    },
+    {
+      "id": "arunnivas85_iptv-tamil",
+      "label": "arunnivas85/IPTV-Tamil",
+      "url": "https://raw.githubusercontent.com/arunnivas85/IPTV-Tamil/HEAD/TWCIPTV.m3u",
+      "note": "Verified 2026-11-15: 252 Tamil rows (largest Tamil-only list found on GitHub).",
+      "short": "TWC Tamil"
+    },
+    {
+      "id": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
+      "url": "https://raw.githubusercontent.com/SIDDXELCE/JTV1MPD/HEAD/JIO%20DRM%20LIVE.m3u",
+      "note": "Verified 2026-11-15: 83 Tamil + 15 sports rows with clearkey props.",
+      "short": "JTV DRM"
+    },
+    {
+      "id": "amazeyourself_tamil-local-iptv",
+      "label": "amazeyourself/tamil-local-iptv",
+      "url": "https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/HEAD/channels.m3u",
+      "note": "Verified 2026-11-15: 53 Tamil rows, 30 stars, repo pushed today.",
+      "short": "Tamil Local"
+    },
+    {
+      "id": "vishvakumar_pavish-family-tv",
+      "label": "Vishvakumar/pavish-family-tv",
+      "url": "https://raw.githubusercontent.com/Vishvakumar/pavish-family-tv/HEAD/playlist-full.m3u",
+      "note": "Verified 2026-11-15: 55 Tamil + 1 sports row.",
+      "short": "Pavish TV"
+    },
+    {
+      "id": "3dfm07_smartiptv-jiotv",
+      "label": "3DFM07/smartiptv-api-JioTv.m3u8",
+      "url": "https://raw.githubusercontent.com/3DFM07/smartiptv-api-JioTv.m3u8/HEAD/smartiptv-api-JioTv.m3u8_playlist.m3u",
+      "note": "Verified 2026-11-15: 72 Tamil + 16 sports rows (Sony Ten family).",
+      "short": "SmartIPTV Jio"
+    },
+    {
+      "id": "iqbal8846_sports-iptv",
+      "label": "iqbal8846/sports-iptv",
+      "url": "https://raw.githubusercontent.com/iqbal8846/sports-iptv/HEAD/output/sports_all.m3u",
+      "note": "Verified 2026-11-15: 11 Tamil/English sports rows (Willow, Ten Sports, Star, Sony).",
+      "short": "Sports IPTV"
+    },
+    {
+      "id": "shivaprakashr16dev_tamil-working",
+      "label": "shivaprakashr16dev/TAMIL-IPTV-org-working-only",
+      "url": "https://raw.githubusercontent.com/shivaprakashr16dev/TAMIL-IPTV-org-working-only/HEAD/TAMIL/updated.m3u",
+      "note": "Verified 2026-11-15: 44 Tamil rows.",
+      "short": "Tamil Working"
+    },
+    {
+      "id": "kirubanandem_iptv_playlist",
+      "label": "kirubanandem/iptv_playlist",
+      "url": "https://raw.githubusercontent.com/kirubanandem/iptv_playlist/HEAD/m3u%20playlist.m3u",
+      "note": "Verified 2026-11-15: 16 Tamil rows.",
+      "short": "Kirubanandem"
+    },
+    {
+      "id": "rkraj14_tamil-news",
+      "label": "Rkraj14/Rkraj-Tamil-Iptv",
+      "url": "https://raw.githubusercontent.com/Rkraj14/Rkraj-Tamil-Iptv/HEAD/tamil-news.m3u",
+      "note": "Verified 2026-11-15: 5 Tamil news rows.",
+      "short": "Rkraj News"
     }
   ],
   "legacySources": [
@@ -88,10 +164,6 @@
     {
       "repo": "maybetv/Jo",
       "file": "Zoh.m3u"
-    },
-    {
-      "repo": "maybetv/Jo",
-      "file": "playlist.m3u"
     },
     {
       "repo": "maybetv/Jo",
@@ -107,42 +179,11 @@
     },
     {
       "repo": "sportlive18/Sportlink-wtf",
-      "file": "Star2.m3u"
-    },
-    {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "bb.m3u"
-    },
-    {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "Star.m3u"
-    },
-    {
-      "repo": "sportlive18/Sportlink-wtf",
       "file": "sony.m3u"
     },
     {
       "repo": "sportlive18/Sportlink-wtf",
-      "file": "digital.m3u"
-    },
-    {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "fancode3.m3u",
-      "family": "FanCode"
-    },
-    {
-      "repo": "sportlive18/Sportlink-wtf",
       "file": "sony2.m3u"
-    },
-    {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "fancode.m3u",
-      "family": "FanCode"
-    },
-    {
-      "repo": "sportlive18/Sportlink-wtf",
-      "file": "fancode2.m3u",
-      "family": "FanCode"
     }
   ],
   "tamil": {
@@ -160,6 +201,7 @@
       "Lifestyle",
       "Infotainment",
       "Education",
+      "Sports",
       "General"
     ],
     "categoryKeywords": {

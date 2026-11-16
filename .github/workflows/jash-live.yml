@@ -42,7 +42,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add jash-live.m3u jash-review.m3u jash-live.stats.json jash-review.json CHANNEL-SUMMARY.md
+          git add jash-live.m3u jash-by-source.m3u jash-review.m3u jash-live.stats.json jash-review.json CHANNEL-SUMMARY.md
           if git diff --cached --quiet; then
             echo 'No playlist changes this run.'
             exit 0

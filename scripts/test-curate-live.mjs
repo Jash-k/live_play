@@ -12,9 +12,15 @@ import assert from 'node:assert/strict';
 import { execFileSync, spawnSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
 import { parseM3U } from './lib/parse.mjs';
+import { allowedGroups, configProblems } from './lib/groups.mjs';
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 const baseConfig = JSON.parse(fs.readFileSync(path.join(here, 'curate-live.config.json'), 'utf8'));
+
+// A category keyword that points at a category missing from `categoryOrder`
+// makes the curator publish a group the validator rejects ("Tamil - Sports"
+// used to fail every refresh). Catch that in the config itself, offline.
+assert.deepStrictEqual(configProblems(baseConfig), [], 'config can produce a group the validator would reject');
 
 const FAKE_FUTURE = 4102444800; // 2100-01-01
 const FAKE_PAST = 1600000000; // 2020-09-13
@@ -61,6 +67,10 @@ https://fixture.example/bb-hindi.m3u8
 https://static.example/stream?id=starsports1hd
 #EXTINF:-1 tvg-language="Tamil",Sony Ten 4 Tamil
 https://fixture.example/sony4.m3u8
+#EXTINF:-1 group-title="Sports" tvg-language="Tamil",5th ODI India Tour of New Zealand
+https://fixture.example/odi.m3u8
+#EXTINF:-1 tvg-language="Tamil",Petti Cinema Tamil
+https://fixture.example/petti.m3u8
 #EXTINF:-1 tvg-language="Hindi",Sony Ten 4 Hindi
 https://fixture.example/sony4-hindi.m3u8
 #EXTINF:-1,Willow Cricket
@@ -188,6 +198,40 @@ try {
   const names = main.map((entry) => base(entry.name));
   const groups = main.map((entry) => entry.attrs['group-title']);
 
+  // --- Group catalogue ---------------------------------------------------
+  // Regression: a Tamil row whose upstream group is "Sports" has no brand and no
+  // sports-family match, so it is catalogued as a Tamil channel in the "Sports"
+  // category. That group must exist in the catalogue, otherwise every refresh
+  // fails with `unexpected group "Tamil - Sports"`.
+  const odi = main.find((entry) => base(entry.name) === '5th ODI India Tour of New Zealand');
+  assert(odi, 'Tamil row from an upstream "Sports" group is published');
+  const catalogue = allowedGroups(baseConfig);
+  assert(catalogue.has(odi.attrs['group-title']), `Tamil sports row lands in a known group (got "${odi.attrs['group-title']}")`);
+  for (const group of new Set(groups)) assert(catalogue.has(group), `published group "${group}" is in the catalogue`);
+  assert(
+    main.some((entry) => base(entry.name) === 'Petti Cinema Tamil' && entry.attrs['group-title'] === 'Tamil - Movies'),
+    'a row with no upstream group is categorised from its own name',
+  );
+
+  // --- Source catalogues -------------------------------------------------
+  // The same streams, filed under the source that supplied them. A source that
+  // contributed nothing must not get an (empty) catalogue.
+  const bySourceText = read('jash-by-source.m3u');
+  const bySource = parseM3U(bySourceText);
+  assert.strictEqual(bySource.length, main.length, 'source playlist carries exactly the streams of the main feed');
+  for (const entry of bySource) {
+    assert.strictEqual(entry.attrs['group-title'], entry.attrs['stream-source'], 'catalogue name is the source name');
+  }
+  const catalogues = new Set(bySource.map((entry) => entry.attrs['group-title']));
+  assert(catalogues.has('src_static') && catalogues.has('Jio fixture'), 'contributing sources get a catalogue');
+  assert(!catalogues.has('Dead source'), 'a source that returned nothing gets no catalogue');
+  assert(!catalogues.has('Discovery miss'), 'a rejected discovery source gets no catalogue');
+  const bySourceKeys = bySource.map((entry) => `${entry.attrs['group-title']}|${entry.name}`);
+  assert.strictEqual(new Set(bySourceKeys).size, bySourceKeys.length, 'channel names are unique inside each catalogue');
+  assert.strictEqual(stats.bySource.total, bySource.length, 'stats report the source-catalogue total');
+  assert.strictEqual(Object.keys(stats.bySource.catalogues).length, catalogues.size, 'stats list every catalogue');
+  assert(/#CATALOGUES:\d+ sources contributed \d+ streams/.test(bySourceText), 'source playlist header counts its catalogues');
+
   // --- Tamil catalogue -------------------------------------------------
   assert(names.includes('Sun TV HD'), 'language-tagged Tamil channel kept');
   assert(names.includes('Star Vijay HD'), 'JioTV group="Tamil" channel kept');
@@ -274,6 +318,35 @@ try {
   const strict = spawnSync(process.execPath, [path.join(here, 'curate-live.mjs'), '--config', strictConfig, '--snapshot', snapshot, '--out', strictOut], { encoding: 'utf8' });
   assert.notStrictEqual(strict.status, 0, 'safety gate blocks a thin feed');
   assert(!fs.existsSync(path.join(strictOut, 'jash-live.m3u')), 'existing output is preserved when the gate trips');
+
+  // --- Config drift must not block a refresh ------------------------------
+  // If a category keyword ever points at a category that is missing from
+  // categoryOrder, the curator folds those rows into the default category and
+  // reports them in the stats file instead of publishing a group the validator
+  // rejects (which used to fail the whole run and freeze the published feed).
+  const driftConfigObject = {
+    ...testConfig(),
+    tamil: {
+      ...baseConfig.tamil,
+      categoryKeywords: { ...baseConfig.tamil.categoryKeywords, sports: 'Sports' },
+      categoryOrder: baseConfig.tamil.categoryOrder.filter((category) => category !== 'Sports'),
+    },
+  };
+  assert.ok(configProblems(driftConfigObject).length > 0, 'drift detector notices the inconsistent config');
+  const driftConfig = path.join(temp, 'drift.json');
+  fs.writeFileSync(driftConfig, JSON.stringify(driftConfigObject, null, 2));
+  const driftOut = path.join(temp, 'drift-output');
+  const drift = spawnSync(process.execPath, [path.join(here, 'curate-live.mjs'), '--config', driftConfig, '--snapshot', snapshot, '--out', driftOut], { encoding: 'utf8' });
+  assert.strictEqual(drift.status, 0, `curator survives a config that can produce an unknown group: ${drift.stderr}`);
+  const driftStats = JSON.parse(fs.readFileSync(path.join(driftOut, 'jash-live.stats.json'), 'utf8'));
+  assert(driftStats.remapped.some((row) => row.from === 'Tamil - Sports'), 'remapped rows are reported in the stats file');
+  const driftCatalogue = allowedGroups(driftConfigObject);
+  for (const entry of parseM3U(fs.readFileSync(path.join(driftOut, 'jash-live.m3u'), 'utf8'))) {
+    assert(driftCatalogue.has(entry.attrs['group-title']), `curator never publishes an unknown group (got "${entry.attrs['group-title']}")`);
+  }
+  const driftValidation = spawnSync(process.execPath, [path.join(here, 'validate.mjs'), '--dir', driftOut, '--config', driftConfig], { encoding: 'utf8' });
+  assert.notStrictEqual(driftValidation.status, 0, 'validator still reports the config bug so it gets fixed');
+  assert(/unexpected group "Tamil - Sports"|categoryOrder/.test(driftValidation.stderr), 'validator explains the config drift');
 
   console.log('PASS: Tamil channel detection, radio/junk/regional exclusion, Bigg Boss Tamil only,');
   console.log('      sports language rules, review queue, JSON normalisation, dedupe, metadata retention,');

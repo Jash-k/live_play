@@ -110,6 +110,11 @@ export function buildClassifier(config) {
     if (group) {
       for (const entry of groupCategories) if (entry.regex.test(group)) return entry.category;
     }
+    // Community lists often publish no usable group, so the channel's own name is
+    // the next best signal ("Amman TV" -> Devotional, "News 7 Tamil" -> News).
+    // Only rows that would otherwise land in the catch-all reach this step.
+    const cleaned = stripQuality(name);
+    for (const entry of groupCategories) if (entry.regex.test(cleaned)) return entry.category;
     return config.tamil.defaultCategory;
   }
 
