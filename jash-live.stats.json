@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T07:32:10.215Z",
+  "generatedAt": "2026-11-16T07:33:30.579Z",
   "configVersion": 2,
   "playlistTitle": "JaSH - Tamil channels, Tamil/English sports and Bigg Boss Tamil",
   "filters": {
@@ -420,7 +420,7 @@
       "discovery": false,
       "skipped": false,
       "ok": true,
-      "parsed": 1508,
+      "parsed": 1510,
       "matched": 157,
       "used": 62,
       "error": "",
@@ -1078,7 +1078,7 @@
     }
   },
   "dropped": {
-    "not Tamil": 16708,
+    "not Tamil": 16710,
     "other regional language": 4789,
     "unusable name": 1641,
     "not https": 5222,
