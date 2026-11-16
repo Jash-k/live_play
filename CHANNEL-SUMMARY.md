@@ -1,10 +1,10 @@
 # Current curated feed
 
-Generated 2026-11-16T07:33:30.579Z by `scripts/curate-live.mjs` — do not edit by hand.
+Generated 2026-11-16T18:37:22.507Z by `scripts/curate-live.mjs` — do not edit by hand.
 
-736 stream options in `jash-live.m3u`: 669 Tamil channels, 0 Bigg Boss Tamil, 67 sports feeds.
-34 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
-736 of those streams are also published in `jash-by-source.m3u`, filed under the 17 sources that supplied them.
+740 stream options in `jash-live.m3u`: 669 Tamil channels, 0 Bigg Boss Tamil, 71 sports feeds.
+44 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
+740 of those streams are also published in `jash-by-source.m3u`, filed under the 18 sources that supplied them.
 
 | Group | Streams |
 |---|---:|
@@ -21,7 +21,7 @@ Generated 2026-11-16T07:33:30.579Z by `scripts/curate-live.mjs` — do not edit 
 | Sports - Star Sports - Tamil | 6 |
 | Sports - Star Sports - English | 15 |
 | Sports - Sony Sports - Tamil | 7 |
-| Sports - Sony Sports - English | 23 |
+| Sports - Sony Sports - English | 27 |
 | Sports - FanCode - English | 2 |
 | Sports - Willow - English | 6 |
 | Sports - Ten Sports - English | 2 |
@@ -46,6 +46,7 @@ Generated 2026-11-16T07:33:30.579Z by `scripts/curate-live.mjs` — do not edit 
 | Jo/Zoh | 6 |
 | Sportlink-wtf/Sports | 6 |
 | Sports IPTV | 6 |
+| SonyLIV 3 | 4 |
 | Kirubanandem | 2 |
 | Jo/Zohplx | 1 |
 | Sportlink-wtf/Sport | 1 |
@@ -788,11 +789,15 @@ Generated 2026-11-16T07:33:30.579Z by `scripts/curate-live.mjs` — do not edit 
 - Sony Ten 4 Tamil [DASH · ClearKey · JioTV+ 32]
 - Sony Ten 4 Tamil [DASH · ClearKey · JioTV+]
 
-### Sports - Sony Sports - English (23)
+### Sports - Sony Sports - English (27)
 
 - [BD] Sony Ten Cricket [HLS · Sports IPTV]
 - [BD] Sony Ten Sports 1 HD [HLS · Sports IPTV]
 - [BD] Sony Ten Sports 5 HD [HLS · Sports IPTV]
+- Andorra vs Azerbaijan - 16 Nov 2026 [ENG] [HLS · SonyLIV 3]
+- Estonia vs Bulgaria - 16 Nov 2026 [ENG] [HLS · SonyLIV 3]
+- Iceland vs Luxembourg - 16 Nov 2026 [ENG] [HLS · SonyLIV 3]
+- Lithuania vs Liechtenstein - 16 Nov 2026 [ENG] [HLS · SonyLIV 3]
 - Sony Sports Ten 1 [HLS · Jo/Zoh]
 - Sony Sports Ten 1 HD [HLS · Jo/Zoh]
 - Sony Sports Ten 1 HD [HLS · JioTV+ 16]
@@ -858,17 +863,19 @@ Generated 2026-11-16T07:33:30.579Z by `scripts/curate-live.mjs` — do not edit 
 | 3DFM07/smartiptv-api-JioTv.m3u8 | static | 20 |
 | iqbal8846/sports-iptv | static | 7 |
 | kirubanandem/iptv_playlist | static | 2 |
-| maybetv/Jo/Zoh.m3u | github | 10 |
+| maybetv/Jo/Zoh.m3u | github | 14 |
 | maybetv/Jo/Zohplx.m3u | github | 1 |
 | sportlive18/Sportlink-wtf/Sports.m3u | github | 9 |
 | sportlive18/Sportlink-wtf/Sport.m3u | github | 1 |
 | JioTV+ 32 (jiotv_32) | pinned | 71 |
 | JioTV+ 16 (jiotv_16) | pinned | 62 |
 | Special (special) | pinned | 13 |
+| Prime Sports 1 (prime_sports_one) | pinned | 4 |
 | JioTV+ (jiotv) | discovered | 9 |
 | JioTV+ 24 (jiotv_24) | discovered | 0 |
-| Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 1 |
+| SonyLIV 3 (sonyliv_three) | discovered | 4 |
+| Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 3 |
 
-Sources that returned nothing this run: 21 of 63. See `jash-live.stats.json`.
+Sources that returned nothing this run: 14 of 63. See `jash-live.stats.json`.
 
 Playback was **not** verified: entries carry upstream playback properties unchanged, and a stream may still need a compatible player, legitimate access or region availability.
