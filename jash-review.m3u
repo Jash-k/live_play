@@ -1,15 +1,8 @@
 #EXTM3U
 #PLAYLIST:JaSH - Tamil channels, Tamil/English sports and Bigg Boss Tamil - review queue
 #NOTE:Not part of the main feed: sports rows without a verifiable Tamil/English label.
-#GENERATED:2026-11-16T06:38:42.223Z
-#ENTRIES:35
-
-#EXTINF:-1 tvg-id="B0HQ17NJQ6" tvg-name="2026 WTA Finals Championship Matches-Singles & Doubles Finals [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.61d265d0-6b5e-48ca-8f2a-26616364df7e/4/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="2026 WTA Finals Championship Matches-Singles & Doubles Finals" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",2026 WTA Finals Championship Matches-Singles & Doubles Finals [DASH · ClearKey · Jo/Zoh]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+#GENERATED:2026-11-16T07:32:10.215Z
+#ENTRIES:34
 
 #EXTINF:-1 tvg-id="223" tvg-name="DD Sports [HLS · Sportlink-wtf/Sports]" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png" group-title="Review - language uncertain" base-name="DD Sports" stream-type="HLS" stream-source="Sportlink-wtf/Sports",DD Sports [HLS · Sportlink-wtf/Sports]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -22,15 +15,11 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 #KODIPROP:inputstream.adaptive.license_key=e6bd071206ea552ba32a22496af8f2a5:962e83890c212fb4fe0fdab30bc2ba0d
 https://hjh-545.pages.dev/stream?id=ddsports
 
-#EXTINF:-1 tvg-id="1191" tvg-name="DD Sports HD [DASH · Sportlink-wtf/Sports]" tvg-logo="https://assets.dishhomego.com.np/f_webp%2Cq_85%2Cw_250/dhome/posters/44c5d57c-c3bd-4ea6-a367-52c4388e5287.jpg" group-title="Review - language uncertain" base-name="DD Sports HD" stream-type="DASH" stream-source="Sportlink-wtf/Sports",DD Sports HD [DASH · Sportlink-wtf/Sports]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"4TroVBdBRGiELPjeRBgirw","k":"l41taWyLCXvIbnuSueQ8lg"},{"kty":"oct","kid":"i14yPDyKS3eokoU4SXUu/g","k":"FNxavC77i+NZ1mWRoynkKQ"}],"type":"temporary"}
-#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
-#EXTVLCOPT:http-origin=https://dishhomego.com.np
-#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
-https://ottlive.dishhome.com.np/protected/jATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+#EXTINF:-1 tvg-id="204" tvg-name="DD Sports [DASH · ClearKey · JTV DRM]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Review - language uncertain" base-name="DD Sports" stream-type="DASH" stream-drm="ClearKey" stream-source="JTV DRM",DD Sports [DASH · ClearKey · JTV DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6bd071206ea552ba32a22496af8f2a5:962e83890c212fb4fe0fdab30bc2ba0d
+#EXTVLCOPT:clearkey=e6bd071206ea552ba32a22496af8f2a5:962e83890c212fb4fe0fdab30bc2ba0d
+https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=204
 
 #EXTINF:-1 tvg-id="162" tvg-name="Sony LIV Sports 1 [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 1" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Sony LIV Sports 1 [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -39,18 +28,18 @@ https://ottlive.dishhome.com.np/protected/jATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=4e4c5dba5bfe5a7c9338bc086eb80379:b8e8932f440084e1d2b705fa52eef94b
 https://hjh-545.pages.dev/stream?id=sonylivsports1
 
+#EXTINF:-1 tvg-id="3372" tvg-name="Sony LIV Sports 1 [DASH · ClearKey · JTV DRM]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 1" stream-type="DASH" stream-drm="ClearKey" stream-source="JTV DRM",Sony LIV Sports 1 [DASH · ClearKey · JTV DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e4c5dba5bfe5a7c9338bc086eb80379:b8e8932f440084e1d2b705fa52eef94b
+#EXTVLCOPT:clearkey=4e4c5dba5bfe5a7c9338bc086eb80379:b8e8932f440084e1d2b705fa52eef94b
+https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=3372
+
 #EXTINF:-1 tvg-id="162" tvg-name="Sony LIV Sports 1 [DASH · ClearKey · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 1" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 32",Sony LIV Sports 1 [DASH · ClearKey · JioTV+ 32]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://sliv.tgaadi.workers.dev/ten1hd.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Sony LIV Sports 1 [DASH · ClearKey · JioTV+ 8]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 1" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 8",Sony LIV Sports 1 [DASH · ClearKey · JioTV+ 8]
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e4c5dba5bfe5a7c9338bc086eb80379:b8e8932f440084e1d2b705fa52eef94b
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_1_MOB/WDVLive/index.mpd?__hdnea__=st=1794758416~exp=1794844816~acl=/*~hmac=3e89d09bd5484305e7c6d85f1a92c7ee23c92ba8e514b052fe3c2f1484ed3b65
 
 #EXTINF:-1 tvg-id="3373" tvg-name="Sony LIV Sports 2 [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 2" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Sony LIV Sports 2 [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -59,18 +48,18 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_1_MOB/WDVLive/index.mpd?__
 #KODIPROP:inputstream.adaptive.license_key=ef24516ae38b50d18049343cd1cd998a:eb4810ec250a1795a0019dba7881ff45
 https://hjh-545.pages.dev/stream?id=sonylivsports2
 
+#EXTINF:-1 tvg-id="3373" tvg-name="Sony LIV Sports 2 [DASH · ClearKey · JTV DRM]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 2" stream-type="DASH" stream-drm="ClearKey" stream-source="JTV DRM",Sony LIV Sports 2 [DASH · ClearKey · JTV DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef24516ae38b50d18049343cd1cd998a:eb4810ec250a1795a0019dba7881ff45
+#EXTVLCOPT:clearkey=ef24516ae38b50d18049343cd1cd998a:eb4810ec250a1795a0019dba7881ff45
+https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=3373
+
 #EXTINF:-1 tvg-id="3373" tvg-name="Sony LIV Sports 2 [DASH · ClearKey · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 2" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 32",Sony LIV Sports 2 [DASH · ClearKey · JioTV+ 32]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://sliv.tgaadi.workers.dev/ten2hd.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Sony LIV Sports 2 [DASH · ClearKey · JioTV+ 8]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 2" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 8",Sony LIV Sports 2 [DASH · ClearKey · JioTV+ 8]
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ef24516ae38b50d18049343cd1cd998a:eb4810ec250a1795a0019dba7881ff45
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_2_MOB/WDVLive/index.mpd?__hdnea__=st=1794758416~exp=1794844816~acl=/*~hmac=3e89d09bd5484305e7c6d85f1a92c7ee23c92ba8e514b052fe3c2f1484ed3b65
 
 #EXTINF:-1 tvg-id="3374" tvg-name="Sony LIV Sports 3 [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 3" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Sony LIV Sports 3 [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -79,18 +68,18 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_2_MOB/WDVLive/index.mpd?__
 #KODIPROP:inputstream.adaptive.license_key=3afa887864e6545aa006db21aeb39054:6b8cce271f3cd923d0df32d45b44f6df
 https://hjh-545.pages.dev/stream?id=sonylivsports3
 
+#EXTINF:-1 tvg-id="3374" tvg-name="Sony LIV Sports 3 [DASH · ClearKey · JTV DRM]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 3" stream-type="DASH" stream-drm="ClearKey" stream-source="JTV DRM",Sony LIV Sports 3 [DASH · ClearKey · JTV DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3afa887864e6545aa006db21aeb39054:6b8cce271f3cd923d0df32d45b44f6df
+#EXTVLCOPT:clearkey=3afa887864e6545aa006db21aeb39054:6b8cce271f3cd923d0df32d45b44f6df
+https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=3374
+
 #EXTINF:-1 tvg-id="3374" tvg-name="Sony LIV Sports 3 [DASH · ClearKey · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 3" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 32",Sony LIV Sports 3 [DASH · ClearKey · JioTV+ 32]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://sliv.tgaadi.workers.dev/ten3hd.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Sony LIV Sports 3 [DASH · ClearKey · JioTV+ 8]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 3" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 8",Sony LIV Sports 3 [DASH · ClearKey · JioTV+ 8]
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3afa887864e6545aa006db21aeb39054:6b8cce271f3cd923d0df32d45b44f6df
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_3_MOB/WDVLive/index.mpd?__hdnea__=st=1794758416~exp=1794844816~acl=/*~hmac=3e89d09bd5484305e7c6d85f1a92c7ee23c92ba8e514b052fe3c2f1484ed3b65
 
 #EXTINF:-1 tvg-id="3399" tvg-name="Sony LIV Sports 5 [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 5" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Sony LIV Sports 5 [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -99,6 +88,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_3_MOB/WDVLive/index.mpd?__
 #KODIPROP:inputstream.adaptive.license_key=cee8550bf50b569d8ad2ed0c5264f0d2:565a95f1c332c03534e1e5fcc1ff9a8b
 https://hjh-545.pages.dev/stream?id=sonylivsports5
 
+#EXTINF:-1 tvg-id="3399" tvg-name="Sony LIV Sports 5 [DASH · ClearKey · JTV DRM]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 5" stream-type="DASH" stream-drm="ClearKey" stream-source="JTV DRM",Sony LIV Sports 5 [DASH · ClearKey · JTV DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cee8550bf50b569d8ad2ed0c5264f0d2:565a95f1c332c03534e1e5fcc1ff9a8b
+#EXTVLCOPT:clearkey=cee8550bf50b569d8ad2ed0c5264f0d2:565a95f1c332c03534e1e5fcc1ff9a8b
+https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=3399
+
 #EXTINF:-1 tvg-id="3399" tvg-name="Sony LIV Sports 5 [DASH · ClearKey · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 5" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 32",Sony LIV Sports 5 [DASH · ClearKey · JioTV+ 32]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -106,11 +101,8 @@ https://hjh-545.pages.dev/stream?id=sonylivsports5
 #KODIPROP:inputstream.adaptive.license_key=
 https://sliv.tgaadi.workers.dev/sonysixhd.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Sony LIV Sports 5 [DASH · ClearKey · JioTV+ 8]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 5" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 8",Sony LIV Sports 5 [DASH · ClearKey · JioTV+ 8]
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cee8550bf50b569d8ad2ed0c5264f0d2:565a95f1c332c03534e1e5fcc1ff9a8b
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_5_MOB/WDVLive/index.mpd?__hdnea__=st=1794758416~exp=1794844816~acl=/*~hmac=3e89d09bd5484305e7c6d85f1a92c7ee23c92ba8e514b052fe3c2f1484ed3b65
+#EXTINF:-1 tvg-id="Sonysports2" tvg-name="Sony Sports 2 HD [HLS · Sports IPTV]" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sony_sports_2_hd.png" group-title="Review - language uncertain" base-name="Sony Sports 2 HD" stream-type="HLS" stream-source="Sports IPTV",Sony Sports 2 HD [HLS · Sports IPTV]
+https://livetv.shamon-cable.net:8443/Sony-sports-2/index.m3u8
 
 #EXTINF:-1 tvg-id="ten3.sonyliv" tvg-name="Sony Sports Ten 3 [HLS · Jo/Zoh]" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="Review - language uncertain" base-name="Sony Sports Ten 3" stream-type="HLS" stream-source="Jo/Zoh",Sony Sports Ten 3 [HLS · Jo/Zoh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
@@ -140,20 +132,20 @@ https://sonydismthjgdtarsadfsghdjf.higuifytdrseaw.workers.dev/live/ten4.sonyliv.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://sonydismthjgdtarsadfsghdjf.higuifytdrseaw.workers.dev/live/ten4-hd.sonyliv.m3u8
 
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD.in" tvg-name="Sony TEN 3 HD [HLS · Sportlink-wtf/Sports]" tvg-logo="https://i.postimg.cc/xd1Vq5L0/sonysportsten3hd.webp" group-title="Review - language uncertain" base-name="Sony TEN 3 HD" stream-type="HLS" stream-source="Sportlink-wtf/Sports",Sony TEN 3 HD [HLS · Sportlink-wtf/Sports]
-https://cloudplay-sonyliv.pages.dev/ten3hd.m3u8
+#EXTINF:-1 tvg-id="524" tvg-name="SONY TEN 3 [HLS · SmartIPTV Jio]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="Review - language uncertain" base-name="SONY TEN 3" stream-type="HLS" stream-source="SmartIPTV Jio",SONY TEN 3 [HLS · SmartIPTV Jio]
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 3 HD [HLS · Special]" tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill%2Ce_contrast:30%2Cf_auto%2Cfl_lossy%2Ch_494%2Cq_auto:low%2Cw_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN3HD_Portrait_ThumbNEW.jpg" group-title="Review - language uncertain" base-name="SONY TEN 3 HD" stream-type="HLS" stream-source="Special",SONY TEN 3 HD [HLS · Special]
-https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1 tvg-id="892" tvg-name="SONY TEN 3 HD [HLS · SmartIPTV Jio]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Review - language uncertain" base-name="SONY TEN 3 HD" stream-type="HLS" stream-source="SmartIPTV Jio",SONY TEN 3 HD [HLS · SmartIPTV Jio]
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 
 #EXTINF:-1 tvg-id="SONY SPORTS TEN 3.in" tvg-name="Sony TEN 3 SD [HLS · Sportlink-wtf/Sports]" tvg-logo="https://i.postimg.cc/XY80VmGH/sonysportsten3.webp" group-title="Review - language uncertain" base-name="Sony TEN 3 SD" stream-type="HLS" stream-source="Sportlink-wtf/Sports",Sony TEN 3 SD [HLS · Sportlink-wtf/Sports]
 https://cloudplay-sonyliv.pages.dev/ten3.m3u8
 
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 4 HD.in" tvg-name="Sony TEN 4 HD [HLS · Sportlink-wtf/Sports]" tvg-logo="https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png" group-title="Review - language uncertain" base-name="Sony TEN 4 HD" stream-type="HLS" stream-source="Sportlink-wtf/Sports",Sony TEN 4 HD [HLS · Sportlink-wtf/Sports]
-https://cloudplay-sonyliv.pages.dev/ten4hd.m3u8
+#EXTINF:-1 tvg-id="817" tvg-name="SONY TEN 4 [HLS · SmartIPTV Jio]" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Review - language uncertain" base-name="SONY TEN 4" stream-type="HLS" stream-source="SmartIPTV Jio",SONY TEN 4 [HLS · SmartIPTV Jio]
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 4 HD [HLS · Special]" tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill%2Ce_contrast:30%2Cf_auto%2Cfl_lossy%2Ch_494%2Cq_auto:low%2Cw_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN4HD_Portrait_Thumb1.jpg" group-title="Review - language uncertain" base-name="SONY TEN 4 HD" stream-type="HLS" stream-source="Special",SONY TEN 4 HD [HLS · Special]
-https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+#EXTINF:-1 tvg-id="817" tvg-name="SONY TEN 4 HD [HLS · SmartIPTV Jio]" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Review - language uncertain" base-name="SONY TEN 4 HD" stream-type="HLS" stream-source="SmartIPTV Jio",SONY TEN 4 HD [HLS · SmartIPTV Jio]
+https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 
 #EXTINF:-1 tvg-id="SONY SPORTS TEN 4.in" tvg-name="Sony TEN 4 SD [HLS · Sportlink-wtf/Sports]" tvg-logo="https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png" group-title="Review - language uncertain" base-name="Sony TEN 4 SD" stream-type="HLS" stream-source="Sportlink-wtf/Sports",Sony TEN 4 SD [HLS · Sportlink-wtf/Sports]
 https://cloudplay-sonyliv.pages.dev/ten4.m3u8
@@ -164,13 +156,6 @@ https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY TEN SIX HD [HLS · Special]" tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill%2Ce_contrast:30%2Cf_auto%2Cfl_lossy%2Ch_494%2Cq_auto:low%2Cw_344/e_brightness:10/https://origin-staticv2.sonyliv.com/portrait_thumb/SIXHD_Portrait_ThumbNEW.jpg" group-title="Review - language uncertain" base-name="SONY TEN SIX HD" stream-type="HLS" stream-source="Special",SONY TEN SIX HD [HLS · Special]
 https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
-#EXTINF:-1 tvg-id="B0HPB43DWY" tvg-name="SPHL Hockey: Pee Dee IceCats vs Peoria Rivermen [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.769b0592-9583-4caf-be25-a35c5c18fff3/2/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="SPHL Hockey: Pee Dee IceCats vs Peoria Rivermen" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",SPHL Hockey: Pee Dee IceCats vs Peoria Rivermen [DASH · ClearKey · Jo/Zoh]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
-
 #EXTINF:-1 tvg-id="1389" tvg-name="Star Sports 3 [DASH · ClearKey · JioTV proxy]" tvg-logo="https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg" group-title="Review - language uncertain" base-name="Star Sports 3" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Star Sports 3 [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -178,18 +163,18 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v
 #KODIPROP:inputstream.adaptive.license_key=2904732c8fb55ebeaa0f59316916997e:f69101b71872dcfb2cd1987d3773c0f4,2f040ce640ee57978b0bcbb975af00a4:88c56371262c1bbe843c174720bbdeb0,6fbf6696ff3051768337a34da0e66eb8:cae19d171fb1015a89342e5185f8cc7b,c19b6cfea03150bea01a255345e5d706:8ed757eda2b740285bcf9a8fd9263422,82dc7db814ef5165a3d93102f40a5142:f767c4c59fbfeaf84754994a0ed5dc8b
 https://hjh-545.pages.dev/stream?id=starsports3
 
+#EXTINF:-1 tvg-id="1389" tvg-name="Star Sports 3 [DASH · ClearKey · JTV DRM]" tvg-logo="https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg" group-title="Review - language uncertain" base-name="Star Sports 3" stream-type="DASH" stream-drm="ClearKey" stream-source="JTV DRM",Star Sports 3 [DASH · ClearKey · JTV DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2904732c8fb55ebeaa0f59316916997e:f69101b71872dcfb2cd1987d3773c0f4
+#EXTVLCOPT:clearkey=2904732c8fb55ebeaa0f59316916997e:f69101b71872dcfb2cd1987d3773c0f4
+https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=1389
+
 #EXTINF:-1 tvg-id="1389" tvg-name="Star Sports 3 [DASH · ClearKey · JioTV+ 32]" tvg-logo="https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg" group-title="Review - language uncertain" base-name="Star Sports 3" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 32",Star Sports 3 [DASH · ClearKey · JioTV+ 32]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2904732c8fb55ebeaa0f59316916997e:f69101b71872dcfb2cd1987d3773c0f4,2f040ce640ee57978b0bcbb975af00a4:88c56371262c1bbe843c174720bbdeb0,6fbf6696ff3051768337a34da0e66eb8:cae19d171fb1015a89342e5185f8cc7b,c19b6cfea03150bea01a255345e5d706:8ed757eda2b740285bcf9a8fd9263422,82dc7db814ef5165a3d93102f40a5142:f767c4c59fbfeaf84754994a0ed5dc8b
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st=1794804330~exp=1794825930~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=8b02b304b324bd82c8b82ca004201fa41b0a198a2dd834ca4f89e4b6f613d7c4
-
-#EXTINF:-1 tvg-id="1389" tvg-name="Star Sports 3 [DASH · ClearKey · JioTV+ 16]" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31405-jm2isen4-v1/imageContent-31405-jm2isen4-m1.png" group-title="Review - language uncertain" base-name="Star Sports 3" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 16",Star Sports 3 [DASH · ClearKey · JioTV+ 16]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2904732c8fb55ebeaa0f59316916997e:f69101b71872dcfb2cd1987d3773c0f4,82dc7db814ef5165a3d93102f40a5142:f767c4c59fbfeaf84754994a0ed5dc8b
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st=1794793221~exp=1794814821~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=017546452020a2f9e410338081bd0afd197d72f801549e68625bfaf86cf8a905
 
 #EXTINF:-1 tvg-id="1998" tvg-name="Star Sports Khel [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/StarSportsKhel.png" group-title="Review - language uncertain" base-name="Star Sports Khel" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Star Sports Khel [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -205,7 +190,7 @@ https://hjh-545.pages.dev/stream?id=starsportskhel
 #KODIPROP:inputstream.adaptive.license_key=906cc35528ca58348e7fed58f8796687:3a1eaff9da6a0083567fb1ea1eaa21f5,1dfe1c29b8f15ab3a158bb27eb5b8d3f:432ff00824d61ff1da1348cc53e0968c,942646c32cde5325a7c33b137cf7d46e:ebb1edf4d1ca69738d8cf378a00ad35d,2898824f2440509698d04f0109f1d285:58e2fbc4e5ae22f973c21c402340debc,1eb81f72a86d56c3bdfe905c2e987d1d:4720e2ac970828d2befb2cf838d486fb
 https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsKhel_BTS/WDVLive/index.mpd?__hdnea__=st=1794804328~exp=1794825928~acl=/bpk-tv/StarSportsKhel_BTS/WDVLive/*~hmac=2ea072b8e86ec1ff7f98c14462e9642e321dbe55302ba88a76af9ad3159f00b6
 
-#EXTINF:-1 tvg-id="B0HMCQN35M" tvg-name="Superkarts USA-Supernationals Sunday [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.002ef93a-82a6-44b5-aa79-fa3390e8a0e5/3/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Superkarts USA-Supernationals Sunday" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",Superkarts USA-Supernationals Sunday [DASH · ClearKey · Jo/Zoh]
+#EXTINF:-1 tvg-id="B0HMCQN35M" tvg-name="Superkarts USA-Supernationals Sunday [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.002ef93a-82a6-44b5-aa79-fa3390e8a0e5/3/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Superkarts USA-Supernationals Sunday" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",Superkarts USA-Supernationals Sunday [DASH · ClearKey · Prime Sports 1 [Backup]]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey

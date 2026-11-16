@@ -1,15 +1,5 @@
 [
   {
-    "name": "2026 WTA Finals Championship Matches-Singles & Doubles Finals",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
     "name": "DD Sports",
     "family": "DD Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -30,13 +20,13 @@
     }
   },
   {
-    "name": "DD Sports HD",
+    "name": "DD Sports",
     "family": "DD Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "sportlive18_Sportlink-wtf__Sports.m3u",
-      "label": "sportlive18/Sportlink-wtf/Sports.m3u",
-      "origin": "github"
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
+      "origin": "static"
     }
   },
   {
@@ -54,9 +44,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
-      "origin": "index"
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
+      "origin": "static"
     }
   },
   {
@@ -64,8 +54,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_8",
-      "label": "JioTV+ 8 (jiotv_8)",
+      "key": "jiotv_32",
+      "label": "JioTV+ 32 (jiotv_32)",
       "origin": "index"
     }
   },
@@ -84,9 +74,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
-      "origin": "index"
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
+      "origin": "static"
     }
   },
   {
@@ -94,8 +84,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_8",
-      "label": "JioTV+ 8 (jiotv_8)",
+      "key": "jiotv_32",
+      "label": "JioTV+ 32 (jiotv_32)",
       "origin": "index"
     }
   },
@@ -114,9 +104,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
-      "origin": "index"
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
+      "origin": "static"
     }
   },
   {
@@ -124,8 +114,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_8",
-      "label": "JioTV+ 8 (jiotv_8)",
+      "key": "jiotv_32",
+      "label": "JioTV+ 32 (jiotv_32)",
       "origin": "index"
     }
   },
@@ -144,9 +134,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
-      "origin": "index"
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
+      "origin": "static"
     }
   },
   {
@@ -154,9 +144,19 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_8",
-      "label": "JioTV+ 8 (jiotv_8)",
+      "key": "jiotv_32",
+      "label": "JioTV+ 32 (jiotv_32)",
       "origin": "index"
+    }
+  },
+  {
+    "name": "Sony Sports 2 HD",
+    "family": "Sony Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "iqbal8846_sports-iptv",
+      "label": "iqbal8846/sports-iptv",
+      "origin": "static"
     }
   },
   {
@@ -200,13 +200,13 @@
     }
   },
   {
-    "name": "Sony TEN 3 HD",
+    "name": "SONY TEN 3",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "sportlive18_Sportlink-wtf__Sports.m3u",
-      "label": "sportlive18/Sportlink-wtf/Sports.m3u",
-      "origin": "github"
+      "key": "3dfm07_smartiptv-jiotv",
+      "label": "3DFM07/smartiptv-api-JioTv.m3u8",
+      "origin": "static"
     }
   },
   {
@@ -214,9 +214,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "special",
-      "label": "Special (special)",
-      "origin": "index"
+      "key": "3dfm07_smartiptv-jiotv",
+      "label": "3DFM07/smartiptv-api-JioTv.m3u8",
+      "origin": "static"
     }
   },
   {
@@ -230,13 +230,13 @@
     }
   },
   {
-    "name": "Sony TEN 4 HD",
+    "name": "SONY TEN 4",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "sportlive18_Sportlink-wtf__Sports.m3u",
-      "label": "sportlive18/Sportlink-wtf/Sports.m3u",
-      "origin": "github"
+      "key": "3dfm07_smartiptv-jiotv",
+      "label": "3DFM07/smartiptv-api-JioTv.m3u8",
+      "origin": "static"
     }
   },
   {
@@ -244,9 +244,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "special",
-      "label": "Special (special)",
-      "origin": "index"
+      "key": "3dfm07_smartiptv-jiotv",
+      "label": "3DFM07/smartiptv-api-JioTv.m3u8",
+      "origin": "static"
     }
   },
   {
@@ -280,16 +280,6 @@
     }
   },
   {
-    "name": "SPHL Hockey: Pee Dee IceCats vs Peoria Rivermen",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
     "name": "Star Sports 3",
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -304,9 +294,9 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
-      "origin": "index"
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
+      "origin": "static"
     }
   },
   {
@@ -314,8 +304,8 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_16",
-      "label": "JioTV+ 16 (jiotv_16)",
+      "key": "jiotv_32",
+      "label": "JioTV+ 32 (jiotv_32)",
       "origin": "index"
     }
   },
@@ -344,9 +334,9 @@
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
     }
   }
 ]
