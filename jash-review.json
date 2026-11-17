@@ -1,25 +1,5 @@
 [
   {
-    "name": "Boston Common Golf vs. Motor City Golf Club",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Boston Common Golf vs. Motor City Golf Club",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
     "name": "DD Sports",
     "family": "DD Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -50,7 +30,17 @@
     }
   },
   {
-    "name": "FloCollege D2 Football Bracket Breakdown",
+    "name": "Helsinki-ATP Early Rounds",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Pakistan vs. Sri Lanka",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -60,16 +50,6 @@
     }
   },
   {
-    "name": "FloCollege D2 Football Bracket Breakdown",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
     "name": "Sony LIV Sports 1",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -187,16 +167,6 @@
       "key": "jiotv_32",
       "label": "JioTV+ 32 (jiotv_32)",
       "origin": "index"
-    }
-  },
-  {
-    "name": "Sony Sports 2 HD",
-    "family": "Sony Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "iqbal8846_sports-iptv",
-      "label": "iqbal8846/sports-iptv",
-      "origin": "static"
     }
   },
   {
@@ -344,8 +314,8 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
+      "key": "jiotv_16",
+      "label": "JioTV+ 16 (jiotv_16)",
       "origin": "index"
     }
   },
@@ -360,13 +330,23 @@
     }
   },
   {
-    "name": "Star Sports Khel",
-    "family": "Star Sports",
+    "name": "Triton Poker Series Cyprus-$25K NLH Titi Poker",
+    "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
       "origin": "index"
+    }
+  },
+  {
+    "name": "Womens Big Bash League 2026 - 25th Match - Adelaide Strikers Women vs Sydney Sixers Women",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   }
 ]
