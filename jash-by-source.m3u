@@ -1,9 +1,9 @@
 #EXTM3U
 #PLAYLIST:JaSH - Tamil channels, Tamil/English sports and Bigg Boss Tamil - by source
 #NOTE:Identical streams to the main feed, grouped by upstream source. Sources that contributed nothing have no group.
-#GENERATED:2026-11-16T18:37:22.507Z
-#ENTRIES:740
-#CATALOGUES:18 sources contributed 740 streams
+#GENERATED:2026-11-17T02:57:28.496Z
+#ENTRIES:736
+#CATALOGUES:17 sources contributed 736 streams
 
 #EXTINF:-1 tvg-id="3StarTV" tvg-name="3 Star TV [HLS · TWC Tamil]" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746107173_3%2520star%2520logo%2520png%2520copy.png&w=1080&q=75" group-title="TWC Tamil" tvg-language="Tamil" base-name="3 Star TV" stream-type="HLS" stream-source="TWC Tamil",3 Star TV [HLS · TWC Tamil]
 https://stream.onecloudlive.in/threestartv/threestarhd/index.m3u8
@@ -2564,7 +2564,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Sri_Sankara_MOB/WDVLive/index.mpd?__hdnea
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de77b4352b1256e19451a4ac35c4dcec:1cc558a5a79db96f8d1fb673342213a5,08003491469e5a83890346f69a395e71:760d6812454d25a9249e3ad1bdf5ebf7,5d7b4b2ea1d453a7bf727b026b9ee13f:eb2ef18465bbf51743338b4b8e55e7ed,8949bb5bb69a584f87e247d2cd99172c:072c61207aeb5cba9ee486c4a320eb94,59371a43c32a548a834206067b6521f7:8d82caef458744616dfe32e9993b3e21
-https://jiotvpllive.cdn.jio.com/bpk-tv/Vijay_Super_BTS/WDVLive/index.mpd?__hdnea__=st=1794837639~exp=1794859239~acl=/bpk-tv/Vijay_Super_BTS/WDVLive/*~hmac=8d7fa275f3fb4006a5a064c33aadd61d773b0ba491ed567840a9eba3ee54df35
+https://jiotvpllive.cdn.jio.com/bpk-tv/Vijay_Super_BTS/WDVLive/index.mpd?__hdnea__=st=1794870921~exp=1794892521~acl=/bpk-tv/Vijay_Super_BTS/WDVLive/*~hmac=9fad00002a8dad1eb60cf579bdcb46ef856bbdb6450b5f37888496b43ad92091
 
 #EXTINF:-1 tvg-id="194391" tvg-name="Sun Life [DASH · ClearKey · JioTV+ 32]" tvg-logo="https://sund-images.sunnxt.com/194391/1000x1000_SunLife_194391_7eae9e31-0509-459a-bcde-e39122e04b0e.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Sun Life" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 32",Sun Life [DASH · ClearKey · JioTV+ 32]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3257,18 +3257,6 @@ https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700
 
 #EXTINF:-1 tvg-id="abfabaee-3898-4279-8645-3da5b0232867" tvg-name="Willow TV [HLS · Sports IPTV] (2)" tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports IPTV" tvg-language="English" base-name="Willow TV" stream-type="HLS" stream-source="Sports IPTV",Willow TV [HLS · Sports IPTV] (2)
 https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1784102658&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=a9cdf8d7d3bacb7c8aea83611a6c3906
-
-#EXTINF:-1 tvg-id="1090554514_ENG" tvg-name="Andorra vs Azerbaijan - 16 Nov 2026 [ENG] [HLS · SonyLIV 3]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029081/1794699615115191_INT_Friendlies26_Andorra_vs_Azerbaijan_live_landscape_thumb.jpg" group-title="SonyLIV 3" tvg-language="English" base-name="Andorra vs Azerbaijan - 16 Nov 2026 [ENG]" stream-type="HLS" stream-source="SonyLIV 3",Andorra vs Azerbaijan - 16 Nov 2026 [ENG] [HLS · SonyLIV 3]
-https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794896408~acl=/*~id=39352426986425880504805150907816~hmac=db29388e642339b556387dda60d3b4721c940c82ba59130c9e654392838c8ba8
-
-#EXTINF:-1 tvg-id="1090554494_ENG" tvg-name="Estonia vs Bulgaria - 16 Nov 2026 [ENG] [HLS · SonyLIV 3]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027761/179326116564755_UNL26_MD6_Estonia_vs_Bulgaria_landscape_thumb.jpg" group-title="SonyLIV 3" tvg-language="English" base-name="Estonia vs Bulgaria - 16 Nov 2026 [ENG]" stream-type="HLS" stream-source="SonyLIV 3",Estonia vs Bulgaria - 16 Nov 2026 [ENG] [HLS · SonyLIV 3]
-https://sonyeventsglobal.akamaized.net/hls/live/2018457/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794896408~acl=/*~id=39352426986425880504805150907816~hmac=db29388e642339b556387dda60d3b4721c940c82ba59130c9e654392838c8ba8
-
-#EXTINF:-1 tvg-id="1090554490_ENG" tvg-name="Iceland vs Luxembourg - 16 Nov 2026 [ENG] [HLS · SonyLIV 3]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027787/1793259677394700_UNL26_MD6_Iceland_vs_Luxembourg_landscape_thumb.jpg" group-title="SonyLIV 3" tvg-language="English" base-name="Iceland vs Luxembourg - 16 Nov 2026 [ENG]" stream-type="HLS" stream-source="SonyLIV 3",Iceland vs Luxembourg - 16 Nov 2026 [ENG] [HLS · SonyLIV 3]
-https://sonyeventsglobal.akamaized.net/hls/live/2005444/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794896408~acl=/*~id=39352426986425880504805150907816~hmac=db29388e642339b556387dda60d3b4721c940c82ba59130c9e654392838c8ba8
-
-#EXTINF:-1 tvg-id="1090554495_ENG" tvg-name="Lithuania vs Liechtenstein - 16 Nov 2026 [ENG] [HLS · SonyLIV 3]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027835/1793267180605986_UNL26_MD6_Lithuania_vs_Liechtenstein_landscape_thumb.jpg" group-title="SonyLIV 3" tvg-language="English" base-name="Lithuania vs Liechtenstein - 16 Nov 2026 [ENG]" stream-type="HLS" stream-source="SonyLIV 3",Lithuania vs Liechtenstein - 16 Nov 2026 [ENG] [HLS · SonyLIV 3]
-https://sonyeventsglobal.akamaized.net/hls/live/2094589/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794896408~acl=/*~id=39352426986425880504805150907816~hmac=db29388e642339b556387dda60d3b4721c940c82ba59130c9e654392838c8ba8
 
 #EXTINF:-1 tvg-id="" tvg-name="Maalai Murasu TV(Not 24*7) [HLS · Kirubanandem]" tvg-logo="" group-title="Kirubanandem" tvg-language="Tamil" base-name="Maalai Murasu TV(Not 24*7)" stream-type="HLS" stream-source="Kirubanandem",Maalai Murasu TV(Not 24*7) [HLS · Kirubanandem]
 https://cdn-3.pishow.tv/live/1606/master.m3u8
