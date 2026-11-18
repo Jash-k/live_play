@@ -1,22 +1,22 @@
 #EXTM3U
 #PLAYLIST:JaSH - Tamil channels, Tamil/English sports and Bigg Boss Tamil - review queue
 #NOTE:Not part of the main feed: sports rows without a verifiable Tamil/English label.
-#GENERATED:2026-11-17T22:26:55.419Z
-#ENTRIES:40
+#GENERATED:2026-11-18T07:36:27.839Z
+#ENTRIES:37
 
-#EXTINF:-1 tvg-id="B0HLLR5WZX" tvg-name="Abu Dhabi T10 League 2026 - 25th Match - UAE Bulls vs Royal Desert Champions [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.e6a63c27-a438-4b01-a58e-153abafd8167/2/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1724%2C885%2C117%2C117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Abu Dhabi T10 League 2026 - 25th Match - UAE Bulls vs Royal Desert Champions" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",Abu Dhabi T10 League 2026 - 25th Match - UAE Bulls vs Royal Desert Champions [DASH · ClearKey · Jo/Zoh]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d57defa12fc43c991a7f82fc57f8212f:915269b352069f2dfa826a64a0905681
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fehi3mxtqo/out/v1/c7ace340dfab4a1fa798cc693914ddbe/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HQ6DD1ZR" tvg-name="AHA Hockey: Colgate vs Syracuse - Women's [DASH · ClearKey · Prime Sports 1]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.ba94da76-cd63-4fdf-af3f-e7b5a4073e5e/3/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="AHA Hockey: Colgate vs Syracuse - Women's" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1",AHA Hockey: Colgate vs Syracuse - Women's [DASH · ClearKey · Prime Sports 1]
+#EXTINF:-1 tvg-id="B0HQ6DD1ZR" tvg-name="AHA Hockey: Colgate vs Syracuse - Women's [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.ba94da76-cd63-4fdf-af3f-e7b5a4073e5e/3/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="AHA Hockey: Colgate vs Syracuse - Women's" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",AHA Hockey: Colgate vs Syracuse - Women's [DASH · ClearKey · Jo/Zoh]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HQ6HNHXB" tvg-name="Australia vs. England [DASH · ClearKey · Prime Sports 1]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.0b14e4df-575d-41da-b093-5d743d359eac/2/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1724%2C885%2C117%2C117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Australia vs. England" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1",Australia vs. England [DASH · ClearKey · Prime Sports 1]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=205451a6cd81dce284519a33dd57a1db:2dcfd1bbf6616d09b01d969efa0658a6
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aywqinj3vc/out/v1/49441817748348bf8b20205da90af5fa/cenc.mpd
 
 #EXTINF:-1 tvg-id="223" tvg-name="DD Sports [HLS · Sportlink-wtf/Sports]" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png" group-title="Review - language uncertain" base-name="DD Sports" stream-type="HLS" stream-source="Sportlink-wtf/Sports",DD Sports [HLS · Sportlink-wtf/Sports]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -35,33 +35,19 @@ https://hjh-545.pages.dev/stream?id=ddsports
 #EXTVLCOPT:clearkey=e6bd071206ea552ba32a22496af8f2a5:962e83890c212fb4fe0fdab30bc2ba0d
 https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=204
 
-#EXTINF:-1 tvg-id="B0HNG5W996" tvg-name="ECHL Hockey: Adirondack Thunder vs Reading Royals [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.993500ba-07e1-4385-9d82-4f0a24c48ff5/3/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="ECHL Hockey: Adirondack Thunder vs Reading Royals" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",ECHL Hockey: Adirondack Thunder vs Reading Royals [DASH · ClearKey · Jo/Zoh]
+#EXTINF:-1 tvg-id="B0HQPK4HKF" tvg-name="Marist vs. Monmouth [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.35b99567-d1a5-495f-bdf8-e57c746860c1/2/BOXART-16X9/en-US/1920x1080._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Review - language uncertain" base-name="Marist vs. Monmouth" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",Marist vs. Monmouth [DASH · ClearKey · Jo/Zoh]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HPZN6W1P" tvg-name="Helsinki-ATP Early Rounds [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.2da80589-1a27-4e3f-bf0b-4f90cfeac0fb/4/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Helsinki-ATP Early Rounds" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",Helsinki-ATP Early Rounds [DASH · ClearKey · Jo/Zoh]
+#EXTINF:-1 tvg-id="B0HQPK4HKF" tvg-name="Marist vs. Monmouth [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.35b99567-d1a5-495f-bdf8-e57c746860c1/2/BOXART-16X9/en-US/1920x1080._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Review - language uncertain" base-name="Marist vs. Monmouth" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",Marist vs. Monmouth [DASH · ClearKey · Prime Sports 1 [Backup]]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HPZN6W1P" tvg-name="Helsinki-ATP Early Rounds [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.2da80589-1a27-4e3f-bf0b-4f90cfeac0fb/4/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Helsinki-ATP Early Rounds" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",Helsinki-ATP Early Rounds [DASH · ClearKey · Prime Sports 1 [Backup]]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HNS8499H" tvg-name="Israel vs. Austria [DASH · ClearKey · Prime Sports 1]" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a81a5468-3e6e-48ba-be1f-4c7259229c3b/3/BOXART-16X9/en-US/1920x1080._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Review - language uncertain" base-name="Israel vs. Austria" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1",Israel vs. Austria [DASH · ClearKey · Prime Sports 1]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd
 
 #EXTINF:-1 tvg-id="162" tvg-name="Sony LIV Sports 1 [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png" group-title="Review - language uncertain" base-name="Sony LIV Sports 1" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Sony LIV Sports 1 [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -212,7 +198,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=1389
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2904732c8fb55ebeaa0f59316916997e:f69101b71872dcfb2cd1987d3773c0f4,82dc7db814ef5165a3d93102f40a5142:f767c4c59fbfeaf84754994a0ed5dc8b
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st=1794937523~exp=1794959123~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=6013cc93c1df5012ee99e3ca2419730868fb25003697d42420ed48252af6d425
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st=1794981919~exp=1795003519~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=30d73c4547c88a472c275a2637d690e8de32f97f9d19d07b557f5c026e2c6afa
 
 #EXTINF:-1 tvg-id="1998" tvg-name="Star Sports Khel [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/StarSportsKhel.png" group-title="Review - language uncertain" base-name="Star Sports Khel" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Star Sports Khel [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -221,23 +207,16 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdn
 #KODIPROP:inputstream.adaptive.license_key=906cc35528ca58348e7fed58f8796687:3a1eaff9da6a0083567fb1ea1eaa21f5,1dfe1c29b8f15ab3a158bb27eb5b8d3f:432ff00824d61ff1da1348cc53e0968c,942646c32cde5325a7c33b137cf7d46e:ebb1edf4d1ca69738d8cf378a00ad35d,2898824f2440509698d04f0109f1d285:58e2fbc4e5ae22f973c21c402340debc,1eb81f72a86d56c3bdfe905c2e987d1d:4720e2ac970828d2befb2cf838d486fb
 https://hjh-545.pages.dev/stream?id=starsportskhel
 
-#EXTINF:-1 tvg-id="B0HPZWB8SG" tvg-name="Triton Poker Series Cyprus-$25K NLH Titi Poker [DASH · ClearKey · Jo/Zoh]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.52bd3e5a-937d-408e-9d9f-6a2bd46dcdfd/6/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Triton Poker Series Cyprus-$25K NLH Titi Poker" stream-type="DASH" stream-drm="ClearKey" stream-source="Jo/Zoh",Triton Poker Series Cyprus-$25K NLH Titi Poker [DASH · ClearKey · Jo/Zoh]
+#EXTINF:-1 tvg-id="B0HR9FF3JR" tvg-name="Teremoana Teremoana v Hemi Ahio [DASH · ClearKey · Prime Sports 1]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.1e70c76d-2741-4018-a100-feb91e926445/1/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Teremoana Teremoana v Hemi Ahio" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1",Teremoana Teremoana v Hemi Ahio [DASH · ClearKey · Prime Sports 1]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=99f2d8b38451875101393cfda6cc5e77:3d32bdfa5fe52cf74567eb20716b5a65
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3akahygf9y/out/v1/cc0ca029222b46b3a36e610e0a85fe91/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HPZWB8SG" tvg-name="Triton Poker Series Cyprus-$25K NLH Titi Poker [DASH · ClearKey · Prime Sports 1]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.52bd3e5a-937d-408e-9d9f-6a2bd46dcdfd/6/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Triton Poker Series Cyprus-$25K NLH Titi Poker" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1",Triton Poker Series Cyprus-$25K NLH Titi Poker [DASH · ClearKey · Prime Sports 1]
+#EXTINF:-1 tvg-id="B0HNFVFNTT" tvg-name="Texas State at Colorado State [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.823bccb6-9920-45e8-9deb-5928f0ba2ea9/2/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Texas State at Colorado State" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",Texas State at Colorado State [DASH · ClearKey · Prime Sports 1 [Backup]]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HPZWB8SG" tvg-name="Triton Poker Series Cyprus-$25K NLH Titi Poker [DASH · ClearKey · Prime Sports 1 [Backup]]" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.52bd3e5a-937d-408e-9d9f-6a2bd46dcdfd/6/BOXART-16X9/en-US._UR1920%2C1080_CLs%7C1920%2C1080%7C/G/bundle/BottomRightCardGradient16x9.png%2C/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0%2C0%2C1920%2C1080+0%2C0%2C1920%2C1080+1578%2C847%2C263%2C156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Review - language uncertain" base-name="Triton Poker Series Cyprus-$25K NLH Titi Poker" stream-type="DASH" stream-drm="ClearKey" stream-source="Prime Sports 1 [Backup]",Triton Poker Series Cyprus-$25K NLH Titi Poker [DASH · ClearKey · Prime Sports 1 [Backup]]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd

@@ -1,6 +1,6 @@
 [
   {
-    "name": "Abu Dhabi T10 League 2026 - 25th Match - UAE Bulls vs Royal Desert Champions",
+    "name": "AHA Hockey: Colgate vs Syracuse - Women's",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -10,7 +10,7 @@
     }
   },
   {
-    "name": "AHA Hockey: Colgate vs Syracuse - Women's",
+    "name": "Australia vs. England",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -50,7 +50,7 @@
     }
   },
   {
-    "name": "ECHL Hockey: Adirondack Thunder vs Reading Royals",
+    "name": "Marist vs. Monmouth",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -60,32 +60,12 @@
     }
   },
   {
-    "name": "Helsinki-ATP Early Rounds",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Helsinki-ATP Early Rounds",
+    "name": "Marist vs. Monmouth",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
       "key": "prime_sports_one_backup",
       "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Israel vs. Austria",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
       "origin": "index"
     }
   },
@@ -370,17 +350,7 @@
     }
   },
   {
-    "name": "Triton Poker Series Cyprus-$25K NLH Titi Poker",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Triton Poker Series Cyprus-$25K NLH Titi Poker",
+    "name": "Teremoana Teremoana v Hemi Ahio",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -390,7 +360,7 @@
     }
   },
   {
-    "name": "Triton Poker Series Cyprus-$25K NLH Titi Poker",
+    "name": "Texas State at Colorado State",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T22:26:55.419Z",
+  "generatedAt": "2026-11-18T07:36:27.839Z",
   "configVersion": 2,
   "playlistTitle": "JaSH - Tamil channels, Tamil/English sports and Bigg Boss Tamil",
   "filters": {
@@ -285,12 +285,12 @@
       "discovery": false,
       "skipped": false,
       "ok": true,
-      "parsed": 99,
-      "matched": 21,
-      "used": 14,
+      "parsed": 96,
+      "matched": 19,
+      "used": 12,
       "error": "",
       "tamil": 0,
-      "sports": 21
+      "sports": 19
     },
     {
       "key": "maybetv_Jo__Zohplx.m3u",
@@ -375,7 +375,7 @@
       "discovery": false,
       "skipped": false,
       "ok": true,
-      "parsed": 1262,
+      "parsed": 1260,
       "matched": 105,
       "used": 68,
       "error": "",
@@ -495,7 +495,7 @@
       "discovery": false,
       "skipped": false,
       "ok": true,
-      "parsed": 528,
+      "parsed": 533,
       "matched": 5,
       "used": 0,
       "error": "",
@@ -566,12 +566,12 @@
       "discovery": false,
       "skipped": false,
       "ok": true,
-      "parsed": 3,
-      "matched": 3,
-      "used": 3,
+      "parsed": 4,
+      "matched": 2,
+      "used": 2,
       "error": "",
       "tamil": 0,
-      "sports": 3
+      "sports": 2
     },
     {
       "key": "willow_one",
@@ -580,11 +580,13 @@
       "pinned": true,
       "discovery": false,
       "skipped": false,
-      "ok": false,
-      "parsed": 0,
+      "ok": true,
+      "parsed": 3,
       "matched": 0,
       "used": 0,
-      "error": "no playlist entries"
+      "error": "",
+      "tamil": 0,
+      "sports": 0
     },
     {
       "key": "crichd",
@@ -864,7 +866,7 @@
       "discovery": true,
       "skipped": false,
       "ok": true,
-      "parsed": 1,
+      "parsed": 2,
       "matched": 0,
       "used": 0,
       "error": "discovered but no usable Tamil/sports rows",
@@ -1048,9 +1050,9 @@
     }
   },
   "review": {
-    "total": 40,
+    "total": 37,
     "byGroup": {
-      "Review - language uncertain": 40
+      "Review - language uncertain": 37
     }
   },
   "bySource": {
@@ -1076,10 +1078,10 @@
     }
   },
   "dropped": {
-    "not Tamil": 16698,
-    "other regional language": 4781,
-    "unusable name": 1639,
-    "not https": 5373,
+    "not Tamil": 16701,
+    "other regional language": 4782,
+    "unusable name": 1644,
+    "not https": 5372,
     "raw container or audio-only": 25,
     "expired token": 1964,
     "radio/audio channel": 219,
