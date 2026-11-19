@@ -1,9 +1,9 @@
 # Current curated feed
 
-Generated 2026-11-18T17:17:47.999Z by `scripts/curate-live.mjs` — do not edit by hand.
+Generated 2026-11-19T00:26:30.307Z by `scripts/curate-live.mjs` — do not edit by hand.
 
 737 stream options in `jash-live.m3u`: 669 Tamil channels, 0 Bigg Boss Tamil, 68 sports feeds.
-39 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
+40 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
 737 of those streams are also published in `jash-by-source.m3u`, filed under the 17 sources that supplied them.
 
 | Group | Streams |
@@ -863,14 +863,14 @@ Generated 2026-11-18T17:17:47.999Z by `scripts/curate-live.mjs` — do not edit 
 | maybetv/Jo/Zohplx.m3u | github | 1 |
 | sportlive18/Sportlink-wtf/Sports.m3u | github | 9 |
 | sportlive18/Sportlink-wtf/Sport.m3u | github | 1 |
-| JioTV+ 32 (jiotv_32) | pinned | 70 |
-| JioTV+ 16 (jiotv_16) | pinned | 62 |
+| JioTV+ 32 (jiotv_32) | pinned | 71 |
+| JioTV+ 16 (jiotv_16) | pinned | 61 |
 | Special (special) | pinned | 13 |
-| Prime Sports 1 (prime_sports_one) | pinned | 4 |
+| Prime Sports 1 (prime_sports_one) | pinned | 3 |
 | JioTV+ (jiotv) | discovered | 9 |
 | JioTV+ 24 (jiotv_24) | discovered | 0 |
-| Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 1 |
+| Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 3 |
 
-Sources that returned nothing this run: 19 of 63. See `jash-live.stats.json`.
+Sources that returned nothing this run: 15 of 63. See `jash-live.stats.json`.
 
 Playback was **not** verified: entries carry upstream playback properties unchanged, and a stream may still need a compatible player, legitimate access or region availability.
