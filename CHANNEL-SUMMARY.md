@@ -1,10 +1,10 @@
 # Current curated feed
 
-Generated 2026-11-19T00:26:30.307Z by `scripts/curate-live.mjs` — do not edit by hand.
+Generated 2026-11-19T10:26:25.228Z by `scripts/curate-live.mjs` — do not edit by hand.
 
-737 stream options in `jash-live.m3u`: 669 Tamil channels, 0 Bigg Boss Tamil, 68 sports feeds.
-40 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
-737 of those streams are also published in `jash-by-source.m3u`, filed under the 17 sources that supplied them.
+739 stream options in `jash-live.m3u`: 669 Tamil channels, 0 Bigg Boss Tamil, 70 sports feeds.
+38 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
+739 of those streams are also published in `jash-by-source.m3u`, filed under the 18 sources that supplied them.
 
 | Group | Streams |
 |---|---:|
@@ -21,7 +21,7 @@ Generated 2026-11-19T00:26:30.307Z by `scripts/curate-live.mjs` — do not edit 
 | Sports - Star Sports - Tamil | 6 |
 | Sports - Star Sports - English | 15 |
 | Sports - Sony Sports - Tamil | 7 |
-| Sports - Sony Sports - English | 23 |
+| Sports - Sony Sports - English | 25 |
 | Sports - FanCode - English | 2 |
 | Sports - Willow - English | 7 |
 | Sports - Ten Sports - English | 2 |
@@ -37,16 +37,17 @@ Generated 2026-11-19T00:26:30.307Z by `scripts/curate-live.mjs` — do not edit 
 | Tamil World | 103 |
 | JTV DRM | 85 |
 | JioTV+ 32 | 65 |
-| JioTV+ 16 | 61 |
+| JioTV+ 16 | 62 |
 | Tamil Local | 45 |
 | SmartIPTV Jio | 16 |
 | Pavish TV | 11 |
-| Special | 11 |
+| Special | 10 |
 | JioTV+ | 9 |
 | Sports IPTV | 7 |
 | Jo/Zoh | 6 |
 | Sportlink-wtf/Sports | 6 |
 | Kirubanandem | 2 |
+| SonyLIV 3 | 2 |
 | Jo/Zohplx | 1 |
 | Sportlink-wtf/Sport | 1 |
 
@@ -162,8 +163,8 @@ Generated 2026-11-19T00:26:30.307Z by `scripts/curate-live.mjs` — do not edit 
 - SG SUN TV HD 1 [HLS · ClearKey · TWC Tamil]
 - SG ZEE TAMIL HD 1 [HLS · TWC Tamil]
 - SNXT SUN TV [HLS · TWC Tamil]
+- Sooriyan Tv [HLS · JioTV+ 16]
 - Sooriyan TV [HLS · Tamil Local]
-- Sooriyan TV [HLS · Special]
 - Sooriyan TV (1080p) [HLS · Tamil World]
 - Sooriyan TV Cinema [HLS · Tamil Local]
 - Sri Vasanth Tv [HLS · JioTV+ 16]
@@ -323,9 +324,9 @@ Generated 2026-11-19T00:26:30.307Z by `scripts/curate-live.mjs` — do not edit 
 - Raj Digital Plus [DASH · ClearKey · JioTV+ 32]
 - Roja Movies [HLS · JioTV+]
 - Roja Movies [HLS · TWC Tamil]
-- Sony Vizha [DASH · ClearKey · JioTV+ 16]
 - Sony Vizha HD [DASH · ClearKey · JioTV proxy]
 - Sony Vizha HD [DASH · ClearKey · JioTV+ 32]
+- Sony Vizha HD [DASH · ClearKey · JioTV+ 16]
 - Star Tamil Television (360p) [HLS · Tamil World]
 - Superfine Films Tamil [HLS · JioTV+ 16]
 - Suriyan TV (576p) [HLS · Tamil World]
@@ -788,11 +789,12 @@ Generated 2026-11-19T00:26:30.307Z by `scripts/curate-live.mjs` — do not edit 
 - Sony Ten 4 Tamil [DASH · ClearKey · JioTV+ 32]
 - Sony Ten 4 Tamil [DASH · ClearKey · JioTV+]
 
-### Sports - Sony Sports - English (23)
+### Sports - Sony Sports - English (25)
 
 - [BD] Sony Ten Cricket [HLS · Sports IPTV]
 - [BD] Sony Ten Sports 1 HD [HLS · Sports IPTV]
 - [BD] Sony Ten Sports 5 HD [HLS · Sports IPTV]
+- Bangladesh A vs Hong Kong, China - 19 Nov 2026 [ENG] [HLS · SonyLIV 3]
 - Sony Sports Ten 1 [HLS · Jo/Zoh]
 - Sony Sports Ten 1 HD [HLS · Jo/Zoh]
 - Sony Sports Ten 1 HD [HLS · JioTV+ 16]
@@ -813,6 +815,7 @@ Generated 2026-11-19T00:26:30.307Z by `scripts/curate-live.mjs` — do not edit 
 - Sony Ten 5 HD [DASH · ClearKey · JioTV+ 32]
 - SONY TEN Cricket [HLS · Sportlink-wtf/Sports]
 - SONY TEN Cricket [HLS · JioTV+ 16]
+- Sri Lanka A vs Afghanistan A - 19 Nov 2026 [ENG] [HLS · SonyLIV 3]
 
 ### Sports - FanCode - English (2)
 
@@ -863,13 +866,14 @@ Generated 2026-11-19T00:26:30.307Z by `scripts/curate-live.mjs` — do not edit 
 | maybetv/Jo/Zohplx.m3u | github | 1 |
 | sportlive18/Sportlink-wtf/Sports.m3u | github | 9 |
 | sportlive18/Sportlink-wtf/Sport.m3u | github | 1 |
-| JioTV+ 32 (jiotv_32) | pinned | 71 |
-| JioTV+ 16 (jiotv_16) | pinned | 61 |
-| Special (special) | pinned | 13 |
+| JioTV+ 32 (jiotv_32) | pinned | 70 |
+| JioTV+ 16 (jiotv_16) | pinned | 63 |
+| Special (special) | pinned | 12 |
 | Prime Sports 1 (prime_sports_one) | pinned | 3 |
 | JioTV+ (jiotv) | discovered | 9 |
 | JioTV+ 24 (jiotv_24) | discovered | 0 |
-| Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 3 |
+| SonyLIV 3 (sonyliv_three) | discovered | 2 |
+| Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 1 |
 
 Sources that returned nothing this run: 15 of 63. See `jash-live.stats.json`.
 

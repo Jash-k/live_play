@@ -1,21 +1,21 @@
 [
   {
-    "name": "Abu Dhabi T10 League 2026 - 27th Match - Emirates Eagles vs Yas Lions",
+    "name": "ACC Mens Asia Cup Rising Stars 2026 - 2nd Match - Sri Lanka A vs Afghanistan A",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
       "origin": "index"
     }
   },
   {
-    "name": "Challenger Tour Live: Helsinki-ATP Early Rounds",
+    "name": "Brisbane Heat vs. Sydney Thunder",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
       "origin": "index"
     }
   },
@@ -50,17 +50,7 @@
     }
   },
   {
-    "name": "James Madison vs. Towson",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "New Zealand vs. India",
+    "name": "ECHL Hockey: Allen Americans vs Wichita Thunder",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -74,9 +64,9 @@
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
-      "origin": "index"
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   },
   {
@@ -344,8 +334,8 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
+      "key": "jiotv_16",
+      "label": "JioTV+ 16 (jiotv_16)",
       "origin": "index"
     }
   },
@@ -370,32 +360,22 @@
     }
   },
   {
-    "name": "Texas A&M International at Colorado Christian",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Triton Poker Series Cyprus-$40K NLH 7-H Mystery Bounty",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "USHL Hockey: Omaha Lancers vs Sioux City Musketeers",
+    "name": "Womens Big Bash League 2026 - 26th Match - Hobart Hurricanes Women vs Perth Scorchers Women",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
       "key": "prime_sports_one_backup",
       "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Womens Big Bash League 2026 - 27th Match - Brisbane Heat Women vs Sydney Thunder Women",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
       "origin": "index"
     }
   }

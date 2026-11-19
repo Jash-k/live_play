@@ -1,9 +1,9 @@
 #EXTM3U
 #PLAYLIST:JaSH - Tamil channels, Tamil/English sports and Bigg Boss Tamil
 #NOTE:Community source metadata only; playback and rights not independently verified.
-#GENERATED:2026-11-19T00:26:30.307Z
-#ENTRIES:737
-#SUMMARY:669 Tamil channels, 0 Bigg Boss Tamil, 68 sports feeds
+#GENERATED:2026-11-19T10:26:25.228Z
+#ENTRIES:739
+#SUMMARY:669 Tamil channels, 0 Bigg Boss Tamil, 70 sports feeds
 
 #EXTINF:-1 tvg-id="" tvg-name="Aadhavan Tamil Tv [HLS · JioTV+ 16]" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1758903321_WhatsApp_Image_2025-09-26_at_11.19.20_AM-removebg-preview.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Aadhavan Tamil Tv" stream-type="HLS" stream-source="JioTV+ 16",Aadhavan Tamil Tv [HLS · JioTV+ 16]
 https://aadhavantamiltv.tamilstream.in/aadhavantamiltv/aadhavantamiltv/playlist.m3u8
@@ -27,7 +27,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=3395
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/aryatvtamil/HLSPartner/index.m3u8?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/aryatvtamil/HLSPartner/index.m3u8?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="AaryaaTV@Cloud7" tvg-name="Aaryaa TV (Cloud7) [HLS · Tamil Local]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Aaryaa TV (Cloud7)" stream-type="HLS" stream-source="Tamil Local",Aaryaa TV (Cloud7) [HLS · Tamil Local]
 https://live.sscloud7.in/live/aaryaatv/index.m3u8?origin=github.com/amazeyourself
@@ -82,7 +82,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=3358
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/aanadhamtvtamil/HLSPartner/index.m3u8?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/aanadhamtvtamil/HLSPartner/index.m3u8?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="" tvg-name="Blessing TV Tamil (720p) [HLS · Special]" tvg-logo="https://i.imgur.com/GlfrYs7.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Blessing TV Tamil (720p)" stream-type="HLS" stream-source="Special",Blessing TV Tamil (720p) [HLS · Special]
 https://stream.blessingtv.tv:1443/blessingtv-tamillive/mystream_720p/playlist.m3u8
@@ -133,7 +133,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=569
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Channel_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Channel_Tamil_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="" tvg-name="DD Podhigai [HLS · Special]" tvg-logo="https://i.imgur.com/vbjkE84.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="DD Podhigai" stream-type="HLS" stream-source="Special",DD Podhigai [HLS · Special]
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/1324a5ee-c108-423f-ae78-c83b2fd31065/2.m3u8
@@ -166,7 +166,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=726
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/DD5_Podhigai_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/DD5_Podhigai_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="3357" tvg-name="Dharsan TV [HLS · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/dharshantvtamil.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Dharsan TV" stream-type="HLS" stream-source="JioTV proxy",Dharsan TV [HLS · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -184,7 +184,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=3357
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/dharshantvtamil/HLSPartner/index.m3u8?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/dharshantvtamil/HLSPartner/index.m3u8?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="DheeranTV.in@SD" tvg-name="Dheeran TV (576p) [HLS · Tamil World]" tvg-logo="https://i.imgur.com/jSedjXf.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Dheeran TV (576p)" stream-type="HLS" stream-source="Tamil World",Dheeran TV (576p) [HLS · Tamil World]
 https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
@@ -196,7 +196,7 @@ https://webcast.emn.onl/IBC/index.m3u8
 https://ibc.massstream.net/IBC/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Imai Tv [HLS · JioTV+ 16]" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_0024535319624676210911606.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Imai Tv" stream-type="HLS" stream-source="JioTV+ 16",Imai Tv [HLS · JioTV+ 16]
-https://lbgo.bozztv.com/ssh101/ssh101/imaitv/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/imaitv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ImaiTV" tvg-name="Imai TV [HLS · Tamil Local]" tvg-logo="https://i.imgur.com/9tODclu.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Imai TV" stream-type="HLS" stream-source="Tamil Local",Imai TV [HLS · Tamil Local]
 https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8?origin=github.com/amazeyourself
@@ -222,7 +222,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=418
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Jaya_Plus_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Jaya_Plus_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="419" tvg-name="Jaya TV HD [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Jaya TV HD" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Jaya TV HD [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -242,7 +242,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=419
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Jaya_TV_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Jaya_TV_HD_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="2768" tvg-name="Jothi TV [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jothi_TV.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Jothi TV" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Jothi TV [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -262,7 +262,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=2768
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Jothi_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Jothi_TV_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="JRMalarTV" tvg-name="JR Malar TV [HLS · TWC Tamil]" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721812585.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="JR Malar TV" stream-type="HLS" stream-source="TWC Tamil",JR Malar TV [HLS · TWC Tamil]
 https://server.sscloud7.in/live/malartv/index.m3u8
@@ -291,7 +291,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=1209
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Kalaignar_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Kalaignar_TV_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="KalaignarTV.in@SD" tvg-name="Kalaignar TV (396p) [HLS · Tamil World]" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Kalaignar%20TV.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Kalaignar TV (396p)" stream-type="HLS" stream-source="Tamil World",Kalaignar TV (396p) [HLS · Tamil World]
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
@@ -334,7 +334,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=708
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Makkal_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Makkal_TV_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="MakkalTV.in@SD" tvg-name="Makkal TV (576i) [HLS · Tamil World]" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MAKKAL_TV/images/LOGO_HD/image.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Makkal TV (576i)" stream-type="HLS" stream-source="Tamil World",Makkal TV (576i) [HLS · Tamil World]
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
@@ -385,7 +385,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=1518
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Moon_Tv_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Moon_Tv_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="" tvg-name="Murasu TV [HLS · Kirubanandem]" tvg-logo="" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Murasu TV" stream-type="HLS" stream-source="Kirubanandem",Murasu TV [HLS · Kirubanandem]
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
@@ -427,7 +427,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=705
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Polimer_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Polimer_TV_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="PothigaiThendral" tvg-name="Pothigai Thendral [HLS · TWC Tamil]" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1741353214_IMG-20250307-WA0131.jpg&w=1920&q=75" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Pothigai Thendral" stream-type="HLS" stream-source="TWC Tamil",Pothigai Thendral [HLS · TWC Tamil]
 https://ipcloud.live/pothigai/thendral/index.m3u8
@@ -453,7 +453,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=824
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Puthu_Yugam_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Puthu_Yugam_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="PuthuyugamTV.in@SD" tvg-name="Puthuyugam TV (576p) [HLS · Tamil World]" tvg-logo="https://dtil.tmsimg.com/assets/s143693_ld_h15_aa.png?lock=720x540" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Puthuyugam TV (576p)" stream-type="HLS" stream-source="Tamil World",Puthuyugam TV (576p) [HLS · Tamil World]
 https://mumt04.tangotv.in/m18aqlK4PUTHUYUGAMTV/index.m3u8
@@ -476,7 +476,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=707
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_TV_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="SanaTV.in@SD" tvg-name="Sana TV (1080p) [HLS · Tamil World]" tvg-logo="https://i.imgur.com/CR7DGBv.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Sana TV (1080p)" stream-type="HLS" stream-source="Tamil World",Sana TV (1080p) [HLS · Tamil World]
 https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8
@@ -520,11 +520,11 @@ https://raw.githubusercontent.com/hdmania3/vigilant/refs/heads/main/ZEE%20TAMIL.
 #EXTINF:-1 tvg-id="945" tvg-name="SNXT SUN TV [HLS · TWC Tamil]" tvg-logo="https://tamilwebcast.com/TV-Logos/Sun_TV_HD.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="SNXT SUN TV" stream-type="HLS" stream-source="TWC Tamil",SNXT SUN TV [HLS · TWC Tamil]
 https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Sooriyan Tv [HLS · JioTV+ 16]" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240319_2154502881783542987072490.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Sooriyan Tv" stream-type="HLS" stream-source="JioTV+ 16",Sooriyan Tv [HLS · JioTV+ 16]
+https://183.giatvcdn.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SooriyanTV" tvg-name="Sooriyan TV [HLS · Tamil Local]" tvg-logo="" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Sooriyan TV" stream-type="HLS" stream-source="Tamil Local",Sooriyan TV [HLS · Tamil Local]
 https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8?origin=github.com/amazeyourself
-
-#EXTINF:-1 tvg-id="" tvg-name="Sooriyan TV [HLS · Special]" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Sooriyan TV" stream-type="HLS" stream-source="Special",Sooriyan TV [HLS · Special]
-https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 
 #EXTINF:-1 tvg-id="SooriyanTV.ca@SD" tvg-name="Sooriyan TV (1080p) [HLS · Tamil World]" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Sooriyan TV (1080p)" stream-type="HLS" stream-source="Tamil World",Sooriyan TV (1080p) [HLS · Tamil World]
 https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
@@ -655,7 +655,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=3045
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Janam_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Janam_Tamil_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="TamilVisionInternational" tvg-name="Tamil Vision International [HLS · Tamil Local]" tvg-logo="https://i.imgur.com/wJeELGj.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Tamil Vision International" stream-type="HLS" stream-source="Tamil Local",Tamil Vision International [HLS · Tamil Local]
 https://live.cmr24.fm/TVI/HD/playlist.m3u8?origin=github.com/amazeyourself
@@ -695,7 +695,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=3396
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/utvtamil/HLSPartner/index.m3u8?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/utvtamil/HLSPartner/index.m3u8?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="VTamil" tvg-name="V Tamil [HLS · Tamil Local]" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1790407368.webp" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="V Tamil" stream-type="HLS" stream-source="Tamil Local",V Tamil [HLS · Tamil Local]
 https://hlsstream.olidigital.in/vtv/vtv/index.m3u8?origin=github.com/amazeyourself
@@ -724,7 +724,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=971
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Vaanavil_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Vaanavil_TV_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="727" tvg-name="Vasanth TV [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Vasanth TV" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Vasanth TV [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -794,7 +794,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=3004
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Velicham_Tv_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Velicham_Tv_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="857" tvg-name="Vendhar TV [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Vendhar TV" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Vendhar TV [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -850,7 +850,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=3269
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Vijay_Takkar_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Vijay_Takkar_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="VijayTakkar.in@APAC" tvg-name="Vijay Takkar APAC (1080p) [DASH · Tamil World]" tvg-logo="https://dtil.tmsimg.com/assets/s144078_ld_h15_aa.png?lock=720x540" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Vijay Takkar APAC (1080p)" stream-type="DASH" stream-source="Tamil World",Vijay Takkar APAC (1080p) [DASH · Tamil World]
 https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
@@ -873,7 +873,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=970
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Win_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Win_TV_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="628" tvg-name="Zee Tamil [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeTamil.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Zee Tamil" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Zee Tamil [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -941,7 +941,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=1210
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Kalaignar_Seithigal__MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Kalaignar_Seithigal__MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="2434" tvg-name="M Nadu [HLS · SmartIPTV Jio]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/M_Nadu.png" group-title="Tamil - News" tvg-language="Tamil" base-name="M Nadu" stream-type="HLS" stream-source="SmartIPTV Jio",M Nadu [HLS · SmartIPTV Jio]
 https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=2434&e=.m3u8
@@ -970,7 +970,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=826
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Malaimurasu_Seithigal_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Malaimurasu_Seithigal_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="1647" tvg-name="MK Six [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Six.png" group-title="Tamil - News" tvg-language="Tamil" base-name="MK Six" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",MK Six [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -990,7 +990,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=1647
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/MK_Six_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/MK_Six_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="News80Tamil" tvg-name="News 80 Tamil [HLS · Tamil Local]" tvg-logo="https://play-lh.googleusercontent.com/vUleh6XgoF2Ouabo6ImWZFg1wZY0xiFZDgp8d2fl2wvx2gejgt7eavWhn9DxTVEtw4I" group-title="Tamil - News" tvg-language="Tamil" base-name="News 80 Tamil" stream-type="HLS" stream-source="Tamil Local",News 80 Tamil [HLS · Tamil Local]
 https://3.proxy.nellaiiptv.com/NOTV/NEWS80/index.m3u8?origin=github.com/amazeyourself&token=GTR
@@ -1013,7 +1013,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=1515
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/News_J_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/News_J_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="1954" tvg-name="News Tamil 24x7 [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_Tamil_24x7.png" group-title="Tamil - News" tvg-language="Tamil" base-name="News Tamil 24x7" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",News Tamil 24x7 [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1033,7 +1033,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=1954
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/News_Tamil_24x7_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/News_Tamil_24x7_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="615" tvg-name="News18 Tamil nadu [DASH · ClearKey · JTV DRM]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18TamilNadu.png" group-title="Tamil - News" tvg-language="Tamil" base-name="News18 Tamil nadu" stream-type="DASH" stream-drm="ClearKey" stream-source="JTV DRM",News18 Tamil nadu [DASH · ClearKey · JTV DRM]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1069,7 +1069,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=673
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/News7_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/News7_Tamil_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="636" tvg-name="Polimer News [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="Tamil - News" tvg-language="Tamil" base-name="Polimer News" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Polimer News [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1089,7 +1089,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=636
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Polimer_News_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Polimer_News_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="00023" tvg-name="Puthiya Thalaimurai [HLS · TWC Tamil]" tvg-logo="https://tamilwebcast.com/TV-Logos/PuthiyaThalaimurai.png" group-title="Tamil - News" tvg-language="Tamil" base-name="Puthiya Thalaimurai" stream-type="HLS" stream-source="TWC Tamil",Puthiya Thalaimurai [HLS · TWC Tamil]
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
@@ -1120,7 +1120,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=677
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Puthiya_Thalimurai_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Puthiya_Thalimurai_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="767" tvg-name="Raj News 24x7 [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png" group-title="Tamil - News" tvg-language="Tamil" base-name="Raj News 24x7" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Raj News 24x7 [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1139,7 +1139,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=767
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_News_24x7_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_News_24x7_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="671" tvg-name="Sathiyam TV [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sathiyam.png" group-title="Tamil - News" tvg-language="Tamil" base-name="Sathiyam TV" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Sathiyam TV [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1159,7 +1159,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=671
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sathiyam_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Sathiyam_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="676" tvg-name="Sun News [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_News.png" group-title="Tamil - News" tvg-language="Tamil" base-name="Sun News" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Sun News [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1201,7 +1201,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=3059
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Thanti_One_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Thanti_One_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="830" tvg-name="Thanthi TV [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="Tamil - News" tvg-language="Tamil" base-name="Thanthi TV" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Thanthi TV [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1220,7 +1220,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=830
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Thanthi_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Thanthi_TV_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="" tvg-name="Thanthi TV (396p) [HLS · Special]" tvg-logo="https://i.imgur.com/200ROjU.png" group-title="Tamil - News" tvg-language="Tamil" base-name="Thanthi TV (396p)" stream-type="HLS" stream-source="Special",Thanthi TV (396p) [HLS · Special]
 https://segment.yuppcdn.net/110322/thanthi/110322/thanthi_1800/playlist.m3u8
@@ -1246,7 +1246,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=417
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/J_Movies_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/J_Movies_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="KTV.id@SD" tvg-name="KTV (Indonesia) (720p) [HLS · Tamil World]" tvg-logo="https://i.imgur.com/j3wtaDc.png" group-title="Tamil - Movies" tvg-language="Tamil" base-name="KTV (Indonesia) (720p)" stream-type="HLS" stream-source="Tamil World",KTV (Indonesia) (720p) [HLS · Tamil World]
 #EXTVLCOPT:http-referrer=https://youtv.live/
@@ -1320,7 +1320,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=683
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_Digital_Plus_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_Digital_Plus_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="3417" tvg-name="Roja Movies [HLS · JioTV+]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png" group-title="Tamil - Movies" tvg-language="Tamil" base-name="Roja Movies" stream-type="HLS" stream-source="JioTV+",Roja Movies [HLS · JioTV+]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0
@@ -1328,12 +1328,6 @@ https://alex4528.site/jtv/manifest.m3u8?id=3417
 
 #EXTINF:-1 tvg-id="RojaMovies" tvg-name="Roja Movies [HLS · TWC Tamil]" tvg-logo="https://play-lh.googleusercontent.com/OI5HmCytC3TzhwE8dBGtZzgHaZ9qpSGH4AorISFfpZOe-ytCd367BV-iQMK55TBvhp32S1t2t1G6wLbfFeCgBg=w512-h960-rw" group-title="Tamil - Movies" tvg-language="Tamil" base-name="Roja Movies" stream-type="HLS" stream-source="TWC Tamil",Roja Movies [HLS · TWC Tamil]
 https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
-
-#EXTINF:-1 tvg-id="SonyVizha" tvg-name="Sony Vizha [DASH · ClearKey · JioTV+ 16]" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/644_144.png" group-title="Tamil - Movies" tvg-language="Tamil" base-name="Sony Vizha" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 16",Sony Vizha [DASH · ClearKey · JioTV+ 16]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.aqfadtv.xyz/?username=HishamKamarul&channelid=5609
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5609/default_primary.mpd
 
 #EXTINF:-1 tvg-id="3622" tvg-name="Sony Vizha HD [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyVizha.png" group-title="Tamil - Movies" tvg-language="Tamil" base-name="Sony Vizha HD" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Sony Vizha HD [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1347,7 +1341,13 @@ https://hjh-545.pages.dev/stream?id=sonyvizhahd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyVizha_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyVizha_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
+
+#EXTINF:-1 tvg-id="3622" tvg-name="Sony Vizha HD [DASH · ClearKey · JioTV+ 16]" tvg-logo="https://i.ibb.co/k2S2X6Pg/sony-vizha.png" group-title="Tamil - Movies" tvg-language="Tamil" base-name="Sony Vizha HD" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 16",Sony Vizha HD [DASH · ClearKey · JioTV+ 16]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fedc939f3c6b52c782d20b0a459d6ac6:5c03dfa28b790cdda468a01a1da7873c
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyVizha_MOB/WDVLive/index.mpd?__hdnea__=st=1795071506~exp=1795093106~acl=/*~hmac=307a2563a536ab012df5c2ae195341d0f49a55ee79a48a4a3e4bb9c8995563ca
 
 #EXTINF:-1 tvg-id="StarTamilTelevision.lk@SD" tvg-name="Star Tamil Television (360p) [HLS · Tamil World]" tvg-logo="https://i.imgur.com/fjHcr9z.jpg" group-title="Tamil - Movies" tvg-language="Tamil" base-name="Star Tamil Television (360p)" stream-type="HLS" stream-source="Tamil World",Star Tamil Television (360p) [HLS · Tamil World]
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=
@@ -1471,7 +1471,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=420
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Jaya_Max_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Jaya_Max_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="MaxMusic" tvg-name="Max Music [HLS · TWC Tamil]" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732168750_WhatsApp%2520Image%25202024-11-21%2520at%252011.05.55%2520AM%2520(1).jpeg&w=1920&q=75" group-title="Tamil - Music" tvg-language="Tamil" base-name="Max Music" stream-type="HLS" stream-source="TWC Tamil",Max Music [HLS · TWC Tamil]
 https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
@@ -1500,7 +1500,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=796
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Peppers_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Peppers_TV_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="PeppersTV.in@SD" tvg-name="Peppers TV (751p) [HLS · Tamil World]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Peppers_TV.png" group-title="Tamil - Music" tvg-language="Tamil" base-name="Peppers TV (751p)" stream-type="HLS" stream-source="Tamil World",Peppers TV (751p) [HLS · Tamil World]
 https://cdn.pishow.tv/ott/live/1383/master.m3u8
@@ -1526,7 +1526,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=748
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_Musix_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_Musix_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="RajMusixTamil.in@SD" tvg-name="Raj Musix Tamil (1080p) [HLS · Tamil World]" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TAMIL/images/LOGO_HD/image.png" group-title="Tamil - Music" tvg-language="Tamil" base-name="Raj Musix Tamil (1080p)" stream-type="HLS" stream-source="Tamil World",Raj Musix Tamil (1080p) [HLS · Tamil World]
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
@@ -1547,7 +1547,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=3409
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/rojatv/HLSPartner/index.m3u8?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/rojatv/HLSPartner/index.m3u8?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="SachinMusic" tvg-name="Sachin Music [MPD] [DASH · TWC Tamil]" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1736158383_Comp%25201_00075.png&w=1920&q=75" group-title="Tamil - Music" tvg-language="Tamil" base-name="Sachin Music [MPD]" stream-type="DASH" stream-source="TWC Tamil",Sachin Music [MPD] [DASH · TWC Tamil]
 https://ipcloud.live/sachintv/musichd/index.mpd
@@ -1596,7 +1596,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=803
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Tunes_6_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Tunes_6_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="806" tvg-name="Tunes 6 Music [HLS · Tamil Local]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="Tamil - Music" tvg-language="Tamil" base-name="Tunes 6 Music" stream-type="HLS" stream-source="Tamil Local",Tunes 6 Music [HLS · Tamil Local]
 https://stream.d6-pro.com/Tunes6music/live/video.m3u8?origin=github.com/amazeyourself
@@ -1694,7 +1694,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=550
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/DiscoveryKidsTam_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/DiscoveryKidsTam_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="546" tvg-name="Nick Tamil [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title="Tamil - Kids" tvg-language="Tamil" base-name="Nick Tamil" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Nick Tamil [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1714,7 +1714,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=546
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Tam_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Tam_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="542" tvg-name="Pogo Tamil [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="Tamil - Kids" tvg-language="Tamil" base-name="Pogo Tamil" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Pogo Tamil [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1734,7 +1734,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=542
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Pogo_Tam_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Pogo_Tam_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="290" tvg-name="sonic Tamil [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="Tamil - Kids" tvg-language="Tamil" base-name="sonic Tamil" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",sonic Tamil [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1754,7 +1754,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=290
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/sonic_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/sonic_Tamil_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="873" tvg-name="Sony Yay Tamil [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYTam.png" group-title="Tamil - Kids" tvg-language="Tamil" base-name="Sony Yay Tamil" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Sony Yay Tamil [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1774,7 +1774,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=873
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyYAYTam_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyYAYTam_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-name="Sony Yay! (1080p) [HLS · Tamil World]" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" group-title="Tamil - Kids" tvg-language="Tamil" base-name="Sony Yay! (1080p)" stream-type="HLS" stream-source="Tamil World",Sony Yay! (1080p) [HLS · Tamil World]
 https://r2.amml.in/sony-yay/live.m3u8
@@ -1811,7 +1811,7 @@ https://ucdn.starhubgo.com/bpk-tv/ADITHYATV/output/manifest.mpd
 #EXTINF:-1 tvg-id="EyeTamilComedy" tvg-name="Eye Tamil Comedy [HLS · Tamil Local]" tvg-logo="https://i.ibb.co/KxLRTs3D/eye-comedy.png" group-title="Tamil - Comedy" tvg-language="Tamil" base-name="Eye Tamil Comedy" stream-type="HLS" stream-source="Tamil Local",Eye Tamil Comedy [HLS · Tamil Local]
 https://2.proxy.nellaiiptv.com/EyeMedia/comedy/index.m3u8?origin=github.com/amazeyourself
 
-#EXTINF:-1 tvg-id="ts611" tvg-name="Sirippoli [DASH · ClearKey · JioTV+ 16]" tvg-logo="https://tatalogo.pages.dev/611.png" group-title="Tamil - Comedy" tvg-language="Tamil" base-name="Sirippoli" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 16",Sirippoli [DASH · ClearKey · JioTV+ 16]
+#EXTINF:-1 tvg-id="SirippoliTV.in@SD" tvg-name="Sirippoli [DASH · ClearKey · JioTV+ 16]" tvg-logo="https://tatalogo.pages.dev/611.png" group-title="Tamil - Comedy" tvg-language="Tamil" base-name="Sirippoli" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 16",Sirippoli [DASH · ClearKey · JioTV+ 16]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b0bef7a3d07f5b9c8b4b2de472da7718:3139f66c3e590441bec542fcf16dcaca
@@ -1878,7 +1878,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=835
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Angel_TV_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Angel_TV_HD_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="AngelTV.in@Hebrew" tvg-name="Angel TV Hebrew (720p) [HLS · Tamil World]" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Tamil - Devotional" tvg-language="Tamil" base-name="Angel TV Hebrew (720p)" stream-type="HLS" stream-source="Tamil World",Angel TV Hebrew (720p) [HLS · Tamil World]
 https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8
@@ -1949,7 +1949,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=1655
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Madha_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Madha_TV_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="" tvg-name="Madha TV (600p) [HLS · Special]" tvg-logo="https://i.imgur.com/UBBaXzz.png" group-title="Tamil - Devotional" tvg-language="Tamil" base-name="Madha TV (600p)" stream-type="HLS" stream-source="Special",Madha TV (600p) [HLS · Special]
 https://60e68b19dd194.streamlock.net:55/madhatv/madhatv.stream_HDp/playlist.m3u8
@@ -1981,7 +1981,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=603
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Nambikkai_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Nambikkai_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="NambikkaiTV.in@SD" tvg-name="Nambikkai TV (576p) [HLS · Tamil World]" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAMBIKKAI_TV/images/LOGO_HD/image.png" group-title="Tamil - Devotional" tvg-language="Tamil" base-name="Nambikkai TV (576p)" stream-type="HLS" stream-source="Tamil World",Nambikkai TV (576p) [HLS · Tamil World]
 https://cdn.pishow.tv/ott/live/1389/master.m3u8
@@ -2016,7 +2016,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=937
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/SaiTV_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/SaiTV_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="SaiTVMadurai" tvg-name="Sai TV Madurai [DASH · Tamil Local]" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739599891_logo-removebg-preview.png" group-title="Tamil - Devotional" tvg-language="Tamil" base-name="Sai TV Madurai" stream-type="DASH" stream-source="Tamil Local",Sai TV Madurai [DASH · Tamil Local]
 https://stream.onecloudlive.in/saitvmdu/saitvmdu/index.mpd?origin=github.com/amazeyourself
@@ -2048,7 +2048,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=829
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sri_Sankara_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Sri_Sankara_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="2351" tvg-name="SRS Bhakti TV [HLS · SmartIPTV Jio]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SRS_Bhakti_TV.png" group-title="Tamil - Devotional" tvg-language="Tamil" base-name="SRS Bhakti TV" stream-type="HLS" stream-source="SmartIPTV Jio",SRS Bhakti TV [HLS · SmartIPTV Jio]
 https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=2351&e=.m3u8
@@ -2089,7 +2089,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=814
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Travel_XP_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Travel_XP_Tamil_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="1219" tvg-name="Animal Planet HD Tamil [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetHDTam.png" group-title="Tamil - Infotainment" tvg-language="Tamil" base-name="Animal Planet HD Tamil" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Animal Planet HD Tamil [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2149,7 +2149,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=579
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/History_18_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/History_18_Tamil_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="853" tvg-name="Sony BBC Earth HD Tamil [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthTam.png" group-title="Tamil - Infotainment" tvg-language="Tamil" base-name="Sony BBC Earth HD Tamil" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Sony BBC Earth HD Tamil [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2169,7 +2169,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=853
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyBBCEarthTam_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyBBCEarthTam_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="3StarTV" tvg-name="3 Star TV [HLS · TWC Tamil]" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746107173_3%2520star%2520logo%2520png%2520copy.png&w=1080&q=75" group-title="Tamil - General" tvg-language="Tamil" base-name="3 Star TV" stream-type="HLS" stream-source="TWC Tamil",3 Star TV [HLS · TWC Tamil]
 https://stream.onecloudlive.in/threestartv/threestarhd/index.m3u8
@@ -2432,7 +2432,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=2434
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/M_Nadu_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/M_Nadu_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="MTelevision" tvg-name="M Television [HLS · TWC Tamil]" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1743837928_TELEVESION.png&w=1920&q=75" group-title="Tamil - General" tvg-language="Tamil" base-name="M Television" stream-type="HLS" stream-source="TWC Tamil",M Television [HLS · TWC Tamil]
 https://ipcloud.live/mtv/menhd/index.m3u8
@@ -2558,7 +2558,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=1537
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/RadheKrishna_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/RadheKrishna_TV_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="RCNTV" tvg-name="Rainbow TV [HLS · TWC Tamil]" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1731942805_RAINBOW%2520TV.png&w=1080&q=75" group-title="Tamil - General" tvg-language="Tamil" base-name="Rainbow TV" stream-type="HLS" stream-source="TWC Tamil",Rainbow TV [HLS · TWC Tamil]
 https://live.skystream.in/live/rainbowtv/index.m3u8?hls_ctx=a7618r13
@@ -2727,7 +2727,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=3175
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Tamil_Naaptol_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Tamil_Naaptol_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="" tvg-name="Tamil New Series [HLS · JioTV+ 16]" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77361.jpg" group-title="Tamil - General" tvg-language="Tamil" base-name="Tamil New Series" stream-type="HLS" stream-source="JioTV+ 16",Tamil New Series [HLS · JioTV+ 16]
 https://fusion4k.psrutube.workers.dev/481003.m3u8
@@ -2792,7 +2792,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=2958
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Tamilan_Television_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Tamilan_Television_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="TAMILNADU BY TWCCity" tvg-name="TAMILNADU BY TWC City [HLS · TWC Tamil]" tvg-logo="" group-title="Tamil - General" tvg-language="Tamil" base-name="TAMILNADU BY TWC City" stream-type="HLS" stream-source="TWC Tamil",TAMILNADU BY TWC City [HLS · TWC Tamil]
 https://view.rcserver.in/tmp_hls17/TAMILNADU BY TWCcity/index.m3u8
@@ -3076,7 +3076,7 @@ https://hjh-545.pages.dev/stream?id=sonyten4tamil
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_4_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_4_Tamil_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="1774" tvg-name="Sony Ten 4 Tamil [DASH · ClearKey · JioTV+]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title="Sports - Sony Sports - Tamil" tvg-language="Tamil" base-name="Sony Ten 4 Tamil" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+",Sony Ten 4 Tamil [DASH · ClearKey · JioTV+]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3092,6 +3092,9 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="[BD] Sony Ten Sports 5 HD [HLS · Sports IPTV]" tvg-logo="https://assets-prod.services.toffeelive.com/f_png%2Cw_300%2Cq_85/vi5n-JQBv9knK3AHqzTC/posters/d171fd4d-0369-4213-b0c5-e241974f5459.png" group-title="Sports - Sony Sports - English" tvg-language="English" base-name="[BD] Sony Ten Sports 5 HD" stream-type="HLS" stream-source="Sports IPTV",[BD] Sony Ten Sports 5 HD [HLS · Sports IPTV]
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1090554805_ENG" tvg-name="Bangladesh A vs Hong Kong China - 19 Nov 2026 [ENG] [HLS · SonyLIV 3]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029365/1795067857037235_ACRS26_BANvsHKC_landscape_thumb.jpg" group-title="Sports - Sony Sports - English" tvg-language="English" base-name="Bangladesh A vs Hong Kong China - 19 Nov 2026 [ENG]" stream-type="HLS" stream-source="SonyLIV 3",Bangladesh A vs Hong Kong China - 19 Nov 2026 [ENG] [HLS · SonyLIV 3]
+https://sonyeventsglobal.akamaized.net/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795126744~acl=/*~id=85291357743326324393336875516571~hmac=7330ec010a317baeb5fa1e654481c60ba5b25f60ba38103e519087d8e0201b09
 
 #EXTINF:-1 tvg-id="ten1.sonyliv" tvg-name="Sony Sports Ten 1 [HLS · Jo/Zoh]" tvg-logo="https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png?lock=720x540" group-title="Sports - Sony Sports - English" tvg-language="English" base-name="Sony Sports Ten 1" stream-type="HLS" stream-source="Jo/Zoh",Sony Sports Ten 1 [HLS · Jo/Zoh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
@@ -3206,7 +3209,7 @@ https://hjh-545.pages.dev/stream?id=sonyten5hd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://jiotvmblive.cdn.jio.com/bpk-tv/Six_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1794996206~exp=1795082606~acl=/*~hmac=5e22326641ab5cbeef7d2bc4de9bba2d10b11bf4c52451ea30fea6c76ba9b190
+https://jiotvmblive.cdn.jio.com/bpk-tv/Six_HD_MOB/WDVLive/index.mpd?Error: Dono sources fail ho gaye.
 
 #EXTINF:-1 tvg-id="ten_cricket" tvg-name="SONY TEN Cricket [HLS · Sportlink-wtf/Sports]" tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png" group-title="Sports - Sony Sports - English" tvg-language="English" base-name="SONY TEN Cricket" stream-type="HLS" stream-source="Sportlink-wtf/Sports",SONY TEN Cricket [HLS · Sportlink-wtf/Sports]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
@@ -3214,6 +3217,9 @@ https://bd.drmlive.net/toffee/cdn/live/ten_cricket/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ten_cricket" tvg-name="SONY TEN Cricket [HLS · JioTV+ 16]" tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png" group-title="Sports - Sony Sports - English" tvg-language="English" base-name="SONY TEN Cricket" stream-type="HLS" stream-source="JioTV+ 16",SONY TEN Cricket [HLS · JioTV+ 16]
 https://hmairmedia.ai.studio/api/play/Sony%20Ten%20Cricket.m3u8
+
+#EXTINF:-1 tvg-id="1090554810_ENG" tvg-name="Sri Lanka A vs Afghanistan A - 19 Nov 2026 [ENG] [HLS · SonyLIV 3]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029388/1795079673412862_ACRS26_SLvsAFG_landscape_thumb.jpg" group-title="Sports - Sony Sports - English" tvg-language="English" base-name="Sri Lanka A vs Afghanistan A - 19 Nov 2026 [ENG]" stream-type="HLS" stream-source="SonyLIV 3",Sri Lanka A vs Afghanistan A - 19 Nov 2026 [ENG] [HLS · SonyLIV 3]
+https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795126744~acl=/*~id=85291357743326324393336875516571~hmac=7330ec010a317baeb5fa1e654481c60ba5b25f60ba38103e519087d8e0201b09
 
 #EXTINF:-1 tvg-id="fancode1" tvg-name="FANCODE 1 [DASH · ClearKey · Sportlink-wtf/Sports]" tvg-logo="https://i.ibb.co/jvS7zkgW/images.png" group-title="Sports - FanCode - English" tvg-language="English" base-name="FANCODE 1" stream-type="DASH" stream-drm="ClearKey" stream-source="Sportlink-wtf/Sports",FANCODE 1 [DASH · ClearKey · Sportlink-wtf/Sports]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
