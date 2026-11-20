@@ -1,9 +1,9 @@
 #EXTM3U
 #PLAYLIST:JaSH - Tamil channels, Tamil/English sports and Bigg Boss Tamil - by source
 #NOTE:Identical streams to the main feed, grouped by upstream source. Sources that contributed nothing have no group.
-#GENERATED:2026-11-20T03:24:25.298Z
-#ENTRIES:739
-#CATALOGUES:17 sources contributed 739 streams
+#GENERATED:2026-11-20T12:59:25.010Z
+#ENTRIES:741
+#CATALOGUES:18 sources contributed 741 streams
 
 #EXTINF:-1 tvg-id="3StarTV" tvg-name="3 Star TV [HLS · TWC Tamil]" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746107173_3%2520star%2520logo%2520png%2520copy.png&w=1080&q=75" group-title="TWC Tamil" tvg-language="Tamil" base-name="3 Star TV" stream-type="HLS" stream-source="TWC Tamil",3 Star TV [HLS · TWC Tamil]
 https://stream.onecloudlive.in/threestartv/threestarhd/index.m3u8
@@ -1476,9 +1476,6 @@ https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlis
 #EXTINF:-1 tvg-id="HebronTV.in@SD" tvg-name="Hebron TV (1080p) [HLS · Tamil World]" tvg-logo="https://i0.wp.com/hebrontv.in/wp-content/uploads/2023/11/hebron-.png?w=512" group-title="Tamil World" tvg-language="Tamil" base-name="Hebron TV (1080p)" stream-type="HLS" stream-source="Tamil World",Hebron TV (1080p) [HLS · Tamil World]
 https://account20.livebox.co.in/charleshls/live.m3u8
 
-#EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-name="History TV18 HD (1080p) [HLS · Tamil World]" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="Tamil World" tvg-language="Tamil" base-name="History TV18 HD (1080p)" stream-type="HLS" stream-source="Tamil World",History TV18 HD (1080p) [HLS · Tamil World]
-https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
-
 #EXTINF:-1 tvg-id="HosannaTV.in@Tamil" tvg-name="Hosanna TV (720p) [HLS · Tamil World]" tvg-logo="https://i.imgur.com/VYorU1L.png" group-title="Tamil World" tvg-language="Tamil" base-name="Hosanna TV (720p)" stream-type="HLS" stream-source="Tamil World",Hosanna TV (720p) [HLS · Tamil World]
 https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8
 
@@ -2221,7 +2218,7 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=3051
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/aryatvtamil/HLSPartner/index.m3u8?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/aryatvtamil/HLSPartner/index.m3u8?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="835" tvg-name="Angel TV HD [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Angel_TV_HD.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Angel TV HD" stream-type="DASH" stream-source="JioTV+ 32",Angel TV HD [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2229,7 +2226,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/aryatvtamil/HLSPartner/index.m3u8?__hdnea
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Angel_TV_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Angel_TV_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="3358" tvg-name="Bhagyam TV [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/aanadhamtvtamil.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Bhagyam TV" stream-type="DASH" stream-source="JioTV+ 32",Bhagyam TV [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2237,7 +2234,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Angel_TV_HD_MOB/WDVLive/index.mpd?__hdnea
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/aanadhamtvtamil/HLSPartner/index.m3u8?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/aanadhamtvtamil/HLSPartner/index.m3u8?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="194347" tvg-name="Chintu TV [DASH · JioTV+ 32]" tvg-logo="https://sund-images.sunnxt.com/194347/200x200_ChintuTV_194347_c0bed570-613a-4d5a-8bb8-2b7cd31cb0f8.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Chintu TV" stream-type="DASH" stream-source="JioTV+ 32",Chintu TV [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2261,7 +2258,7 @@ https://livestream.sunnxt.com/3ed29d5b01b546eaa05d184cd87535f1/ChuttiTVB_IN_inde
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Channel_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Channel_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="726" tvg-name="DD5 Podhigai [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="DD5 Podhigai" stream-type="DASH" stream-source="JioTV+ 32",DD5 Podhigai [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2269,7 +2266,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Channel_Tamil_MOB/WDVLive/index
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/DD5_Podhigai_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/DD5_Podhigai_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="3357" tvg-name="Dharsan TV [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/dharshantvtamil.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Dharsan TV" stream-type="DASH" stream-source="JioTV+ 32",Dharsan TV [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2277,7 +2274,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/DD5_Podhigai_MOB/WDVLive/index.mpd?__hdne
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/dharshantvtamil/HLSPartner/index.m3u8?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/dharshantvtamil/HLSPartner/index.m3u8?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="550" tvg-name="Discovery Kids Tamil [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryKidsTam.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Discovery Kids Tamil" stream-type="DASH" stream-source="JioTV+ 32",Discovery Kids Tamil [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2285,7 +2282,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/dharshantvtamil/HLSPartner/index.m3u8?__h
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/DiscoveryKidsTam_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/DiscoveryKidsTam_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="579" tvg-name="History TV18 HD Tamil [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="History TV18 HD Tamil" stream-type="DASH" stream-source="JioTV+ 32",History TV18 HD Tamil [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2293,7 +2290,15 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/DiscoveryKidsTam_MOB/WDVLive/index.mpd?__
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/History_18_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/History_18_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
+
+#EXTINF:-1 tvg-id="india-a-vs-nepal---20-nov-2026--tam----acc-men-s-asia-cup-rising-stars-2026" tvg-name="India A vs Nepal - 20 Nov 2026 [TAM] - ACC Men's Asia Cup Rising Stars 2026 [DASH · JioTV+ 32]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029418/1795109522697691_ACRS_India_A_vs_Nepal_live_landscape_thumb.jpg" group-title="JioTV+ 32" tvg-language="Tamil" base-name="India A vs Nepal - 20 Nov 2026 [TAM] - ACC Men's Asia Cup Rising Stars 2026" stream-type="DASH" stream-source="JioTV+ 32",India A vs Nepal - 20 Nov 2026 [TAM] - ACC Men's Asia Cup Rising Stars 2026 [DASH · JioTV+ 32]
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Droovy
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+#EXTVLCOPT:http-origin=https://www.jiotv.com
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795217257~acl=/*~id=00586453195905125252130188069383~hmac=61f4d967be84ec51d933fbd0e145454a34e945346ef96f6f4e07360efd772bd3
 
 #EXTINF:-1 tvg-id="417" tvg-name="J Movies [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="J Movies" stream-type="DASH" stream-source="JioTV+ 32",J Movies [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2301,7 +2306,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/History_18_Tamil_MOB/WDVLive/index.mpd?__
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/J_Movies_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/J_Movies_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="420" tvg-name="Jaya Max [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Jaya Max" stream-type="DASH" stream-source="JioTV+ 32",Jaya Max [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2309,7 +2314,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/J_Movies_MOB/WDVLive/index.mpd?__hdnea__=
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Jaya_Max_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Jaya_Max_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="418" tvg-name="Jaya Plus [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Jaya Plus" stream-type="DASH" stream-source="JioTV+ 32",Jaya Plus [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2317,7 +2322,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Jaya_Max_MOB/WDVLive/index.mpd?__hdnea__=
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Jaya_Plus_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Jaya_Plus_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="419" tvg-name="Jaya TV HD [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Jaya TV HD" stream-type="DASH" stream-source="JioTV+ 32",Jaya TV HD [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2325,7 +2330,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Jaya_Plus_MOB/WDVLive/index.mpd?__hdnea__
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Jaya_TV_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Jaya_TV_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="2768" tvg-name="Jothi TV [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jothi_TV.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Jothi TV" stream-type="DASH" stream-source="JioTV+ 32",Jothi TV [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2333,7 +2338,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Jaya_TV_HD_MOB/WDVLive/index.mpd?__hdnea_
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Jothi_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Jothi_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="1210" tvg-name="Kalaignar Seithigal [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Kalaignar Seithigal" stream-type="DASH" stream-source="JioTV+ 32",Kalaignar Seithigal [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2341,7 +2346,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Jothi_TV_MOB/WDVLive/index.mpd?__hdnea__=
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Kalaignar_Seithigal__MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Kalaignar_Seithigal__MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="1209" tvg-name="Kalaignar TV [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Kalaignar TV" stream-type="DASH" stream-source="JioTV+ 32",Kalaignar TV [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2349,7 +2354,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Kalaignar_Seithigal__MOB/WDVLive/index.mp
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Kalaignar_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Kalaignar_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="2434" tvg-name="M Nadu [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/M_Nadu.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="M Nadu" stream-type="DASH" stream-source="JioTV+ 32",M Nadu [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2357,7 +2362,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Kalaignar_TV_MOB/WDVLive/index.mpd?__hdne
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/M_Nadu_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/M_Nadu_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="1655" tvg-name="Madha TV [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Madha_TV.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Madha TV" stream-type="DASH" stream-source="JioTV+ 32",Madha TV [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2365,7 +2370,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/M_Nadu_MOB/WDVLive/index.mpd?__hdnea__=st
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Madha_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Madha_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="708" tvg-name="Makkal TV [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Makkal TV" stream-type="DASH" stream-source="JioTV+ 32",Makkal TV [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2373,7 +2378,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Madha_TV_MOB/WDVLive/index.mpd?__hdnea__=
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Makkal_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Makkal_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="826" tvg-name="Malaimurasu Seithigal [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Malaimurasu Seithigal" stream-type="DASH" stream-source="JioTV+ 32",Malaimurasu Seithigal [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2381,7 +2386,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Makkal_TV_MOB/WDVLive/index.mpd?__hdnea__
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Malaimurasu_Seithigal_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Malaimurasu_Seithigal_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="1647" tvg-name="MK Six [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Six.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="MK Six" stream-type="DASH" stream-source="JioTV+ 32",MK Six [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2389,7 +2394,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Malaimurasu_Seithigal_MOB/WDVLive/index.m
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/MK_Six_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/MK_Six_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="1518" tvg-name="Moon TV [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Moon_Tv.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Moon TV" stream-type="DASH" stream-source="JioTV+ 32",Moon TV [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2397,7 +2402,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/MK_Six_MOB/WDVLive/index.mpd?__hdnea__=st
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Moon_Tv_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Moon_Tv_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="603" tvg-name="Nambikkai [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nambikkai.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Nambikkai" stream-type="DASH" stream-source="JioTV+ 32",Nambikkai [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2405,7 +2410,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Moon_Tv_MOB/WDVLive/index.mpd?__hdnea__=s
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Nambikkai_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Nambikkai_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="1515" tvg-name="News J [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_J.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="News J" stream-type="DASH" stream-source="JioTV+ 32",News J [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2413,7 +2418,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Nambikkai_MOB/WDVLive/index.mpd?__hdnea__
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/News_J_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/News_J_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="1954" tvg-name="News Tamil 24x7 [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_Tamil_24x7.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="News Tamil 24x7" stream-type="DASH" stream-source="JioTV+ 32",News Tamil 24x7 [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2421,7 +2426,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/News_J_MOB/WDVLive/index.mpd?__hdnea__=st
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/News_Tamil_24x7_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/News_Tamil_24x7_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="673" tvg-name="News7 Tamil [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="News7 Tamil" stream-type="DASH" stream-source="JioTV+ 32",News7 Tamil [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2429,7 +2434,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/News_Tamil_24x7_MOB/WDVLive/index.mpd?__h
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/News7_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/News7_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="546" tvg-name="Nick Tamil [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Nick Tamil" stream-type="DASH" stream-source="JioTV+ 32",Nick Tamil [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2437,7 +2442,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/News7_Tamil_MOB/WDVLive/index.mpd?__hdnea
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Tam_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Tam_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="796" tvg-name="Peppers TV [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Peppers_TV.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Peppers TV" stream-type="DASH" stream-source="JioTV+ 32",Peppers TV [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2445,7 +2450,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Tam_MOB/WDVLive/index.mpd?__hdnea__=
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Peppers_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Peppers_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="542" tvg-name="Pogo Tamil [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Pogo Tamil" stream-type="DASH" stream-source="JioTV+ 32",Pogo Tamil [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2453,7 +2458,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Peppers_TV_MOB/WDVLive/index.mpd?__hdnea_
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Pogo_Tam_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Pogo_Tam_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="636" tvg-name="Polimer News [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Polimer News" stream-type="DASH" stream-source="JioTV+ 32",Polimer News [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2461,7 +2466,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Pogo_Tam_MOB/WDVLive/index.mpd?__hdnea__=
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Polimer_News_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Polimer_News_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="705" tvg-name="Polimer TV [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Polimer TV" stream-type="DASH" stream-source="JioTV+ 32",Polimer TV [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2469,7 +2474,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Polimer_News_MOB/WDVLive/index.mpd?__hdne
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Polimer_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Polimer_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="677" tvg-name="Puthiya Thalimurai [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Puthiya Thalimurai" stream-type="DASH" stream-source="JioTV+ 32",Puthiya Thalimurai [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2477,7 +2482,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Polimer_TV_MOB/WDVLive/index.mpd?__hdnea_
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Puthiya_Thalimurai_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Puthiya_Thalimurai_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="824" tvg-name="Puthu Yugam [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Puthu Yugam" stream-type="DASH" stream-source="JioTV+ 32",Puthu Yugam [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2485,7 +2490,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Puthiya_Thalimurai_MOB/WDVLive/index.mpd?
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Puthu_Yugam_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Puthu_Yugam_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="1537" tvg-name="RadheKrishna TV [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/RadheKrishna_TV.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="RadheKrishna TV" stream-type="DASH" stream-source="JioTV+ 32",RadheKrishna TV [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2493,7 +2498,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Puthu_Yugam_MOB/WDVLive/index.mpd?__hdnea
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/RadheKrishna_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/RadheKrishna_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="683" tvg-name="Raj Digital Plus [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Raj Digital Plus" stream-type="DASH" stream-source="JioTV+ 32",Raj Digital Plus [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2501,7 +2506,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/RadheKrishna_TV_MOB/WDVLive/index.mpd?__h
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_Digital_Plus_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_Digital_Plus_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="748" tvg-name="Raj Musix [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Raj Musix" stream-type="DASH" stream-source="JioTV+ 32",Raj Musix [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2509,7 +2514,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_Digital_Plus_MOB/WDVLive/index.mpd?__
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_Musix_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_Musix_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="767" tvg-name="Raj News 24x7 [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Raj News 24x7" stream-type="DASH" stream-source="JioTV+ 32",Raj News 24x7 [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2517,7 +2522,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_Musix_MOB/WDVLive/index.mpd?__hdnea__
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_News_24x7_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_News_24x7_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="707" tvg-name="Raj TV [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Raj TV" stream-type="DASH" stream-source="JioTV+ 32",Raj TV [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2525,7 +2530,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_News_24x7_MOB/WDVLive/index.mpd?__hdn
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="3409" tvg-name="Roja TV [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/rojatv.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Roja TV" stream-type="DASH" stream-source="JioTV+ 32",Roja TV [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2533,7 +2538,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_TV_MOB/WDVLive/index.mpd?__hdnea__=st
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/rojatv/HLSPartner/index.m3u8?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/rojatv/HLSPartner/index.m3u8?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="937" tvg-name="Sai TV [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SaiTV.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Sai TV" stream-type="DASH" stream-source="JioTV+ 32",Sai TV [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2541,7 +2546,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/rojatv/HLSPartner/index.m3u8?__hdnea__=st
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/SaiTV_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/SaiTV_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="671" tvg-name="Sathiyam TV [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sathiyam.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Sathiyam TV" stream-type="DASH" stream-source="JioTV+ 32",Sathiyam TV [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2549,7 +2554,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SaiTV_MOB/WDVLive/index.mpd?__hdnea__=st=
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sathiyam_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Sathiyam_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="290" tvg-name="sonic Tamil [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="sonic Tamil" stream-type="DASH" stream-source="JioTV+ 32",sonic Tamil [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2557,7 +2562,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Sathiyam_MOB/WDVLive/index.mpd?__hdnea__=
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/sonic_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/sonic_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="853" tvg-name="Sony BBC Earth HD Tamil [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthTam.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Sony BBC Earth HD Tamil" stream-type="DASH" stream-source="JioTV+ 32",Sony BBC Earth HD Tamil [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2565,7 +2570,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/sonic_Tamil_MOB/WDVLive/index.mpd?__hdnea
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyBBCEarthTam_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyBBCEarthTam_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="3397" tvg-name="Sony LIV Sports 4 Tamil [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_4_Tamil.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Sony LIV Sports 4 Tamil" stream-type="DASH" stream-source="JioTV+ 32",Sony LIV Sports 4 Tamil [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2581,7 +2586,7 @@ https://sliv.tgaadi.workers.dev/ten4sd.m3u8
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_4_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_4_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="155" tvg-name="Sony Ten 5 HD [DASH · JioTV+ 32]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="JioTV+ 32" tvg-language="English" base-name="Sony Ten 5 HD" stream-type="DASH" stream-source="JioTV+ 32",Sony Ten 5 HD [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2589,7 +2594,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_4_Tamil_MOB/WDVLive/index.mpd?__hdnea
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Six_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Six_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="3622" tvg-name="Sony Vizha HD [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyVizha.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Sony Vizha HD" stream-type="DASH" stream-source="JioTV+ 32",Sony Vizha HD [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2597,7 +2602,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Six_HD_MOB/WDVLive/index.mpd?__hdnea__=st
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyVizha_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyVizha_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="873" tvg-name="Sony Yay Tamil [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYTam.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Sony Yay Tamil" stream-type="DASH" stream-source="JioTV+ 32",Sony Yay Tamil [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2605,7 +2610,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonyVizha_MOB/WDVLive/index.mpd?__hdnea__
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyYAYTam_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyYAYTam_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="829" tvg-name="Sri Sankara [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Sankara.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Sri Sankara" stream-type="DASH" stream-source="JioTV+ 32",Sri Sankara [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2613,7 +2618,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonyYAYTam_MOB/WDVLive/index.mpd?__hdnea_
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sri_Sankara_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Sri_Sankara_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="1131" tvg-name="Star Vijay Super [DASH · JioTV+ 32]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vijay_Super.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Star Vijay Super" stream-type="DASH" stream-source="JioTV+ 32",Star Vijay Super [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2622,7 +2627,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Sri_Sankara_MOB/WDVLive/index.mpd?__hdnea
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvpllive.cdn.jio.com/bpk-tv/Vijay_Super_BTS/WDVLive/index.mpd?__hdnea__=st=1795126238~exp=1795147838~acl=/bpk-tv/Vijay_Super_BTS/WDVLive/*~hmac=14a82f2680606bd96158790b9cdeaae3837f5e24a3c4a09ba11d7f4752f52348
+https://jiotvpllive.cdn.jio.com/bpk-tv/Vijay_Super_BTS/WDVLive/index.mpd?__hdnea__=st=1795170632~exp=1795192232~acl=/bpk-tv/Vijay_Super_BTS/WDVLive/*~hmac=a44b56ba6ce89c5c76a38c671181ffab51ac796995727cf4b2323a4e4219c1c1
 
 #EXTINF:-1 tvg-id="194391" tvg-name="Sun Life [DASH · JioTV+ 32]" tvg-logo="https://sund-images.sunnxt.com/194391/1000x1000_SunLife_194391_7eae9e31-0509-459a-bcde-e39122e04b0e.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Sun Life" stream-type="DASH" stream-source="JioTV+ 32",Sun Life [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2646,7 +2651,7 @@ https://livestream3.sunnxt.com/491c99fb6d0c49e88e6349170d890a2f/SunNewsB_IN_inde
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Janam_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Janam_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="3175" tvg-name="Tamil Naaptol [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tamil_Naaptol.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Tamil Naaptol" stream-type="DASH" stream-source="JioTV+ 32",Tamil Naaptol [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2654,7 +2659,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Janam_Tamil_MOB/WDVLive/index.mpd?__hdnea
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Tamil_Naaptol_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Tamil_Naaptol_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="2958" tvg-name="Tamilan Television [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tamilan_Television.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Tamilan Television" stream-type="DASH" stream-source="JioTV+ 32",Tamilan Television [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2662,7 +2667,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Tamil_Naaptol_MOB/WDVLive/index.mpd?__hdn
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Tamilan_Television_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Tamilan_Television_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="3059" tvg-name="Thanthi One [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Thanti_One.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Thanthi One" stream-type="DASH" stream-source="JioTV+ 32",Thanthi One [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2670,7 +2675,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Tamilan_Television_MOB/WDVLive/index.mpd?
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Thanti_One_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Thanti_One_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="830" tvg-name="Thanthi TV [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Thanthi TV" stream-type="DASH" stream-source="JioTV+ 32",Thanthi TV [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2678,7 +2683,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Thanti_One_MOB/WDVLive/index.mpd?__hdnea_
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Thanthi_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Thanthi_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="814" tvg-name="Travelxp Tamil [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Travelxp Tamil" stream-type="DASH" stream-source="JioTV+ 32",Travelxp Tamil [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2686,7 +2691,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Thanthi_TV_MOB/WDVLive/index.mpd?__hdnea_
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Travel_XP_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Travel_XP_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="803" tvg-name="Tunes 6 [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Tunes 6" stream-type="DASH" stream-source="JioTV+ 32",Tunes 6 [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2694,7 +2699,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Travel_XP_Tamil_MOB/WDVLive/index.mpd?__h
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Tunes_6_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Tunes_6_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="3396" tvg-name="Ultimate TV [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/utvtamil.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Ultimate TV" stream-type="DASH" stream-source="JioTV+ 32",Ultimate TV [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2702,7 +2707,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Tunes_6_MOB/WDVLive/index.mpd?__hdnea__=s
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/utvtamil/HLSPartner/index.m3u8?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/utvtamil/HLSPartner/index.m3u8?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="971" tvg-name="Vaanavil TV [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vaanavil_TV.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Vaanavil TV" stream-type="DASH" stream-source="JioTV+ 32",Vaanavil TV [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2710,7 +2715,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/utvtamil/HLSPartner/index.m3u8?__hdnea__=
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Vaanavil_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Vaanavil_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="3004" tvg-name="Velicham Tv [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Velicham_Tv.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Velicham Tv" stream-type="DASH" stream-source="JioTV+ 32",Velicham Tv [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2718,7 +2723,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Vaanavil_TV_MOB/WDVLive/index.mpd?__hdnea
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Velicham_Tv_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Velicham_Tv_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="3269" tvg-name="Vijay Takkar [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Takkar.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Vijay Takkar" stream-type="DASH" stream-source="JioTV+ 32",Vijay Takkar [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2726,7 +2731,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Velicham_Tv_MOB/WDVLive/index.mpd?__hdnea
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Vijay_Takkar_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Vijay_Takkar_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="970" tvg-name="Win TV [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Win_TV.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Win TV" stream-type="DASH" stream-source="JioTV+ 32",Win TV [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2734,7 +2739,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Vijay_Takkar_MOB/WDVLive/index.mpd?__hdne
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvmblive.cdn.jio.com/bpk-tv/Win_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1795069813~exp=1795156213~acl=/*~hmac=2edc0f30a7a99cb0ba38bb3f4df703a3989204f1bae7ad08e7fad839900e0998
+https://jiotvmblive.cdn.jio.com/bpk-tv/Win_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
 
 #EXTINF:-1 tvg-id="1664" tvg-name="7S Music [HLS · JioTV+ 16]" tvg-logo="https://tataprime.files.wordpress.com/2024/03/wp-17097527414494923868850942693233.png" group-title="JioTV+ 16" tvg-language="Tamil" base-name="7S Music" stream-type="HLS" stream-source="JioTV+ 16",7S Music [HLS · JioTV+ 16]
 https://mumbai-edge.smartplaytv.in/7SMusic/index.m3u8
@@ -2742,8 +2747,8 @@ https://mumbai-edge.smartplaytv.in/7SMusic/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Aadhavan Tamil Tv [HLS · JioTV+ 16]" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1758903321_WhatsApp_Image_2025-09-26_at_11.19.20_AM-removebg-preview.png" group-title="JioTV+ 16" tvg-language="Tamil" base-name="Aadhavan Tamil Tv" stream-type="HLS" stream-source="JioTV+ 16",Aadhavan Tamil Tv [HLS · JioTV+ 16]
 https://aadhavantamiltv.tamilstream.in/aadhavantamiltv/aadhavantamiltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Anandham TV [HLS · JioTV+ 16]" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753975377_ANANTHAM TV LOGO.png" group-title="JioTV+ 16" tvg-language="Tamil" base-name="Anandham TV" stream-type="HLS" stream-source="JioTV+ 16",Anandham TV [HLS · JioTV+ 16]
-https://anandhamtv.stream.ipcloud.live/anandhamtv/anandhamtv/index.m3u8
+#EXTINF:-1 tvg-id="AnandhamTV" tvg-name="Anandham TV [DASH · JioTV+ 16]" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753975377_ANANTHAM%20TV%20LOGO.png" group-title="JioTV+ 16" tvg-language="Tamil" base-name="Anandham TV" stream-type="DASH" stream-source="JioTV+ 16",Anandham TV [DASH · JioTV+ 16]
+https://server.sscloud7.in/live/anandhamtv/index.mpd
 
 #EXTINF:-1 tvg-id="AstroVaanavil" tvg-name="Astro Vaanavil [DASH · ClearKey · JioTV+ 16]" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png" group-title="JioTV+ 16" tvg-language="Tamil" base-name="Astro Vaanavil" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 16",Astro Vaanavil [DASH · ClearKey · JioTV+ 16]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2777,9 +2782,6 @@ https://fusion4k.psrutube.workers.dev/481012.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="IBC Tamil [HLS · JioTV+ 16]" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0840532653502816512774106.png" group-title="JioTV+ 16" tvg-language="Tamil" base-name="IBC Tamil" stream-type="HLS" stream-source="JioTV+ 16",IBC Tamil [HLS · JioTV+ 16]
 https://webcast.emn.onl/IBC/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Imai Tv [HLS · JioTV+ 16]" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_0024535319624676210911606.png" group-title="JioTV+ 16" tvg-language="Tamil" base-name="Imai Tv" stream-type="HLS" stream-source="JioTV+ 16",Imai Tv [HLS · JioTV+ 16]
-https://183.giatvcdn.com/ssh101/ssh101/imaitv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="141112" tvg-name="Isai Aruvi [DASH · ClearKey · JioTV+ 16]" tvg-logo="https://tatalogo.pages.dev/647.png" group-title="JioTV+ 16" tvg-language="Tamil" base-name="Isai Aruvi" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 16",Isai Aruvi [DASH · ClearKey · JioTV+ 16]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2843,9 +2845,6 @@ https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8
 
 #EXTINF:-1 tvg-id="24.7.Dummy" tvg-name="Superfine Films Tamil [HLS · JioTV+ 16]" tvg-logo="https://yt3.googleusercontent.com/ZgcEXEs5p68kfy7XRit12tc8buuPjRtjQD-qiPWw0uixmUBMX3dPX-nRry5eHRGomLg0SBJ1=s900-c-k-c0x00ffffff-no-rj" group-title="JioTV+ 16" tvg-language="Tamil" base-name="Superfine Films Tamil" stream-type="HLS" stream-source="JioTV+ 16",Superfine Films Tamil [HLS · JioTV+ 16]
 https://supflm.cdn.runn.tv/runntv/stream/suptam/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="T Tamil [HLS · JioTV+ 16]" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790077071_ttvlogo.png" group-title="JioTV+ 16" tvg-language="Tamil" base-name="T Tamil" stream-type="HLS" stream-source="JioTV+ 16",T Tamil [HLS · JioTV+ 16]
-https://app.ashokadigital.net/app/66a49d84/index.m3u8
 
 #EXTINF:-1 tvg-id="24.7.Dummy" tvg-name="TAMIL ACTION MOVIES [HLS · JioTV+ 16]" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3609.png" group-title="JioTV+ 16" tvg-language="Tamil" base-name="TAMIL ACTION MOVIES" stream-type="HLS" stream-source="JioTV+ 16",TAMIL ACTION MOVIES [HLS · JioTV+ 16]
 https://fusion4k.psrutube.workers.dev/3609.m3u8
@@ -2936,10 +2935,8 @@ https://app.ashokadigital.net/app/89c09acf/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=fb3e1afa8ae545f5a99d40baefd8a8d8:6432f742cd17eb5aedc3d68a3a61079c
 https://tglmp01.akamaized.net/out/v1/8605c1013e3148aa809c296dd76c3fa5/manifest.mpd
 
-#EXTINF:-1 tvg-id="VasanthamTV.lk" tvg-name="Vasantham TV [HLS · JioTV+ 16]" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240314_0102452655171399454443410.png" group-title="JioTV+ 16" tvg-language="Tamil" base-name="Vasantham TV" stream-type="HLS" stream-source="JioTV+ 16",Vasantham TV [HLS · JioTV+ 16]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://itn.lk/
-https://hls-vasanthamtv-livepush.akamaized.net/live_cdn/nsiPyyYPqaaCfd/emECWxBE00V4ULId/rewind-3600.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="Vasantham TV [HLS · JioTV+ 16]" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240314_0102452655171399454443410.png" group-title="JioTV+ 16" tvg-language="Tamil" base-name="Vasantham TV" stream-type="HLS" stream-source="JioTV+ 16",Vasantham TV [HLS · JioTV+ 16]
+https://play.comcities.net/n/fDutV13UDKmAjAAigLqhCg/1795172291/live/VasanthamTV/index.m3u8
 
 #EXTINF:-1 tvg-id="wowkidztam" tvg-name="Wow Kidz Tamil [HLS · JioTV+ 16]" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_km3QTLe_VSMeK--jH5I0QYM5MJFC35SsvHEY4UwukZlg=s900-c-k-c0x00ffffff-no-rj" group-title="JioTV+ 16" tvg-language="Tamil" base-name="Wow Kidz Tamil" stream-type="HLS" stream-source="JioTV+ 16",Wow Kidz Tamil [HLS · JioTV+ 16]
 https://yuppparoriglin.akamaized.net//181224//smil:wowkidztam.smil//playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
@@ -3332,6 +3329,18 @@ https://streamhub.dhruvpatil681.workers.dev/1450.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+
+#EXTINF:-1 tvg-id="1090555013_ENG" tvg-name="East Bengal FC vs Sporting Club Delhi - 20 Nov 2026 [ENG] [HLS · SonyLIV 3]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029333/1794695810000511_ISL26_EBFC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg" group-title="SonyLIV 3" tvg-language="English" base-name="East Bengal FC vs Sporting Club Delhi - 20 Nov 2026 [ENG]" stream-type="HLS" stream-source="SonyLIV 3",East Bengal FC vs Sporting Club Delhi - 20 Nov 2026 [ENG] [HLS · SonyLIV 3]
+https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795222153~acl=/*~id=02649863711394500133274018056127~hmac=d585745ae02c98675c7003568313ed07f4e8e11b39c5c6d5d3e4cdd642877ec9
+
+#EXTINF:-1 tvg-id="1090555011_ENG" tvg-name="India A vs Nepal - 20 Nov 2026 [ENG] [HLS · SonyLIV 3]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029418/1795109522697691_ACRS_India_A_vs_Nepal_live_landscape_thumb.jpg" group-title="SonyLIV 3" tvg-language="English" base-name="India A vs Nepal - 20 Nov 2026 [ENG]" stream-type="HLS" stream-source="SonyLIV 3",India A vs Nepal - 20 Nov 2026 [ENG] [HLS · SonyLIV 3]
+https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7696prod-PlaybackConfig/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8
+
+#EXTINF:-1 tvg-id="1090555011_TAM" tvg-name="India A vs Nepal - 20 Nov 2026 [TAM] [HLS · SonyLIV 3]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029418/1795109522697691_ACRS_India_A_vs_Nepal_live_landscape_thumb.jpg" group-title="SonyLIV 3" tvg-language="Tamil" base-name="India A vs Nepal - 20 Nov 2026 [TAM]" stream-type="HLS" stream-source="SonyLIV 3",India A vs Nepal - 20 Nov 2026 [TAM] [HLS · SonyLIV 3]
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795222153~acl=/*~id=02649863711394500133274018056127~hmac=d585745ae02c98675c7003568313ed07f4e8e11b39c5c6d5d3e4cdd642877ec9
+
+#EXTINF:-1 tvg-id="1090555008_ENG" tvg-name="Pakistan Shaheens vs UAE - 20 Nov 2026 [ENG] [HLS · SonyLIV 3]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029419/1795110984337206_ACRS_PAK_vs_UAE_live_landscape_thumb.jpg" group-title="SonyLIV 3" tvg-language="English" base-name="Pakistan Shaheens vs UAE - 20 Nov 2026 [ENG]" stream-type="HLS" stream-source="SonyLIV 3",Pakistan Shaheens vs UAE - 20 Nov 2026 [ENG] [HLS · SonyLIV 3]
+https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795222153~acl=/*~id=02649863711394500133274018056127~hmac=d585745ae02c98675c7003568313ed07f4e8e11b39c5c6d5d3e4cdd642877ec9
 
 #EXTINF:-1 tvg-id="" tvg-name="Maalai Murasu TV(Not 24*7) [HLS · Kirubanandem]" tvg-logo="" group-title="Kirubanandem" tvg-language="Tamil" base-name="Maalai Murasu TV(Not 24*7)" stream-type="HLS" stream-source="Kirubanandem",Maalai Murasu TV(Not 24*7) [HLS · Kirubanandem]
 https://cdn-3.pishow.tv/live/1606/master.m3u8
