@@ -1,9 +1,9 @@
 #EXTM3U
 #PLAYLIST:JaSH - Tamil channels, Tamil/English sports and Bigg Boss Tamil - by source
 #NOTE:Identical streams to the main feed, grouped by upstream source. Sources that contributed nothing have no group.
-#GENERATED:2026-11-20T12:59:25.010Z
-#ENTRIES:741
-#CATALOGUES:18 sources contributed 741 streams
+#GENERATED:2026-11-20T21:51:18.878Z
+#ENTRIES:736
+#CATALOGUES:17 sources contributed 736 streams
 
 #EXTINF:-1 tvg-id="3StarTV" tvg-name="3 Star TV [HLS · TWC Tamil]" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746107173_3%2520star%2520logo%2520png%2520copy.png&w=1080&q=75" group-title="TWC Tamil" tvg-language="Tamil" base-name="3 Star TV" stream-type="HLS" stream-source="TWC Tamil",3 Star TV [HLS · TWC Tamil]
 https://stream.onecloudlive.in/threestartv/threestarhd/index.m3u8
@@ -2298,7 +2298,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/History_18_Tamil_MOB/WDVLive/index.mpd?__
 #EXTVLCOPT:http-user-agent=Droovy
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795217257~acl=/*~id=00586453195905125252130188069383~hmac=61f4d967be84ec51d933fbd0e145454a34e945346ef96f6f4e07360efd772bd3
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795228901~acl=/*~id=49301268505225167122969053173518~hmac=c036b09456934f90af681cb56c3954ded67db4f90a115a4b5754ac6f4f5e9721
 
 #EXTINF:-1 tvg-id="417" tvg-name="J Movies [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="J Movies" stream-type="DASH" stream-source="JioTV+ 32",J Movies [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2619,15 +2619,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonyYAYTam_MOB/WDVLive/index.mpd?__hdnea_
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
 #EXTVLCOPT:http-origin=https://www.jiotv.com
 https://jiotvmblive.cdn.jio.com/bpk-tv/Sri_Sankara_MOB/WDVLive/index.mpd?__hdnea__=st=1795149006~exp=1795235406~acl=/*~hmac=163265d40f55c7aa61b1cc640ee31c586359114e987a633666e84e785237167e
-
-#EXTINF:-1 tvg-id="1131" tvg-name="Star Vijay Super [DASH · JioTV+ 32]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vijay_Super.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Star Vijay Super" stream-type="DASH" stream-source="JioTV+ 32",Star Vijay Super [DASH · JioTV+ 32]
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"de77b4352b1256e19451a4ac35c4dcec":"1cc558a5a79db96f8d1fb673342213a5","08003491469e5a83890346f69a395e71":"760d6812454d25a9249e3ad1bdf5ebf7","5d7b4b2ea1d453a7bf727b026b9ee13f":"eb2ef18465bbf51743338b4b8e55e7ed","8949bb5bb69a584f87e247d2cd99172c":"072c61207aeb5cba9ee486c4a320eb94","59371a43c32a548a834206067b6521f7":"8d82caef458744616dfe32e9993b3e21"}
-#EXTVLCOPT:http-user-agent=Droovy
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-origin=https://www.jiotv.com
-https://jiotvpllive.cdn.jio.com/bpk-tv/Vijay_Super_BTS/WDVLive/index.mpd?__hdnea__=st=1795170632~exp=1795192232~acl=/bpk-tv/Vijay_Super_BTS/WDVLive/*~hmac=a44b56ba6ce89c5c76a38c671181ffab51ac796995727cf4b2323a4e4219c1c1
 
 #EXTINF:-1 tvg-id="194391" tvg-name="Sun Life [DASH · JioTV+ 32]" tvg-logo="https://sund-images.sunnxt.com/194391/1000x1000_SunLife_194391_7eae9e31-0509-459a-bcde-e39122e04b0e.png" group-title="JioTV+ 32" tvg-language="Tamil" base-name="Sun Life" stream-type="DASH" stream-source="JioTV+ 32",Sun Life [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3329,18 +3320,6 @@ https://streamhub.dhruvpatil681.workers.dev/1450.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-
-#EXTINF:-1 tvg-id="1090555013_ENG" tvg-name="East Bengal FC vs Sporting Club Delhi - 20 Nov 2026 [ENG] [HLS · SonyLIV 3]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029333/1794695810000511_ISL26_EBFC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg" group-title="SonyLIV 3" tvg-language="English" base-name="East Bengal FC vs Sporting Club Delhi - 20 Nov 2026 [ENG]" stream-type="HLS" stream-source="SonyLIV 3",East Bengal FC vs Sporting Club Delhi - 20 Nov 2026 [ENG] [HLS · SonyLIV 3]
-https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795222153~acl=/*~id=02649863711394500133274018056127~hmac=d585745ae02c98675c7003568313ed07f4e8e11b39c5c6d5d3e4cdd642877ec9
-
-#EXTINF:-1 tvg-id="1090555011_ENG" tvg-name="India A vs Nepal - 20 Nov 2026 [ENG] [HLS · SonyLIV 3]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029418/1795109522697691_ACRS_India_A_vs_Nepal_live_landscape_thumb.jpg" group-title="SonyLIV 3" tvg-language="English" base-name="India A vs Nepal - 20 Nov 2026 [ENG]" stream-type="HLS" stream-source="SonyLIV 3",India A vs Nepal - 20 Nov 2026 [ENG] [HLS · SonyLIV 3]
-https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7696prod-PlaybackConfig/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8
-
-#EXTINF:-1 tvg-id="1090555011_TAM" tvg-name="India A vs Nepal - 20 Nov 2026 [TAM] [HLS · SonyLIV 3]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029418/1795109522697691_ACRS_India_A_vs_Nepal_live_landscape_thumb.jpg" group-title="SonyLIV 3" tvg-language="Tamil" base-name="India A vs Nepal - 20 Nov 2026 [TAM]" stream-type="HLS" stream-source="SonyLIV 3",India A vs Nepal - 20 Nov 2026 [TAM] [HLS · SonyLIV 3]
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795222153~acl=/*~id=02649863711394500133274018056127~hmac=d585745ae02c98675c7003568313ed07f4e8e11b39c5c6d5d3e4cdd642877ec9
-
-#EXTINF:-1 tvg-id="1090555008_ENG" tvg-name="Pakistan Shaheens vs UAE - 20 Nov 2026 [ENG] [HLS · SonyLIV 3]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029419/1795110984337206_ACRS_PAK_vs_UAE_live_landscape_thumb.jpg" group-title="SonyLIV 3" tvg-language="English" base-name="Pakistan Shaheens vs UAE - 20 Nov 2026 [ENG]" stream-type="HLS" stream-source="SonyLIV 3",Pakistan Shaheens vs UAE - 20 Nov 2026 [ENG] [HLS · SonyLIV 3]
-https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795222153~acl=/*~id=02649863711394500133274018056127~hmac=d585745ae02c98675c7003568313ed07f4e8e11b39c5c6d5d3e4cdd642877ec9
 
 #EXTINF:-1 tvg-id="" tvg-name="Maalai Murasu TV(Not 24*7) [HLS · Kirubanandem]" tvg-logo="" group-title="Kirubanandem" tvg-language="Tamil" base-name="Maalai Murasu TV(Not 24*7)" stream-type="HLS" stream-source="Kirubanandem",Maalai Murasu TV(Not 24*7) [HLS · Kirubanandem]
 https://cdn-3.pishow.tv/live/1606/master.m3u8

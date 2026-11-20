@@ -1,26 +1,6 @@
 [
   {
-    "name": "ACC Mens Asia Cup Rising Stars 2026 - 3rd Match - Pakistan A vs United Arab Emirates",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "ACC Mens Asia Cup Rising Stars 2026 - 3rd Match - Pakistan A vs United Arab Emirates",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "ACC Mens Asia Cup Rising Stars 2026 - 4th Match - India A vs Nepal",
+    "name": "Abu Dhabi T10 League 2026 - Qualifier - Arabian Aces vs UAE Bulls",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -34,19 +14,29 @@
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Barnsley FC vs. Sheffield Wednesday FC",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
       "key": "prime_sports_one",
       "label": "Prime Sports 1 (prime_sports_one)",
       "origin": "index"
     }
   },
   {
-    "name": "Adelaide Strikers vs. Melbourne Renegades",
+    "name": "Billie Jean King Cup Playoffs-Live: CAN v. BRA 1 & 2",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
     }
   },
   {
@@ -54,9 +44,9 @@
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
-      "origin": "index"
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   },
   {
@@ -90,17 +80,7 @@
     }
   },
   {
-    "name": "Gonzaga at Washington State",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Italia: Milan Icons vs. Brescia Lions",
+    "name": "PPA Tour: Daytona Beach Open-Quarterfinals",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -110,7 +90,7 @@
     }
   },
   {
-    "name": "Italia: Milan Icons vs. Brescia Lions",
+    "name": "PPA Tour: Daytona Beach Open-Quarterfinals",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -120,17 +100,7 @@
     }
   },
   {
-    "name": "Pakistan Shaheens vs. United Arab Emirates",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Repsol Grand Prix of Portugal, Free Practice 1",
+    "name": "Repsol Grand Prix of Portugal, Practice",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -384,16 +354,6 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Star Sports 3",
-    "family": "Star Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
       "key": "hjh-545",
       "label": "JioTV proxy (hjh-545.pages.dev)",
       "origin": "static"
@@ -410,12 +370,12 @@
     }
   },
   {
-    "name": "Star Sports Khel",
+    "name": "Star Sports 3",
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
+      "key": "jiotv_16",
+      "label": "JioTV+ 16 (jiotv_16)",
       "origin": "index"
     }
   },
@@ -430,7 +390,7 @@
     }
   },
   {
-    "name": "The Morning Drive",
+    "name": "Toulouse vs. Olympique de Marseille",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -450,17 +410,7 @@
     }
   },
   {
-    "name": "Triton Poker Series Cyprus-$200K Triton Invitational",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Womens Big Bash League 2026 - 28th Match - Adelaide Strikers Women vs Melbourne Renegades Women",
+    "name": "United States Fencing Tournament",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
