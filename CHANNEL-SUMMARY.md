@@ -1,14 +1,14 @@
 # Current curated feed
 
-Generated 2026-11-19T20:42:24.439Z by `scripts/curate-live.mjs` — do not edit by hand.
+Generated 2026-11-20T03:24:25.298Z by `scripts/curate-live.mjs` — do not edit by hand.
 
-738 stream options in `jash-live.m3u`: 670 Tamil channels, 0 Bigg Boss Tamil, 68 sports feeds.
-47 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
-738 of those streams are also published in `jash-by-source.m3u`, filed under the 17 sources that supplied them.
+739 stream options in `jash-live.m3u`: 671 Tamil channels, 0 Bigg Boss Tamil, 68 sports feeds.
+38 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
+739 of those streams are also published in `jash-by-source.m3u`, filed under the 17 sources that supplied them.
 
 | Group | Streams |
 |---|---:|
-| Tamil - Entertainment | 182 |
+| Tamil - Entertainment | 183 |
 | Tamil - News | 59 |
 | Tamil - Movies | 44 |
 | Tamil - Music | 39 |
@@ -36,7 +36,7 @@ Generated 2026-11-19T20:42:24.439Z by `scripts/curate-live.mjs` — do not edit 
 | JioTV proxy | 104 |
 | Tamil World | 104 |
 | JTV DRM | 85 |
-| JioTV+ 32 | 64 |
+| JioTV+ 32 | 65 |
 | JioTV+ 16 | 62 |
 | Tamil Local | 45 |
 | SmartIPTV Jio | 16 |
@@ -52,7 +52,7 @@ Generated 2026-11-19T20:42:24.439Z by `scripts/curate-live.mjs` — do not edit 
 
 ## Channels (alternate streams of the same brand may repeat)
 
-### Tamil - Entertainment (182)
+### Tamil - Entertainment (183)
 
 - Aadhavan Tamil Tv [HLS · JioTV+ 16]
 - Aadhavan Tamil TV [TamilStream] [HLS · Tamil Local]
@@ -172,6 +172,7 @@ Generated 2026-11-19T20:42:24.439Z by `scripts/curate-live.mjs` — do not edit 
 - Star Vijay [DASH · ClearKey · JioTV proxy]
 - Star Vijay HD [DASH · ClearKey · JioTV proxy]
 - Star Vijay HD [DASH · ClearKey · JTV DRM]
+- Star Vijay Super [DASH · JioTV+ 32]
 - Star Vijay Super [DASH · ClearKey · JioTV proxy]
 - Star Vijay UK (396p) [HLS · Tamil World]
 - Subin TV (1080p) [HLS · Tamil World]
@@ -860,18 +861,18 @@ Generated 2026-11-19T20:42:24.439Z by `scripts/curate-live.mjs` — do not edit 
 | 3DFM07/smartiptv-api-JioTv.m3u8 | static | 20 |
 | iqbal8846/sports-iptv | static | 7 |
 | kirubanandem/iptv_playlist | static | 2 |
-| maybetv/Jo/Zoh.m3u | github | 17 |
+| maybetv/Jo/Zoh.m3u | github | 12 |
 | maybetv/Jo/Zohplx.m3u | github | 1 |
 | sportlive18/Sportlink-wtf/Sports.m3u | github | 9 |
 | sportlive18/Sportlink-wtf/Sport.m3u | github | 1 |
-| JioTV+ 32 (jiotv_32) | pinned | 68 |
-| JioTV+ 16 (jiotv_16) | pinned | 63 |
+| JioTV+ 32 (jiotv_32) | pinned | 71 |
+| JioTV+ 16 (jiotv_16) | pinned | 62 |
 | Special (special) | pinned | 12 |
-| Prime Sports 1 (prime_sports_one) | pinned | 3 |
+| Prime Sports 1 (prime_sports_one) | pinned | 1 |
 | JioTV+ (jiotv) | discovered | 9 |
 | JioTV+ 24 (jiotv_24) | discovered | 0 |
-| Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 6 |
+| Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 3 |
 
-Sources that returned nothing this run: 23 of 63. See `jash-live.stats.json`.
+Sources that returned nothing this run: 15 of 63. See `jash-live.stats.json`.
 
 Playback was **not** verified: entries carry upstream playback properties unchanged, and a stream may still need a compatible player, legitimate access or region availability.

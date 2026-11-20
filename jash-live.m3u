@@ -1,9 +1,9 @@
 #EXTM3U
 #PLAYLIST:JaSH - Tamil channels, Tamil/English sports and Bigg Boss Tamil
 #NOTE:Community source metadata only; playback and rights not independently verified.
-#GENERATED:2026-11-19T20:42:24.439Z
-#ENTRIES:738
-#SUMMARY:670 Tamil channels, 0 Bigg Boss Tamil, 68 sports feeds
+#GENERATED:2026-11-20T03:24:25.298Z
+#ENTRIES:739
+#SUMMARY:671 Tamil channels, 0 Bigg Boss Tamil, 68 sports feeds
 
 #EXTINF:-1 tvg-id="" tvg-name="Aadhavan Tamil Tv [HLS · JioTV+ 16]" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1758903321_WhatsApp_Image_2025-09-26_at_11.19.20_AM-removebg-preview.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Aadhavan Tamil Tv" stream-type="HLS" stream-source="JioTV+ 16",Aadhavan Tamil Tv [HLS · JioTV+ 16]
 https://aadhavantamiltv.tamilstream.in/aadhavantamiltv/aadhavantamiltv/playlist.m3u8
@@ -574,6 +574,15 @@ https://hjh-545.pages.dev/stream?id=starvijayhd
 #KODIPROP:inputstream.adaptive.license_key=25dd000e5523540cbd82ae7957fef7d7:f1d145d84b648242ef0b3ad2cac7eeb8
 #EXTVLCOPT:clearkey=25dd000e5523540cbd82ae7957fef7d7:f1d145d84b648242ef0b3ad2cac7eeb8
 https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=368
+
+#EXTINF:-1 tvg-id="1131" tvg-name="Star Vijay Super [DASH · JioTV+ 32]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vijay_Super.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Star Vijay Super" stream-type="DASH" stream-source="JioTV+ 32",Star Vijay Super [DASH · JioTV+ 32]
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"de77b4352b1256e19451a4ac35c4dcec":"1cc558a5a79db96f8d1fb673342213a5","08003491469e5a83890346f69a395e71":"760d6812454d25a9249e3ad1bdf5ebf7","5d7b4b2ea1d453a7bf727b026b9ee13f":"eb2ef18465bbf51743338b4b8e55e7ed","8949bb5bb69a584f87e247d2cd99172c":"072c61207aeb5cba9ee486c4a320eb94","59371a43c32a548a834206067b6521f7":"8d82caef458744616dfe32e9993b3e21"}
+#EXTVLCOPT:http-user-agent=Droovy
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+#EXTVLCOPT:http-origin=https://www.jiotv.com
+https://jiotvpllive.cdn.jio.com/bpk-tv/Vijay_Super_BTS/WDVLive/index.mpd?__hdnea__=st=1795126238~exp=1795147838~acl=/bpk-tv/Vijay_Super_BTS/WDVLive/*~hmac=14a82f2680606bd96158790b9cdeaae3837f5e24a3c4a09ba11d7f4752f52348
 
 #EXTINF:-1 tvg-id="1131" tvg-name="Star Vijay Super [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vijay_Super.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Star Vijay Super" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Star Vijay Super [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
