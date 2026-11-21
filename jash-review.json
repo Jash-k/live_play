@@ -1,16 +1,6 @@
 [
   {
-    "name": "Amari Jones vs. DeAundre Pettus",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Apex Empress",
+    "name": "ACC Mens Asia Cup Rising Stars 2026 - 6th Match - Bangladesh A vs Afghanistan A",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -20,22 +10,32 @@
     }
   },
   {
-    "name": "BKFC Fight Night Myrtle Beach: Richardson vs. Oxendine",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "BKFC Fight Night Myrtle Beach: Richardson vs. Oxendine",
+    "name": "ACC Mens Asia Cup Rising Stars 2026 - 6th Match - Bangladesh A vs Afghanistan A",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
       "key": "prime_sports_one_backup",
       "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Australia vs. England",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one_backup",
+      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Billie Jean King Cup Playoffs-Live: POL v. SWE Rubbers 3, 4 & 5; FRA v. AUS Rubbers 1 & 2",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
       "origin": "index"
     }
   },
@@ -70,7 +70,7 @@
     }
   },
   {
-    "name": "ECHL Hockey: New Mexico Goatheads vs Tahoe Knight Monsters",
+    "name": "Italia: Brescia Lions vs. Napoli Knights",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -80,7 +80,7 @@
     }
   },
   {
-    "name": "Hobart Hurricanes vs. Sydney Thunder",
+    "name": "Norwich City vs. Cardiff City",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -90,67 +90,7 @@
     }
   },
   {
-    "name": "Las Vegas, Reverse Grid Race",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "OHL Hockey: Saginaw Spirit vs Erie Otters",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "OHL Hockey: Saginaw Spirit vs Erie Otters",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "PPA Tour: Daytona Beach Open-Quarterfinals",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Randall at Colorado-Colorado Springs",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Saint Joseph's vs. Drexel",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Saint Joseph's vs. Drexel",
+    "name": "Repsol Grand Prix of Portugal, Qualifying",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -400,12 +340,12 @@
     }
   },
   {
-    "name": "Star Sports 3",
-    "family": "Star Sports",
+    "name": "Sri Lanka A vs. Hong Kong, China",
+    "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
       "origin": "index"
     }
   },
@@ -430,12 +370,12 @@
     }
   },
   {
-    "name": "Star Sports Khel",
+    "name": "Star Sports 3",
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
+      "key": "jiotv_28",
+      "label": "JioTV+ 28 (jiotv_28)",
       "origin": "index"
     }
   },
@@ -450,7 +390,7 @@
     }
   },
   {
-    "name": "West Texas A&M at UCCS",
+    "name": "Sydney Sixers vs. Perth Scorchers",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -460,7 +400,7 @@
     }
   },
   {
-    "name": "Women's Final: Queensland Pirates vs. Melbourne Vipers",
+    "name": "Triton Poker Series Cyprus-$200K Triton Invitational",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -470,43 +410,13 @@
     }
   },
   {
-    "name": "Women's Final: Queensland Pirates vs. Melbourne Vipers",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Womens Big Bash League 2026 - 29th Match - Hobart Hurricanes Women vs Sydney Thunder Women",
+    "name": "Womens Big Bash League 2026 - 30th Match - Sydney Sixers Women vs Perth Scorchers Women",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
       "key": "maybetv_Jo__Zoh.m3u",
       "label": "maybetv/Jo/Zoh.m3u",
       "origin": "github"
-    }
-  },
-  {
-    "name": "Womens Big Bash League 2026 - 29th Match - Hobart Hurricanes Women vs Sydney Thunder Women",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Womens Big Bash League 2026 - 29th Match - Hobart Hurricanes Women vs Sydney Thunder Women",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
     }
   }
 ]
