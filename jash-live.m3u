@@ -1,9 +1,9 @@
 #EXTM3U
 #PLAYLIST:JaSH - Tamil channels, Tamil/English sports and Bigg Boss Tamil
 #NOTE:Community source metadata only; playback and rights not independently verified.
-#GENERATED:2026-11-21T12:43:12.534Z
-#ENTRIES:795
-#SUMMARY:723 Tamil channels, 0 Bigg Boss Tamil, 72 sports feeds
+#GENERATED:2026-11-21T20:33:40.675Z
+#ENTRIES:794
+#SUMMARY:723 Tamil channels, 0 Bigg Boss Tamil, 71 sports feeds
 
 #EXTINF:-1 tvg-id="" tvg-name="Aadhavan Tamil Tv [HLS · JioTV+ 16]" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1758903321_WhatsApp_Image_2025-09-26_at_11.19.20_AM-removebg-preview.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Aadhavan Tamil Tv" stream-type="HLS" stream-source="JioTV+ 16",Aadhavan Tamil Tv [HLS · JioTV+ 16]
 https://aadhavantamiltv.tamilstream.in/aadhavantamiltv/aadhavantamiltv/playlist.m3u8
@@ -3256,9 +3256,6 @@ https://hjh-545.pages.dev/stream?id=starsportsselect2hd
 #EXTVLCOPT:clearkey=2c443dffefb256a5b7a1364cc4af3529:1d78f35200eb5977a95de669788cf128
 https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=461
 
-#EXTINF:-1 tvg-id="1090555338_TAM" tvg-name="Chennaiyin FC vs Punjab FC - 21 Nov 2026 [TAM] [HLS · SonyLIV 3]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029335/1794702022000862_ISL26_Chennaiyin_fC_vs_Punjab_FC_landscape_thumb.jpg" group-title="Sports - Sony Sports - Tamil" tvg-language="Tamil" base-name="Chennaiyin FC vs Punjab FC - 21 Nov 2026 [TAM]" stream-type="HLS" stream-source="SonyLIV 3",Chennaiyin FC vs Punjab FC - 21 Nov 2026 [TAM] [HLS · SonyLIV 3]
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795307794~acl=/*~id=63003950401475390629337679727322~hmac=2c91d9b78d243764e69f1590b7bcf6195065fcf93cd21cff27352d720f6c79b8
-
 #EXTINF:-1 tvg-id="3397" tvg-name="Sony LIV Sports 4 Tamil [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_4_Tamil.png" group-title="Sports - Sony Sports - Tamil" tvg-language="Tamil" base-name="Sony LIV Sports 4 Tamil" stream-type="DASH" stream-source="JioTV+ 32",Sony LIV Sports 4 Tamil [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3305,6 +3302,9 @@ https://hjh-545.pages.dev/stream?id=sonyten4tamil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0
 https://alex4528.site/jtv/manifest.mpd?id=1774
 
+#EXTINF:-1 tvg-id="1090555610_TAM" tvg-name="UFC Fight Night - Prochazka vs Stirling - 21 Nov 2026 [TAM] [HLS · SonyLIV 3]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg" group-title="Sports - Sony Sports - Tamil" tvg-language="Tamil" base-name="UFC Fight Night - Prochazka vs Stirling - 21 Nov 2026 [TAM]" stream-type="HLS" stream-source="SonyLIV 3",UFC Fight Night - Prochazka vs Stirling - 21 Nov 2026 [TAM] [HLS · SonyLIV 3]
+https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_Proc2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795336304~acl=/*~id=84085737925212436082334820653812~hmac=42d71a55073fbb340183f01ce7ec000fc1f8eeef10f49e9ee82e34117facc010
+
 #EXTINF:-1 tvg-id="" tvg-name="[BD] Sony Ten Cricket [HLS · Sports IPTV]" tvg-logo="https://assets-prod.services.toffeelive.com/f_png%2Cw_300%2Cq_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="Sports - Sony Sports - English" tvg-language="English" base-name="[BD] Sony Ten Cricket" stream-type="HLS" stream-source="Sports IPTV",[BD] Sony Ten Cricket [HLS · Sports IPTV]
 https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8
 
@@ -3313,12 +3313,6 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="[BD] Sony Ten Sports 5 HD [HLS · Sports IPTV]" tvg-logo="https://assets-prod.services.toffeelive.com/f_png%2Cw_300%2Cq_85/vi5n-JQBv9knK3AHqzTC/posters/d171fd4d-0369-4213-b0c5-e241974f5459.png" group-title="Sports - Sony Sports - English" tvg-language="English" base-name="[BD] Sony Ten Sports 5 HD" stream-type="HLS" stream-source="Sports IPTV",[BD] Sony Ten Sports 5 HD [HLS · Sports IPTV]
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1090555335_ENG" tvg-name="Bangladesh A vs Afghanistan A - 21 Nov 2026 [ENG] [HLS · SonyLIV 3]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029480/1795172675588333_AsiaCup_RisingStar_BAN-vs-AFG_Live_landscape_thumb.jpg" group-title="Sports - Sony Sports - English" tvg-language="English" base-name="Bangladesh A vs Afghanistan A - 21 Nov 2026 [ENG]" stream-type="HLS" stream-source="SonyLIV 3",Bangladesh A vs Afghanistan A - 21 Nov 2026 [ENG] [HLS · SonyLIV 3]
-https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795307794~acl=/*~id=63003950401475390629337679727322~hmac=2c91d9b78d243764e69f1590b7bcf6195065fcf93cd21cff27352d720f6c79b8
-
-#EXTINF:-1 tvg-id="1090555338_ENG" tvg-name="Chennaiyin FC vs Punjab FC - 21 Nov 2026 [ENG] [HLS · SonyLIV 3]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029335/1794702022000862_ISL26_Chennaiyin_fC_vs_Punjab_FC_landscape_thumb.jpg" group-title="Sports - Sony Sports - English" tvg-language="English" base-name="Chennaiyin FC vs Punjab FC - 21 Nov 2026 [ENG]" stream-type="HLS" stream-source="SonyLIV 3",Chennaiyin FC vs Punjab FC - 21 Nov 2026 [ENG] [HLS · SonyLIV 3]
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795307794~acl=/*~id=63003950401475390629337679727322~hmac=2c91d9b78d243764e69f1590b7bcf6195065fcf93cd21cff27352d720f6c79b8
 
 #EXTINF:-1 tvg-id="ten1.sonyliv" tvg-name="Sony Sports Ten 1 [HLS · Jo/Zoh]" tvg-logo="https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png?lock=720x540" group-title="Sports - Sony Sports - English" tvg-language="English" base-name="Sony Sports Ten 1" stream-type="HLS" stream-source="Jo/Zoh",Sony Sports Ten 1 [HLS · Jo/Zoh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
@@ -3443,8 +3437,8 @@ https://bd.drmlive.net/toffee/cdn/live/ten_cricket/playlist.m3u8
 #EXTINF:-1 tvg-id="ten_cricket" tvg-name="SONY TEN Cricket [HLS · JioTV+ 16]" tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png" group-title="Sports - Sony Sports - English" tvg-language="English" base-name="SONY TEN Cricket" stream-type="HLS" stream-source="JioTV+ 16",SONY TEN Cricket [HLS · JioTV+ 16]
 https://hmairmedia.ai.studio/api/play/Sony%20Ten%20Cricket.m3u8
 
-#EXTINF:-1 tvg-id="1090555331_ENG" tvg-name="Sri Lanka A vs Hong Kong China - 21 Nov 2026 [ENG] [HLS · SonyLIV 3]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029479/1795171533377724_AsiaCup_RisingStar_SRI-A_vs_HKC_Live_landscape_thumb.jpg" group-title="Sports - Sony Sports - English" tvg-language="English" base-name="Sri Lanka A vs Hong Kong China - 21 Nov 2026 [ENG]" stream-type="HLS" stream-source="SonyLIV 3",Sri Lanka A vs Hong Kong China - 21 Nov 2026 [ENG] [HLS · SonyLIV 3]
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795307794~acl=/*~id=63003950401475390629337679727322~hmac=2c91d9b78d243764e69f1590b7bcf6195065fcf93cd21cff27352d720f6c79b8
+#EXTINF:-1 tvg-id="1090555610_ENG" tvg-name="UFC Fight Night - Prochazka vs Stirling - 21 Nov 2026 [ENG] [HLS · SonyLIV 3]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg" group-title="Sports - Sony Sports - English" tvg-language="English" base-name="UFC Fight Night - Prochazka vs Stirling - 21 Nov 2026 [ENG]" stream-type="HLS" stream-source="SonyLIV 3",UFC Fight Night - Prochazka vs Stirling - 21 Nov 2026 [ENG] [HLS · SonyLIV 3]
+https://sonyeventsglobal.akamaized.net/hls/live/2120305/UFC_Proc2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795336304~acl=/*~id=84085737925212436082334820653812~hmac=42d71a55073fbb340183f01ce7ec000fc1f8eeef10f49e9ee82e34117facc010
 
 #EXTINF:-1 tvg-id="fancode1" tvg-name="FANCODE 1 [DASH · ClearKey · Sportlink-wtf/Sports]" tvg-logo="https://i.ibb.co/jvS7zkgW/images.png" group-title="Sports - FanCode - English" tvg-language="English" base-name="FANCODE 1" stream-type="DASH" stream-drm="ClearKey" stream-source="Sportlink-wtf/Sports",FANCODE 1 [DASH · ClearKey · Sportlink-wtf/Sports]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3490,6 +3484,9 @@ https://live.msnetworks.net/ten-sports/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Unbeaten Sports – Pluto TV [HLS · Sports IPTV]" tvg-logo="https://i.imgur.com/UAiv612.png" group-title="Sports - Ten Sports - English" tvg-language="English" base-name="Unbeaten Sports – Pluto TV" stream-type="HLS" stream-source="Sports IPTV",Unbeaten Sports – Pluto TV [HLS · Sports IPTV]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c3b106dac71b00080a26d2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="US1400008DW" tvg-name="Unbeaten Sports Channel [Sports IPTV]" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400008DW_20240910T003812SQUARE.png" group-title="Sports - Ten Sports - English" tvg-language="English" base-name="Unbeaten Sports Channel" stream-source="Sports IPTV",Unbeaten Sports Channel [Sports IPTV]
+https://jmp2.uk/stvp-US1400008DW
 
 #EXTINF:-1 tvg-id="DDSports.in@SD" tvg-name="DD Sports (1080p) [HLS · Tamil World]" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540" group-title="Sports - DD Sports - Tamil" tvg-language="Tamil" base-name="DD Sports (1080p)" stream-type="HLS" stream-source="Tamil World",DD Sports (1080p) [HLS · Tamil World]
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8

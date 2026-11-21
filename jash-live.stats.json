@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T12:43:12.534Z",
+  "generatedAt": "2026-11-21T20:33:40.675Z",
   "configVersion": 2,
   "playlistTitle": "JaSH - Tamil channels, Tamil/English sports and Bigg Boss Tamil",
   "filters": {
@@ -52,7 +52,7 @@
     {
       "id": "iqbal8846_sports-iptv",
       "url": "https://raw.githubusercontent.com/iqbal8846/sports-iptv/HEAD/output/sports_all.m3u",
-      "used": 7
+      "used": 8
     },
     {
       "id": "shivaprakashr16dev_tamil-working",
@@ -121,7 +121,7 @@
       "discovery": false,
       "skipped": false,
       "ok": true,
-      "parsed": 11569,
+      "parsed": 11455,
       "matched": 134,
       "used": 100,
       "error": "",
@@ -211,12 +211,12 @@
       "discovery": false,
       "skipped": false,
       "ok": true,
-      "parsed": 572,
-      "matched": 31,
-      "used": 7,
+      "parsed": 695,
+      "matched": 33,
+      "used": 8,
       "error": "",
       "tamil": 2,
-      "sports": 29
+      "sports": 31
     },
     {
       "key": "shivaprakashr16dev_tamil-working",
@@ -286,12 +286,12 @@
       "discovery": false,
       "skipped": false,
       "ok": true,
-      "parsed": 99,
-      "matched": 19,
-      "used": 12,
+      "parsed": 105,
+      "matched": 22,
+      "used": 15,
       "error": "",
       "tamil": 0,
-      "sports": 19
+      "sports": 22
     },
     {
       "key": "maybetv_Jo__Zohplx.m3u",
@@ -567,12 +567,12 @@
       "discovery": false,
       "skipped": false,
       "ok": true,
-      "parsed": 6,
-      "matched": 6,
-      "used": 6,
+      "parsed": 11,
+      "matched": 11,
+      "used": 11,
       "error": "",
       "tamil": 0,
-      "sports": 6
+      "sports": 11
     },
     {
       "key": "willow_one",
@@ -581,13 +581,11 @@
       "pinned": true,
       "discovery": false,
       "skipped": false,
-      "ok": true,
-      "parsed": 1,
+      "ok": false,
+      "parsed": 0,
       "matched": 0,
       "used": 0,
-      "error": "",
-      "tamil": 0,
-      "sports": 0
+      "error": "no playlist entries"
     },
     {
       "key": "crichd",
@@ -654,7 +652,7 @@
       "parsed": 0,
       "matched": 0,
       "used": 0,
-      "error": "HTTP 503"
+      "error": "HTTP 502"
     },
     {
       "key": "sonylive_5",
@@ -852,11 +850,11 @@
       "skipped": false,
       "ok": true,
       "parsed": 5,
-      "matched": 4,
-      "used": 4,
+      "matched": 2,
+      "used": 2,
       "error": "",
       "tamil": 0,
-      "sports": 4,
+      "sports": 2,
       "discovered": true
     },
     {
@@ -867,7 +865,7 @@
       "discovery": true,
       "skipped": false,
       "ok": true,
-      "parsed": 3,
+      "parsed": 1,
       "matched": 0,
       "used": 0,
       "error": "discovered but no usable Tamil/sports rows",
@@ -882,7 +880,7 @@
       "discovery": true,
       "skipped": false,
       "ok": true,
-      "parsed": 1,
+      "parsed": 2,
       "matched": 0,
       "used": 0,
       "error": "discovered but no usable Tamil/sports rows",
@@ -897,12 +895,12 @@
       "discovery": true,
       "skipped": false,
       "ok": true,
-      "parsed": 3,
-      "matched": 3,
-      "used": 3,
+      "parsed": 9,
+      "matched": 9,
+      "used": 5,
       "error": "",
       "tamil": 0,
-      "sports": 3,
+      "sports": 9,
       "discovered": true
     },
     {
@@ -1004,19 +1002,19 @@
     }
   ],
   "main": {
-    "total": 795,
+    "total": 794,
     "tamilChannels": 723,
     "biggBoss": 0,
-    "sports": 72,
-    "assertedLanguage": 47,
+    "sports": 71,
+    "assertedLanguage": 48,
     "streamTypes": {
       "protocol": {
-        "HLS": 454,
+        "HLS": 452,
         "DASH": 284,
-        "unknown": 57
+        "unknown": 58
       },
       "drm": {
-        "none": 595,
+        "none": 594,
         "ClearKey": 200
       },
       "source": {
@@ -1032,17 +1030,17 @@
         "Pavish TV": 12,
         "Special": 9,
         "JioTV+": 9,
-        "Sports IPTV": 7,
+        "Sports IPTV": 8,
         "Sportlink-wtf/Sports": 6,
         "Jo/Zoh": 6,
-        "SonyLIV 3": 4,
         "Kirubanandem": 2,
+        "SonyLIV 3": 2,
         "Jo/Zohplx": 1,
         "Sportlink-wtf/Sport": 1
       }
     },
     "channelsWithAlternates": 148,
-    "brands": 542,
+    "brands": 541,
     "byGroup": {
       "Tamil - Entertainment": 200,
       "Tamil - News": 64,
@@ -1057,22 +1055,22 @@
       "Sports - Star Sports - Tamil": 6,
       "Sports - Star Sports - English": 15,
       "Sports - Sony Sports - Tamil": 8,
-      "Sports - Sony Sports - English": 26,
+      "Sports - Sony Sports - English": 24,
       "Sports - FanCode - English": 2,
       "Sports - Willow - English": 7,
-      "Sports - Ten Sports - English": 2,
+      "Sports - Ten Sports - English": 3,
       "Sports - DD Sports - Tamil": 2,
       "Sports - Sports18 - English": 4
     }
   },
   "review": {
-    "total": 42,
+    "total": 52,
     "byGroup": {
-      "Review - language uncertain": 42
+      "Review - language uncertain": 52
     }
   },
   "bySource": {
-    "total": 795,
+    "total": 794,
     "catalogues": {
       "TWC Tamil": 204,
       "JioTV proxy": 104,
@@ -1086,25 +1084,25 @@
       "Pavish TV": 12,
       "JioTV+": 9,
       "Special": 9,
-      "Sports IPTV": 7,
+      "Sports IPTV": 8,
       "Jo/Zoh": 6,
       "Sportlink-wtf/Sports": 6,
-      "SonyLIV 3": 4,
       "Kirubanandem": 2,
+      "SonyLIV 3": 2,
       "Jo/Zohplx": 1,
       "Sportlink-wtf/Sport": 1
     }
   },
   "dropped": {
-    "not Tamil": 15632,
-    "other regional language": 4371,
-    "unusable name": 1658,
-    "not https": 5238,
-    "raw container or audio-only": 28,
+    "not Tamil": 15623,
+    "other regional language": 4385,
+    "unusable name": 1657,
+    "not https": 5243,
+    "raw container or audio-only": 29,
     "expired token": 3755,
     "radio/audio channel": 219,
-    "duplicate stream": 289,
-    "alternate stream beyond cap": 475
+    "duplicate stream": 293,
+    "alternate stream beyond cap": 476
   },
   "remapped": [],
   "missingSportsFamilies": [
