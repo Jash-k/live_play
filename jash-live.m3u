@@ -1,9 +1,9 @@
 #EXTM3U
 #PLAYLIST:JaSH - Tamil channels, Tamil/English sports and Bigg Boss Tamil
 #NOTE:Community source metadata only; playback and rights not independently verified.
-#GENERATED:2026-11-20T21:51:18.878Z
-#ENTRIES:736
-#SUMMARY:668 Tamil channels, 0 Bigg Boss Tamil, 68 sports feeds
+#GENERATED:2026-11-21T03:15:08.612Z
+#ENTRIES:792
+#SUMMARY:724 Tamil channels, 0 Bigg Boss Tamil, 68 sports feeds
 
 #EXTINF:-1 tvg-id="" tvg-name="Aadhavan Tamil Tv [HLS · JioTV+ 16]" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1758903321_WhatsApp_Image_2025-09-26_at_11.19.20_AM-removebg-preview.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Aadhavan Tamil Tv" stream-type="HLS" stream-source="JioTV+ 16",Aadhavan Tamil Tv [HLS · JioTV+ 16]
 https://aadhavantamiltv.tamilstream.in/aadhavantamiltv/aadhavantamiltv/playlist.m3u8
@@ -67,6 +67,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=72499c6ad44cc37d95a9075420911110:b5416326114a13e90662a4fbaf3c532b
 https://get.perfecttv.net/dash2.mpd?channel=vaanavil&username=vip_level7&password=vip_level7
 
+#EXTINF:-1 tvg-id="11784" tvg-name="ATHAVAN TV [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/11700.jpg" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="ATHAVAN TV" stream-source="Tamil Player",ATHAVAN TV [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=11784
+
 #EXTINF:-1 tvg-id="3358" tvg-name="Bhagyam TV [HLS · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/aanadhamtvtamil.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Bhagyam TV" stream-type="HLS" stream-source="JioTV proxy",Bhagyam TV [HLS · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -91,6 +94,9 @@ https://stream.blessingtv.tv:1443/blessingtv-tamillive/mystream_720p/playlist.m3
 
 #EXTINF:-1 tvg-id="BlueMoonTV" tvg-name="Blue Moon TV [HLS · Tamil Local]" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/BMTV.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Blue Moon TV" stream-type="HLS" stream-source="Tamil Local",Blue Moon TV [HLS · Tamil Local]
 https://rtmp.bmlive.net/bms/bmtv/stream.m3u8?origin=github.com/amazeyourself
+
+#EXTINF:-1 tvg-id="687" tvg-name="CAPTAIN TV [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/604.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="CAPTAIN TV" stream-source="Tamil Player",CAPTAIN TV [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=687
 
 #EXTINF:-1 tvg-id="1371" tvg-name="Colors Tamil [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Colors Tamil" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Colors Tamil [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
@@ -117,6 +123,9 @@ https://ucdn.starhubgo.com/bpk-tv/COLORSTamilHD/output/manifest.mpd
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://yupp-geo-us.keralive.workers.dev/020424/colorstamilus_1800/playlist.m3u8
 
+#EXTINF:-1 tvg-id="2769" tvg-name="COLORS TAMIL USA [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2686.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="COLORS TAMIL USA" stream-source="Tamil Player",COLORS TAMIL USA [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=2769
+
 #EXTINF:-1 tvg-id="569" tvg-name="D Tamil [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="D Tamil" stream-type="DASH" stream-source="JioTV+ 32",D Tamil [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -140,6 +149,9 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=569
 
 #EXTINF:-1 tvg-id="" tvg-name="DD Podhigai [HLS · Special]" tvg-logo="https://i.imgur.com/vbjkE84.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="DD Podhigai" stream-type="HLS" stream-source="Special",DD Podhigai [HLS · Special]
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/1324a5ee-c108-423f-ae78-c83b2fd31065/2.m3u8
+
+#EXTINF:-1 tvg-id="1008" tvg-name="DD PODHIGAI [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/925.jpg" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="DD PODHIGAI" stream-source="Tamil Player",DD PODHIGAI [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=1008
 
 #EXTINF:-1 tvg-id="DDTamil.in@SD" tvg-name="DD Tamil (1080p) [HLS · Pavish TV]" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_TAMIL/images/LOGO_HD/image.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="DD Tamil (1080p)" stream-type="HLS" stream-source="Pavish TV",DD Tamil (1080p) [HLS · Pavish TV]
 https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
@@ -230,6 +242,9 @@ https://hjh-545.pages.dev/stream?id=jayaplus
 #EXTVLCOPT:clearkey=e1aefaf169735829b2a6fb77e403eac2:941252b4e0873390b6909258b7fc5b89
 https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=418
 
+#EXTINF:-1 tvg-id="2781" tvg-name="JAYA PLUS US [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2698.jpg" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="JAYA PLUS US" stream-source="Tamil Player",JAYA PLUS US [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=2781
+
 #EXTINF:-1 tvg-id="419" tvg-name="Jaya TV HD [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Jaya TV HD" stream-type="DASH" stream-source="JioTV+ 32",Jaya TV HD [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -250,6 +265,12 @@ https://hjh-545.pages.dev/stream?id=jayatvhd
 #KODIPROP:inputstream.adaptive.license_key=16a7f966a8695a58ab1a5311c3f98545:0e67031411209bb0688a8808cf8232f9
 #EXTVLCOPT:clearkey=16a7f966a8695a58ab1a5311c3f98545:0e67031411209bb0688a8808cf8232f9
 https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=419
+
+#EXTINF:-1 tvg-id="59974" tvg-name="JAYA TV UK [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/59758.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="JAYA TV UK" stream-source="Tamil Player",JAYA TV UK [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=59974
+
+#EXTINF:-1 tvg-id="2796" tvg-name="JAYA TV US [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2713.jpg" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="JAYA TV US" stream-source="Tamil Player",JAYA TV US [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=2796
 
 #EXTINF:-1 tvg-id="2768" tvg-name="Jothi TV [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jothi_TV.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Jothi TV" stream-type="DASH" stream-source="JioTV+ 32",Jothi TV [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -278,6 +299,9 @@ https://server.sscloud7.in/live/malartv/index.m3u8
 #EXTINF:-1 tvg-id="JRMalarTV" tvg-name="JR Malar TV [HLS · Tamil Local]" tvg-logo="https://play-lh.googleusercontent.com/p8a4yHTn_GCWO7DCZgEFu6RzMbdfZUcI3x_sywNmtmUd5X8q811Za7kbMMItqVq35hM" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="JR Malar TV" stream-type="HLS" stream-source="Tamil Local",JR Malar TV [HLS · Tamil Local]
 https://server.sscloud7.in/live/malartv/index.m3u8?origin=github.com/amazeyourself
 
+#EXTINF:-1 tvg-id="1107" tvg-name="KALAIGNAR MURASU [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/1024.jpg" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="KALAIGNAR MURASU" stream-source="Tamil Player",KALAIGNAR MURASU [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=1107
+
 #EXTINF:-1 tvg-id="KalaignarMurasu.in@SD" tvg-name="Kalaignar Murasu (396p) [HLS · Tamil World]" tvg-logo="https://dtil.tmsimg.com/assets/s143561_ld_h15_aa.png?lock=720x540" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Kalaignar Murasu (396p)" stream-type="HLS" stream-source="Tamil World",Kalaignar Murasu (396p) [HLS · Tamil World]
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8
 
@@ -302,8 +326,11 @@ https://hjh-545.pages.dev/stream?id=kalaignartv
 #EXTVLCOPT:clearkey=3c9449e280e35edaaf676d95774e7fa2:325c78bfc283365dadc2c9986104e541
 https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=1209
 
-#EXTINF:-1 tvg-id="KalaignarTV.in@SD" tvg-name="Kalaignar TV (396p) [HLS · Tamil World]" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Kalaignar%20TV.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Kalaignar TV (396p)" stream-type="HLS" stream-source="Tamil World",Kalaignar TV (396p) [HLS · Tamil World]
+#EXTINF:-1 tvg-id="2" tvg-name="kalaignar tv (source 1) [HLS · Tamil Player]" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KALAIGNAR_TV/images/LOGO_HD/image.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="kalaignar tv (source 1)" stream-type="HLS" stream-source="Tamil Player",kalaignar tv (source 1) [HLS · Tamil Player]
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="16831" tvg-name="KALAIGNAR TV NEWS [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/16744.jpg" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="KALAIGNAR TV NEWS" stream-source="Tamil Player",KALAIGNAR TV NEWS [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=16831
 
 #EXTINF:-1 tvg-id="" tvg-name="Maalai Murasu TV(Not 24*7) [HLS · Kirubanandem]" tvg-logo="" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Maalai Murasu TV(Not 24*7)" stream-type="HLS" stream-source="Kirubanandem",Maalai Murasu TV(Not 24*7) [HLS · Kirubanandem]
 https://cdn-3.pishow.tv/live/1606/master.m3u8
@@ -401,6 +428,9 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=1518
 #EXTINF:-1 tvg-id="" tvg-name="Murasu TV [HLS · Kirubanandem]" tvg-logo="" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Murasu TV" stream-type="HLS" stream-source="Kirubanandem",Murasu TV [HLS · Kirubanandem]
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 
+#EXTINF:-1 tvg-id="4" tvg-name="murasu tv (source 1) [HLS · Tamil Player]" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Murasu%20TV.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="murasu tv (source 1)" stream-type="HLS" stream-source="Tamil Player",murasu tv (source 1) [HLS · Tamil Player]
+https://segment.yuppcdn.net/050522/murasu/050522/murasu_1800/chunks.m3u8
+
 #EXTINF:-1 tvg-id="NDTVLANKA.lk@SD" tvg-name="NDTV LANKA (1080p) [HLS · Tamil World]" tvg-logo="https://i.imgur.com/5cyTVRJ.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="NDTV LANKA (1080p)" stream-type="HLS" stream-source="Tamil World",NDTV LANKA (1080p) [HLS · Tamil World]
 https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8
 
@@ -492,8 +522,14 @@ https://hjh-545.pages.dev/stream?id=rajtv
 #EXTVLCOPT:clearkey=1f0a57e1b999520d99fc92b43630e722:fa59423030d70507ec1cac2cfac2050d
 https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=707
 
+#EXTINF:-1 tvg-id="8775" tvg-name="RAJ TV US [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/8691.jpg" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="RAJ TV US" stream-source="Tamil Player",RAJ TV US [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=8775
+
 #EXTINF:-1 tvg-id="SanaTV.in@SD" tvg-name="Sana TV (1080p) [HLS · Tamil World]" tvg-logo="https://i.imgur.com/CR7DGBv.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Sana TV (1080p)" stream-type="HLS" stream-source="Tamil World",Sana TV (1080p) [HLS · Tamil World]
 https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8
+
+#EXTINF:-1 tvg-id="9194" tvg-name="SANKARA TV [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/9110.jpg" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="SANKARA TV" stream-source="Tamil Player",SANKARA TV [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=9194
 
 #EXTINF:-1 tvg-id="SankaraTV.in@SD" tvg-name="Sankara TV (576p) [HLS · Tamil World]" tvg-logo="https://i.imgur.com/2z0bDRD.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Sankara TV (576p)" stream-type="HLS" stream-source="Tamil World",Sankara TV (576p) [HLS · Tamil World]
 https://mumbai-edge.smartplaytv.in/SriSankara/index.m3u8
@@ -572,6 +608,15 @@ https://hjh-545.pages.dev/stream?id=starvijayhd
 #EXTVLCOPT:clearkey=25dd000e5523540cbd82ae7957fef7d7:f1d145d84b648242ef0b3ad2cac7eeb8
 https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=368
 
+#EXTINF:-1 tvg-id="1131" tvg-name="Star Vijay Super [DASH · JioTV+ 32]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vijay_Super.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Star Vijay Super" stream-type="DASH" stream-source="JioTV+ 32",Star Vijay Super [DASH · JioTV+ 32]
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"de77b4352b1256e19451a4ac35c4dcec":"1cc558a5a79db96f8d1fb673342213a5","08003491469e5a83890346f69a395e71":"760d6812454d25a9249e3ad1bdf5ebf7","5d7b4b2ea1d453a7bf727b026b9ee13f":"eb2ef18465bbf51743338b4b8e55e7ed","8949bb5bb69a584f87e247d2cd99172c":"072c61207aeb5cba9ee486c4a320eb94","59371a43c32a548a834206067b6521f7":"8d82caef458744616dfe32e9993b3e21"}
+#EXTVLCOPT:http-user-agent=Droovy
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+#EXTVLCOPT:http-origin=https://www.jiotv.com
+https://jiotvpllive.cdn.jio.com/bpk-tv/Vijay_Super_BTS/WDVLive/index.mpd?__hdnea__=st=1795215022~exp=1795236622~acl=/bpk-tv/Vijay_Super_BTS/WDVLive/*~hmac=5189b8705390672169906bd8be88037b1971c8a307324ca0967b591bcd781b54
+
 #EXTINF:-1 tvg-id="1131" tvg-name="Star Vijay Super [DASH · ClearKey · JioTV proxy]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vijay_Super.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Star Vijay Super" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV proxy",Star Vijay Super [DASH · ClearKey · JioTV proxy]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -606,6 +651,12 @@ https://hjh-545.pages.dev/stream?id=sunlife
 #EXTVLCOPT:clearkey=03fff2c1ecea574b98da00b05c2a0be9:41670b42142fa8ba6bd3cf9fc2ae8cf5
 https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=682
 
+#EXTINF:-1 tvg-id="997" tvg-name="SUN LIFE TAMIL [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/914.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="SUN LIFE TAMIL" stream-source="Tamil Player",SUN LIFE TAMIL [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=997
+
+#EXTINF:-1 tvg-id="8689" tvg-name="SUN TV CA [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/8605.jpg" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="SUN TV CA" stream-source="Tamil Player",SUN TV CA [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=8689
+
 #EXTINF:-1 tvg-id="133" tvg-name="Sun TV HD [DASH · TWC Tamil]" tvg-logo="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Sun TV HD" stream-type="DASH" stream-source="TWC Tamil",Sun TV HD [DASH · TWC Tamil]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -635,6 +686,12 @@ https://livestream2.sunnxt.com/9287b977a5694d3c98c12b79622da462/SunTVHDB_AU_inde
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992
 https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8
+
+#EXTINF:-1 tvg-id="16810" tvg-name="SUN TV UK [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/16723.jpg" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="SUN TV UK" stream-source="Tamil Player",SUN TV UK [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=16810
+
+#EXTINF:-1 tvg-id="8781" tvg-name="SUN TV US [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/8697.jpg" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="SUN TV US" stream-source="Tamil Player",SUN TV US [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=8781
 
 #EXTINF:-1 tvg-id="SuriyaTV.in@SD" tvg-name="Suriya TV (1080p) [HLS · Tamil World]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/suryatvtamil.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Suriya TV (1080p)" stream-type="HLS" stream-source="Tamil World",Suriya TV (1080p) [HLS · Tamil World]
 https://stream.ottlive.co.in/suryatvtamil/index.m3u8
@@ -894,6 +951,9 @@ https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=970
 #KODIPROP:inputstream.adaptive.license_key=a8b2a42e98c355e48475b4e6cf9eb4a8:542f2f22362651876dee8344e6aa5fbe,1816cb1089e258a985c40a6271aea59f:88ac0e143e31b30517460732d320b724,dc15fda6477153739ab4f003e8ac5128:780c7e65657d6eeba05732412734e933,48aebc4699f55269b34a009bc58169ae:e79caea3a94f3edccae3a2c902134933,90dfe06e1a9a55c395e3908b74e65ad5:4fb57d4daa6d0eef04d52ab949f74780
 https://hjh-545.pages.dev/stream?id=zeetamil
 
+#EXTINF:-1 tvg-id="8706" tvg-name="ZEE TAMIL CA [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/8622.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="ZEE TAMIL CA" stream-source="Tamil Player",ZEE TAMIL CA [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=8706
+
 #EXTINF:-1 tvg-id="138" tvg-name="Zee Tamil HD [DASH · TWC Tamil]" tvg-logo="https://poster.starhubgo.com/Linear_channels2/138_1920x1080_HTV.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Zee Tamil HD" stream-type="DASH" stream-source="TWC Tamil",Zee Tamil HD [DASH · TWC Tamil]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -908,6 +968,9 @@ https://ucdn.starhubgo.com/bpk-tv/ZeeTamil/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=ea470858e5e6527abeb5b7713e798ad1:70743944f7b4a39caa4b89a76d88503a,15addcf02f71537ca6d5c47d88b83c5e:00cdd6387ef9829d799d52d48ff27bfe,784cf96a48df5d4588e143086abe6177:da062f0d256145d600b43d09f5e29b99,4937f3e9376a553ba301cdee6590f660:5e9b74e42e54fd021f2bbe35271aaca2,fd33cd51851b5521bb5fdece842ab046:6b10d6feb4043e893c28817bcc40d86b
 https://hjh-545.pages.dev/stream?id=zeetamilhd
 
+#EXTINF:-1 tvg-id="603" tvg-name="ZEE TAMIL HD TAMIL [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/520.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="ZEE TAMIL HD TAMIL" stream-source="Tamil Player",ZEE TAMIL HD TAMIL [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=603
+
 #EXTINF:-1 tvg-id="ZeeTamilNews.in@SD" tvg-name="Zee Tamil News (720p) [HLS · Tamil World]" tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-tamil-logo-20.svg" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="Zee Tamil News (720p)" stream-type="HLS" stream-source="Tamil World",Zee Tamil News (720p) [HLS · Tamil World]
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
 
@@ -915,6 +978,9 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b8718bcc9fc6dc4364677a577b7634d:8078c4d5407afe3e61662852c05b6588
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd
+
+#EXTINF:-1 tvg-id="2795" tvg-name="ZEE TAMIL US [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2712.png" group-title="Tamil - Entertainment" tvg-language="Tamil" base-name="ZEE TAMIL US" stream-source="Tamil Player",ZEE TAMIL US [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=2795
 
 #EXTINF:-1 tvg-id="" tvg-name="Asianet News Tamil (360p) [HLS · Special]" tvg-logo="https://i.imgur.com/pGA2R8l.png" group-title="Tamil - News" tvg-language="Tamil" base-name="Asianet News Tamil (360p)" stream-type="HLS" stream-source="Special",Asianet News Tamil (360p) [HLS · Special]
 https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
@@ -964,6 +1030,12 @@ https://cloudcdnplayer.mslivestream.net/mslivecdn/mnadu/index.m3u8
 
 #EXTINF:-1 tvg-id="826" tvg-name="Malai Murasu [HLS · SmartIPTV Jio]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png" group-title="Tamil - News" tvg-language="Tamil" base-name="Malai Murasu" stream-type="HLS" stream-source="SmartIPTV Jio",Malai Murasu [HLS · SmartIPTV Jio]
 https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=826&e=.m3u8
+
+#EXTINF:-1 tvg-id="989" tvg-name="MALAI MURASU [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/906.jpg" group-title="Tamil - News" tvg-language="Tamil" base-name="MALAI MURASU" stream-source="Tamil Player",MALAI MURASU [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=989
+
+#EXTINF:-1 tvg-id="848" tvg-name="MALAI MURASU SETHIGAL [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/765.png" group-title="Tamil - News" tvg-language="Tamil" base-name="MALAI MURASU SETHIGAL" stream-source="Tamil Player",MALAI MURASU SETHIGAL [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=848
 
 #EXTINF:-1 tvg-id="826" tvg-name="Malaimurasu Seithigal [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png" group-title="Tamil - News" tvg-language="Tamil" base-name="Malaimurasu Seithigal" stream-type="DASH" stream-source="JioTV+ 32",Malaimurasu Seithigal [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1162,6 +1234,9 @@ https://hjh-545.pages.dev/stream?id=rajnews24x7
 #EXTVLCOPT:clearkey=null:null
 https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=767
 
+#EXTINF:-1 tvg-id="618" tvg-name="RAJ NEWS TAMIL [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/535.jpg" group-title="Tamil - News" tvg-language="Tamil" base-name="RAJ NEWS TAMIL" stream-source="Tamil Player",RAJ NEWS TAMIL [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=618
+
 #EXTINF:-1 tvg-id="671" tvg-name="Sathiyam TV [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sathiyam.png" group-title="Tamil - News" tvg-language="Tamil" base-name="Sathiyam TV" stream-type="DASH" stream-source="JioTV+ 32",Sathiyam TV [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1203,6 +1278,12 @@ https://hjh-545.pages.dev/stream?id=sunnews
 #KODIPROP:inputstream.adaptive.license_key=e8b0b960d29658969d74da596e2787e1:9b4051847231c9e1fd717df5aa5e0eea
 #EXTVLCOPT:clearkey=e8b0b960d29658969d74da596e2787e1:9b4051847231c9e1fd717df5aa5e0eea
 https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=676
+
+#EXTINF:-1 tvg-id="1062" tvg-name="SUN NEWS TAMIL [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/979.jpg" group-title="Tamil - News" tvg-language="Tamil" base-name="SUN NEWS TAMIL" stream-source="Tamil Player",SUN NEWS TAMIL [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=1062
+
+#EXTINF:-1 tvg-id="66433" tvg-name="SUN NEWS US [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/67415.jpg" group-title="Tamil - News" tvg-language="Tamil" base-name="SUN NEWS US" stream-source="Tamil Player",SUN NEWS US [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=66433
 
 #EXTINF:-1 tvg-id="2958" tvg-name="Tamilan Television [HLS · SmartIPTV Jio]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tamilan_Television.png" group-title="Tamil - News" tvg-language="Tamil" base-name="Tamilan Television" stream-type="HLS" stream-source="SmartIPTV Jio",Tamilan Television [HLS · SmartIPTV Jio]
 https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=2958&e=.m3u8
@@ -1273,6 +1354,12 @@ https://hjh-545.pages.dev/stream?id=jmovies
 #KODIPROP:inputstream.adaptive.license_key=531467efbbf156d793766adfe62d6a26:3e4eef5502a6da48b91894c33310ea93
 #EXTVLCOPT:clearkey=531467efbbf156d793766adfe62d6a26:3e4eef5502a6da48b91894c33310ea93
 https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=417
+
+#EXTINF:-1 tvg-id="11793" tvg-name="JAYA MOVIE [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/11709.jpg" group-title="Tamil - Movies" tvg-language="Tamil" base-name="JAYA MOVIE" stream-source="Tamil Player",JAYA MOVIE [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=11793
+
+#EXTINF:-1 tvg-id="858" tvg-name="KALAIGNAR CHITHIRAM [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/775.jpg" group-title="Tamil - Movies" tvg-language="Tamil" base-name="KALAIGNAR CHITHIRAM" stream-source="Tamil Player",KALAIGNAR CHITHIRAM [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=858
 
 #EXTINF:-1 tvg-id="KTV.id@SD" tvg-name="KTV (Indonesia) (720p) [HLS · Tamil World]" tvg-logo="https://i.imgur.com/j3wtaDc.png" group-title="Tamil - Movies" tvg-language="Tamil" base-name="KTV (Indonesia) (720p)" stream-type="HLS" stream-source="Tamil World",KTV (Indonesia) (720p) [HLS · Tamil World]
 #EXTVLCOPT:http-referrer=https://youtv.live/
@@ -1349,18 +1436,18 @@ https://hjh-545.pages.dev/stream?id=rajdigitalplus
 #EXTVLCOPT:clearkey=2773e9650f9b5f6ba411dfd53cdf7912:57e6dcc6387ceace62737326811a1ef5
 https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=683
 
+#EXTINF:-1 tvg-id="16816" tvg-name="RAJ DIGITAL PLUS UK [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/16729.jpg" group-title="Tamil - Movies" tvg-language="Tamil" base-name="RAJ DIGITAL PLUS UK" stream-source="Tamil Player",RAJ DIGITAL PLUS UK [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=16816
+
+#EXTINF:-1 tvg-id="8771" tvg-name="RAJ DIGITAL PLUS US [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/8687.jpg" group-title="Tamil - Movies" tvg-language="Tamil" base-name="RAJ DIGITAL PLUS US" stream-source="Tamil Player",RAJ DIGITAL PLUS US [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=8771
+
 #EXTINF:-1 tvg-id="3417" tvg-name="Roja Movies [HLS · JioTV+]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png" group-title="Tamil - Movies" tvg-language="Tamil" base-name="Roja Movies" stream-type="HLS" stream-source="JioTV+",Roja Movies [HLS · JioTV+]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0
 https://alex4528.site/jtv/manifest.m3u8?id=3417
 
 #EXTINF:-1 tvg-id="RojaMovies" tvg-name="Roja Movies [HLS · TWC Tamil]" tvg-logo="https://play-lh.googleusercontent.com/OI5HmCytC3TzhwE8dBGtZzgHaZ9qpSGH4AorISFfpZOe-ytCd367BV-iQMK55TBvhp32S1t2t1G6wLbfFeCgBg=w512-h960-rw" group-title="Tamil - Movies" tvg-language="Tamil" base-name="Roja Movies" stream-type="HLS" stream-source="TWC Tamil",Roja Movies [HLS · TWC Tamil]
 https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
-
-#EXTINF:-1 tvg-id="SonyVizha" tvg-name="Sony Vizha [DASH · ClearKey · JioTV+ 16]" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/644_144.png" group-title="Tamil - Movies" tvg-language="Tamil" base-name="Sony Vizha" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 16",Sony Vizha [DASH · ClearKey · JioTV+ 16]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.aqfadtv.xyz/?username=HishamKamarul&channelid=5609
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5609/default_primary.mpd
 
 #EXTINF:-1 tvg-id="3622" tvg-name="Sony Vizha HD [DASH · JioTV+ 32]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyVizha.png" group-title="Tamil - Movies" tvg-language="Tamil" base-name="Sony Vizha HD" stream-type="DASH" stream-source="JioTV+ 32",Sony Vizha HD [DASH · JioTV+ 32]
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1376,6 +1463,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonyVizha_MOB/WDVLive/index.mpd?__hdnea__
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fedc939f3c6b52c782d20b0a459d6ac6:5c03dfa28b790cdda468a01a1da7873c
 https://hjh-545.pages.dev/stream?id=sonyvizhahd
+
+#EXTINF:-1 tvg-id="3622" tvg-name="Sony Vizha HD [DASH · ClearKey · JioTV+ 16]" tvg-logo="https://i.ibb.co/k2S2X6Pg/sony-vizha.png" group-title="Tamil - Movies" tvg-language="Tamil" base-name="Sony Vizha HD" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 16",Sony Vizha HD [DASH · ClearKey · JioTV+ 16]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fedc939f3c6b52c782d20b0a459d6ac6:5c03dfa28b790cdda468a01a1da7873c
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyVizha_MOB/WDVLive/index.mpd?__hdnea__=st=1795222809~exp=1795309209~acl=/*~hmac=fee85893e66ad6c48a22ce4f88bdb9537b9df75c8c8223d1772efd8036b64b4a
 
 #EXTINF:-1 tvg-id="StarTamilTelevision.lk@SD" tvg-name="Star Tamil Television (360p) [HLS · Tamil World]" tvg-logo="https://i.imgur.com/fjHcr9z.jpg" group-title="Tamil - Movies" tvg-language="Tamil" base-name="Star Tamil Television (360p)" stream-type="HLS" stream-source="Tamil World",Star Tamil Television (360p) [HLS · Tamil World]
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=
@@ -1425,6 +1518,11 @@ https://streams2.sofast.tv/ptnr-khabriya/title-THALAA-TV-TAM_Khabriya/v1/master/
 #EXTINF:-1 tvg-id="TharunMovies" tvg-name="Tharun Movies [HLS · TWC Tamil]" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1739599242_IMG_20250215_111845_234.png&w=1920&q=75" group-title="Tamil - Movies" tvg-language="Tamil" base-name="Tharun Movies" stream-type="HLS" stream-source="TWC Tamil",Tharun Movies [HLS · TWC Tamil]
 https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
 
+#EXTINF:-1 tvg-id="9649000" tvg-name="Zee Thirai [DASH · Tamil Player]" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/cef53bf4b0cd4d79913452f6f645c13f/version/0" group-title="Tamil - Movies" tvg-language="Tamil" base-name="Zee Thirai" stream-type="DASH" stream-source="Tamil Player",Zee Thirai [DASH · Tamil Player]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb6eee854107488683090ccdc5f207d3:70843a48af3207fc05528b7ce1523d13
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Thirai_SD/dash/Zee_Thirai_SD.mpd
+
 #EXTINF:-1 tvg-id="137" tvg-name="Zee Thirai [DASH · TWC Tamil]" tvg-logo="https://poster.starhubgo.com/Linear_channels2/137_1920x1080_HTV.png" group-title="Tamil - Movies" tvg-language="Tamil" base-name="Zee Thirai" stream-type="DASH" stream-source="TWC Tamil",Zee Thirai [DASH · TWC Tamil]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1439,11 +1537,11 @@ https://ucdn.starhubgo.com/bpk-tv/ZeeThirai/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=58d0716748ee52f4a55cf7baa6e072bb:8fc185a1015f026fec82236bb0e096f4,88aaf3c74a8258ce8c75c74d259e9d95:12c0cc0b355a86ff3e942123284b94fa,7ddfa2e971cd5ebf8d5337f404ed2878:49d966969a62e77d4ff1004772988b61,c87a82b43b1e5902829e408335628cd4:7b858623533c561989358530c6ad7af7,c2d762acbea256c0bd67b92d59f69757:46c59697457af3a687426a4691393774
 https://hjh-545.pages.dev/stream?id=zeethiraihd
 
-#EXTINF:-1 tvg-id="3051" tvg-name="Zee Thirai HD [DASH · ClearKey · JTV DRM]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeThiraiHD.png" group-title="Tamil - Movies" tvg-language="Tamil" base-name="Zee Thirai HD" stream-type="DASH" stream-drm="ClearKey" stream-source="JTV DRM",Zee Thirai HD [DASH · ClearKey · JTV DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ecfc67bf2dd54fa84495c4c299c51ec:85337048d7be42ef66f6198a99376fa7
-#EXTVLCOPT:clearkey=9ecfc67bf2dd54fa84495c4c299c51ec:85337048d7be42ef66f6198a99376fa7
-https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=3051
+#EXTINF:-1 tvg-id="11756" tvg-name="ZEE THIRAI TV [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/11672.jpg" group-title="Tamil - Movies" tvg-language="Tamil" base-name="ZEE THIRAI TV" stream-source="Tamil Player",ZEE THIRAI TV [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=11756
+
+#EXTINF:-1 tvg-id="796" tvg-name="ZEE THIRAI USA [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/713.jpg" group-title="Tamil - Movies" tvg-language="Tamil" base-name="ZEE THIRAI USA" stream-source="Tamil Player",ZEE THIRAI USA [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=796
 
 #EXTINF:-1 tvg-id="1664" tvg-name="7S Music [HLS · JioTV+ 16]" tvg-logo="https://tataprime.files.wordpress.com/2024/03/wp-17097527414494923868850942693233.png" group-title="Tamil - Music" tvg-language="Tamil" base-name="7S Music" stream-type="HLS" stream-source="JioTV+ 16",7S Music [HLS · JioTV+ 16]
 https://mumbai-edge.smartplaytv.in/7SMusic/index.m3u8
@@ -1475,7 +1573,7 @@ https://rtmp.applelive.in/gmusic/gmusic/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=90847bc89c0d5eb19c57d70370c3477c:8938c82cd4feec1f586e3c611459a7d4
 https://login.bheem.tv/bpk-tv/22348/output/index.mpd
 
-#EXTINF:-1 tvg-id="IsaiAruvi.in@SD" tvg-name="Isai Aruvi (396p) [HLS · Tamil World]" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ISAI_ARUVI/images/LOGO_HD/image.png" group-title="Tamil - Music" tvg-language="Tamil" base-name="Isai Aruvi (396p)" stream-type="HLS" stream-source="Tamil World",Isai Aruvi (396p) [HLS · Tamil World]
+#EXTINF:-1 tvg-id="3" tvg-name="isai aruvi (source 1) [HLS · Tamil Player]" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ISAI_ARUVI/images/LOGO_HD/image.png" group-title="Tamil - Music" tvg-language="Tamil" base-name="isai aruvi (source 1)" stream-type="HLS" stream-source="Tamil Player",isai aruvi (source 1) [HLS · Tamil Player]
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="0009" tvg-name="Isai Aruvi 1 [HLS · TWC Tamil]" tvg-logo="https://tamilwebcast.com/TV-Logos/isaiaruvi.jpeg" group-title="Tamil - Music" tvg-language="Tamil" base-name="Isai Aruvi 1" stream-type="HLS" stream-source="TWC Tamil",Isai Aruvi 1 [HLS · TWC Tamil]
@@ -1502,8 +1600,20 @@ https://hjh-545.pages.dev/stream?id=jayamax
 #EXTVLCOPT:clearkey=5a6b703b87a75a728a8079ff3c5aa991:21295df12a0e76c1c15389b19cb85f21
 https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=420
 
+#EXTINF:-1 tvg-id="16813" tvg-name="JAYA MAX UK [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/16726.jpg" group-title="Tamil - Music" tvg-language="Tamil" base-name="JAYA MAX UK" stream-source="Tamil Player",JAYA MAX UK [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=16813
+
+#EXTINF:-1 tvg-id="2780" tvg-name="JAYA MAX US [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2697.jpg" group-title="Tamil - Music" tvg-language="Tamil" base-name="JAYA MAX US" stream-source="Tamil Player",JAYA MAX US [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=2780
+
+#EXTINF:-1 tvg-id="1141" tvg-name="KALAIGNAR ISAI ARUVI [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/1058.jpg" group-title="Tamil - Music" tvg-language="Tamil" base-name="KALAIGNAR ISAI ARUVI" stream-source="Tamil Player",KALAIGNAR ISAI ARUVI [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=1141
+
 #EXTINF:-1 tvg-id="MaxMusic" tvg-name="Max Music [HLS · TWC Tamil]" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732168750_WhatsApp%2520Image%25202024-11-21%2520at%252011.05.55%2520AM%2520(1).jpeg&w=1920&q=75" group-title="Tamil - Music" tvg-language="Tamil" base-name="Max Music" stream-type="HLS" stream-source="TWC Tamil",Max Music [HLS · TWC Tamil]
 https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
+
+#EXTINF:-1 tvg-id="61518" tvg-name="MEGA MUSIC [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/61296.png" group-title="Tamil - Music" tvg-language="Tamil" base-name="MEGA MUSIC" stream-source="Tamil Player",MEGA MUSIC [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=61518
 
 #EXTINF:-1 tvg-id="845" tvg-name="MK Music [HLS · SmartIPTV Jio]" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png" group-title="Tamil - Music" tvg-language="Tamil" base-name="MK Music" stream-type="HLS" stream-source="SmartIPTV Jio",MK Music [HLS · SmartIPTV Jio]
 https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=845&e=.m3u8
@@ -1851,17 +1961,20 @@ https://ucdn.starhubgo.com/bpk-tv/ADITHYATV/output/manifest.mpd
 #EXTINF:-1 tvg-id="EyeTamilComedy" tvg-name="Eye Tamil Comedy [HLS · Tamil Local]" tvg-logo="https://i.ibb.co/KxLRTs3D/eye-comedy.png" group-title="Tamil - Comedy" tvg-language="Tamil" base-name="Eye Tamil Comedy" stream-type="HLS" stream-source="Tamil Local",Eye Tamil Comedy [HLS · Tamil Local]
 https://2.proxy.nellaiiptv.com/EyeMedia/comedy/index.m3u8?origin=github.com/amazeyourself
 
+#EXTINF:-1 tvg-id="1142" tvg-name="KALAIGNAR SIRIPPOLI [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/1059.jpg" group-title="Tamil - Comedy" tvg-language="Tamil" base-name="KALAIGNAR SIRIPPOLI" stream-source="Tamil Player",KALAIGNAR SIRIPPOLI [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=1142
+
 #EXTINF:-1 tvg-id="ts611" tvg-name="Sirippoli [DASH · ClearKey · JioTV+ 16]" tvg-logo="https://tatalogo.pages.dev/611.png" group-title="Tamil - Comedy" tvg-language="Tamil" base-name="Sirippoli" stream-type="DASH" stream-drm="ClearKey" stream-source="JioTV+ 16",Sirippoli [DASH · ClearKey · JioTV+ 16]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b0bef7a3d07f5b9c8b4b2de472da7718:3139f66c3e590441bec542fcf16dcaca
 https://login.bheem.tv/bpk-tv/22379/output/index.mpd
 
+#EXTINF:-1 tvg-id="1" tvg-name="sirippoli (source 2) [HLS · Tamil Player]" tvg-logo="https://i.imgur.com/nsplwFc.png" group-title="Tamil - Comedy" tvg-language="Tamil" base-name="sirippoli (source 2)" stream-type="HLS" stream-source="Tamil Player",sirippoli (source 2) [HLS · Tamil Player]
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+
 #EXTINF:-1 tvg-id="00011" tvg-name="Sirippoli TV [HLS · TWC Tamil]" tvg-logo="https://tamilwebcast.com/TV-Logos/" group-title="Tamil - Comedy" tvg-language="Tamil" base-name="Sirippoli TV" stream-type="HLS" stream-source="TWC Tamil",Sirippoli TV [HLS · TWC Tamil]
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/siripoli_nim_https/240122/siripoli/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SirippoliTV.in@SD" tvg-name="Sirippoli TV (576p) [HLS · Tamil World]" tvg-logo="https://dtil.tmsimg.com/assets/s143791_ld_h9_aa.png?lock=720x540" group-title="Tamil - Comedy" tvg-language="Tamil" base-name="Sirippoli TV (576p)" stream-type="HLS" stream-source="Tamil World",Sirippoli TV (576p) [HLS · Tamil World]
-https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 
 #EXTINF:-1 tvg-id="194407" tvg-name="SNXT Adithya TV [DASH · ClearKey · TWC Tamil]" tvg-logo="https://tamilwebcast.com/TV-Logos/AdithyaTV.jpg" group-title="Tamil - Comedy" tvg-language="Tamil" base-name="SNXT Adithya TV" stream-type="DASH" stream-drm="ClearKey" stream-source="TWC Tamil",SNXT Adithya TV [DASH · ClearKey · TWC Tamil]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2026,14 +2139,14 @@ https://hjh-545.pages.dev/stream?id=nambikkai
 #EXTVLCOPT:clearkey=00628b0fba225f75858592e885e25d71:519ebd246a95f0055f4977105bc81d42
 https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=603
 
+#EXTINF:-1 tvg-id="1020" tvg-name="NAMBIKKAI TV [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/937.jpg" group-title="Tamil - Devotional" tvg-language="Tamil" base-name="NAMBIKKAI TV" stream-source="Tamil Player",NAMBIKKAI TV [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=1020
+
 #EXTINF:-1 tvg-id="NambikkaiTV.in@SD" tvg-name="Nambikkai TV (576p) [HLS · Tamil World]" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAMBIKKAI_TV/images/LOGO_HD/image.png" group-title="Tamil - Devotional" tvg-language="Tamil" base-name="Nambikkai TV (576p)" stream-type="HLS" stream-source="Tamil World",Nambikkai TV (576p) [HLS · Tamil World]
 https://cdn.pishow.tv/ott/live/1389/master.m3u8
 
 #EXTINF:-1 tvg-id="NambikkaiTV.in@SD" tvg-name="Nambikkai TV (576p) [HLS · Pavish TV]" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAMBIKKAI_TV/images/LOGO_HD/image.png" group-title="Tamil - Devotional" tvg-language="Tamil" base-name="Nambikkai TV (576p)" stream-type="HLS" stream-source="Pavish TV",Nambikkai TV (576p) [HLS · Pavish TV]
 https://mumt02.tangotv.in/NAMBIKKAITV/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Nambikkai TV (576p) [HLS · Special]" tvg-logo="https://i.imgur.com/xnjkUOs.png" group-title="Tamil - Devotional" tvg-language="Tamil" base-name="Nambikkai TV (576p)" stream-type="HLS" stream-source="Special",Nambikkai TV (576p) [HLS · Special]
-https://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="OMTV.in@SD" tvg-name="OM TV (576p) [HLS · Tamil World]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png" group-title="Tamil - Devotional" tvg-language="Tamil" base-name="OM TV (576p)" stream-type="HLS" stream-source="Tamil World",OM TV (576p) [HLS · Tamil World]
 https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
@@ -2222,14 +2335,6 @@ https://hjh-545.pages.dev/stream?id=sonybbcearthhdtamil
 #EXTVLCOPT:clearkey=08855f130a055b2bbc9e6be66fd0f612:975ee9573958379452d7952377f687ff
 https://allinonereborn2.online/jiotv-m3u/jtv1.mpd?id=853
 
-#EXTINF:-1 tvg-id="india-a-vs-nepal---20-nov-2026--tam----acc-men-s-asia-cup-rising-stars-2026" tvg-name="India A vs Nepal - 20 Nov 2026 [TAM] - ACC Men's Asia Cup Rising Stars 2026 [DASH · JioTV+ 32]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029418/1795109522697691_ACRS_India_A_vs_Nepal_live_landscape_thumb.jpg" group-title="Tamil - Sports" tvg-language="Tamil" base-name="India A vs Nepal - 20 Nov 2026 [TAM] - ACC Men's Asia Cup Rising Stars 2026" stream-type="DASH" stream-source="JioTV+ 32",India A vs Nepal - 20 Nov 2026 [TAM] - ACC Men's Asia Cup Rising Stars 2026 [DASH · JioTV+ 32]
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Droovy
-#EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-origin=https://www.jiotv.com
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795228901~acl=/*~id=49301268505225167122969053173518~hmac=c036b09456934f90af681cb56c3954ded67db4f90a115a4b5754ac6f4f5e9721
-
 #EXTINF:-1 tvg-id="3StarTV" tvg-name="3 Star TV [HLS · TWC Tamil]" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746107173_3%2520star%2520logo%2520png%2520copy.png&w=1080&q=75" group-title="Tamil - General" tvg-language="Tamil" base-name="3 Star TV" stream-type="HLS" stream-source="TWC Tamil",3 Star TV [HLS · TWC Tamil]
 https://stream.onecloudlive.in/threestartv/threestarhd/index.m3u8
 
@@ -2256,6 +2361,12 @@ https://stream.iplive.xyz/acptvclassic/acptvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="AdhiyamaanTV" tvg-name="Adhiyamaan TV [HLS · TWC Tamil]" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732121692_White%2520Logo%2520copy.png&w=1920&q=75" group-title="Tamil - General" tvg-language="Tamil" base-name="Adhiyamaan TV" stream-type="HLS" stream-source="TWC Tamil",Adhiyamaan TV [HLS · TWC Tamil]
 https://hd.singamcloud.in/adhiyamamtv/adhiyamamtv/index.m3u8
+
+#EXTINF:-1 tvg-id="1106" tvg-name="ADHTIYA TV [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/1023.jpg" group-title="Tamil - General" tvg-language="Tamil" base-name="ADHTIYA TV" stream-source="Tamil Player",ADHTIYA TV [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=1106
+
+#EXTINF:-1 tvg-id="8690" tvg-name="ADTHIYA TV US [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/8606.jpg" group-title="Tamil - General" tvg-language="Tamil" base-name="ADTHIYA TV US" stream-source="Tamil Player",ADTHIYA TV US [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=8690
 
 #EXTINF:-1 tvg-id="AjayTV" tvg-name="Ajay TV [HLS · TWC Tamil]" tvg-logo="https://play-lh.googleusercontent.com/TcfRdiYg5gGJWlIpc4l5nqA5-DbC8PIVGxnHzaRd4UyvDGDBmD1axLXjV4fA2ms-6YejgBemXBqCcQn-35cT=w512-h960-rw" group-title="Tamil - General" tvg-language="Tamil" base-name="Ajay TV" stream-type="HLS" stream-source="TWC Tamil",Ajay TV [HLS · TWC Tamil]
 https://server.sscloud7.in/live/ajaytv/index.m3u8
@@ -2365,6 +2476,9 @@ https://ipcloud.live/sachintv/dhonitv/index.m3u8
 #EXTINF:-1 tvg-id="DigitalTV" tvg-name="Digital TV [HLS · TWC Tamil]" tvg-logo="https://tamiltvchannels.com/img/tamil%20local/digital%20tv.png" group-title="Tamil - General" tvg-language="Tamil" base-name="Digital TV" stream-type="HLS" stream-source="TWC Tamil",Digital TV [HLS · TWC Tamil]
 https://play.applelive.in/digitaltv/digitaltv.m3u8
 
+#EXTINF:-1 tvg-id="625" tvg-name="DISCOVERY WORLD HD TAMIL [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/542.jpg" group-title="Tamil - General" tvg-language="Tamil" base-name="DISCOVERY WORLD HD TAMIL" stream-source="Tamil Player",DISCOVERY WORLD HD TAMIL [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=625
+
 #EXTINF:-1 tvg-id="DuraiTV" tvg-name="Durai TV [HLS · TWC Tamil]" tvg-logo="https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/durai%20tv-4k.png?alt=media&token=632d3193-0055-4c0f-85a0-d912660239c8" group-title="Tamil - General" tvg-language="Tamil" base-name="Durai TV" stream-type="HLS" stream-source="TWC Tamil",Durai TV [HLS · TWC Tamil]
 https://ipcloud.live/duraitv/live/index.m3u8
 
@@ -2395,6 +2509,9 @@ https://recordings.eyetamil.tv/livetv/index.m3u8
 #EXTINF:-1 tvg-id="GaneshTV" tvg-name="Ganesh TV [HLS · TWC Tamil]" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1734974165_IMG-20241223-WA0162-removebg-preview.png&w=1080&q=75" group-title="Tamil - General" tvg-language="Tamil" base-name="Ganesh TV" stream-type="HLS" stream-source="TWC Tamil",Ganesh TV [HLS · TWC Tamil]
 https://live.thendralcloud.in/ganeshtvlive/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="1057" tvg-name="GOODNEWS TV [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/974.png" group-title="Tamil - General" tvg-language="Tamil" base-name="GOODNEWS TV" stream-source="Tamil Player",GOODNEWS TV [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=1057
+
 #EXTINF:-1 tvg-id="HaiTV" tvg-name="Hai TV [HLS · TWC Tamil]" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746888149_HAII%2520TV%2520LOGO%2520PNG.png&w=1080&q=75" group-title="Tamil - General" tvg-language="Tamil" base-name="Hai TV" stream-type="HLS" stream-source="TWC Tamil",Hai TV [HLS · TWC Tamil]
 https://play.applelive.in/haitv/haitv.m3u8
 
@@ -2404,8 +2521,26 @@ https://ipcloud.live/harintv/harintvhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HINDI OTT TAMIL DUBBED [HLS · JioTV+ 16]" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77370.jpg" group-title="Tamil - General" tvg-language="Tamil" base-name="HINDI OTT TAMIL DUBBED" stream-type="HLS" stream-source="JioTV+ 16",HINDI OTT TAMIL DUBBED [HLS · JioTV+ 16]
 https://fusion4k.psrutube.workers.dev/481012.m3u8
 
+#EXTINF:-1 tvg-id="766" tvg-name="HISTORY TV 18 HD TAMIL [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/683.jpg" group-title="Tamil - General" tvg-language="Tamil" base-name="HISTORY TV 18 HD TAMIL" stream-source="Tamil Player",HISTORY TV 18 HD TAMIL [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=766
+
+#EXTINF:-1 tvg-id="8626" tvg-name="HISTORY TV 4K TAMIL CC [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/8542.jpg" group-title="Tamil - General" tvg-language="Tamil" base-name="HISTORY TV 4K TAMIL CC" stream-source="Tamil Player",HISTORY TV 4K TAMIL CC [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=8626
+
 #EXTINF:-1 tvg-id="HitechTV" tvg-name="Hitech TV [HLS · TWC Tamil]" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746534068_HI%2520TECH.png&w=1080&q=75" group-title="Tamil - General" tvg-language="Tamil" base-name="Hitech TV" stream-type="HLS" stream-source="TWC Tamil",Hitech TV [HLS · TWC Tamil]
 https://notvstream.in/hitechtv/hitechtv.m3u8
+
+#EXTINF:-1 tvg-id="11809" tvg-name="IBC [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/11725.png" group-title="Tamil - General" tvg-language="Tamil" base-name="IBC" stream-source="Tamil Player",IBC [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=11809
+
+#EXTINF:-1 tvg-id="11810" tvg-name="IBC BAKTHI [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/11726.jpg" group-title="Tamil - General" tvg-language="Tamil" base-name="IBC BAKTHI" stream-source="Tamil Player",IBC BAKTHI [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=11810
+
+#EXTINF:-1 tvg-id="11812" tvg-name="IBC SILUVAI [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/11728.jpg" group-title="Tamil - General" tvg-language="Tamil" base-name="IBC SILUVAI" stream-source="Tamil Player",IBC SILUVAI [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=11812
+
+#EXTINF:-1 tvg-id="1046" tvg-name="IMAYAM TV [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/963.png" group-title="Tamil - General" tvg-language="Tamil" base-name="IMAYAM TV" stream-source="Tamil Player",IMAYAM TV [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=1046
 
 #EXTINF:-1 tvg-id="IsaiTV" tvg-name="Isai TV [HLS · TWC Tamil]" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721757570.PNG" group-title="Tamil - General" tvg-language="Tamil" base-name="Isai TV" stream-type="HLS" stream-source="TWC Tamil",Isai TV [HLS · TWC Tamil]
 https://server.sscloud7.in/isaihd/isaihd/index.m3u8
@@ -2521,6 +2656,12 @@ https://stream.onecloudlive.in/orange/ME24TAMIL/index.m3u8
 #EXTINF:-1 tvg-id="ME24Tamil" tvg-name="ME24 Tamil [RojaTV] [HLS · Tamil Local]" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/ME24Tamil.png" group-title="Tamil - General" tvg-language="Tamil" base-name="ME24 Tamil [RojaTV]" stream-type="HLS" stream-source="Tamil Local",ME24 Tamil [RojaTV] [HLS · Tamil Local]
 https://stream.rojatv.cloud/ME24TAMIL/onecloud/index.m3u8?origin=github.com/amazeyourself
 
+#EXTINF:-1 tvg-id="11796" tvg-name="MEGA 24 [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/11712.jpg" group-title="Tamil - General" tvg-language="Tamil" base-name="MEGA 24" stream-source="Tamil Player",MEGA 24 [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=11796
+
+#EXTINF:-1 tvg-id="58180" tvg-name="MEGA TV [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/57964.png" group-title="Tamil - General" tvg-language="Tamil" base-name="MEGA TV" stream-source="Tamil Player",MEGA TV [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=58180
+
 #EXTINF:-1 tvg-id="MinnalTV" tvg-name="Minnal TV [HLS · TWC Tamil]" tvg-logo="https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/minnal-tv.png?alt=media&token=d47021f9-26fb-457e-8b70-38cce4bbc672" group-title="Tamil - General" tvg-language="Tamil" base-name="Minnal TV" stream-type="HLS" stream-source="TWC Tamil",Minnal TV [HLS · TWC Tamil]
 https://ipcloud.live/app/minnaltv/minnalhd/index.m3u8
 
@@ -2529,6 +2670,12 @@ https://view.apserver.in/tmp_hls12/bakthimanam/index.m3u8
 
 #EXTINF:-1 tvg-id="NammaGobiTV" tvg-name="Namma Gobi TV [HLS · TWC Tamil]" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1751788665_png%2520logo.png&w=1920&q=75" group-title="Tamil - General" tvg-language="Tamil" base-name="Namma Gobi TV" stream-type="HLS" stream-source="TWC Tamil",Namma Gobi TV [HLS · TWC Tamil]
 https://stream.rojatv.cloud/nammagobi/tv/index.m3u8
+
+#EXTINF:-1 tvg-id="11798" tvg-name="NAT GEO WILD 4K TAMIL [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/11714.png" group-title="Tamil - General" tvg-language="Tamil" base-name="NAT GEO WILD 4K TAMIL" stream-source="Tamil Player",NAT GEO WILD 4K TAMIL [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=11798
+
+#EXTINF:-1 tvg-id="743" tvg-name="NAT GEO WILD TAMIL HD [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/660.png" group-title="Tamil - General" tvg-language="Tamil" base-name="NAT GEO WILD TAMIL HD" stream-source="Tamil Player",NAT GEO WILD TAMIL HD [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=743
 
 #EXTINF:-1 tvg-id="NellaiTV" tvg-name="Nellai TV [HLS · TWC Tamil]" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1753792693_WhatsApp_Image_2025-07-29_at_5.34.20_AM-removebg-preview.png&w=1920&q=75" group-title="Tamil - General" tvg-language="Tamil" base-name="Nellai TV" stream-type="HLS" stream-source="TWC Tamil",Nellai TV [HLS · TWC Tamil]
 https://stream.onecloudlive.in/nellaitv/nellaitv/index.m3u8
@@ -2590,6 +2737,9 @@ https://live.applelive.in/primetv/primetv/index.m3u8
 
 #EXTINF:-1 tvg-id="PunithanTV" tvg-name="Punithan TV [HLS · TWC Tamil]" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1741094476_IMG-20250228-WA0079-removebg-preview.png&w=1920&q=75" group-title="Tamil - General" tvg-language="Tamil" base-name="Punithan TV" stream-type="HLS" stream-source="TWC Tamil",Punithan TV [HLS · TWC Tamil]
 https://stream.singamcloud.in/punithantv/punithantv/index.m3u8
+
+#EXTINF:-1 tvg-id="11814" tvg-name="PUTHYUGAM TV [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/11730.png" group-title="Tamil - General" tvg-language="Tamil" base-name="PUTHYUGAM TV" stream-source="Tamil Player",PUTHYUGAM TV [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=11814
 
 #EXTINF:-1 tvg-id="QMaxPlus" tvg-name="QMax Plus [HLS · TWC Tamil]" tvg-logo="" group-title="Tamil - General" tvg-language="Tamil" base-name="QMax Plus" stream-type="HLS" stream-source="TWC Tamil",QMax Plus [HLS · TWC Tamil]
 https://view.rcserver.in/tmp_hls21/qmaxtv/index.m3u8
@@ -2725,6 +2875,9 @@ https://uiptv.iptv.pics/hls/skytv/index.m3u8
 
 #EXTINF:-1 tvg-id="SmileyTV" tvg-name="Smiley TV [HLS · TWC Tamil]" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721756996.PNG" group-title="Tamil - General" tvg-language="Tamil" base-name="Smiley TV" stream-type="HLS" stream-source="TWC Tamil",Smiley TV [HLS · TWC Tamil]
 https://live1.sscloud7.com/live/smileytv/index.m3u8
+
+#EXTINF:-1 tvg-id="785" tvg-name="SONY BBC EARTH HD [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/702.jpg" group-title="Tamil - General" tvg-language="Tamil" base-name="SONY BBC EARTH HD" stream-source="Tamil Player",SONY BBC EARTH HD [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=785
 
 #EXTINF:-1 tvg-id="SreeSaravanaaTV" tvg-name="Sree Saravanaa TV [HLS · TWC Tamil]" tvg-logo="" group-title="Tamil - General" tvg-language="Tamil" base-name="Sree Saravanaa TV" stream-type="HLS" stream-source="TWC Tamil",Sree Saravanaa TV [HLS · TWC Tamil]
 https://stream.advikadigital.in/advika/saravana/index.m3u8
@@ -2908,11 +3061,20 @@ https://view.apserver.in/tmp_hls9/thulirtv/index.m3u8
 #EXTINF:-1 tvg-id="TimeTV" tvg-name="Time TV [HLS · TWC Tamil]" tvg-logo="https://play-lh.googleusercontent.com/pGvPUIyZtW1-kPduEn593l_WAzeaLuEgl1oiT3-jXOPEPJ65zeeuCJQFVdsA0_fkb2Ss=w512-h960-rw" group-title="Tamil - General" tvg-language="Tamil" base-name="Time TV" stream-type="HLS" stream-source="TWC Tamil",Time TV [HLS · TWC Tamil]
 https://live.olidigital.in/timetv/timetv/index.m3u8
 
+#EXTINF:-1 tvg-id="9187" tvg-name="TRAVEL XP TAMIL HD [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/9103.jpg" group-title="Tamil - General" tvg-language="Tamil" base-name="TRAVEL XP TAMIL HD" stream-source="Tamil Player",TRAVEL XP TAMIL HD [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=9187
+
 #EXTINF:-1 tvg-id="Travelxp.in@4KHDR" tvg-name="Travelxp 4K HDR (2160p) [HLS · Tamil World]" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="Tamil - General" tvg-language="Tamil" base-name="Travelxp 4K HDR (2160p)" stream-type="HLS" stream-source="Tamil World",Travelxp 4K HDR (2160p) [HLS · Tamil World]
 https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 
 #EXTINF:-1 tvg-id="Travelxp.in@HD" tvg-name="Travelxp HD (1080p) [HLS · Tamil World]" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="Tamil - General" tvg-language="Tamil" base-name="Travelxp HD (1080p)" stream-type="HLS" stream-source="Tamil World",Travelxp HD (1080p) [HLS · Tamil World]
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="602" tvg-name="TUNE 6 [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/519.jpg" group-title="Tamil - General" tvg-language="Tamil" base-name="TUNE 6" stream-source="Tamil Player",TUNE 6 [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=602
+
+#EXTINF:-1 tvg-id="1140" tvg-name="TVI HD [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/1057.png" group-title="Tamil - General" tvg-language="Tamil" base-name="TVI HD" stream-source="Tamil Player",TVI HD [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=1140
 
 #EXTINF:-1 tvg-id="UdhayamTV" tvg-name="Udhayam TV [HLS · TWC Tamil]" tvg-logo="https://tamilradios.org/wp-content/uploads/2025/01/udhayam-tv.jpg" group-title="Tamil - General" tvg-language="Tamil" base-name="Udhayam TV" stream-type="HLS" stream-source="TWC Tamil",Udhayam TV [HLS · TWC Tamil]
 https://ipcloud.live/udhayamtv/live/index.m3u8
@@ -2931,6 +3093,9 @@ https://siii.mystreams.in/vtv/vtv/index.m3u8?origin=github.com/amazeyourself
 
 #EXTINF:-1 tvg-id="VTamizh" tvg-name="V Tamizh [HLS · JioTV+ 16]" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1734235815_WhatsApp_Image_2024-12-15_at_8.10.00_AM-removebg-preview.png" group-title="Tamil - General" tvg-language="Tamil" base-name="V Tamizh" stream-type="HLS" stream-source="JioTV+ 16",V Tamizh [HLS · JioTV+ 16]
 https://app.ashokadigital.net/app/89c09acf/index.m3u8
+
+#EXTINF:-1 tvg-id="726" tvg-name="VALICHAM PLUS [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/643.jpg" group-title="Tamil - General" tvg-language="Tamil" base-name="VALICHAM PLUS" stream-source="Tamil Player",VALICHAM PLUS [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=726
 
 #EXTINF:-1 tvg-id="VaniTV" tvg-name="Vani TV [HLS · TWC Tamil]" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732168603_WhatsApp%2520Image%25202024-11-21%2520at%252011.05.55%2520AM.jpeg&w=1920&q=75" group-title="Tamil - General" tvg-language="Tamil" base-name="Vani TV" stream-type="HLS" stream-source="TWC Tamil",Vani TV [HLS · TWC Tamil]
 https://live.sscloud7.in/live/vanitvhd/index.m3u8
@@ -2952,6 +3117,9 @@ https://video-eu1.streamerr.co/hls/scb80244b91/live.m3u8
 
 #EXTINF:-1 tvg-id="VidiyalTV" tvg-name="Vidiyal TV [HLS · TWC Tamil]" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1743757301_IMG-20250404-WA0100.jpg&w=1920&q=75" group-title="Tamil - General" tvg-language="Tamil" base-name="Vidiyal TV" stream-type="HLS" stream-source="TWC Tamil",Vidiyal TV [HLS · TWC Tamil]
 https://account11.livebox.co.in/vidyaltvhls/live.m3u8?psk=stream
+
+#EXTINF:-1 tvg-id="66791" tvg-name="VIJAY TV [Tamil Player]" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/67528.jpg" group-title="Tamil - General" tvg-language="Tamil" base-name="VIJAY TV" stream-source="Tamil Player",VIJAY TV [Tamil Player]
+https://mini.allinonereborn.site/tatatv/tatatvnew.php?id=66791
 
 #EXTINF:-1 tvg-id="VisilMax" tvg-name="Visil Max [HLS · TWC Tamil]" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1744985304.jpeg" group-title="Tamil - General" tvg-language="Tamil" base-name="Visil Max" stream-type="HLS" stream-source="TWC Tamil",Visil Max [HLS · TWC Tamil]
 https://stream.sscloud7.in/live/vishiltv2/index.m3u8
