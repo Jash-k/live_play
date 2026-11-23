@@ -1,27 +1,27 @@
 # Current curated feed
 
-Generated 2026-11-23T07:46:32.676Z by `scripts/curate-live.mjs` — do not edit by hand.
+Generated 2026-11-23T20:17:18.020Z by `scripts/curate-live.mjs` — do not edit by hand.
 
-793 stream options in `jash-live.m3u`: 724 Tamil channels, 0 Bigg Boss Tamil, 69 sports feeds.
-35 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
-793 of those streams are also published in `jash-by-source.m3u`, filed under the 19 sources that supplied them.
+803 stream options in `jash-live.m3u`: 729 Tamil channels, 0 Bigg Boss Tamil, 74 sports feeds.
+46 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
+803 of those streams are also published in `jash-by-source.m3u`, filed under the 18 sources that supplied them.
 
 | Group | Streams |
 |---|---:|
-| Tamil - Entertainment | 201 |
+| Tamil - Entertainment | 203 |
 | Tamil - News | 64 |
-| Tamil - Movies | 50 |
+| Tamil - Movies | 51 |
 | Tamil - Music | 43 |
 | Tamil - Kids | 32 |
 | Tamil - Comedy | 9 |
-| Tamil - Devotional | 62 |
+| Tamil - Devotional | 63 |
 | Tamil - Lifestyle | 4 |
 | Tamil - Infotainment | 12 |
-| Tamil - General | 247 |
-| Sports - Star Sports - Tamil | 6 |
-| Sports - Star Sports - English | 15 |
+| Tamil - General | 248 |
+| Sports - Star Sports - Tamil | 8 |
+| Sports - Star Sports - English | 19 |
 | Sports - Sony Sports - Tamil | 7 |
-| Sports - Sony Sports - English | 24 |
+| Sports - Sony Sports - English | 23 |
 | Sports - FanCode - English | 2 |
 | Sports - Willow - English | 7 |
 | Sports - Ten Sports - English | 2 |
@@ -34,11 +34,11 @@ Generated 2026-11-23T07:46:32.676Z by `scripts/curate-live.mjs` — do not edit 
 |---|---:|
 | TWC Tamil | 204 |
 | JioTV proxy | 104 |
-| Tamil World | 100 |
+| Tamil World | 103 |
 | JTV DRM | 84 |
+| JioTV+ 16 | 68 |
 | JioTV+ 32 | 65 |
 | Tamil Player | 61 |
-| JioTV+ 16 | 60 |
 | Tamil Local | 45 |
 | SmartIPTV Jio | 16 |
 | Pavish TV | 12 |
@@ -49,12 +49,11 @@ Generated 2026-11-23T07:46:32.676Z by `scripts/curate-live.mjs` — do not edit 
 | Sportlink-wtf/Sports | 6 |
 | Kirubanandem | 2 |
 | Jo/Zohplx | 1 |
-| SonyLIV 3 | 1 |
 | Sportlink-wtf/Sport | 1 |
 
 ## Channels (alternate streams of the same brand may repeat)
 
-### Tamil - Entertainment (201)
+### Tamil - Entertainment (203)
 
 - Aadhavan Tamil Tv [HLS · JioTV+ 16]
 - Aadhavan Tamil TV [TamilStream] [HLS · Tamil Local]
@@ -183,6 +182,7 @@ Generated 2026-11-23T07:46:32.676Z by `scripts/curate-live.mjs` — do not edit 
 - Sri Vasanth Tv [HLS · JioTV+ 16]
 - Sri Vasanth TV [HLS · Tamil Local]
 - Star Vijay [DASH · ClearKey · JioTV proxy]
+- Star Vijay Digital [ClearKey · JioTV+ 16]
 - Star Vijay HD [DASH · ClearKey · JioTV proxy]
 - Star Vijay HD [DASH · ClearKey · JTV DRM]
 - Star Vijay Super [DASH · JioTV+ 32]
@@ -240,6 +240,7 @@ Generated 2026-11-23T07:46:32.676Z by `scripts/curate-live.mjs` — do not edit 
 - Vendhar TV [DASH · ClearKey · JTV DRM]
 - Vendhar TV (576p) [HLS · Tamil World]
 - Vijay Super [DASH · ClearKey · JTV DRM]
+- Vijay Super Digital [ClearKey · JioTV+ 16]
 - Vijay Super HD [DASH · ClearKey · JioTV proxy]
 - Vijay Super HD [DASH · ClearKey · JTV DRM]
 - Vijay Takkar [DASH · JioTV+ 32]
@@ -325,7 +326,7 @@ Generated 2026-11-23T07:46:32.676Z by `scripts/curate-live.mjs` — do not edit 
 - Thanthi TV (396p) [HLS · Special]
 - Zee News Tamil [HLS · JioTV+ 16]
 
-### Tamil - Movies (50)
+### Tamil - Movies (51)
 
 - J Movies [DASH · JioTV+ 32]
 - J Movies [DASH · ClearKey · JioTV proxy]
@@ -334,6 +335,7 @@ Generated 2026-11-23T07:46:32.676Z by `scripts/curate-live.mjs` — do not edit 
 - KALAIGNAR CHITHIRAM [Tamil Player]
 - KTV (Indonesia) (720p) [HLS · Tamil World]
 - KTV (South Korea) (1080p) [HLS · Tamil World]
+- KTV (Uganda) (1080p) [HLS · Tamil World]
 - KTV 1 (1080p) [HLS · Tamil World]
 - KTV 2 (1080p) [HLS · Tamil World]
 - KTV Al Qurain (1080p) [HLS · Tamil World]
@@ -471,7 +473,7 @@ Generated 2026-11-23T07:46:32.676Z by `scripts/curate-live.mjs` — do not edit 
 - Sirippoli TV [HLS · TWC Tamil]
 - SNXT Adithya TV [DASH · ClearKey · TWC Tamil]
 
-### Tamil - Devotional (62)
+### Tamil - Devotional (63)
 
 - Aaseervatham TV (576p) [HLS · Tamil World]
 - Aastha Tamil [HLS · SmartIPTV Jio]
@@ -516,6 +518,7 @@ Generated 2026-11-23T07:46:32.676Z by `scripts/curate-live.mjs` — do not edit 
 - NAMBIKKAI TV [Tamil Player]
 - Nambikkai TV (576p) [HLS · Tamil World]
 - Nambikkai TV (576p) [HLS · Pavish TV]
+- Nijam TV (1080p) [HLS · Tamil World]
 - OM TV (576p) [HLS · Tamil World]
 - RadheKrishna TV [HLS · SmartIPTV Jio]
 - Sai TV [DASH · JioTV+ 32]
@@ -558,7 +561,7 @@ Generated 2026-11-23T07:46:32.676Z by `scripts/curate-live.mjs` — do not edit 
 - Sony BBC Earth HD Tamil [DASH · ClearKey · JioTV proxy]
 - Sony BBC Earth HD Tamil [DASH · ClearKey · JTV DRM]
 
-### Tamil - General (247)
+### Tamil - General (248)
 
 - 3 Star TV [HLS · TWC Tamil]
 - 7 Green 4K [HLS · TWC Tamil]
@@ -623,6 +626,7 @@ Generated 2026-11-23T07:46:32.676Z by `scripts/curate-live.mjs` — do not edit 
 - HINDI OTT TAMIL DUBBED [HLS · JioTV+ 16]
 - HISTORY TV 18 HD TAMIL [Tamil Player]
 - HISTORY TV 4K TAMIL CC [Tamil Player]
+- History TV18 HD (1080p) [HLS · Tamil World]
 - Hitech TV [HLS · TWC Tamil]
 - IBC [Tamil Player]
 - IBC BAKTHI [Tamil Player]
@@ -808,30 +812,36 @@ Generated 2026-11-23T07:46:32.676Z by `scripts/curate-live.mjs` — do not edit 
 - YET TV [HLS · TWC Tamil]
 - Yogaa TV [HLS · TWC Tamil]
 
-### Sports - Star Sports - Tamil (6)
+### Sports - Star Sports - Tamil (8)
 
 - Star Sports 1 Tamil [DASH · ClearKey · JioTV proxy]
+- Star Sports 1 Tamil Digital [ClearKey · JioTV+ 16]
 - Star Sports 1 Tamil HD [DASH · ClearKey · JioTV proxy]
 - Star Sports 1 Tamil HD [DASH · ClearKey · JTV DRM]
 - Star Sports 2 Tamil [DASH · ClearKey · JioTV proxy]
+- Star Sports 2 Tamil Digital [ClearKey · JioTV+ 16]
 - Star Sports 2 Tamil HD [DASH · ClearKey · JioTV proxy]
 - Star Sports 2 Tamil HD [DASH · ClearKey · JTV DRM]
 
-### Sports - Star Sports - English (15)
+### Sports - Star Sports - English (19)
 
 - Star Sports 1 [DASH · ClearKey · JioTV proxy]
+- Star Sports 1 Digital [ClearKey · JioTV+ 16]
 - STAR SPORTS 1 ENGLISH 4K* [HLS · Sportlink-wtf/Sports]
 - Star Sports 1 HD [DASH · ClearKey · JioTV proxy]
 - Star Sports 1 HD [DASH · ClearKey · JTV DRM]
 - Star Sports 2 [DASH · ClearKey · JioTV proxy]
+- Star Sports 2 Digital [ClearKey · JioTV+ 16]
 - STAR SPORTS 2 ENGLISH 4K* [HLS · Sportlink-wtf/Sports]
 - Star Sports 2 HD [DASH · ClearKey · JioTV proxy]
 - Star Sports 2 HD [DASH · ClearKey · JTV DRM]
 - Star Sports 3 [DASH · ClearKey · Jo/Zohplx]
 - Star Sports Select 1 [DASH · ClearKey · JioTV proxy]
+- Star Sports Select 1 Digital [ClearKey · JioTV+ 16]
 - Star Sports Select 1 HD [DASH · ClearKey · JioTV proxy]
 - Star Sports Select 1 HD [DASH · ClearKey · JTV DRM]
 - Star Sports Select 2 [DASH · ClearKey · JioTV proxy]
+- Star Sports Select 2 Digital [ClearKey · JioTV+ 16]
 - Star Sports Select 2 HD [DASH · ClearKey · JioTV proxy]
 - Star Sports Select 2 HD [DASH · ClearKey · JTV DRM]
 
@@ -845,12 +855,11 @@ Generated 2026-11-23T07:46:32.676Z by `scripts/curate-live.mjs` — do not edit 
 - Sony Ten 4 Tamil [DASH · ClearKey · JioTV proxy]
 - Sony Ten 4 Tamil [DASH · ClearKey · JioTV+]
 
-### Sports - Sony Sports - English (24)
+### Sports - Sony Sports - English (23)
 
 - [BD] Sony Ten Cricket [HLS · Sports IPTV]
 - [BD] Sony Ten Sports 1 HD [HLS · Sports IPTV]
 - [BD] Sony Ten Sports 5 HD [HLS · Sports IPTV]
-- Afghanistan A vs Hong Kong, China - 23 Nov 2026 [ENG] [HLS · SonyLIV 3]
 - Sony Sports Ten 1 [HLS · Jo/Zoh]
 - Sony Sports Ten 1 HD [HLS · Jo/Zoh]
 - Sony Sports Ten 1 HD [HLS · JioTV+ 16]
@@ -910,7 +919,7 @@ Generated 2026-11-23T07:46:32.676Z by `scripts/curate-live.mjs` — do not edit 
 |---|---|---:|
 | JioTV proxy (hjh-545.pages.dev) | static | 111 |
 | saboorabd/Tamil-iptv-player | static | 61 |
-| snwebdev211-jpg/Tamil-World-IPTV | static | 100 |
+| snwebdev211-jpg/Tamil-World-IPTV | static | 103 |
 | arunnivas85/IPTV-Tamil | static | 204 |
 | SIDDXELCE/JTV1MPD | static | 90 |
 | amazeyourself/tamil-local-iptv | static | 45 |
@@ -918,19 +927,18 @@ Generated 2026-11-23T07:46:32.676Z by `scripts/curate-live.mjs` — do not edit 
 | 3DFM07/smartiptv-api-JioTv.m3u8 | static | 20 |
 | iqbal8846/sports-iptv | static | 7 |
 | kirubanandem/iptv_playlist | static | 2 |
-| maybetv/Jo/Zoh.m3u | github | 10 |
+| maybetv/Jo/Zoh.m3u | github | 15 |
 | maybetv/Jo/Zohplx.m3u | github | 1 |
 | sportlive18/Sportlink-wtf/Sports.m3u | github | 9 |
 | sportlive18/Sportlink-wtf/Sport.m3u | github | 1 |
 | JioTV+ 32 (jiotv_32) | pinned | 71 |
-| JioTV+ 16 (jiotv_16) | pinned | 60 |
+| JioTV+ 16 (jiotv_16) | pinned | 69 |
 | Special (special) | pinned | 11 |
-| Prime Sports 1 (prime_sports_one) | pinned | 2 |
+| Prime Sports 1 (prime_sports_one) | pinned | 4 |
 | JioTV+ (jiotv) | discovered | 9 |
 | JioTV+ 24 (jiotv_24) | discovered | 0 |
-| SonyLIV 3 (sonyliv_three) | discovered | 1 |
-| Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 1 |
+| Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 4 |
 
-Sources that returned nothing this run: 15 of 63. See `jash-live.stats.json`.
+Sources that returned nothing this run: 23 of 63. See `jash-live.stats.json`.
 
 Playback was **not** verified: entries carry upstream playback properties unchanged, and a stream may still need a compatible player, legitimate access or region availability.
