@@ -1,10 +1,10 @@
 # Current curated feed
 
-Generated 2026-11-24T06:06:05.493Z by `scripts/curate-live.mjs` — do not edit by hand.
+Generated 2026-11-24T17:51:47.335Z by `scripts/curate-live.mjs` — do not edit by hand.
 
-803 stream options in `jash-live.m3u`: 727 Tamil channels, 0 Bigg Boss Tamil, 76 sports feeds.
-40 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
-803 of those streams are also published in `jash-by-source.m3u`, filed under the 20 sources that supplied them.
+802 stream options in `jash-live.m3u`: 727 Tamil channels, 0 Bigg Boss Tamil, 75 sports feeds.
+46 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
+802 of those streams are also published in `jash-by-source.m3u`, filed under the 20 sources that supplied them.
 
 | Group | Streams |
 |---|---:|
@@ -19,9 +19,9 @@ Generated 2026-11-24T06:06:05.493Z by `scripts/curate-live.mjs` — do not edit 
 | Tamil - Infotainment | 12 |
 | Tamil - General | 248 |
 | Sports - Star Sports - Tamil | 8 |
-| Sports - Star Sports - English | 19 |
-| Sports - Sony Sports - Tamil | 8 |
-| Sports - Sony Sports - English | 24 |
+| Sports - Star Sports - English | 18 |
+| Sports - Sony Sports - Tamil | 7 |
+| Sports - Sony Sports - English | 25 |
 | Sports - FanCode - English | 2 |
 | Sports - Willow - English | 7 |
 | Sports - Ten Sports - English | 2 |
@@ -36,7 +36,7 @@ Generated 2026-11-24T06:06:05.493Z by `scripts/curate-live.mjs` — do not edit 
 | Tamil World | 102 |
 | JTV DRM | 98 |
 | JioTV+ 32 | 90 |
-| JioTV+ 16 | 68 |
+| JioTV+ 16 | 67 |
 | Tamil Player | 61 |
 | JioTV+ 20 | 46 |
 | Tamil Local | 45 |
@@ -823,10 +823,9 @@ Generated 2026-11-24T06:06:05.493Z by `scripts/curate-live.mjs` — do not edit 
 - Star Sports 2 Tamil HD [DASH · ClearKey · JTV DRM]
 - Star Sports 2 Tamil HD [DASH · ClearKey · Jo/Zohplx]
 
-### Sports - Star Sports - English (19)
+### Sports - Star Sports - English (18)
 
 - Star Sports 1 [DASH · ClearKey · JTV DRM]
-- Star Sports 1 Digital [ClearKey · JioTV+ 16]
 - STAR SPORTS 1 ENGLISH 4K* [HLS · Sportlink-wtf/Sports]
 - Star Sports 1 HD [DASH · ClearKey · JTV DRM]
 - Star Sports 1 HD [DASH · ClearKey · Jo/Zohplx]
@@ -845,9 +844,8 @@ Generated 2026-11-24T06:06:05.493Z by `scripts/curate-live.mjs` — do not edit 
 - Star Sports Select 2 HD [DASH · JioTV+ 32]
 - Star Sports Select 2 HD [DASH · ClearKey · JTV DRM]
 
-### Sports - Sony Sports - Tamil (8)
+### Sports - Sony Sports - Tamil (7)
 
-- India A vs UAE - 24 Nov 2026 [TAM] [HLS · SonyLIV 3]
 - Sony LIV Sports 4 Tamil [DASH · JioTV+ 32]
 - Sony LIV Sports 4 Tamil [DASH · ClearKey · JTV DRM]
 - Sony LIV Sports 4 Tamil [DASH · ClearKey · JioTV+ 20]
@@ -856,12 +854,13 @@ Generated 2026-11-24T06:06:05.493Z by `scripts/curate-live.mjs` — do not edit 
 - Sony Ten 4 Tamil [DASH · JioTV+ 32]
 - Sony Ten 4 Tamil [DASH · ClearKey · JioTV+]
 
-### Sports - Sony Sports - English (24)
+### Sports - Sony Sports - English (25)
 
 - [BD] Sony Ten Cricket [HLS · Sports IPTV]
 - [BD] Sony Ten Sports 1 HD [HLS · Sports IPTV]
 - [BD] Sony Ten Sports 5 HD [HLS · Sports IPTV]
-- India A vs UAE - 24 Nov 2026 [ENG] [HLS · SonyLIV 3]
+- Bodø/Glimt vs LASK - 24 Nov 2026 [ENG] [HLS · SonyLIV 3]
+- Galatasaray vs Aston Villa - 24 Nov 2026 [ENG] [HLS · SonyLIV 3]
 - Sony Sports Ten 1 [HLS · Jo/Zoh]
 - Sony Sports Ten 1 HD [HLS · Jo/Zoh]
 - Sony Sports Ten 1 HD [HLS · JioTV+ 16]
@@ -934,15 +933,15 @@ Generated 2026-11-24T06:06:05.493Z by `scripts/curate-live.mjs` — do not edit 
 | sportlive18/Sportlink-wtf/Sport.m3u | github | 1 |
 | JioTV+ 32 (jiotv_32) | pinned | 96 |
 | JioTV+ 20 (jiotv_20) | pinned | 50 |
-| JioTV+ 16 (jiotv_16) | pinned | 70 |
+| JioTV+ 16 (jiotv_16) | pinned | 69 |
 | JioTV+ 28 (jiotv_28) | pinned | 11 |
 | Special (special) | pinned | 11 |
-| Prime Sports 1 (prime_sports_one) | pinned | 3 |
+| Prime Sports 1 (prime_sports_one) | pinned | 6 |
 | JioTV+ (jiotv) | discovered | 10 |
 | JioTV+ 24 (jiotv_24) | discovered | 0 |
 | SonyLIV 3 (sonyliv_three) | discovered | 2 |
-| Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 2 |
+| Prime Sports 1 [Backup] (prime_sports_one_backup) | discovered | 5 |
 
-Sources that returned nothing this run: 18 of 63. See `jash-live.stats.json`.
+Sources that returned nothing this run: 17 of 63. See `jash-live.stats.json`.
 
 Playback was **not** verified: entries carry upstream playback properties unchanged, and a stream may still need a compatible player, legitimate access or region availability.
