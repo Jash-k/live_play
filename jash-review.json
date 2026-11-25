@@ -1,35 +1,5 @@
 [
   {
-    "name": "Arsenal vs. Dortmund",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Bodø/Glimt vs. LASK",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Calcio Como 1907 vs. AEK Athens",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
     "name": "DD Sports",
     "family": "DD Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -44,69 +14,49 @@
     "family": "DD Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
       "origin": "static"
     }
   },
   {
-    "name": "DD Sports",
+    "name": "DD Sports HD",
     "family": "DD Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "siddxelce_jtv1mpd",
-      "label": "SIDDXELCE/JTV1MPD",
-      "origin": "static"
-    }
-  },
-  {
-    "name": "Galatasaray vs. Aston Villa",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
+      "key": "sportlive18_Sportlink-wtf__Sports.m3u",
+      "label": "sportlive18/Sportlink-wtf/Sports.m3u",
       "origin": "github"
     }
   },
   {
-    "name": "Manchester City vs. Napoli",
-    "family": "Prime Sports",
+    "name": "Dubai Capitals Vs Desert Vipers",
+    "family": "FanCode",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "fancode_five",
+      "label": "Fancode 5 (fancode_five)",
+      "origin": "index"
     }
   },
   {
-    "name": "RB Leipzig vs. RC Lens",
-    "family": "Prime Sports",
+    "name": "Persib Bandung Vs Seoul",
+    "family": "FanCode",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "fancode_five",
+      "label": "Fancode 5 (fancode_five)",
+      "origin": "index"
     }
   },
   {
-    "name": "Real Madrid vs. PSV",
-    "family": "Prime Sports",
+    "name": "Pfc Nasaf Vs Al Khaldiya Sc",
+    "family": "FanCode",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Slovan Bratislava vs. Betis",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "fancode_five",
+      "label": "Fancode 5 (fancode_five)",
+      "origin": "index"
     }
   },
   {
@@ -124,8 +74,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
       "origin": "static"
     }
   },
@@ -134,9 +84,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "siddxelce_jtv1mpd",
-      "label": "SIDDXELCE/JTV1MPD",
-      "origin": "static"
+      "key": "jiotv_20",
+      "label": "JioTV+ 20 (jiotv_20)",
+      "origin": "index"
     }
   },
   {
@@ -154,8 +104,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
       "origin": "static"
     }
   },
@@ -164,9 +114,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "siddxelce_jtv1mpd",
-      "label": "SIDDXELCE/JTV1MPD",
-      "origin": "static"
+      "key": "jiotv_20",
+      "label": "JioTV+ 20 (jiotv_20)",
+      "origin": "index"
     }
   },
   {
@@ -184,8 +134,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
       "origin": "static"
     }
   },
@@ -194,9 +144,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "siddxelce_jtv1mpd",
-      "label": "SIDDXELCE/JTV1MPD",
-      "origin": "static"
+      "key": "jiotv_20",
+      "label": "JioTV+ 20 (jiotv_20)",
+      "origin": "index"
     }
   },
   {
@@ -214,8 +164,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
       "origin": "static"
     }
   },
@@ -224,9 +174,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "siddxelce_jtv1mpd",
-      "label": "SIDDXELCE/JTV1MPD",
-      "origin": "static"
+      "key": "jiotv_20",
+      "label": "JioTV+ 20 (jiotv_20)",
+      "origin": "index"
     }
   },
   {
@@ -350,33 +300,13 @@
     }
   },
   {
-    "name": "Southeastern Louisiana vs. Northern Colorado",
-    "family": "Prime Sports",
+    "name": "Star Sports 3",
+    "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
+      "key": "maybetv_Jo__Zoh2.m3u",
+      "label": "maybetv/Jo/Zoh2.m3u",
       "origin": "github"
-    }
-  },
-  {
-    "name": "Star Sports 3",
-    "family": "Star Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Star Sports 3",
-    "family": "Star Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
-      "origin": "static"
     }
   },
   {
@@ -390,37 +320,17 @@
     }
   },
   {
-    "name": "Star Sports 3 Digital",
+    "name": "Star Sports 3",
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_16",
-      "label": "JioTV+ 16 (jiotv_16)",
+      "key": "jiotv_20",
+      "label": "JioTV+ 20 (jiotv_20)",
       "origin": "index"
     }
   },
   {
-    "name": "Star Sports Khel",
-    "family": "Star Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Star Sports Khel",
-    "family": "Star Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
-      "origin": "static"
-    }
-  },
-  {
-    "name": "The Golazo Show",
+    "name": "The Morning Drive",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -430,17 +340,7 @@
     }
   },
   {
-    "name": "Triton Poker Series Cyprus-$100K NLH Main Event",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Triton Poker Series Cyprus-$100K NLH Main Event",
+    "name": "The Morning Drive",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -450,13 +350,13 @@
     }
   },
   {
-    "name": "Triton Poker Series Cyprus-$100K NLH Main Event",
+    "name": "Triton Poker Series Cyprus-$150K NLH 10th Anniversary Special",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "prime_sports_one_backup",
-      "label": "Prime Sports 1 [Backup] (prime_sports_one_backup)",
-      "origin": "index"
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   }
 ]
