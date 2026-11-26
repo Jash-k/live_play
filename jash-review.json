@@ -14,48 +14,68 @@
     "family": "DD Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
+      "key": "hjh-545",
+      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "origin": "static"
+    }
+  },
+  {
+    "name": "DD Sports",
+    "family": "DD Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
       "key": "siddxelce_jtv1mpd",
       "label": "SIDDXELCE/JTV1MPD",
       "origin": "static"
     }
   },
   {
-    "name": "DD Sports HD",
-    "family": "DD Sports",
+    "name": "Dordt University at Columbia College",
+    "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "sportlive18_Sportlink-wtf__Sports.m3u",
-      "label": "sportlive18/Sportlink-wtf/Sports.m3u",
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
       "origin": "github"
     }
   },
   {
-    "name": "Dubai Capitals Vs Desert Vipers",
-    "family": "FanCode",
+    "name": "ECHL Hockey: Norfolk Admirals vs Greensboro Gargoyles",
+    "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "fancode_five",
-      "label": "Fancode 5 (fancode_five)",
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
       "origin": "index"
     }
   },
   {
-    "name": "Persib Bandung Vs Seoul",
-    "family": "FanCode",
+    "name": "Inter vs. Stuttgart",
+    "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "fancode_five",
-      "label": "Fancode 5 (fancode_five)",
-      "origin": "index"
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   },
   {
-    "name": "Pfc Nasaf Vs Al Khaldiya Sc",
-    "family": "FanCode",
+    "name": "Predator Pro Billiard Series: San Antonio",
+    "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "fancode_five",
-      "label": "Fancode 5 (fancode_five)",
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Predator Pro Billiard Series: San Antonio",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
       "origin": "index"
     }
   },
@@ -74,8 +94,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "siddxelce_jtv1mpd",
-      "label": "SIDDXELCE/JTV1MPD",
+      "key": "hjh-545",
+      "label": "JioTV proxy (hjh-545.pages.dev)",
       "origin": "static"
     }
   },
@@ -84,9 +104,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_20",
-      "label": "JioTV+ 20 (jiotv_20)",
-      "origin": "index"
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
+      "origin": "static"
     }
   },
   {
@@ -104,8 +124,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "siddxelce_jtv1mpd",
-      "label": "SIDDXELCE/JTV1MPD",
+      "key": "hjh-545",
+      "label": "JioTV proxy (hjh-545.pages.dev)",
       "origin": "static"
     }
   },
@@ -114,9 +134,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_20",
-      "label": "JioTV+ 20 (jiotv_20)",
-      "origin": "index"
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
+      "origin": "static"
     }
   },
   {
@@ -134,8 +154,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "siddxelce_jtv1mpd",
-      "label": "SIDDXELCE/JTV1MPD",
+      "key": "hjh-545",
+      "label": "JioTV proxy (hjh-545.pages.dev)",
       "origin": "static"
     }
   },
@@ -144,9 +164,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_20",
-      "label": "JioTV+ 20 (jiotv_20)",
-      "origin": "index"
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
+      "origin": "static"
     }
   },
   {
@@ -164,8 +184,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "siddxelce_jtv1mpd",
-      "label": "SIDDXELCE/JTV1MPD",
+      "key": "hjh-545",
+      "label": "JioTV proxy (hjh-545.pages.dev)",
       "origin": "static"
     }
   },
@@ -174,9 +194,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_20",
-      "label": "JioTV+ 20 (jiotv_20)",
-      "origin": "index"
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
+      "origin": "static"
     }
   },
   {
@@ -300,13 +320,23 @@
     }
   },
   {
+    "name": "South Australia Vs Victoria",
+    "family": "FanCode",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "fancode_five",
+      "label": "Fancode 5 (fancode_five)",
+      "origin": "index"
+    }
+  },
+  {
     "name": "Star Sports 3",
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh2.m3u",
-      "label": "maybetv/Jo/Zoh2.m3u",
-      "origin": "github"
+      "key": "hjh-545",
+      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "origin": "static"
     }
   },
   {
@@ -324,29 +354,19 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_20",
-      "label": "JioTV+ 20 (jiotv_20)",
+      "key": "jiotv_28",
+      "label": "JioTV+ 28 (jiotv_28)",
       "origin": "index"
     }
   },
   {
-    "name": "The Morning Drive",
-    "family": "Prime Sports",
+    "name": "Star Sports Khel",
+    "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "The Morning Drive",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
-      "origin": "index"
+      "key": "hjh-545",
+      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "origin": "static"
     }
   },
   {
@@ -357,6 +377,16 @@
       "key": "maybetv_Jo__Zoh.m3u",
       "label": "maybetv/Jo/Zoh.m3u",
       "origin": "github"
+    }
+  },
+  {
+    "name": "Triton Poker Series Cyprus-$150K NLH 10th Anniversary Special",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
     }
   }
 ]

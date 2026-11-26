@@ -1,27 +1,27 @@
 # Current curated feed
 
-Generated 2026-11-25T14:29:18.681Z by `scripts/curate-live.mjs` — do not edit by hand.
+Generated 2026-11-26T00:27:05.023Z by `scripts/curate-live.mjs` — do not edit by hand.
 
-734 stream options in `jash-live.m3u`: 668 Tamil channels, 0 Bigg Boss Tamil, 66 sports feeds.
-36 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
-734 of those streams are also published in `jash-by-source.m3u`, filed under the 20 sources that supplied them.
+739 stream options in `jash-live.m3u`: 674 Tamil channels, 0 Bigg Boss Tamil, 65 sports feeds.
+39 further stream options are parked in `jash-review.m3u` because upstream states no Tamil/English language.
+739 of those streams are also published in `jash-by-source.m3u`, filed under the 18 sources that supplied them.
 
 | Group | Streams |
 |---|---:|
-| Tamil - Entertainment | 186 |
-| Tamil - News | 61 |
-| Tamil - Movies | 36 |
+| Tamil - Entertainment | 188 |
+| Tamil - News | 62 |
+| Tamil - Movies | 38 |
 | Tamil - Music | 41 |
 | Tamil - Kids | 30 |
 | Tamil - Comedy | 8 |
 | Tamil - Devotional | 62 |
 | Tamil - Lifestyle | 4 |
 | Tamil - Infotainment | 12 |
-| Tamil - General | 228 |
+| Tamil - General | 229 |
 | Sports - Star Sports - Tamil | 6 |
 | Sports - Star Sports - English | 15 |
 | Sports - Sony Sports - Tamil | 6 |
-| Sports - Sony Sports - English | 23 |
+| Sports - Sony Sports - English | 22 |
 | Sports - FanCode - English | 2 |
 | Sports - Willow - English | 7 |
 | Sports - Ten Sports - English | 1 |
@@ -33,33 +33,31 @@ Generated 2026-11-25T14:29:18.681Z by `scripts/curate-live.mjs` — do not edit 
 | Source | Streams |
 |---|---:|
 | TWC Tamil | 204 |
-| Tamil World | 104 |
-| JTV DRM | 98 |
-| Tamil Player | 78 |
-| JioTV+ 20 | 61 |
+| JioTV proxy | 104 |
+| Tamil World | 102 |
+| JTV DRM | 84 |
+| JioTV+ 32 | 64 |
+| Tamil Player | 61 |
 | Tamil Local | 45 |
-| JioTV+ | 37 |
-| SmartIPTV Jio | 30 |
+| SmartIPTV Jio | 16 |
 | Pavish TV | 14 |
-| JioTV+ 28 | 13 |
 | Special | 10 |
-| JioTV+ 32 | 9 |
+| JioTV+ | 9 |
 | Sports IPTV | 7 |
 | Jo/Zoh | 6 |
 | Sportlink-wtf/Sports | 6 |
-| Jo/Zohplx | 5 |
 | Jo/Zoh2 | 3 |
 | Kirubanandem | 2 |
-| SonyLIV 3 | 1 |
+| Jo/Zohplx | 1 |
 | Sportlink-wtf/Sport | 1 |
 
 ## Channels (alternate streams of the same brand may repeat)
 
-### Tamil - Entertainment (186)
+### Tamil - Entertainment (188)
 
 - Aadhavan Tamil TV [TamilStream] [HLS · Tamil Local]
-- Aaryaa TV [HLS · JioTV+]
-- Aaryaa TV [HLS · ClearKey · JioTV+ 28]
+- Aaryaa TV [HLS · JioTV proxy]
+- Aaryaa TV [DASH · JioTV+ 32]
 - Aaryaa TV [DASH · ClearKey · JTV DRM]
 - Aaryaa TV (Cloud7) [HLS · Tamil Local]
 - Aathavan TV (720p) [DASH · Tamil World]
@@ -70,63 +68,63 @@ Generated 2026-11-25T14:29:18.681Z by `scripts/curate-live.mjs` — do not edit 
 - Asia TV (720p) [HLS · Tamil World]
 - ASTRO Vaanavil [DASH · TWC Tamil]
 - ATHAVAN TV [Tamil Player]
-- Bhagyam TV [HLS · JioTV+]
-- Bhagyam TV [HLS · ClearKey · JioTV+ 28]
+- Bhagyam TV [HLS · JioTV proxy]
+- Bhagyam TV [DASH · JioTV+ 32]
 - Bhagyam TV [DASH · ClearKey · JTV DRM]
 - Blessing TV Tamil (720p) [HLS · Special]
 - Blue Moon TV [HLS · Tamil Local]
 - CAPTAIN TV [Tamil Player]
-- Colors Tamil [DASH · ClearKey · JTV DRM]
-- Colors Tamil HD [DASH · ClearKey · JTV DRM]
+- Colors Tamil [DASH · ClearKey · JioTV proxy]
+- Colors Tamil HD [DASH · ClearKey · JioTV proxy]
 - COLORS Tamil HD [DASH · TWC Tamil]
 - COLORS TAMIL USA [Tamil Player]
-- D Tamil [HLS · SmartIPTV Jio]
+- D Tamil [DASH · JioTV+ 32]
+- D Tamil [DASH · ClearKey · JioTV proxy]
 - D Tamil [DASH · ClearKey · JTV DRM]
-- D Tamil [DASH · ClearKey · JioTV+ 20]
 - DD Podhigai [HLS · Special]
 - DD PODHIGAI [Tamil Player]
 - DD Tamil (1080p) [HLS · Pavish TV]
 - DD Tamil (576p) [HLS · Tamil World]
 - DD Tamil HD (1080p) [HLS · Tamil World]
-- DD5 Podhigai [HLS · SmartIPTV Jio]
+- DD5 Podhigai [DASH · JioTV+ 32]
+- DD5 Podhigai [DASH · ClearKey · JioTV proxy]
 - DD5 Podhigai [DASH · ClearKey · JTV DRM]
-- DD5 Podhigai [DASH · ClearKey · JioTV+ 20]
-- Dharsan TV [HLS · JioTV+]
-- Dharsan TV [HLS · ClearKey · JioTV+ 28]
+- Dharsan TV [HLS · JioTV proxy]
+- Dharsan TV [DASH · JioTV+ 32]
 - Dharsan TV [DASH · ClearKey · JTV DRM]
 - Dheeran TV (576p) [HLS · Tamil World]
 - IBC Tamil (1080p) [HLS · Tamil World]
 - Imai TV [HLS · Tamil Local]
 - Imai TV (1080p) [HLS · Pavish TV]
 - Imai TV (576i) [HLS · Tamil World]
+- Jaya Plus [DASH · JioTV+ 32]
+- Jaya Plus [DASH · ClearKey · JioTV proxy]
 - Jaya Plus [DASH · ClearKey · JTV DRM]
-- Jaya Plus [DASH · ClearKey · JioTV+ 20]
-- JAYA PLUS [Tamil Player]
 - JAYA PLUS US [Tamil Player]
+- Jaya TV HD [DASH · JioTV+ 32]
+- Jaya TV HD [DASH · ClearKey · JioTV proxy]
 - Jaya TV HD [DASH · ClearKey · JTV DRM]
-- Jaya TV HD [DASH · ClearKey · JioTV+ 20]
-- JAYA TV HD [Tamil Player]
 - JAYA TV UK [Tamil Player]
 - JAYA TV US [Tamil Player]
+- Jothi TV [DASH · JioTV+ 32]
+- Jothi TV [DASH · ClearKey · JioTV proxy]
 - Jothi TV [DASH · ClearKey · JTV DRM]
-- Jothi TV [DASH · ClearKey · JioTV+ 20]
-- Jothi TV [DASH · ClearKey · JioTV+]
 - JR Malar TV [HLS · TWC Tamil]
 - JR Malar TV [HLS · Tamil Local]
 - KALAIGNAR MURASU [Tamil Player]
 - Kalaignar Murasu (396p) [HLS · Tamil World]
+- Kalaignar TV [DASH · JioTV+ 32]
+- Kalaignar TV [DASH · ClearKey · JioTV proxy]
 - Kalaignar TV [DASH · ClearKey · JTV DRM]
-- Kalaignar TV [DASH · ClearKey · JioTV+ 20]
-- Kalaignar TV [DASH · ClearKey · JioTV+]
 - kalaignar tv (source 1) [HLS · Tamil Player]
 - KALAIGNAR TV NEWS [Tamil Player]
 - Maalai Murasu TV(Not 24*7) [HLS · Kirubanandem]
+- Madhimugam TV [DASH · ClearKey · JioTV proxy]
 - Madhimugam TV [DASH · ClearKey · JTV DRM]
-- Madhimugam TV [DASH · ClearKey · JioTV+ 20]
 - Madhimugam TV (576p) [HLS · Tamil World]
+- Makkal TV [DASH · JioTV+ 32]
+- Makkal TV [DASH · ClearKey · JioTV proxy]
 - Makkal TV [DASH · ClearKey · JTV DRM]
-- Makkal TV [DASH · ClearKey · JioTV+ 20]
-- MAKKAL TV [Tamil Player]
 - Makkal TV (576i) [HLS · Tamil World]
 - Malai Murasu TV (1080p) [HLS · Pavish TV]
 - Malai Murasu TV (576p) [HLS · Tamil World]
@@ -137,9 +135,9 @@ Generated 2026-11-25T14:29:18.681Z by `scripts/curate-live.mjs` — do not edit 
 - Mei Alai TV (576p) [HLS · Tamil World]
 - MK TV [HLS · SmartIPTV Jio]
 - Monara TV (720p) [HLS · Tamil World]
+- Moon TV [DASH · JioTV+ 32]
+- Moon TV [DASH · ClearKey · JioTV proxy]
 - Moon TV [DASH · ClearKey · JTV DRM]
-- Moon TV [DASH · ClearKey · JioTV+ 20]
-- Moon TV [DASH · ClearKey · JioTV+]
 - Murasu TV [HLS · Kirubanandem]
 - murasu tv (source 1) [HLS · Tamil Player]
 - NDTV LANKA (1080p) [HLS · Tamil World]
@@ -147,18 +145,18 @@ Generated 2026-11-25T14:29:18.681Z by `scripts/curate-live.mjs` — do not edit 
 - Nithya Velicham TV [HLS · Tamil Local]
 - Okey (1080p) [HLS · Tamil World]
 - Oli TV (India) (1080p) [HLS · Tamil World]
+- Polimer TV [DASH · JioTV+ 32]
+- Polimer TV [DASH · ClearKey · JioTV proxy]
 - Polimer TV [DASH · ClearKey · JTV DRM]
-- Polimer TV [DASH · ClearKey · JioTV+ 28]
-- POLIMER TV [Tamil Player]
 - Pothigai Thendral [HLS · TWC Tamil]
 - Pothigai Thendral [HLS · Tamil Local]
-- Puthu Yugam [HLS · SmartIPTV Jio]
+- Puthu Yugam [DASH · JioTV+ 32]
+- Puthu Yugam [DASH · ClearKey · JioTV proxy]
 - Puthu Yugam [DASH · ClearKey · JTV DRM]
-- Puthu Yugam [DASH · ClearKey · JioTV+ 20]
 - Puthuyugam TV (576p) [HLS · Tamil World]
+- Raj TV [DASH · JioTV+ 32]
+- Raj TV [DASH · ClearKey · JioTV proxy]
 - Raj TV [DASH · ClearKey · JTV DRM]
-- Raj TV [DASH · ClearKey · JioTV+ 20]
-- RAJ TV [Tamil Player]
 - RAJ TV US [Tamil Player]
 - Sana TV (1080p) [HLS · Tamil World]
 - SANKARA TV [Tamil Player]
@@ -176,18 +174,19 @@ Generated 2026-11-25T14:29:18.681Z by `scripts/curate-live.mjs` — do not edit 
 - Sooriyan TV (1080p) [HLS · Tamil World]
 - Sooriyan TV Cinema [HLS · Tamil Local]
 - Sri Vasanth TV [HLS · Tamil Local]
-- STAR VIJAY 4K [Tamil Player]
+- Star Vijay [DASH · ClearKey · JioTV proxy]
+- Star Vijay HD [DASH · ClearKey · JioTV proxy]
 - Star Vijay HD [DASH · ClearKey · JTV DRM]
-- Star Vijay HD [DASH · ClearKey · JioTV+ 20]
+- Star Vijay Super [DASH · ClearKey · JioTV proxy]
 - Star Vijay UK (396p) [HLS · Tamil World]
 - Subin TV (1080p) [HLS · Tamil World]
 - Sun Life [DASH · JioTV+ 32]
+- Sun Life [DASH · ClearKey · JioTV proxy]
 - Sun Life [DASH · ClearKey · JTV DRM]
-- Sun Life [DASH · ClearKey · JioTV+ 20]
 - SUN LIFE TAMIL [Tamil Player]
 - SUN TV CA [Tamil Player]
 - Sun TV HD [DASH · TWC Tamil]
-- Sun TV HD [DASH · JioTV+ 32]
+- Sun TV HD [DASH · ClearKey · JioTV proxy]
 - Sun TV HD [DASH · ClearKey · JTV DRM]
 - SUN TV HD [DOLBY AUDIO] [DASH · ClearKey · TWC Tamil]
 - SUN TV UK [Tamil Player]
@@ -195,25 +194,25 @@ Generated 2026-11-25T14:29:18.681Z by `scripts/curate-live.mjs` — do not edit 
 - Suriya TV (1080p) [HLS · Tamil World]
 - TAM TV [HLS · Tamil World]
 - Tamil Entertainment Television (1080p) [HLS · Pavish TV]
+- Tamil Janam [DASH · JioTV+ 32]
+- Tamil Janam [DASH · ClearKey · JioTV proxy]
 - Tamil Janam [DASH · ClearKey · JTV DRM]
-- Tamil Janam [DASH · ClearKey · JioTV+ 20]
-- Tamil Janam [DASH · ClearKey · JioTV+]
 - Tamil Vision International [HLS · Tamil Local]
 - Tamilan TV (1080p) [HLS · Pavish TV]
 - Tamilan TV (576p) [HLS · Tamil World]
 - Thangam TV [HLS · Tamil Local]
 - TV2 (Malaysia) (1080p) [HLS · Tamil World]
-- Ultimate TV [HLS · JioTV+]
-- Ultimate TV [HLS · ClearKey · JioTV+ 28]
+- Ultimate TV [HLS · JioTV proxy]
+- Ultimate TV [DASH · JioTV+ 32]
 - Ultimate TV [DASH · ClearKey · JTV DRM]
 - V Tamil [HLS · Tamil Local]
 - V Tamil [NOTV] [HLS · Tamil Local]
 - V Tamil [VK Digital] [HLS · Tamil Local]
+- Vaanavil TV [DASH · JioTV+ 32]
+- Vaanavil TV [DASH · ClearKey · JioTV proxy]
 - Vaanavil TV [DASH · ClearKey · JTV DRM]
-- Vaanavil TV [DASH · ClearKey · JioTV+ 20]
-- VAANAVIL TV [Tamil Player]
+- Vasanth TV [DASH · ClearKey · JioTV proxy]
 - Vasanth TV [DASH · ClearKey · JTV DRM]
-- Vasanth TV [DASH · ClearKey · JioTV+ 20]
 - Vasanth TV (576p) [HLS · Tamil World]
 - Vasantham [HLS · Pavish TV]
 - Vasantham [DASH · TWC Tamil]
@@ -221,101 +220,102 @@ Generated 2026-11-25T14:29:18.681Z by `scripts/curate-live.mjs` — do not edit 
 - Vasantham TV [HLS · TWC Tamil]
 - Vasantham TV (720p) [Pavish TV]
 - Velicham (360p) [HLS · Special]
+- Velicham Tv [DASH · JioTV+ 32]
+- Velicham Tv [DASH · ClearKey · JioTV proxy]
 - Velicham Tv [DASH · ClearKey · JTV DRM]
-- Velicham Tv [DASH · ClearKey · JioTV+ 20]
-- Velicham Tv [DASH · ClearKey · JioTV+]
+- Vendhar TV [DASH · ClearKey · JioTV proxy]
 - Vendhar TV [DASH · ClearKey · JTV DRM]
-- Vendhar TV [DASH · ClearKey · JioTV+ 20]
 - Vendhar TV (576p) [HLS · Tamil World]
 - Vijay Super [DASH · ClearKey · JTV DRM]
+- Vijay Super HD [DASH · ClearKey · JioTV proxy]
 - Vijay Super HD [DASH · ClearKey · JTV DRM]
-- Vijay Super HD [DASH · ClearKey · JioTV+ 20]
+- Vijay Takkar [DASH · JioTV+ 32]
+- Vijay Takkar [DASH · ClearKey · JioTV proxy]
 - Vijay Takkar [DASH · ClearKey · JTV DRM]
-- Vijay Takkar [DASH · ClearKey · JioTV+ 20]
 - Vijay Takkar APAC (1080p) [DASH · Tamil World]
+- Win TV [DASH · JioTV+ 32]
+- Win TV [DASH · ClearKey · JioTV proxy]
 - Win TV [DASH · ClearKey · JTV DRM]
-- Win TV [DASH · ClearKey · JioTV+ 20]
-- Win TV (576p) [HLS · Tamil World]
-- Zee Tamil [DASH · ClearKey · JTV DRM]
+- Zee Tamil [DASH · ClearKey · JioTV proxy]
 - ZEE TAMIL CA [Tamil Player]
 - Zee Tamil HD [DASH · TWC Tamil]
-- Zee Tamil HD [DASH · ClearKey · JTV DRM]
+- Zee Tamil HD [DASH · ClearKey · JioTV proxy]
 - ZEE TAMIL HD TAMIL [Tamil Player]
 - Zee Tamil News (720p) [HLS · Pavish TV]
 - ZEE TAMIL US [Tamil Player]
 
-### Tamil - News (61)
+### Tamil - News (62)
 
 - Asianet News Tamil (360p) [HLS · Special]
 - Berita RTM (1080p) [HLS · Tamil World]
 - Gem TV (720p) [HLS · Tamil World]
 - JJ News Tamil [HLS · TWC Tamil]
 - JJ News Tamil [HLS · Tamil Local]
+- Kalaignar Seithigal [DASH · JioTV+ 32]
+- Kalaignar Seithigal [DASH · ClearKey · JioTV proxy]
 - Kalaignar Seithigal [DASH · ClearKey · JTV DRM]
-- Kalaignar Seithigal [DASH · ClearKey · JioTV+ 20]
-- Kalaignar Seithigal [DASH · ClearKey · JioTV+]
 - M Nadu [HLS · SmartIPTV Jio]
 - M Nadu TV (576p) [HLS · Tamil World]
 - Malai Murasu [HLS · SmartIPTV Jio]
 - MALAI MURASU [Tamil Player]
 - MALAI MURASU SETHIGAL [Tamil Player]
+- Malaimurasu Seithigal [DASH · JioTV+ 32]
+- Malaimurasu Seithigal [DASH · ClearKey · JioTV proxy]
 - Malaimurasu Seithigal [DASH · ClearKey · JTV DRM]
-- Malaimurasu Seithigal [DASH · ClearKey · JioTV+ 20]
+- MK Six [DASH · JioTV+ 32]
+- MK Six [DASH · ClearKey · JioTV proxy]
 - MK Six [DASH · ClearKey · JTV DRM]
-- MK Six [DASH · ClearKey · JioTV+ 20]
-- MK Six [DASH · ClearKey · JioTV+]
-- NEWS 7 TAMIL [Tamil Player]
 - News 80 Tamil [HLS · Tamil Local]
+- News J [DASH · JioTV+ 32]
+- News J [DASH · ClearKey · JioTV proxy]
 - News J [DASH · ClearKey · JTV DRM]
-- News J [DASH · ClearKey · JioTV+ 20]
-- News J [DASH · ClearKey · JioTV+]
+- News Tamil 24x7 [DASH · JioTV+ 32]
+- News Tamil 24x7 [DASH · ClearKey · JioTV proxy]
 - News Tamil 24x7 [DASH · ClearKey · JTV DRM]
-- News Tamil 24x7 [DASH · ClearKey · JioTV+ 20]
-- News Tamil 24x7 [DASH · ClearKey · JioTV+]
 - News18 Tamil nadu [DASH · ClearKey · JTV DRM]
-- News18 Tamil nadu [DASH · ClearKey · JioTV+ 20]
+- News18 Tamil Nadu. [HLS · JioTV proxy]
 - News18 Tamil Nadu. [DASH · ClearKey · JTV DRM]
+- News7 Tamil [DASH · JioTV+ 32]
+- News7 Tamil [DASH · ClearKey · JioTV proxy]
 - News7 Tamil [DASH · ClearKey · JTV DRM]
-- News7 Tamil [DASH · ClearKey · JioTV+ 28]
+- Polimer News [DASH · JioTV+ 32]
+- Polimer News [DASH · ClearKey · JioTV proxy]
 - Polimer News [DASH · ClearKey · JTV DRM]
-- Polimer News [DASH · ClearKey · JioTV+ 20]
-- POLIMER NEWS [Tamil Player]
 - Puthiya Thalaimurai [HLS · TWC Tamil]
 - Puthiya Thalaimurai (576p) [HLS · Tamil World]
 - Puthiya Thalaimurai (576p) [HLS · Pavish TV]
 - Puthiya Thalaimurai Express (720p) [HLS · Tamil World]
+- Puthiya Thalimurai [DASH · JioTV+ 32]
+- Puthiya Thalimurai [DASH · ClearKey · JioTV proxy]
 - Puthiya Thalimurai [DASH · ClearKey · JTV DRM]
-- Puthiya Thalimurai [DASH · ClearKey · JioTV+ 28]
-- PUTHIYA THALIMURAI [Tamil Player]
-- Raj News 24x7 [HLS · SmartIPTV Jio]
+- Raj News 24x7 [DASH · JioTV+ 32]
+- Raj News 24x7 [DASH · ClearKey · JioTV proxy]
 - Raj News 24x7 [DASH · ClearKey · JTV DRM]
-- Raj News 24x7 [DASH · ClearKey · JioTV+ 28]
 - RAJ NEWS TAMIL [Tamil Player]
+- Sathiyam TV [DASH · JioTV+ 32]
+- Sathiyam TV [DASH · ClearKey · JioTV proxy]
 - Sathiyam TV [DASH · ClearKey · JTV DRM]
-- Sathiyam TV [DASH · ClearKey · JioTV+ 20]
-- SATHIYAM TV [Tamil Player]
 - Sun News [DASH · JioTV+ 32]
+- Sun News [DASH · ClearKey · JioTV proxy]
 - Sun News [DASH · ClearKey · JTV DRM]
-- Sun News [DASH · ClearKey · JioTV+ 20]
 - SUN NEWS TAMIL [Tamil Player]
 - SUN NEWS US [Tamil Player]
 - Tamilan Television [HLS · SmartIPTV Jio]
-- Thanthi One [DASH · JioTV+]
+- Thanthi One [DASH · JioTV+ 32]
+- Thanthi One [DASH · ClearKey · JioTV proxy]
 - Thanthi One [DASH · ClearKey · JTV DRM]
-- Thanthi One [DASH · ClearKey · JioTV+ 28]
+- Thanthi TV [DASH · JioTV+ 32]
+- Thanthi TV [DASH · ClearKey · JioTV proxy]
 - Thanthi TV [DASH · ClearKey · JTV DRM]
-- Thanthi TV [DASH · ClearKey · JioTV+ 28]
-- THANTHI TV [Tamil Player]
 - Thanthi TV (396p) [HLS · Special]
 
-### Tamil - Movies (36)
+### Tamil - Movies (38)
 
+- J Movies [DASH · JioTV+ 32]
+- J Movies [DASH · ClearKey · JioTV proxy]
 - J Movies [DASH · ClearKey · JTV DRM]
-- J Movies [DASH · ClearKey · JioTV+ 20]
-- J MOVIES [Tamil Player]
 - JAYA MOVIE [Tamil Player]
 - KALAIGNAR CHITHIRAM [Tamil Player]
-- KTV [DASH · JioTV+ 32]
 - KTV (Indonesia) (720p) [HLS · Tamil World]
 - KTV (South Korea) (1080p) [HLS · Tamil World]
 - KTV (Uganda) (1080p) [HLS · Tamil World]
@@ -325,25 +325,28 @@ Generated 2026-11-25T14:29:18.681Z by `scripts/curate-live.mjs` — do not edit 
 - KTV Arabe (1080p) [HLS · Tamil World]
 - KTV Ethraa (1080p) [HLS · Tamil World]
 - KTV HD [DASH · TWC Tamil]
+- KTV HD [DASH · ClearKey · JioTV proxy]
 - KTV HD [DASH · ClearKey · JTV DRM]
 - KTV News (1080p) [HLS · Tamil World]
 - KTV Sport (1080p) [HLS · Tamil World]
 - KTV Sport Plus (1080p) [HLS · Tamil World]
 - Max Movies [HLS · TWC Tamil]
+- Raj Digital Plus [DASH · JioTV+ 32]
+- Raj Digital Plus [DASH · ClearKey · JioTV proxy]
 - Raj Digital Plus [DASH · ClearKey · JTV DRM]
-- Raj Digital Plus [DASH · ClearKey · JioTV+ 20]
-- RAJ DIGITAL PLUS [Tamil Player]
 - RAJ DIGITAL PLUS UK [Tamil Player]
 - RAJ DIGITAL PLUS US [Tamil Player]
 - Roja Movies [HLS · JioTV+]
 - Roja Movies [HLS · TWC Tamil]
+- Sony Vizha HD [DASH · JioTV+ 32]
+- Sony Vizha HD [DASH · ClearKey · JioTV proxy]
 - Star Tamil Television (360p) [HLS · Tamil World]
 - Suriyan TV (576p) [HLS · Tamil World]
 - Thalaa TV (1080p) [HLS · Tamil World]
 - Tharun Movies [HLS · TWC Tamil]
 - Zee Thirai [DASH · Tamil Player]
 - Zee Thirai [DASH · TWC Tamil]
-- Zee Thirai HD [DASH · ClearKey · JTV DRM]
+- Zee Thirai HD [DASH · ClearKey · JioTV proxy]
 - ZEE THIRAI TV [Tamil Player]
 - ZEE THIRAI USA [Tamil Player]
 
@@ -358,9 +361,9 @@ Generated 2026-11-25T14:29:18.681Z by `scripts/curate-live.mjs` — do not edit 
 - G Music [HLS · TWC Tamil]
 - isai aruvi (source 1) [HLS · Tamil Player]
 - Isai Aruvi 1 [HLS · TWC Tamil]
+- Jaya Max [DASH · JioTV+ 32]
+- Jaya Max [DASH · ClearKey · JioTV proxy]
 - Jaya Max [DASH · ClearKey · JTV DRM]
-- Jaya Max [DASH · ClearKey · JioTV+ 20]
-- JAYA MAX [Tamil Player]
 - JAYA MAX UK [Tamil Player]
 - JAYA MAX US [Tamil Player]
 - KALAIGNAR ISAI ARUVI [Tamil Player]
@@ -368,65 +371,65 @@ Generated 2026-11-25T14:29:18.681Z by `scripts/curate-live.mjs` — do not edit 
 - MEGA MUSIC [Tamil Player]
 - MK Music [HLS · SmartIPTV Jio]
 - MN Music [HLS · TWC Tamil]
-- Peppers TV [HLS · SmartIPTV Jio]
+- Peppers TV [DASH · JioTV+ 32]
+- Peppers TV [DASH · ClearKey · JioTV proxy]
 - Peppers TV [DASH · ClearKey · JTV DRM]
-- Peppers TV [DASH · ClearKey · JioTV+ 20]
 - Peppers TV (751p) [HLS · Tamil World]
 - Peppers TV (751p) [HLS · Pavish TV]
-- Raj Musix [HLS · SmartIPTV Jio]
+- Raj Musix [DASH · JioTV+ 32]
+- Raj Musix [DASH · ClearKey · JioTV proxy]
 - Raj Musix [DASH · ClearKey · JTV DRM]
-- Raj Musix [DASH · ClearKey · JioTV+ 20]
 - Raj Musix Tamil (1080p) [HLS · Tamil World]
-- Roja TV [HLS · JioTV+]
-- Roja TV [HLS · ClearKey · JioTV+ 28]
+- Roja TV [HLS · JioTV proxy]
+- Roja TV [DASH · JioTV+ 32]
 - Roja TV [DASH · ClearKey · JTV DRM]
 - Sachin Music [MPD] [DASH · TWC Tamil]
 - Sana Plus (1080p) [HLS · Tamil World]
 - SS Music [HLS · TWC Tamil]
 - Sun Music [DASH · TWC Tamil]
-- Sun Music HD [DASH · JioTV+ 32]
+- Sun Music HD [DASH · ClearKey · JioTV proxy]
 - Sun Music HD [DASH · ClearKey · JTV DRM]
+- Tunes 6 [DASH · JioTV+ 32]
+- Tunes 6 [DASH · ClearKey · JioTV proxy]
 - Tunes 6 [DASH · ClearKey · JTV DRM]
-- Tunes 6 [DASH · ClearKey · JioTV+ 20]
-- Tunes 6 (720p) [HLS · Tamil World]
 - Tunes 6 Music [HLS · Tamil Local]
 
 ### Tamil - Kids (30)
 
-- Cartoon Network HD+ Tamil [DASH · ClearKey · JTV DRM]
+- Cartoon Network HD+ Tamil [DASH · ClearKey · JioTV proxy]
+- Cartoon Network Tamil [DASH · ClearKey · JioTV proxy]
 - Cartoon Network Tamil [DASH · ClearKey · JTV DRM]
-- Cartoon Network Tamil [DASH · ClearKey · JioTV+ 20]
 - Chintu TV [DASH · JioTV+ 32]
+- Chintu TV [DASH · ClearKey · JioTV proxy]
 - Chintu TV [DASH · ClearKey · JTV DRM]
-- Chintu TV [DASH · ClearKey · JioTV+ 20]
 - Chithiram (576p) [HLS · Tamil World]
 - Chithiram (576p) [HLS · Pavish TV]
 - Chutti TV [DASH · JioTV+ 32]
+- Chutti TV [DASH · ClearKey · JioTV proxy]
 - Chutti TV [DASH · ClearKey · JTV DRM]
-- Chutti TV [DASH · ClearKey · JioTV+ 20]
 - CN HD+ Tamil [HLS · SmartIPTV Jio]
+- Discovery Kids Tamil [DASH · JioTV+ 32]
+- Discovery Kids Tamil [DASH · ClearKey · JioTV proxy]
 - Discovery Kids Tamil [DASH · ClearKey · JTV DRM]
-- Discovery Kids Tamil [DASH · ClearKey · JioTV+ 20]
-- Discovery Kids Tamil [DASH · ClearKey · JioTV+]
+- Nick Tamil [DASH · JioTV+ 32]
+- Nick Tamil [DASH · ClearKey · JioTV proxy]
 - Nick Tamil [DASH · ClearKey · JTV DRM]
-- Nick Tamil [DASH · ClearKey · JioTV+ 20]
-- Nick Tamil [DASH · ClearKey · JioTV+]
+- Pogo Tamil [DASH · JioTV+ 32]
+- Pogo Tamil [DASH · ClearKey · JioTV proxy]
 - Pogo Tamil [DASH · ClearKey · JTV DRM]
-- Pogo Tamil [DASH · ClearKey · JioTV+ 20]
-- Pogo Tamil [DASH · ClearKey · JioTV+]
+- sonic Tamil [DASH · JioTV+ 32]
+- sonic Tamil [DASH · ClearKey · JioTV proxy]
 - sonic Tamil [DASH · ClearKey · JTV DRM]
-- sonic Tamil [DASH · ClearKey · JioTV+ 20]
-- sonic Tamil [DASH · ClearKey · JioTV+]
+- Sony Yay Tamil [DASH · JioTV+ 32]
+- Sony Yay Tamil [DASH · ClearKey · JioTV proxy]
 - Sony Yay Tamil [DASH · ClearKey · JTV DRM]
-- Sony Yay Tamil [DASH · ClearKey · JioTV+ 20]
-- Sony Yay Tamil [DASH · ClearKey · JioTV+]
 - Sony Yay! (1080p) [HLS · Tamil World]
 - WOW Kidz (720p) [HLS · Tamil World]
 - WOW Kidz Tamil (720p) [HLS · Tamil World]
 
 ### Tamil - Comedy (8)
 
-- Adithya TV [DASH · JioTV+ 32]
+- Adithya TV [DASH · ClearKey · JioTV proxy]
 - Adithya TV [DASH · ClearKey · JTV DRM]
 - ADITHYA TV [DASH · TWC Tamil]
 - Eye Tamil Comedy [HLS · Tamil Local]
@@ -447,9 +450,9 @@ Generated 2026-11-25T14:29:18.681Z by `scripts/curate-live.mjs` — do not edit 
 - Angel TV Chinese (720p) [HLS · Tamil World]
 - Angel TV Europe (720p) [HLS · Tamil World]
 - Angel TV FarEast (720p) [HLS · Tamil World]
+- Angel TV HD [DASH · JioTV+ 32]
+- Angel TV HD [DASH · ClearKey · JioTV proxy]
 - Angel TV HD [DASH · ClearKey · JTV DRM]
-- Angel TV HD [DASH · ClearKey · JioTV+ 20]
-- ANGEL TV HD [Tamil Player]
 - Angel TV Hebrew (720p) [HLS · Tamil World]
 - Angel TV India (720p) [HLS · Special]
 - Angel TV Indo-China (720p) [HLS · Tamil World]
@@ -466,33 +469,33 @@ Generated 2026-11-25T14:29:18.681Z by `scripts/curate-live.mjs` — do not edit 
 - IBC Bakthi (1080p) [HLS · Tamil World]
 - Joy TV (1080p) [HLS · Tamil World]
 - Life TV (India) (720p) [HLS · Tamil World]
+- Madha TV [DASH · JioTV+ 32]
+- Madha TV [DASH · ClearKey · JioTV proxy]
 - Madha TV [DASH · ClearKey · JTV DRM]
-- Madha TV [DASH · ClearKey · JioTV+ 20]
-- Madha TV [DASH · ClearKey · JioTV+]
 - Madha TV (600p) [HLS · Special]
 - Mahimai TV (1080p) [HLS · Tamil World]
 - MTA6 Asia (1080p) [HLS · Tamil World]
 - MTA7 Asia (1080p) [HLS · Tamil World]
-- Nambikkai [HLS · SmartIPTV Jio]
+- Nambikkai [DASH · JioTV+ 32]
+- Nambikkai [DASH · ClearKey · JioTV proxy]
 - Nambikkai [DASH · ClearKey · JTV DRM]
-- Nambikkai [DASH · ClearKey · JioTV+ 20]
 - NAMBIKKAI TV [Tamil Player]
 - Nambikkai TV (576p) [HLS · Tamil World]
 - Nambikkai TV (576p) [HLS · Pavish TV]
 - Nijam TV (1080p) [HLS · Tamil World]
 - OM TV (576p) [HLS · Tamil World]
 - RadheKrishna TV [HLS · SmartIPTV Jio]
+- Sai TV [DASH · JioTV+ 32]
+- Sai TV [DASH · ClearKey · JioTV proxy]
 - Sai TV [DASH · ClearKey · JTV DRM]
-- Sai TV [DASH · ClearKey · JioTV+ 20]
-- SAI TV [Tamil Player]
 - Sai TV Madurai [DASH · Tamil Local]
 - Sai TV Madurai [NOTV] [HLS · Tamil Local]
 - Sairam TV (576p) [HLS · Tamil World]
 - Sivan Temple TV (720p) [HLS · Tamil World]
 - Sri Sai TV [HLS · Tamil Local]
-- Sri Sankara [HLS · SmartIPTV Jio]
+- Sri Sankara [DASH · JioTV+ 32]
+- Sri Sankara [DASH · ClearKey · JioTV proxy]
 - Sri Sankara [DASH · ClearKey · JTV DRM]
-- Sri Sankara [DASH · ClearKey · JioTV+ 20]
 - SRS Bhakti TV [HLS · SmartIPTV Jio]
 - Tamil Christian TV [HLS · Tamil Local]
 - Tamil Pirai TV [HLS · Tamil Local]
@@ -503,26 +506,26 @@ Generated 2026-11-25T14:29:18.681Z by `scripts/curate-live.mjs` — do not edit 
 ### Tamil - Lifestyle (4)
 
 - NDTV Good Times (1080p) [HLS · Tamil World]
-- Travelxp Tamil [HLS · SmartIPTV Jio]
+- Travelxp Tamil [DASH · JioTV+ 32]
+- Travelxp Tamil [DASH · ClearKey · JioTV proxy]
 - Travelxp Tamil [DASH · ClearKey · JTV DRM]
-- Travelxp Tamil [DASH · ClearKey · JioTV+ 20]
 
 ### Tamil - Infotainment (12)
 
+- Animal Planet HD Tamil [DASH · ClearKey · JioTV proxy]
 - Animal Planet HD Tamil [DASH · ClearKey · JTV DRM]
-- Animal Planet HD Tamil [DASH · ClearKey · JioTV+ 20]
-- Animal Planet Tamil [DASH · ClearKey · JTV DRM]
-- Discovery HD Tamil [DASH · ClearKey · JTV DRM]
+- Animal Planet Tamil [DASH · ClearKey · JioTV proxy]
+- Discovery HD Tamil [DASH · ClearKey · JioTV proxy]
+- Discovery Tamil [DASH · ClearKey · JioTV proxy]
 - Discovery Tamil [DASH · ClearKey · JTV DRM]
-- Discovery Tamil [DASH · ClearKey · JioTV+ 20]
+- History TV18 HD Tamil [DASH · JioTV+ 32]
+- History TV18 HD Tamil [DASH · ClearKey · JioTV proxy]
 - History TV18 HD Tamil [DASH · ClearKey · JTV DRM]
-- History TV18 HD Tamil [DASH · ClearKey · JioTV+ 20]
-- History TV18 HD Tamil [DASH · ClearKey · JioTV+]
+- Sony BBC Earth HD Tamil [DASH · JioTV+ 32]
+- Sony BBC Earth HD Tamil [DASH · ClearKey · JioTV proxy]
 - Sony BBC Earth HD Tamil [DASH · ClearKey · JTV DRM]
-- Sony BBC Earth HD Tamil [DASH · ClearKey · JioTV+ 20]
-- Sony BBC Earth HD Tamil [DASH · ClearKey · JioTV+]
 
-### Tamil - General (228)
+### Tamil - General (229)
 
 - 3 Star TV [HLS · TWC Tamil]
 - 7 Green 4K [HLS · TWC Tamil]
@@ -611,8 +614,9 @@ Generated 2026-11-25T14:29:18.681Z by `scripts/curate-live.mjs` — do not edit 
 - Leaf TV [HLS · TWC Tamil]
 - Leo TV [HLS · TWC Tamil]
 - Like TV [HLS · TWC Tamil]
+- M Nadu [DASH · JioTV+ 32]
+- M Nadu [DASH · ClearKey · JioTV proxy]
 - M Nadu [DASH · ClearKey · JTV DRM]
-- M Nadu [DASH · ClearKey · JioTV+ 20]
 - M Television [HLS · TWC Tamil]
 - Malathi TV [HLS · TWC Tamil]
 - Manasu TV [HLS · TWC Tamil]
@@ -652,9 +656,9 @@ Generated 2026-11-25T14:29:18.681Z by `scripts/curate-live.mjs` — do not edit 
 - PUTHYUGAM TV [Tamil Player]
 - QMax Plus [HLS · TWC Tamil]
 - Queens 143 [HLS · TWC Tamil]
+- RadheKrishna TV [DASH · JioTV+ 32]
+- RadheKrishna TV [DASH · ClearKey · JioTV proxy]
 - RadheKrishna TV [DASH · ClearKey · JTV DRM]
-- RadheKrishna TV [DASH · ClearKey · JioTV+ 20]
-- RadheKrishna TV [DASH · ClearKey · JioTV+]
 - Rainbow TV [HLS · TWC Tamil]
 - Rainbow TV TAMILNADU BY TWC [HLS · TWC Tamil]
 - Rio TV [HLS · TWC Tamil]
@@ -701,16 +705,16 @@ Generated 2026-11-25T14:29:18.681Z by `scripts/curate-live.mjs` — do not edit 
 - Suriya TV [HLS · JioTV+]
 - Suriyan TV [HLS · TWC Tamil]
 - T Tamil TV [HLS · Tamil Local]
+- Tamil Naaptol [DASH · JioTV+ 32]
+- Tamil Naaptol [DASH · ClearKey · JioTV proxy]
 - Tamil Naaptol [DASH · ClearKey · JTV DRM]
-- Tamil Naaptol [DASH · ClearKey · JioTV+ 20]
-- Tamil Naaptol [DASH · ClearKey · JioTV+]
 - Tamil Oli TV [HLS · TWC Tamil]
 - Tamil Oli TV [HLS · Tamil Local]
 - Tamil TV [HLS · TWC Tamil]
 - Tamil View Television [HLS · Tamil Local]
+- Tamilan Television [DASH · JioTV+ 32]
+- Tamilan Television [DASH · ClearKey · JioTV proxy]
 - Tamilan Television [DASH · ClearKey · JTV DRM]
-- Tamilan Television [DASH · ClearKey · JioTV+ 20]
-- Tamilan Television [DASH · ClearKey · JioTV+]
 - TAMILNADU BY TWC City [HLS · TWC Tamil]
 - TAMILNADU BY TWC TV [HLS · TWC Tamil]
 - Tamilnesan TV [HLS · TWC Tamil]
@@ -755,41 +759,41 @@ Generated 2026-11-25T14:29:18.681Z by `scripts/curate-live.mjs` — do not edit 
 
 ### Sports - Star Sports - Tamil (6)
 
-- Star Sports 1 Tamil [DASH · ClearKey · JTV DRM]
+- Star Sports 1 Tamil [DASH · ClearKey · JioTV proxy]
+- Star Sports 1 Tamil HD [DASH · ClearKey · JioTV proxy]
 - Star Sports 1 Tamil HD [DASH · ClearKey · JTV DRM]
-- Star Sports 1 Tamil HD [DASH · ClearKey · Jo/Zohplx]
-- Star Sports 2 Tamil [DASH · ClearKey · JTV DRM]
+- Star Sports 2 Tamil [DASH · ClearKey · JioTV proxy]
+- Star Sports 2 Tamil HD [DASH · ClearKey · JioTV proxy]
 - Star Sports 2 Tamil HD [DASH · ClearKey · JTV DRM]
-- Star Sports 2 Tamil HD [DASH · ClearKey · Jo/Zohplx]
 
 ### Sports - Star Sports - English (15)
 
-- Star Sports 1 [DASH · ClearKey · JTV DRM]
+- Star Sports 1 [DASH · ClearKey · JioTV proxy]
 - STAR SPORTS 1 ENGLISH 4K* [HLS · Sportlink-wtf/Sports]
+- Star Sports 1 HD [DASH · ClearKey · JioTV proxy]
 - Star Sports 1 HD [DASH · ClearKey · JTV DRM]
-- Star Sports 1 HD [DASH · ClearKey · Jo/Zohplx]
-- Star Sports 2 [DASH · ClearKey · JTV DRM]
+- Star Sports 2 [DASH · ClearKey · JioTV proxy]
 - STAR SPORTS 2 ENGLISH 4K* [HLS · Sportlink-wtf/Sports]
+- Star Sports 2 HD [DASH · ClearKey · JioTV proxy]
 - Star Sports 2 HD [DASH · ClearKey · JTV DRM]
-- Star Sports 2 HD [DASH · ClearKey · Jo/Zohplx]
 - Star Sports 3 [DASH · ClearKey · Jo/Zohplx]
-- Star Sports Select 1 [DASH · ClearKey · JTV DRM]
+- Star Sports Select 1 [DASH · ClearKey · JioTV proxy]
+- Star Sports Select 1 HD [DASH · ClearKey · JioTV proxy]
 - Star Sports Select 1 HD [DASH · ClearKey · JTV DRM]
-- Star Sports Select 1 HD [DASH · ClearKey · JioTV+ 20]
-- Star Sports Select 2 [DASH · ClearKey · JTV DRM]
+- Star Sports Select 2 [DASH · ClearKey · JioTV proxy]
+- Star Sports Select 2 HD [DASH · ClearKey · JioTV proxy]
 - Star Sports Select 2 HD [DASH · ClearKey · JTV DRM]
-- Star Sports Select 2 HD [DASH · ClearKey · JioTV+ 20]
 
 ### Sports - Sony Sports - Tamil (6)
 
 - Sony LIV Sports 4 Tamil [DASH · JioTV+ 32]
+- Sony LIV Sports 4 Tamil [DASH · ClearKey · JioTV proxy]
 - Sony LIV Sports 4 Tamil [DASH · ClearKey · JTV DRM]
-- Sony LIV Sports 4 Tamil [DASH · ClearKey · JioTV+ 20]
-- Sony Ten 4 HD Tamil [HLS · SmartIPTV Jio]
-- Sony Ten 4 Tamil [HLS · SmartIPTV Jio]
+- Sony Ten 4 Tamil [DASH · JioTV+ 32]
+- Sony Ten 4 Tamil [DASH · ClearKey · JioTV proxy]
 - Sony Ten 4 Tamil [DASH · ClearKey · JioTV+]
 
-### Sports - Sony Sports - English (23)
+### Sports - Sony Sports - English (22)
 
 - [BD] Sony Ten Cricket [HLS · Sports IPTV]
 - [BD] Sony Ten Sports 1 HD [HLS · Sports IPTV]
@@ -803,17 +807,16 @@ Generated 2026-11-25T14:29:18.681Z by `scripts/curate-live.mjs` — do not edit 
 - Sony Sports Ten 5 [HLS · Jo/Zoh]
 - Sony Sports Ten 5 [HLS · Jo/Zoh2]
 - Sony Sports Ten 5 HD [HLS · Jo/Zoh]
-- Sony Ten 1 [DASH · ClearKey · JioTV+]
+- Sony Ten 1 [DASH · ClearKey · JioTV proxy]
+- Sony Ten 1 HD [DASH · ClearKey · JioTV proxy]
 - Sony Ten 1 HD [DASH · ClearKey · JTV DRM]
-- Sony Ten 1 HD [DASH · ClearKey · JioTV+ 28]
+- Sony Ten 2 [DASH · ClearKey · JioTV proxy]
+- Sony Ten 2 HD [DASH · ClearKey · JioTV proxy]
 - Sony Ten 2 HD [DASH · ClearKey · JTV DRM]
-- Sony Ten 2 HD [DASH · ClearKey · JioTV+ 28]
-- SONY TEN 2 HD [HLS · SmartIPTV Jio]
-- Sony Ten 5 [DASH · ClearKey · JioTV+]
-- SONY TEN 5 [HLS · SmartIPTV Jio]
-- SONY TEN 5 HD [HLS · SmartIPTV Jio]
+- Sony Ten 5 [DASH · ClearKey · JioTV proxy]
+- Sony Ten 5 HD [DASH · JioTV+ 32]
+- Sony Ten 5 HD [DASH · ClearKey · JioTV proxy]
 - SONY TEN Cricket [HLS · Sportlink-wtf/Sports]
-- Sporting CP vs Manchester United - 25 Nov 2026 [ENG] [HLS · SonyLIV 3]
 
 ### Sports - FanCode - English (2)
 
@@ -850,30 +853,29 @@ Generated 2026-11-25T14:29:18.681Z by `scripts/curate-live.mjs` — do not edit 
 
 | Source | Kind | Entries used |
 |---|---|---:|
-| saboorabd/Tamil-iptv-player | static | 78 |
-| snwebdev211-jpg/Tamil-World-IPTV | static | 104 |
+| JioTV proxy (hjh-545.pages.dev) | static | 111 |
+| saboorabd/Tamil-iptv-player | static | 61 |
+| snwebdev211-jpg/Tamil-World-IPTV | static | 102 |
 | arunnivas85/IPTV-Tamil | static | 204 |
-| SIDDXELCE/JTV1MPD | static | 104 |
+| SIDDXELCE/JTV1MPD | static | 90 |
 | amazeyourself/tamil-local-iptv | static | 45 |
 | Vishvakumar/pavish-family-tv | static | 14 |
-| 3DFM07/smartiptv-api-JioTv.m3u8 | static | 34 |
+| 3DFM07/smartiptv-api-JioTv.m3u8 | static | 20 |
 | iqbal8846/sports-iptv | static | 7 |
 | kirubanandem/iptv_playlist | static | 2 |
-| maybetv/Jo/Zoh2.m3u | github | 4 |
-| maybetv/Jo/Zoh.m3u | github | 12 |
-| maybetv/Jo/Zohplx.m3u | github | 5 |
-| sportlive18/Sportlink-wtf/Sports.m3u | github | 10 |
+| maybetv/Jo/Zoh2.m3u | github | 3 |
+| maybetv/Jo/Zoh.m3u | github | 14 |
+| maybetv/Jo/Zohplx.m3u | github | 1 |
+| sportlive18/Sportlink-wtf/Sports.m3u | github | 9 |
 | sportlive18/Sportlink-wtf/Sport.m3u | github | 1 |
-| JioTV+ 32 (jiotv_32) | pinned | 13 |
-| JioTV+ 20 (jiotv_20) | pinned | 66 |
-| JioTV+ 28 (jiotv_28) | pinned | 13 |
+| JioTV+ 32 (jiotv_32) | pinned | 68 |
+| JioTV+ 28 (jiotv_28) | pinned | 1 |
 | Special (special) | pinned | 12 |
-| Prime Sports 1 (prime_sports_one) | pinned | 1 |
-| JioTV+ (jiotv) | discovered | 37 |
+| Prime Sports 1 (prime_sports_one) | pinned | 3 |
+| JioTV+ (jiotv) | discovered | 9 |
 | JioTV+ 24 (jiotv_24) | discovered | 0 |
-| SonyLIV 3 (sonyliv_three) | discovered | 1 |
-| Fancode 5 (fancode_five) | discovered | 3 |
+| Fancode 5 (fancode_five) | discovered | 1 |
 
-Sources that returned nothing this run: 16 of 63. See `jash-live.stats.json`.
+Sources that returned nothing this run: 23 of 63. See `jash-live.stats.json`.
 
 Playback was **not** verified: entries carry upstream playback properties unchanged, and a stream may still need a compatible player, legitimate access or region availability.
