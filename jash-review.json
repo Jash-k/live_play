@@ -1,5 +1,15 @@
 [
   {
+    "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
     "name": "DD Sports",
     "family": "DD Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -14,23 +24,23 @@
     "family": "DD Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
       "origin": "static"
     }
   },
   {
-    "name": "DD Sports",
+    "name": "DD Sports HD",
     "family": "DD Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "siddxelce_jtv1mpd",
-      "label": "SIDDXELCE/JTV1MPD",
-      "origin": "static"
+      "key": "sportlive18_Sportlink-wtf__Sports.m3u",
+      "label": "sportlive18/Sportlink-wtf/Sports.m3u",
+      "origin": "github"
     }
   },
   {
-    "name": "Dordt University at Columbia College",
+    "name": "ECHL Hockey: Idaho Steelheads vs Tahoe Knight Monsters",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -40,7 +50,7 @@
     }
   },
   {
-    "name": "ECHL Hockey: Norfolk Admirals vs Greensboro Gargoyles",
+    "name": "FIM MiniGP-2026 FIM MotoMini World Final",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -50,7 +60,47 @@
     }
   },
   {
-    "name": "Inter vs. Stuttgart",
+    "name": "Gangwon Fc Vs Kitchee Sc",
+    "family": "FanCode",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "fancode_five",
+      "label": "Fancode 5 (fancode_five)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Kuching City Fc Vs Phnom Penh Crown",
+    "family": "FanCode",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "fancode_five",
+      "label": "Fancode 5 (fancode_five)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "LIVE: BMW Australian PGA Championship Day 1",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Melbourne Stars Women Vs Sydney Sixers Women",
+    "family": "FanCode",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "fancode_five",
+      "label": "Fancode 5 (fancode_five)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Pacific vs. Jacksonville State",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -70,12 +120,12 @@
     }
   },
   {
-    "name": "Predator Pro Billiard Series: San Antonio",
-    "family": "Prime Sports",
+    "name": "Royal Oman Stallions Vs Mustafa Fragrance House Strikers",
+    "family": "FanCode",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
+      "key": "fancode_five",
+      "label": "Fancode 5 (fancode_five)",
       "origin": "index"
     }
   },
@@ -94,8 +144,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
       "origin": "static"
     }
   },
@@ -104,9 +154,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "siddxelce_jtv1mpd",
-      "label": "SIDDXELCE/JTV1MPD",
-      "origin": "static"
+      "key": "jiotv_20",
+      "label": "JioTV+ 20 (jiotv_20)",
+      "origin": "index"
     }
   },
   {
@@ -124,8 +174,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
       "origin": "static"
     }
   },
@@ -134,9 +184,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "siddxelce_jtv1mpd",
-      "label": "SIDDXELCE/JTV1MPD",
-      "origin": "static"
+      "key": "jiotv_20",
+      "label": "JioTV+ 20 (jiotv_20)",
+      "origin": "index"
     }
   },
   {
@@ -154,8 +204,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
       "origin": "static"
     }
   },
@@ -164,9 +214,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "siddxelce_jtv1mpd",
-      "label": "SIDDXELCE/JTV1MPD",
-      "origin": "static"
+      "key": "jiotv_20",
+      "label": "JioTV+ 20 (jiotv_20)",
+      "origin": "index"
     }
   },
   {
@@ -184,8 +234,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
       "origin": "static"
     }
   },
@@ -194,9 +244,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "siddxelce_jtv1mpd",
-      "label": "SIDDXELCE/JTV1MPD",
-      "origin": "static"
+      "key": "jiotv_20",
+      "label": "JioTV+ 20 (jiotv_20)",
+      "origin": "index"
     }
   },
   {
@@ -320,26 +370,6 @@
     }
   },
   {
-    "name": "South Australia Vs Victoria",
-    "family": "FanCode",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "fancode_five",
-      "label": "Fancode 5 (fancode_five)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Star Sports 3",
-    "family": "Star Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
-      "origin": "static"
-    }
-  },
-  {
     "name": "Star Sports 3",
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -354,23 +384,53 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
+      "key": "jiotv_16",
+      "label": "JioTV+ 16 (jiotv_16)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Star Sports 3",
+    "family": "Star Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
       "key": "jiotv_28",
       "label": "JioTV+ 28 (jiotv_28)",
       "origin": "index"
     }
   },
   {
-    "name": "Star Sports Khel",
+    "name": "Star Sports 3 Digital",
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
-      "origin": "static"
+      "key": "jiotv_16",
+      "label": "JioTV+ 16 (jiotv_16)",
+      "origin": "index"
     }
   },
   {
-    "name": "Triton Poker Series Cyprus-$150K NLH 10th Anniversary Special",
+    "name": "Sydney Sixers vs. Melbourne Stars",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Tampines Rovers Fc Vs Shanghai Shenhua",
+    "family": "FanCode",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "fancode_five",
+      "label": "Fancode 5 (fancode_five)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "UC Davis vs. Omaha",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -380,7 +440,7 @@
     }
   },
   {
-    "name": "Triton Poker Series Cyprus-$150K NLH 10th Anniversary Special",
+    "name": "Womens Big Bash League 2026 - 35th Match - Sydney Sixers Women vs Melbourne Stars Women",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
