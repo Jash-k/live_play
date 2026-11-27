@@ -1,5 +1,45 @@
 [
   {
+    "name": "ACC Mens Asia Cup Rising Stars 2026 - 2nd Semi-Final - Pakistan A vs Bangladesh A",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "ACC Mens Asia Cup Rising Stars 2026 - 2nd Semi-Final - Pakistan A vs Bangladesh A",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Auburn vs. Syracuse",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Auburn vs. Syracuse",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
     "name": "DD Sports",
     "family": "DD Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -14,23 +54,33 @@
     "family": "DD Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
       "origin": "static"
     }
   },
   {
-    "name": "DD Sports",
+    "name": "DD Sports HD",
     "family": "DD Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "siddxelce_jtv1mpd",
-      "label": "SIDDXELCE/JTV1MPD",
-      "origin": "static"
+      "key": "sportlive18_Sportlink-wtf__Sports.m3u",
+      "label": "sportlive18/Sportlink-wtf/Sports.m3u",
+      "origin": "github"
     }
   },
   {
-    "name": "LIVE: BMW Australian PGA Championship Day 2",
+    "name": "Dubai Capitals Vs Sharjah Warriorz",
+    "family": "FanCode",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "fancode_five",
+      "label": "Fancode 5 (fancode_five)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Fiji v Italy",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -40,7 +90,57 @@
     }
   },
   {
-    "name": "New Zealand vs. India",
+    "name": "International League T20 2026 - 8th Match - Sharjah Warriorz vs Dubai Capitals",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "International League T20 2026 - 8th Match - Sharjah Warriorz vs Dubai Capitals",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "LIVE: BWP 1 Dubai",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "LIVE: BWP 1 Dubai",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "MotoGP Valencia Practice",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "ONE Friday Fights 180",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -70,6 +170,16 @@
     }
   },
   {
+    "name": "Semifinal 2: Pakistan Shaheens vs. Bangladesh A",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
     "name": "Sony LIV Sports 1",
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -84,8 +194,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
       "origin": "static"
     }
   },
@@ -94,9 +204,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "siddxelce_jtv1mpd",
-      "label": "SIDDXELCE/JTV1MPD",
-      "origin": "static"
+      "key": "jiotv_28",
+      "label": "JioTV+ 28 (jiotv_28)",
+      "origin": "index"
     }
   },
   {
@@ -114,8 +224,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
       "origin": "static"
     }
   },
@@ -124,9 +234,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "siddxelce_jtv1mpd",
-      "label": "SIDDXELCE/JTV1MPD",
-      "origin": "static"
+      "key": "jiotv_28",
+      "label": "JioTV+ 28 (jiotv_28)",
+      "origin": "index"
     }
   },
   {
@@ -144,8 +254,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
       "origin": "static"
     }
   },
@@ -154,9 +264,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "siddxelce_jtv1mpd",
-      "label": "SIDDXELCE/JTV1MPD",
-      "origin": "static"
+      "key": "jiotv_28",
+      "label": "JioTV+ 28 (jiotv_28)",
+      "origin": "index"
     }
   },
   {
@@ -174,8 +284,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
       "origin": "static"
     }
   },
@@ -184,9 +294,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "siddxelce_jtv1mpd",
-      "label": "SIDDXELCE/JTV1MPD",
-      "origin": "static"
+      "key": "jiotv_28",
+      "label": "JioTV+ 28 (jiotv_28)",
+      "origin": "index"
     }
   },
   {
@@ -310,16 +420,6 @@
     }
   },
   {
-    "name": "South Australia Vs Victoria",
-    "family": "FanCode",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "fancode_five",
-      "label": "Fancode 5 (fancode_five)",
-      "origin": "index"
-    }
-  },
-  {
     "name": "Star Sports 3",
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -334,8 +434,8 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
       "origin": "static"
     }
   },
@@ -344,9 +444,9 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "siddxelce_jtv1mpd",
-      "label": "SIDDXELCE/JTV1MPD",
-      "origin": "static"
+      "key": "jiotv_16",
+      "label": "JioTV+ 16 (jiotv_16)",
+      "origin": "index"
     }
   },
   {
@@ -370,17 +470,7 @@
     }
   },
   {
-    "name": "Star Sports Khel",
-    "family": "Star Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
-      "origin": "static"
-    }
-  },
-  {
-    "name": "Triton Poker Series Cyprus-$30K PLO/NLH",
+    "name": "Triton Poker Series Cyprus-$50K PLO Mystery Bounty",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -390,13 +480,23 @@
     }
   },
   {
-    "name": "Unknown Match",
+    "name": "Triton Poker Series Cyprus-$50K PLO Mystery Bounty",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Wadi Kabir Royals Women Vs Muscat Shaheens  Women",
+    "family": "FanCode",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "fancode_five",
+      "label": "Fancode 5 (fancode_five)",
+      "origin": "index"
     }
   }
 ]
