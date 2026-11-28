@@ -1,5 +1,35 @@
 [
   {
+    "name": "Central Coast Mariners Vs Auckland",
+    "family": "FanCode",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "fancode_five",
+      "label": "Fancode 5 (fancode_five)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Cincinnati vs. Minnesota",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Day 2",
+    "family": "FanCode",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "fancode_five",
+      "label": "Fancode 5 (fancode_five)",
+      "origin": "index"
+    }
+  },
+  {
     "name": "DD Sports",
     "family": "DD Sports",
     "reason": "sports feed without an explicit Tamil/English label",
@@ -14,23 +44,33 @@
     "family": "DD Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
-      "origin": "static"
-    }
-  },
-  {
-    "name": "DD Sports",
-    "family": "DD Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
       "key": "siddxelce_jtv1mpd",
       "label": "SIDDXELCE/JTV1MPD",
       "origin": "static"
     }
   },
   {
-    "name": "Ireland vs. Australia",
+    "name": "DD Sports HD",
+    "family": "DD Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "sportlive18_Sportlink-wtf__Sports.m3u",
+      "label": "sportlive18/Sportlink-wtf/Sports.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Hong Kong",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Hong Kong, Quarterfinal",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -44,19 +84,9 @@
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Kansas State vs. NC State",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
-      "origin": "index"
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   },
   {
@@ -70,17 +100,17 @@
     }
   },
   {
-    "name": "LSU vs. Villanova",
-    "family": "Prime Sports",
+    "name": "Mi Emirates Vs Desert Vipers",
+    "family": "FanCode",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "fancode_five",
+      "label": "Fancode 5 (fancode_five)",
+      "origin": "index"
     }
   },
   {
-    "name": "OHL Hockey: North Bay Battalion vs Brampton Steelheads",
+    "name": "Motul Grand Prix of Valencia, Qualifying",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -100,12 +130,12 @@
     }
   },
   {
-    "name": "Predator Pro Billiard Series: San Antonio",
-    "family": "Prime Sports",
+    "name": "Sohar Smashers Women Vs Ghubra Giants Women",
+    "family": "FanCode",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
+      "key": "fancode_five",
+      "label": "Fancode 5 (fancode_five)",
       "origin": "index"
     }
   },
@@ -124,8 +154,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
       "origin": "static"
     }
   },
@@ -134,9 +164,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "siddxelce_jtv1mpd",
-      "label": "SIDDXELCE/JTV1MPD",
-      "origin": "static"
+      "key": "jiotv_28",
+      "label": "JioTV+ 28 (jiotv_28)",
+      "origin": "index"
     }
   },
   {
@@ -154,8 +184,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
       "origin": "static"
     }
   },
@@ -164,9 +194,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "siddxelce_jtv1mpd",
-      "label": "SIDDXELCE/JTV1MPD",
-      "origin": "static"
+      "key": "jiotv_28",
+      "label": "JioTV+ 28 (jiotv_28)",
+      "origin": "index"
     }
   },
   {
@@ -184,8 +214,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
       "origin": "static"
     }
   },
@@ -194,9 +224,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "siddxelce_jtv1mpd",
-      "label": "SIDDXELCE/JTV1MPD",
-      "origin": "static"
+      "key": "jiotv_28",
+      "label": "JioTV+ 28 (jiotv_28)",
+      "origin": "index"
     }
   },
   {
@@ -214,8 +244,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
       "origin": "static"
     }
   },
@@ -224,9 +254,9 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "siddxelce_jtv1mpd",
-      "label": "SIDDXELCE/JTV1MPD",
-      "origin": "static"
+      "key": "jiotv_28",
+      "label": "JioTV+ 28 (jiotv_28)",
+      "origin": "index"
     }
   },
   {
@@ -354,83 +384,53 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Star Sports 3",
-    "family": "Star Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
-      "origin": "static"
-    }
-  },
-  {
-    "name": "Star Sports 3",
-    "family": "Star Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
       "key": "siddxelce_jtv1mpd",
       "label": "SIDDXELCE/JTV1MPD",
       "origin": "static"
     }
   },
   {
-    "name": "Star Sports Khel",
+    "name": "Star Sports 3",
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_32",
-      "label": "JioTV+ 32 (jiotv_32)",
+      "key": "jiotv_16",
+      "label": "JioTV+ 16 (jiotv_16)",
       "origin": "index"
     }
   },
   {
-    "name": "Star Sports Khel",
+    "name": "Star Sports 3",
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "hjh-545",
-      "label": "JioTV proxy (hjh-545.pages.dev)",
-      "origin": "static"
-    }
-  },
-  {
-    "name": "Triton Poker Series Cyprus-$50K PLO Mystery Bounty",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Unknown Match",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Unknown Match",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
+      "key": "jiotv_28",
+      "label": "JioTV+ 28 (jiotv_28)",
       "origin": "index"
     }
   },
   {
-    "name": "USA BMX Pro Championship Finals",
+    "name": "Star Sports 3 Digital",
+    "family": "Star Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "jiotv_16",
+      "label": "JioTV+ 16 (jiotv_16)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Sydney Sixers Women Vs Sydney Thunder Women",
+    "family": "FanCode",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "fancode_five",
+      "label": "Fancode 5 (fancode_five)",
+      "origin": "index"
+    }
+  },
+  {
+    "name": "Sydney Thunder vs. Sydney Sixers",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -444,13 +444,33 @@
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Venice Livewires Vs Napoli Knights",
+    "family": "FanCode",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "fancode_five",
+      "label": "Fancode 5 (fancode_five)",
       "origin": "index"
     }
   },
   {
-    "name": "Western Colorado at Colorado Christian",
+    "name": "Womens Big Bash League 2026 - 37th Match - Melbourne Renegades Women vs Melbourne Stars Women",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Womens Big Bash League 2026 - 38th Match - Sydney Thunder Women vs Sydney Sixers Women",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
