@@ -1,31 +1,21 @@
 [
   {
-    "name": "Central Coast Mariners Vs Auckland",
-    "family": "FanCode",
+    "name": "Agit Kabayel vs Nelson Hysa",
+    "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "fancode_five",
-      "label": "Fancode 5 (fancode_five)",
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
       "origin": "index"
     }
   },
   {
-    "name": "Cincinnati vs. Minnesota",
+    "name": "Canada vs. Panama",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Day 2",
-    "family": "FanCode",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "fancode_five",
-      "label": "Fancode 5 (fancode_five)",
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
       "origin": "index"
     }
   },
@@ -60,7 +50,7 @@
     }
   },
   {
-    "name": "Hong Kong",
+    "name": "Doane University at McPherson College",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -70,47 +60,47 @@
     }
   },
   {
-    "name": "Hong Kong, Quarterfinal",
+    "name": "Friendship Four Championship",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Ireland vs. Australia",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "LIVE: BMW Australian PGA Championship Day 3",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
-    }
-  },
-  {
-    "name": "Mi Emirates Vs Desert Vipers",
-    "family": "FanCode",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "fancode_five",
-      "label": "Fancode 5 (fancode_five)",
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
       "origin": "index"
     }
   },
   {
-    "name": "Motul Grand Prix of Valencia, Qualifying",
+    "name": "Hong Kong",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "International League T20 2026 - 9th Match - Desert Vipers vs Mi Emirates",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Lincoln City vs. Wolverhampton Wanderers",
+    "family": "Prime Sports",
+    "reason": "sports feed without an explicit Tamil/English label",
+    "source": {
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
+    }
+  },
+  {
+    "name": "Monster Jam LIVE-LIVE: Monster Jam from Omaha, NE - 11/28/2026",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -124,18 +114,18 @@
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "maybetv_Jo__Zoh.m3u",
-      "label": "maybetv/Jo/Zoh.m3u",
-      "origin": "github"
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
+      "origin": "index"
     }
   },
   {
-    "name": "Sohar Smashers Women Vs Ghubra Giants Women",
-    "family": "FanCode",
+    "name": "Season 2026",
+    "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "fancode_five",
-      "label": "Fancode 5 (fancode_five)",
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
       "origin": "index"
     }
   },
@@ -164,8 +154,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_28",
-      "label": "JioTV+ 28 (jiotv_28)",
+      "key": "jiotv_20",
+      "label": "JioTV+ 20 (jiotv_20)",
       "origin": "index"
     }
   },
@@ -194,8 +184,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_28",
-      "label": "JioTV+ 28 (jiotv_28)",
+      "key": "jiotv_20",
+      "label": "JioTV+ 20 (jiotv_20)",
       "origin": "index"
     }
   },
@@ -224,8 +214,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_28",
-      "label": "JioTV+ 28 (jiotv_28)",
+      "key": "jiotv_20",
+      "label": "JioTV+ 20 (jiotv_20)",
       "origin": "index"
     }
   },
@@ -254,8 +244,8 @@
     "family": "Sony Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_28",
-      "label": "JioTV+ 28 (jiotv_28)",
+      "key": "jiotv_20",
+      "label": "JioTV+ 20 (jiotv_20)",
       "origin": "index"
     }
   },
@@ -384,9 +374,9 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "siddxelce_jtv1mpd",
-      "label": "SIDDXELCE/JTV1MPD",
-      "origin": "static"
+      "key": "maybetv_Jo__Zoh2.m3u",
+      "label": "maybetv/Jo/Zoh2.m3u",
+      "origin": "github"
     }
   },
   {
@@ -394,9 +384,9 @@
     "family": "Star Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "jiotv_16",
-      "label": "JioTV+ 16 (jiotv_16)",
-      "origin": "index"
+      "key": "siddxelce_jtv1mpd",
+      "label": "SIDDXELCE/JTV1MPD",
+      "origin": "static"
     }
   },
   {
@@ -410,37 +400,7 @@
     }
   },
   {
-    "name": "Star Sports 3 Digital",
-    "family": "Star Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "jiotv_16",
-      "label": "JioTV+ 16 (jiotv_16)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Sydney Sixers Women Vs Sydney Thunder Women",
-    "family": "FanCode",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "fancode_five",
-      "label": "Fancode 5 (fancode_five)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "Sydney Thunder vs. Sydney Sixers",
-    "family": "Prime Sports",
-    "reason": "sports feed without an explicit Tamil/English label",
-    "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
-      "origin": "index"
-    }
-  },
-  {
-    "name": "USAC Turkey Night Grand Prix at Ventura Raceway",
+    "name": "Triton Poker Series Cyprus-$100K PLO Main Event",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -450,17 +410,17 @@
     }
   },
   {
-    "name": "Venice Livewires Vs Napoli Knights",
-    "family": "FanCode",
+    "name": "Triton Poker Series Cyprus-$100K PLO Main Event",
+    "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "fancode_five",
-      "label": "Fancode 5 (fancode_five)",
+      "key": "prime_sports_one",
+      "label": "Prime Sports 1 (prime_sports_one)",
       "origin": "index"
     }
   },
   {
-    "name": "Womens Big Bash League 2026 - 37th Match - Melbourne Renegades Women vs Melbourne Stars Women",
+    "name": "Valencia Moto2 & Moto3 Qualifying",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
@@ -470,13 +430,13 @@
     }
   },
   {
-    "name": "Womens Big Bash League 2026 - 38th Match - Sydney Thunder Women vs Sydney Sixers Women",
+    "name": "Wales vs. Japan",
     "family": "Prime Sports",
     "reason": "sports feed without an explicit Tamil/English label",
     "source": {
-      "key": "prime_sports_one",
-      "label": "Prime Sports 1 (prime_sports_one)",
-      "origin": "index"
+      "key": "maybetv_Jo__Zoh.m3u",
+      "label": "maybetv/Jo/Zoh.m3u",
+      "origin": "github"
     }
   }
 ]
